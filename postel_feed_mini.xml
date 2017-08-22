@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2017-08-25 05:53">
+<shop>
+  <cpa>1</cpa>
+  <name>Постель Делюкс</name>
+  <company>ЗАО ТекстильТрейд</company>
+  <url>http://postel-deluxe.ru/</url>
+  <currencies>
+  <currency id="RUR" rate="1" />
+  </currencies>
+  <categories>
+        <category id="3" parentId="2"><![CDATA[Постельное белье]]></category>
+    <category id="4" parentId="2"><![CDATA[Покрывала и Пледы]]></category>
+    <category id="5" parentId="4"><![CDATA[Пледы]]></category>
+    <category id="6" parentId="4"><![CDATA[Покрывала]]></category>
+    <category id="7" parentId="2"><![CDATA[Одеяла и Подушки]]></category>
+    <category id="8" parentId="7"><![CDATA[Одеяла]]></category>
+    <category id="9" parentId="7"><![CDATA[Подушки]]></category>
+    <category id="10" parentId="2"><![CDATA[Кухня]]></category>
+    <category id="11" parentId="10"><![CDATA[Скатерти]]></category>
+    <category id="12" parentId="10"><![CDATA[Кухонные наборы]]></category>
+    <category id="17" parentId="2"><![CDATA[Ванная]]></category>
+    <category id="18" parentId="17"><![CDATA[Полотенца]]></category>
+    <category id="19" parentId="17"><![CDATA[Банные халаты]]></category>
+    <category id="20" parentId="17"><![CDATA[Наборы для сауны]]></category>
+    <category id="21" parentId="17"><![CDATA[Коврики для ванной]]></category>
+    <category id="22" parentId="2"><![CDATA[top102000]]></category>
+    <category id="23" parentId="2"><![CDATA[Детское]]></category>
+    <category id="24" parentId="23"><![CDATA[Детское Постельное белье]]></category>
+    <category id="25" parentId="23"><![CDATA[Детские Пледы]]></category>
+    <category id="26" parentId="23"><![CDATA[Детские Одеяла]]></category>
+    <category id="27" parentId="23"><![CDATA[Детские Покрывала]]></category>
+    <category id="28" parentId="23"><![CDATA[Детские Полотенца]]></category>
+    <category id="29" parentId="23"><![CDATA[Детские Банные Халаты]]></category>
+    <category id="30" parentId="23"><![CDATA[Детские Шторы]]></category>
+    <category id="31" parentId="23"><![CDATA[Детские Наборы]]></category>
+    <category id="32" parentId="2"><![CDATA[Декор]]></category>
+    <category id="34" parentId="2"><![CDATA[SALE]]></category>
+    <category id="35" parentId="2"><![CDATA[Шок Цена]]></category>
+    <category id="36" parentId="2"><![CDATA[Главная - Подарите]]></category>
+    <category id="37" parentId="2"><![CDATA[Главная - В Тренде]]></category>
+    <category id="38" parentId="32"><![CDATA[Biglion Одеяла и Подушки]]></category>
+    <category id="39" parentId="32"><![CDATA[Biglion Постельное Белье и Полотенца]]></category>
+    <category id="40" parentId="32"><![CDATA[Прикольное белье]]></category>
+    <category id="41" parentId="280"><![CDATA[Свадебное постельное белье]]></category>
+    <category id="42" parentId="7"><![CDATA[Наматрасники]]></category>
+    <category id="43" parentId="4"><![CDATA[Декоративные Подушки]]></category>
+    <category id="44" parentId="32"><![CDATA[Сервировка стола и вазы]]></category>
+    <category id="45" parentId="3"><![CDATA[Простыни без резинки]]></category>
+    <category id="46" parentId="32"><![CDATA[Свечи и подсвечники]]></category>
+    <category id="47" parentId="32"><![CDATA[Наборы для ванной и кухни]]></category>
+    <category id="48" parentId="32"><![CDATA[Top10]]></category>
+    <category id="49" parentId="32"><![CDATA[Top103000]]></category>
+    <category id="50" parentId="32"><![CDATA[TOP20]]></category>
+    <category id="51" parentId="280"><![CDATA[Подарки любимым]]></category>
+    <category id="52" parentId="3"><![CDATA[Простыни на резинке]]></category>
+    <category id="53" parentId="280"><![CDATA[Подарочные Сертификаты]]></category>
+    <category id="54" parentId="2"><![CDATA[Закрытая Распродажа]]></category>
+    <category id="55" parentId="54"><![CDATA[Постельное Белье]]></category>
+    <category id="56" parentId="54"><![CDATA[Турецкие полотенца]]></category>
+    <category id="57" parentId="56"><![CDATA[Декор]]></category>
+    <category id="58" parentId="54"><![CDATA[Распродажа Август]]></category>
+    <category id="59" parentId="202"><![CDATA[Подушки и одеяла William Roberts]]></category>
+    <category id="60" parentId="58"><![CDATA[Коврики]]></category>
+    <category id="61" parentId="54"><![CDATA[Полотенца]]></category>
+    <category id="62" parentId="56"><![CDATA[Полотенца]]></category>
+    <category id="63" parentId="202"><![CDATA[Одежда для дома и отдыха]]></category>
+    <category id="64" parentId="56"><![CDATA[Коврики для Ванной]]></category>
+    <category id="65" parentId="56"><![CDATA[Халаты и наборы для сауны]]></category>
+    <category id="66" parentId="58"><![CDATA[Кухонный полотенца и наборы]]></category>
+    <category id="67" parentId="202"><![CDATA[Домашняя одежда]]></category>
+    <category id="68" parentId="2"><![CDATA[Новинки]]></category>
+    <category id="69" parentId="32"><![CDATA[Top Secret]]></category>
+    <category id="70" parentId="32"><![CDATA[Новая категория]]></category>
+    <category id="72" parentId="280"><![CDATA[Махровые подарки]]></category>
+    <category id="73" parentId="2"><![CDATA[Акции]]></category>
+    <category id="75" parentId="34"><![CDATA[Постельное белье]]></category>
+    <category id="76" parentId="34"><![CDATA[Покрывала]]></category>
+    <category id="77" parentId="34"><![CDATA[Пледы]]></category>
+    <category id="78" parentId="34"><![CDATA[Одеяла]]></category>
+    <category id="79" parentId="34"><![CDATA[Подушки]]></category>
+    <category id="80" parentId="34"><![CDATA[Полотенца]]></category>
+    <category id="81" parentId="34"><![CDATA[Скатерти]]></category>
+    <category id="82" parentId="34"><![CDATA[Халаты]]></category>
+    <category id="83" parentId="34"><![CDATA[Декор]]></category>
+    <category id="84" parentId="34"><![CDATA[Наборы для Сауны]]></category>
+    <category id="85" parentId="34"><![CDATA[Коврики для Ванной]]></category>
+    <category id="86" parentId="34"><![CDATA[Кухонные Наборы]]></category>
+    <category id="87" parentId="34"><![CDATA[Детское]]></category>
+    <category id="88" parentId="87"><![CDATA[Детское Постельное белье]]></category>
+    <category id="89" parentId="87"><![CDATA[Детская Одежда]]></category>
+    <category id="90" parentId="87"><![CDATA[Детские Пледы]]></category>
+    <category id="91" parentId="87"><![CDATA[Детские Полотенца]]></category>
+    <category id="92" parentId="87"><![CDATA[Детские Покрывала]]></category>
+    <category id="93" parentId="2"><![CDATA[Шторы]]></category>
+    <category id="99" parentId="93"><![CDATA[Классические шторы]]></category>
+    <category id="100" parentId="93"><![CDATA[Фотошторы]]></category>
+    <category id="101" parentId="93"><![CDATA[Нитяные шторы]]></category>
+    <category id="102" parentId="93"><![CDATA[Японские шторы]]></category>
+    <category id="103" parentId="93"><![CDATA[Римские шторы]]></category>
+    <category id="104" parentId="93"><![CDATA[Рулонные шторы]]></category>
+    <category id="105" parentId="93"><![CDATA[Скрещенные шторы]]></category>
+    <category id="106" parentId="93"><![CDATA[Шторы кафе]]></category>
+    <category id="107" parentId="93"><![CDATA[Шторы с ламбрекеном]]></category>
+    <category id="108" parentId="93"><![CDATA[Жалюзи]]></category>
+    <category id="109" parentId="93"><![CDATA[Комплекты штор с покрывалом]]></category>
+    <category id="110" parentId="93"><![CDATA[Французские шторы]]></category>
+    <category id="111" parentId="2"><![CDATA[Аксессуары для штор]]></category>
+    <category id="114" parentId="2"><![CDATA[Карнизы]]></category>
+    <category id="115" parentId="93"><![CDATA[Детские шторы]]></category>
+    <category id="116" parentId="93"><![CDATA[Москитные сетки]]></category>
+    <category id="117" parentId="93"><![CDATA[Императорские шторы]]></category>
+    <category id="118" parentId="87"><![CDATA[Детские Одеяла]]></category>
+    <category id="119" parentId="87"><![CDATA[Детские Шторы]]></category>
+    <category id="120" parentId="17"><![CDATA[Шторы для ванной]]></category>
+    <category id="121" parentId="2"><![CDATA[Серии]]></category>
+    <category id="122" parentId="34"><![CDATA[Шторы]]></category>
+    <category id="123" parentId="54"><![CDATA[Шторы]]></category>
+    <category id="124" parentId="280"><![CDATA[Подарки на Новый год]]></category>
+    <category id="125" parentId="124"><![CDATA[Кухонные наборы]]></category>
+    <category id="126" parentId="124"><![CDATA[Полотенца]]></category>
+    <category id="127" parentId="124"><![CDATA[Халаты]]></category>
+    <category id="128" parentId="124"><![CDATA[Наборы для сауны]]></category>
+    <category id="129" parentId="124"><![CDATA[Коврики для ванной]]></category>
+    <category id="130" parentId="124"><![CDATA[Шторы для ванной]]></category>
+    <category id="131" parentId="124"><![CDATA[Для детей]]></category>
+    <category id="132" parentId="124"><![CDATA[Детские пледы]]></category>
+    <category id="133" parentId="124"><![CDATA[Детские одеяла]]></category>
+    <category id="134" parentId="124"><![CDATA[Детские покрывала]]></category>
+    <category id="135" parentId="124"><![CDATA[Детские полотенца]]></category>
+    <category id="136" parentId="124"><![CDATA[Детские халаты]]></category>
+    <category id="137" parentId="124"><![CDATA[Свадебное постельное белье]]></category>
+    <category id="138" parentId="124"><![CDATA[Наматрасники]]></category>
+    <category id="139" parentId="124"><![CDATA[Декоративные подушки]]></category>
+    <category id="140" parentId="124"><![CDATA[Простыни без резинки]]></category>
+    <category id="141" parentId="124"><![CDATA[Подарочные сертификаты]]></category>
+    <category id="142" parentId="124"><![CDATA[Классические шторы]]></category>
+    <category id="143" parentId="124"><![CDATA[Фотошторы]]></category>
+    <category id="144" parentId="124"><![CDATA[Нитяные шторы]]></category>
+    <category id="145" parentId="124"><![CDATA[Японские шторы]]></category>
+    <category id="146" parentId="124"><![CDATA[Шторы с ламбрекеном]]></category>
+    <category id="147" parentId="124"><![CDATA[Постельное белье]]></category>
+    <category id="148" parentId="124"><![CDATA[Скатерти]]></category>
+    <category id="149" parentId="124"><![CDATA[Подушки]]></category>
+    <category id="150" parentId="124"><![CDATA[Одеяла]]></category>
+    <category id="151" parentId="124"><![CDATA[Покрывала]]></category>
+    <category id="152" parentId="124"><![CDATA[Пледы]]></category>
+    <category id="153" parentId="124"><![CDATA[Шторы]]></category>
+    <category id="154" parentId="10"><![CDATA[Салфетки]]></category>
+    <category id="155" parentId="2"><![CDATA[Матрасы]]></category>
+    <category id="156" parentId="155"><![CDATA[Матрасы]]></category>
+    <category id="157" parentId="155"><![CDATA[Детские матрасы]]></category>
+    <category id="158" parentId="155"><![CDATA[Акции на Матрасы]]></category>
+    <category id="159" parentId="23"><![CDATA[Детские Простыни]]></category>
+    <category id="160" parentId="23"><![CDATA[Детские Наволочки]]></category>
+    <category id="161" parentId="23"><![CDATA[Детские Пододеяльники]]></category>
+    <category id="162" parentId="23"><![CDATA[Детские Подушки]]></category>
+    <category id="163" parentId="23"><![CDATA[Детские Наматрасники]]></category>
+    <category id="164" parentId="3"><![CDATA[Пододеяльники]]></category>
+    <category id="165" parentId="3"><![CDATA[Наволочки]]></category>
+    <category id="166" parentId="3"><![CDATA[Махровые и велюровые простыни-покрывала]]></category>
+    <category id="167" parentId="280"><![CDATA[Новогодние подарки]]></category>
+    <category id="168" parentId="10"><![CDATA[Подушки на стул]]></category>
+    <category id="169" parentId="7"><![CDATA[Наборы (Одеяла и Подушки)]]></category>
+    <category id="170" parentId="23"><![CDATA[Детские Спальные Наборы]]></category>
+    <category id="171" parentId="7"><![CDATA[Универсальные одеяла-покрывала]]></category>
+    <category id="172" parentId="2"><![CDATA[Промо-страницы]]></category>
+    <category id="173" parentId="172"><![CDATA[КПБ Сатин]]></category>
+    <category id="174" parentId="54"><![CDATA[Коллекция от Славы Зайцева]]></category>
+    <category id="175" parentId="3"><![CDATA[Комплекты постельного белья]]></category>
+    <category id="176" parentId="172"><![CDATA[Ивановское постельное белье]]></category>
+    <category id="177" parentId="54"><![CDATA[Carte Blanche]]></category>
+    <category id="178" parentId="93"><![CDATA[Фотошторы на заказ]]></category>
+    <category id="179" parentId="54"><![CDATA[Полотенца Juanna]]></category>
+    <category id="180" parentId="54"><![CDATA[Полотенца Butturfly]]></category>
+    <category id="181" parentId="58"><![CDATA[Покрывала]]></category>
+    <category id="182" parentId="68"><![CDATA[Новинки за месяц]]></category>
+    <category id="183" parentId="68"><![CDATA[Новинки за 2 недели]]></category>
+    <category id="184" parentId="68"><![CDATA[Новинки за неделю]]></category>
+    <category id="185" parentId="58"><![CDATA[Скатерти и кухонные полотенца]]></category>
+    <category id="186" parentId="54"><![CDATA[Полотенца с 3D вышивкой]]></category>
+    <category id="187" parentId="202"><![CDATA[Постельное белье]]></category>
+    <category id="188" parentId="34"><![CDATA[Чехлы Juanna]]></category>
+    <category id="189" parentId="54"><![CDATA[Адские скидки]]></category>
+    <category id="190" parentId="58"><![CDATA[Для детей]]></category>
+    <category id="191" parentId="780"><![CDATA[Дача]]></category>
+    <category id="192" parentId="191"><![CDATA[Постельное Белье]]></category>
+    <category id="193" parentId="191"><![CDATA[Одеяла и Подушки]]></category>
+    <category id="194" parentId="191"><![CDATA[Пледы и Покрывала]]></category>
+    <category id="195" parentId="191"><![CDATA[Кухня]]></category>
+    <category id="196" parentId="191"><![CDATA[Шторы]]></category>
+    <category id="197" parentId="191"><![CDATA[Москитные сетки]]></category>
+    <category id="198" parentId="58"><![CDATA[Пледы]]></category>
+    <category id="199" parentId="93"><![CDATA[Шторы плиссе]]></category>
+    <category id="200" parentId="58"><![CDATA[Шторы]]></category>
+    <category id="201" parentId="172"><![CDATA[Постельное бельё Сайлид]]></category>
+    <category id="202" parentId="54"><![CDATA[Среда - Оптовая Цена]]></category>
+    <category id="203" parentId="54"><![CDATA[Сток постельного белья]]></category>
+    <category id="204" parentId="260"><![CDATA[Салфетки и аксессуары]]></category>
+    <category id="205" parentId="260"><![CDATA[Декоративные подушки]]></category>
+    <category id="206" parentId="58"><![CDATA[Постельное белье]]></category>
+    <category id="207" parentId="58"><![CDATA[Полотенца]]></category>
+    <category id="209" parentId="2"><![CDATA[Домашняя одежда]]></category>
+    <category id="211" parentId="209"><![CDATA[Костюмы для дома и отдыха]]></category>
+    <category id="213" parentId="209"><![CDATA[Пижамы, кигуруми]]></category>
+    <category id="215" parentId="209"><![CDATA[Ночные сорочки]]></category>
+    <category id="217" parentId="209"><![CDATA[Домашние халаты]]></category>
+    <category id="219" parentId="209"><![CDATA[Туники, сарафаны]]></category>
+    <category id="221" parentId="209"><![CDATA[Брюки, шорты]]></category>
+    <category id="223" parentId="209"><![CDATA[Футболки, кофты]]></category>
+    <category id="225" parentId="209"><![CDATA[Накидки, палантины]]></category>
+    <category id="227" parentId="209"><![CDATA[Обувь для дома]]></category>
+    <category id="229" parentId="202"><![CDATA[Полотенца]]></category>
+    <category id="231" parentId="23"><![CDATA[Детская домашняя одежда]]></category>
+    <category id="233" parentId="231"><![CDATA[Детские костюмы для дома и отдыха]]></category>
+    <category id="235" parentId="231"><![CDATA[Детские пижамы, кигуруми]]></category>
+    <category id="237" parentId="231"><![CDATA[Детские ночные сорочки]]></category>
+    <category id="239" parentId="231"><![CDATA[Детские домашние халаты]]></category>
+    <category id="241" parentId="231"><![CDATA[Детские туники, сарафаны]]></category>
+    <category id="243" parentId="231"><![CDATA[Детские брюки, шорты]]></category>
+    <category id="245" parentId="231"><![CDATA[Детские футболки, кофты]]></category>
+    <category id="247" parentId="231"><![CDATA[Детская обувь для дома]]></category>
+    <category id="249" parentId="202"><![CDATA[Покрывала и пледы]]></category>
+    <category id="253" parentId="172"><![CDATA[Двуспальное постельное бельё]]></category>
+    <category id="255" parentId="172"><![CDATA[Одеяла с бамбуковым наполнителем]]></category>
+    <category id="257" parentId="58"><![CDATA[Отдельные предметы]]></category>
+    <category id="259" parentId="54"><![CDATA[Декор Ганг]]></category>
+    <category id="260" parentId="54"><![CDATA[Декор]]></category>
+    <category id="262" parentId="54"><![CDATA[Полотенца Для Семьи]]></category>
+    <category id="263" parentId="172"><![CDATA[Шерстяные пледы]]></category>
+    <category id="264" parentId="4"><![CDATA[Чехлы для мебели]]></category>
+    <category id="265" parentId="3"><![CDATA[Изделия из пике]]></category>
+    <category id="266" parentId="3"><![CDATA[Комплекты постельного белья с одеялом]]></category>
+    <category id="267" parentId="3"><![CDATA[Комплекты постельного белья с покрывалом-пледом]]></category>
+    <category id="268" parentId="3"><![CDATA[Комплекты постельного белья без пододеяльника]]></category>
+    <category id="269" parentId="93"><![CDATA[Комплекты штор со скатертью, салфетками]]></category>
+    <category id="270" parentId="4"><![CDATA[Дорожки на кровать]]></category>
+    <category id="271" parentId="10"><![CDATA[Дорожки на стол]]></category>
+    <category id="272" parentId="10"><![CDATA[Прихватки и Рукавички]]></category>
+    <category id="273" parentId="10"><![CDATA[Фартуки]]></category>
+    <category id="274" parentId="10"><![CDATA[Кухонные полотенца]]></category>
+    <category id="275" parentId="10"><![CDATA[Корзинки и хлебницы]]></category>
+    <category id="276" parentId="10"><![CDATA[Коврики для посуды]]></category>
+    <category id="277" parentId="10"><![CDATA[Принадлежности для уборки]]></category>
+    <category id="278" parentId="17"><![CDATA[Наборы для ванной]]></category>
+    <category id="279" parentId="32"><![CDATA[Ковры и дорожки для дома]]></category>
+    <category id="280" parentId="2"><![CDATA[Подарки]]></category>
+    <category id="281" parentId="280"><![CDATA[Идеи подарков для мужчин]]></category>
+    <category id="282" parentId="280"><![CDATA[Идеи подарков для женщин]]></category>
+    <category id="283" parentId="280"><![CDATA[Идеи подарков для детей]]></category>
+    <category id="284" parentId="280"><![CDATA[Подарки на 23 февраля]]></category>
+    <category id="285" parentId="280"><![CDATA[Подарки на 8 марта]]></category>
+    <category id="286" parentId="280"><![CDATA[Подарки на 9 мая]]></category>
+    <category id="287" parentId="280"><![CDATA[Религиозные праздники]]></category>
+    <category id="288" parentId="3"><![CDATA[Детское Постельное Белье]]></category>
+    <category id="289" parentId="3"><![CDATA[Детские Спальные Наборы]]></category>
+    <category id="290" parentId="3"><![CDATA[Детские Простыни]]></category>
+    <category id="291" parentId="3"><![CDATA[Детские Наволочки]]></category>
+    <category id="292" parentId="3"><![CDATA[Детские Пододеяльники]]></category>
+    <category id="293" parentId="155"><![CDATA[Наматрасники]]></category>
+    <category id="294" parentId="155"><![CDATA[Детские Наматрасники]]></category>
+    <category id="295" parentId="4"><![CDATA[Комплекты штор с покрывалом]]></category>
+    <category id="296" parentId="4"><![CDATA[Комплекты постельного белья с покрывалом-пледом]]></category>
+    <category id="297" parentId="4"><![CDATA[Махровые и велюровые покрывала-простыни]]></category>
+    <category id="298" parentId="4"><![CDATA[Изделия из пике]]></category>
+    <category id="299" parentId="4"><![CDATA[Детские Пледы]]></category>
+    <category id="300" parentId="4"><![CDATA[Детские Покрывала]]></category>
+    <category id="301" parentId="7"><![CDATA[Комплекты постельного белья с одеялом]]></category>
+    <category id="302" parentId="7"><![CDATA[Детские Одеяла]]></category>
+    <category id="303" parentId="7"><![CDATA[Детские Подушки]]></category>
+    <category id="304" parentId="7"><![CDATA[Детские Наматрасники]]></category>
+    <category id="305" parentId="7"><![CDATA[Детские Спальные Наборы]]></category>
+    <category id="306" parentId="10"><![CDATA[Комплекты штор со скатертью, салфетками]]></category>
+    <category id="307" parentId="3"><![CDATA[Свадебное постельное белье]]></category>
+    <category id="308" parentId="17"><![CDATA[Детские Полотенца]]></category>
+    <category id="309" parentId="17"><![CDATA[Детские Банные Халаты]]></category>
+    <category id="310" parentId="23"><![CDATA[Детские матрасы]]></category>
+    <category id="311" parentId="23"><![CDATA[Детские шторы]]></category>
+    <category id="318" parentId="209"><![CDATA[Банные халаты]]></category>
+    <category id="319" parentId="209"><![CDATA[Детская домашняя одежда]]></category>
+    <category id="320" parentId="209"><![CDATA[Детские Банные Халаты]]></category>
+    <category id="322" parentId="280"><![CDATA[Подарки на 14 февраля]]></category>
+    <category id="325" parentId="54"><![CDATA[КПБ Diva Afrodita]]></category>
+    <category id="326" parentId="280"><![CDATA[Новогодний декор]]></category>
+    <category id="327" parentId="167"><![CDATA[Постельное белье]]></category>
+    <category id="328" parentId="167"><![CDATA[Покрывала]]></category>
+    <category id="329" parentId="167"><![CDATA[Пледы]]></category>
+    <category id="330" parentId="167"><![CDATA[Одеяла]]></category>
+    <category id="331" parentId="167"><![CDATA[Подушки]]></category>
+    <category id="332" parentId="167"><![CDATA[Полотенца]]></category>
+    <category id="333" parentId="167"><![CDATA[Скатерти]]></category>
+    <category id="334" parentId="167"><![CDATA[Кухонные наборы]]></category>
+    <category id="335" parentId="167"><![CDATA[Шторы]]></category>
+    <category id="336" parentId="167"><![CDATA[Простыни и Наволочки]]></category>
+    <category id="337" parentId="167"><![CDATA[Декор]]></category>
+    <category id="338" parentId="167"><![CDATA[Детское]]></category>
+    <category id="339" parentId="338"><![CDATA[Детское постельное белье]]></category>
+    <category id="340" parentId="338"><![CDATA[Детские покрывала]]></category>
+    <category id="341" parentId="338"><![CDATA[Детские пледы]]></category>
+    <category id="342" parentId="338"><![CDATA[Детские одеяла]]></category>
+    <category id="343" parentId="338"><![CDATA[Детские подушки]]></category>
+    <category id="344" parentId="338"><![CDATA[Детские полотенца]]></category>
+    <category id="345" parentId="338"><![CDATA[Детские шторы]]></category>
+    <category id="346" parentId="338"><![CDATA[Детские простыни и наволочки]]></category>
+    <category id="347" parentId="338"><![CDATA[Декор для детской]]></category>
+    <category id="349" parentId="93"><![CDATA[Аксессуары для штор]]></category>
+    <category id="350" parentId="167"><![CDATA[Халаты]]></category>
+    <category id="351" parentId="93"><![CDATA[Ткани для штор]]></category>
+    <category id="352" parentId="93"><![CDATA[Карнизы]]></category>
+    <category id="353" parentId="54"><![CDATA[Ванная от Arya]]></category>
+    <category id="354" parentId="54"><![CDATA[Детское бельё с мультгероями]]></category>
+    <category id="355" parentId="172"><![CDATA[Togas]]></category>
+    <category id="356" parentId="355"><![CDATA[Постельное бельё Togas]]></category>
+    <category id="357" parentId="355"><![CDATA[Покрывала Togas]]></category>
+    <category id="358" parentId="355"><![CDATA[Шторы Togas]]></category>
+    <category id="359" parentId="355"><![CDATA[Пледы Togas]]></category>
+    <category id="360" parentId="355"><![CDATA[Одеяла и подушки Togas]]></category>
+    <category id="361" parentId="58"><![CDATA[Домашняя одежда]]></category>
+    <category id="362" parentId="322"><![CDATA[Покрывала]]></category>
+    <category id="363" parentId="322"><![CDATA[Пледы]]></category>
+    <category id="364" parentId="322"><![CDATA[Декоративные подушки и наволочки]]></category>
+    <category id="365" parentId="322"><![CDATA[Полотенца]]></category>
+    <category id="366" parentId="322"><![CDATA[Коврики]]></category>
+    <category id="367" parentId="322"><![CDATA[Наборы для ванной и сауны]]></category>
+    <category id="368" parentId="322"><![CDATA[Кухонные наборы]]></category>
+    <category id="369" parentId="322"><![CDATA[Домашняя одежда]]></category>
+    <category id="370" parentId="322"><![CDATA[Шторы]]></category>
+    <category id="371" parentId="284"><![CDATA[Постельное белье]]></category>
+    <category id="372" parentId="284"><![CDATA[Покрывала]]></category>
+    <category id="373" parentId="284"><![CDATA[Пледы]]></category>
+    <category id="374" parentId="284"><![CDATA[Декоративные подушки и наволочки]]></category>
+    <category id="375" parentId="284"><![CDATA[Полотенца]]></category>
+    <category id="376" parentId="284"><![CDATA[Коврики]]></category>
+    <category id="377" parentId="284"><![CDATA[Наборы для ванной и сауны]]></category>
+    <category id="378" parentId="284"><![CDATA[Кухонные наборы]]></category>
+    <category id="379" parentId="284"><![CDATA[Домашняя одежда]]></category>
+    <category id="380" parentId="284"><![CDATA[Шторы]]></category>
+    <category id="381" parentId="285"><![CDATA[Постельное белье]]></category>
+    <category id="382" parentId="285"><![CDATA[Покрывала]]></category>
+    <category id="383" parentId="285"><![CDATA[Пледы]]></category>
+    <category id="384" parentId="285"><![CDATA[Декоративные подушки и наволочки]]></category>
+    <category id="385" parentId="285"><![CDATA[Полотенца]]></category>
+    <category id="386" parentId="285"><![CDATA[Коврики]]></category>
+    <category id="387" parentId="285"><![CDATA[Наборы для ванной и сауны]]></category>
+    <category id="388" parentId="285"><![CDATA[Кухонные наборы]]></category>
+    <category id="389" parentId="285"><![CDATA[Домашняя одежда]]></category>
+    <category id="390" parentId="285"><![CDATA[Шторы]]></category>
+    <category id="391" parentId="286"><![CDATA[Постельное белье]]></category>
+    <category id="392" parentId="286"><![CDATA[Покрывала]]></category>
+    <category id="393" parentId="286"><![CDATA[Пледы]]></category>
+    <category id="394" parentId="286"><![CDATA[Декоративные подушки и наволочки]]></category>
+    <category id="395" parentId="286"><![CDATA[Полотенца]]></category>
+    <category id="396" parentId="286"><![CDATA[Коврики]]></category>
+    <category id="397" parentId="286"><![CDATA[Наборы для ванной и сауны]]></category>
+    <category id="398" parentId="286"><![CDATA[Кухонные наборы]]></category>
+    <category id="399" parentId="286"><![CDATA[Домашняя одежда]]></category>
+    <category id="400" parentId="286"><![CDATA[Шторы]]></category>
+    <category id="401" parentId="284"><![CDATA[Детское]]></category>
+    <category id="402" parentId="322"><![CDATA[Детское]]></category>
+    <category id="403" parentId="285"><![CDATA[Детское]]></category>
+    <category id="404" parentId="286"><![CDATA[Детское]]></category>
+    <category id="405" parentId="322"><![CDATA[Одеяла и подушки]]></category>
+    <category id="406" parentId="284"><![CDATA[Одеяла и подушки]]></category>
+    <category id="407" parentId="285"><![CDATA[Одеяла и подушки]]></category>
+    <category id="408" parentId="286"><![CDATA[Одеяла и подушки]]></category>
+    <category id="409" parentId="172"><![CDATA[Декор к 14 февраля]]></category>
+    <category id="410" parentId="32"><![CDATA[Декоративные композиции]]></category>
+    <category id="411" parentId="410"><![CDATA[Фигурки, копилки и снежные шары]]></category>
+    <category id="412" parentId="410"><![CDATA[Маятники и антистрессы ]]></category>
+    <category id="413" parentId="410"><![CDATA[Фонтаны]]></category>
+    <category id="414" parentId="410"><![CDATA[Композиции бутылочек-баночек]]></category>
+    <category id="415" parentId="32"><![CDATA[Брелоки, подвески и магниты]]></category>
+    <category id="416" parentId="410"><![CDATA[Игрушки для интерьера]]></category>
+    <category id="417" parentId="32"><![CDATA[Декор для кабинета и гостиной]]></category>
+    <category id="418" parentId="417"><![CDATA[Метеостанции, барометры, термометры]]></category>
+    <category id="419" parentId="417"><![CDATA[Фоторамки, интерактивные рамки, фотоальбомы]]></category>
+    <category id="420" parentId="417"><![CDATA[Фляжки, наборы для питья]]></category>
+    <category id="421" parentId="417"><![CDATA[Письменные принадлежности]]></category>
+    <category id="422" parentId="417"><![CDATA[Курительные принадлежности]]></category>
+    <category id="423" parentId="417"><![CDATA[Часы]]></category>
+    <category id="424" parentId="417"><![CDATA[Сувенирное оружие]]></category>
+    <category id="425" parentId="417"><![CDATA[Визитницы]]></category>
+    <category id="426" parentId="417"><![CDATA[Электрокамины и аксессуары]]></category>
+    <category id="427" parentId="32"><![CDATA[Картины и зеркала]]></category>
+    <category id="428" parentId="427"><![CDATA[Картины, панно и гобелены]]></category>
+    <category id="429" parentId="427"><![CDATA[Наклейки и плакаты интерьерные]]></category>
+    <category id="430" parentId="427"><![CDATA[Зеркала]]></category>
+    <category id="431" parentId="44"><![CDATA[Вазы]]></category>
+    <category id="432" parentId="44"><![CDATA[Подставки и подносы]]></category>
+    <category id="433" parentId="44"><![CDATA[Сервизы и столовые приборы]]></category>
+    <category id="434" parentId="44"><![CDATA[Кухонная утварь]]></category>
+    <category id="435" parentId="32"><![CDATA[Лампы и подсветка]]></category>
+    <category id="436" parentId="435"><![CDATA[Настольные светильники]]></category>
+    <category id="437" parentId="435"><![CDATA[Настенные светильники]]></category>
+    <category id="438" parentId="435"><![CDATA[Потолочные светильники]]></category>
+    <category id="439" parentId="435"><![CDATA[Напольные светильники]]></category>
+    <category id="440" parentId="435"><![CDATA[Декоративное освещение]]></category>
+    <category id="441" parentId="435"><![CDATA[Абажуры]]></category>
+    <category id="442" parentId="435"><![CDATA[Ночники]]></category>
+    <category id="443" parentId="435"><![CDATA[Масляные, газовые и керосиновые лампы]]></category>
+    <category id="444" parentId="32"><![CDATA[Хранение для дома]]></category>
+    <category id="445" parentId="444"><![CDATA[Хранение вещей]]></category>
+    <category id="446" parentId="444"><![CDATA[Ключницы]]></category>
+    <category id="447" parentId="444"><![CDATA[Полки и разделители]]></category>
+    <category id="448" parentId="444"><![CDATA[Мобильная мебель]]></category>
+    <category id="449" parentId="445"><![CDATA[Шкатулки]]></category>
+    <category id="450" parentId="445"><![CDATA[Корзины (из натуральных материалов)]]></category>
+    <category id="451" parentId="445"><![CDATA[Коробки и контейнеры]]></category>
+    <category id="452" parentId="445"><![CDATA[Кофры, органайзеры и чехлы]]></category>
+    <category id="453" parentId="445"><![CDATA[Плечики и вешалки]]></category>
+    <category id="454" parentId="445"><![CDATA[Пакеты]]></category>
+    <category id="455" parentId="445"><![CDATA[Сундуки]]></category>
+    <category id="456" parentId="445"><![CDATA[Газетницы и зонтницы]]></category>
+    <category id="457" parentId="445"><![CDATA[Емкости и подставки для кухни]]></category>
+    <category id="458" parentId="447"><![CDATA[Разделители для ящиков и полок]]></category>
+    <category id="459" parentId="447"><![CDATA[Полки и стойки]]></category>
+    <category id="460" parentId="32"><![CDATA[Ароматы для дома]]></category>
+    <category id="461" parentId="460"><![CDATA[Ароматы дома]]></category>
+    <category id="462" parentId="460"><![CDATA[Ароматы для белья/текстиля]]></category>
+    <category id="463" parentId="460"><![CDATA[Ароматная косметика для ванной]]></category>
+    <category id="464" parentId="461"><![CDATA[Аромасвечи]]></category>
+    <category id="465" parentId="461"><![CDATA[Саше для дома]]></category>
+    <category id="466" parentId="461"><![CDATA[Благовония и эфирные масла]]></category>
+    <category id="467" parentId="461"><![CDATA[Подставки для благовоний и аромалампы]]></category>
+    <category id="468" parentId="461"><![CDATA[Диффузоры]]></category>
+    <category id="469" parentId="461"><![CDATA[Духи и спреи для дома]]></category>
+    <category id="470" parentId="461"><![CDATA[Жесткие и гелевые ароматизаторы для дома]]></category>
+    <category id="471" parentId="461"><![CDATA[Аромачаши и соляные лампы]]></category>
+    <category id="472" parentId="462"><![CDATA[Саше и ароматизаторы для белья]]></category>
+    <category id="473" parentId="462"><![CDATA[Гипсовые ароматизаторы]]></category>
+    <category id="474" parentId="32"><![CDATA[Мебель как декор]]></category>
+    <category id="475" parentId="474"><![CDATA[Бескаркасная мебель]]></category>
+    <category id="476" parentId="474"><![CDATA[Пуфики и банкетки]]></category>
+    <category id="477" parentId="474"><![CDATA[Тумбочки и журнальные столики]]></category>
+    <category id="478" parentId="474"><![CDATA[Туалетные столики]]></category>
+    <category id="479" parentId="474"><![CDATA[Комоды]]></category>
+    <category id="480" parentId="474"><![CDATA[Стулья, кресла и табуретки]]></category>
+    <category id="481" parentId="474"><![CDATA[Бары (мини бары)]]></category>
+    <category id="482" parentId="32"><![CDATA[Домашние цветы]]></category>
+    <category id="483" parentId="482"><![CDATA[Кашпо]]></category>
+    <category id="484" parentId="482"><![CDATA[Подставки для цветов]]></category>
+    <category id="485" parentId="482"><![CDATA[Горшки и поддоны]]></category>
+    <category id="486" parentId="482"><![CDATA[Автополив и лейки]]></category>
+    <category id="487" parentId="482"><![CDATA[Опора и решетки]]></category>
+    <category id="488" parentId="482"><![CDATA[Декор растений]]></category>
+    <category id="489" parentId="482"><![CDATA[Гидрогель (гидрогрунт)]]></category>
+    <category id="490" parentId="482"><![CDATA[Искусственные растения]]></category>
+    <category id="491" parentId="3"><![CDATA[Балдахины]]></category>
+    <category id="492" parentId="280"><![CDATA[Подарочные упаковки]]></category>
+    <category id="493" parentId="492"><![CDATA[Подарочная упаковка]]></category>
+    <category id="494" parentId="492"><![CDATA[Украшение подарков]]></category>
+    <category id="495" parentId="492"><![CDATA[Открытки и конверты]]></category>
+    <category id="496" parentId="492"><![CDATA[Букеты из игрушек и искусственных цветов]]></category>
+    <category id="497" parentId="493"><![CDATA[Бумага оберточная]]></category>
+    <category id="498" parentId="493"><![CDATA[Пакеты подарочные]]></category>
+    <category id="499" parentId="493"><![CDATA[Коробки и корзины подарочные]]></category>
+    <category id="500" parentId="493"><![CDATA[Мешочки подарочные]]></category>
+    <category id="501" parentId="494"><![CDATA[Ленты подарочные]]></category>
+    <category id="502" parentId="494"><![CDATA[Банты подарочные]]></category>
+    <category id="503" parentId="494"><![CDATA[Бирки и фигурки для декорирования подарков]]></category>
+    <category id="504" parentId="285"><![CDATA[Декор Интерьера]]></category>
+    <category id="505" parentId="172"><![CDATA[Домашняя одежда Mia Mia]]></category>
+    <category id="506" parentId="417"><![CDATA[Календари]]></category>
+    <category id="507" parentId="417"><![CDATA[Настольные игры]]></category>
+    <category id="508" parentId="474"><![CDATA[Ширмы и перегородки]]></category>
+    <category id="509" parentId="280"><![CDATA[Прикольные подарки]]></category>
+    <category id="510" parentId="417"><![CDATA[Вазы]]></category>
+    <category id="511" parentId="34"><![CDATA[Домашняя одежда]]></category>
+    <category id="512" parentId="34"><![CDATA[Отдельные предметы]]></category>
+    <category id="513" parentId="32"><![CDATA[Декоративные Подушки]]></category>
+    <category id="624" parentId="191"><![CDATA[Декор]]></category>
+    <category id="625" parentId="624"><![CDATA[Фигурки]]></category>
+    <category id="626" parentId="624"><![CDATA[Фонтаны]]></category>
+    <category id="627" parentId="624"><![CDATA[Горшки и поддоны]]></category>
+    <category id="628" parentId="624"><![CDATA[Кашпо]]></category>
+    <category id="629" parentId="624"><![CDATA[Подставки для цветов]]></category>
+    <category id="630" parentId="624"><![CDATA[Декор растений]]></category>
+    <category id="631" parentId="624"><![CDATA[Автополив и лейки]]></category>
+    <category id="632" parentId="624"><![CDATA[Искусственные растения]]></category>
+    <category id="633" parentId="194"><![CDATA[Пледы]]></category>
+    <category id="634" parentId="194"><![CDATA[Покрывала]]></category>
+    <category id="635" parentId="191"><![CDATA[Матрасы]]></category>
+    <category id="636" parentId="195"><![CDATA[Скатерти]]></category>
+    <category id="637" parentId="195"><![CDATA[Кухонные полотенца]]></category>
+    <category id="638" parentId="195"><![CDATA[Кухонные наборы]]></category>
+    <category id="639" parentId="195"><![CDATA[Прихватки и Рукавички]]></category>
+    <category id="640" parentId="195"><![CDATA[Фартуки]]></category>
+    <category id="641" parentId="191"><![CDATA[Полотенца]]></category>
+    <category id="642" parentId="191"><![CDATA[Одежда]]></category>
+    <category id="643" parentId="642"><![CDATA[Для взрослых]]></category>
+    <category id="644" parentId="642"><![CDATA[Для детей]]></category>
+    <category id="645" parentId="193"><![CDATA[Одеяла]]></category>
+    <category id="646" parentId="193"><![CDATA[Подушки]]></category>
+    <category id="647" parentId="195"><![CDATA[Подушки на стул]]></category>
+    <category id="648" parentId="191"><![CDATA[Отдельные предметы]]></category>
+    <category id="649" parentId="624"><![CDATA[Декоративное освещение]]></category>
+    <category id="650" parentId="624"><![CDATA[Плечики и вешалки]]></category>
+    <category id="651" parentId="624"><![CDATA[Декоративные Подушки]]></category>
+    <category id="652" parentId="191"><![CDATA[Наборы для сауны]]></category>
+    <category id="653" parentId="648"><![CDATA[Простыни без резинки]]></category>
+    <category id="654" parentId="648"><![CDATA[Простыни на резинке]]></category>
+    <category id="655" parentId="648"><![CDATA[Наволочки]]></category>
+    <category id="656" parentId="648"><![CDATA[Пододеяльники]]></category>
+    <category id="657" parentId="193"><![CDATA[Наборы (Одеяла и Подушки)]]></category>
+    <category id="771" parentId="155"><![CDATA[Распродажа матрасов]]></category>
+    <category id="772" parentId="209"><![CDATA[Аксессуары]]></category>
+    <category id="773" parentId="772"><![CDATA[Сумки]]></category>
+    <category id="776" parentId="93"><![CDATA[Ткани для калькулятора штор]]></category>
+    <category id="777" parentId="87"><![CDATA[Детские Подушки]]></category>
+    <category id="778" parentId="776"><![CDATA[Портьеры]]></category>
+    <category id="779" parentId="776"><![CDATA[Гардины]]></category>
+    <category id="780" parentId="2"><![CDATA[ЛЕТО 2017]]></category>
+    <category id="781" parentId="780"><![CDATA[Пляж]]></category>
+    <category id="782" parentId="781"><![CDATA[Пляжные полотенца]]></category>
+    <category id="783" parentId="781"><![CDATA[Пляжная одежда]]></category>
+    <category id="784" parentId="781"><![CDATA[Пляжные покрывала]]></category>
+    <category id="785" parentId="781"><![CDATA[Пляжные сумки]]></category>
+    <category id="786" parentId="2"><![CDATA[Скидки на бренды]]></category>
+    <category id="787" parentId="786"><![CDATA[Arya]]></category>
+    <category id="788" parentId="786"><![CDATA[Togas]]></category>
+    <category id="789" parentId="787"><![CDATA[Постельное белье]]></category>
+    <category id="790" parentId="787"><![CDATA[Декор]]></category>
+    <category id="791" parentId="787"><![CDATA[Ванная]]></category>
+    <category id="792" parentId="787"><![CDATA[Домашняя одежда]]></category>
+    <category id="793" parentId="787"><![CDATA[Кухня]]></category>
+    <category id="794" parentId="787"><![CDATA[Одеяла и Подушки]]></category>
+    <category id="795" parentId="787"><![CDATA[Покрывала и Пледы]]></category>
+    <category id="796" parentId="787"><![CDATA[Детское]]></category>
+    <category id="797" parentId="787"><![CDATA[Шторы]]></category>
+    <category id="798" parentId="788"><![CDATA[Постельное белье]]></category>
+    <category id="799" parentId="788"><![CDATA[Покрывала и пледы]]></category>
+    <category id="800" parentId="788"><![CDATA[Одеяла и подушки]]></category>
+    <category id="801" parentId="788"><![CDATA[Кухня]]></category>
+    <category id="802" parentId="788"><![CDATA[Ванная]]></category>
+    <category id="803" parentId="788"><![CDATA[Отдельные предметы]]></category>
+    <category id="804" parentId="788"><![CDATA[Домашняя одежда]]></category>
+    <category id="805" parentId="788"><![CDATA[Декор]]></category>
+    <category id="806" parentId="788"><![CDATA[Детское]]></category>
+    <category id="807" parentId="788"><![CDATA[Шторы]]></category>
+    <category id="808" parentId="87"><![CDATA[Детские Спальные Наборы]]></category>
+    <category id="809" parentId="58"><![CDATA[Одеяла и подушки]]></category>
+
+
+  </categories>
+  <offers>
+<offer id="369679" type="vendor.model" available="true" bid="">
+      <url><![CDATA[http://postel-deluxe.ru/figurka-dj-carevna-ljagushka-kitajj-9h11h14-sm-keramika6660.html]]></url>
+      <price>250</price>
+      <oldprice>300</oldprice>
+      <currencyId>RUR</currencyId>
+      <categoryId>411</categoryId>
+      <picture>http://postel-deluxe.ru/media/catalog/product/3/7/3700049-ens.JPG</picture>
+      <delivery>true</delivery>
+  <delivery-options>
+    <option days="1" order-before="15"/>
+  </delivery-options>  
+      <vendor><![CDATA[D&J]]></vendor>
+      <vendorCode>dij264715</vendorCode>
+      <model><![CDATA[Копилка Царевна-Лягушка (9х11х14 см)]]></model>
+      <description><![CDATA[Вид изделия: Копилка-фигурка
+Размер: 9х11х14 см
+
+
+Материал: Керамика
+
+Производитель: D&J
+Страна бренда: Китай
+Упаковка: Коробка]]></description>
+      <manufacturer_warranty>true</manufacturer_warranty>
+      <country_of_origin>Китай</country_of_origin>
+      <cpa>0</cpa>
+      <typePrefix>{}</typePrefix>
+      <weight>1000.0000</weight>
+    <param name="Диаметр">9х11х14 см</param>
+    <param name="Размер пододеяльника">9х11х14 см</param>
+      <param name="Размерность комплекта">{}{}</param>
+      <param name="Материал">Керамика</param>
+      <param name="Подарочная упаковка">{}</param>
+    <param name="Для детей">{}</param>
+      <param name="Ткань">Керамика</param>
+      <param name="Двухзонный">{}</param>
+      <param name="На резинке">{}</param>
+      <param name="3D эффект">{}</param>
+      <param name="На молнии">{}</param>
+      <param name="Плотность">{}</param>
+      <param name="Стеганое">{}</param>
+      <param name="Кассетное">{}</param>
+      <param name="Гипоаллергенное">{}</param>
+      <param name="Материал чехла">Керамика</param>
+  </offer>
+    <offer id="369680" type="vendor.model" available="true" bid="">
+      <url><![CDATA[http://postel-deluxe.ru/figurka-dj-ryzhijj-kot-kitajj-9h9h11-sm-keramika7215.html]]></url>
+      <price>230</price>
+      <oldprice>270</oldprice>
+      <currencyId>RUR</currencyId>
+      <categoryId>411</categoryId>
+      <picture>http://postel-deluxe.ru/media/catalog/product/3/7/3700050-ens.JPG</picture>
+      <delivery>true</delivery>
+  <delivery-options>
+    <option days="1" order-before="15"/>
+  </delivery-options>  
+      <vendor><![CDATA[D&J]]></vendor>
+      <vendorCode>dij264716</vendorCode>
+      <model><![CDATA[Копилка Рыжий Кот (9х9х11 см)]]></model>
+      <description><![CDATA[Вид изделия: Копилка-фигурка
+Размер: 9х9х11 см
+
+
+Материал: Керамика
+
+Производитель: D&J
+Страна бренда: Китай
+Упаковка: Коробка]]></description>
+      <manufacturer_warranty>true</manufacturer_warranty>
+      <country_of_origin>Китай</country_of_origin>
+      <cpa>0</cpa>
+      <typePrefix>{}</typePrefix>
+      <weight>1000.0000</weight>
+    <param name="Диаметр">9х9х11 см</param>
+    <param name="Размер пододеяльника">9х9х11 см</param>
+      <param name="Размерность комплекта">{}{}</param>
+      <param name="Материал">Керамика</param>
+      <param name="Подарочная упаковка">{}</param>
+    <param name="Для детей">{}</param>
+      <param name="Ткань">Керамика</param>
+      <param name="Двухзонный">{}</param>
+      <param name="На резинке">{}</param>
+      <param name="3D эффект">{}</param>
+      <param name="На молнии">{}</param>
+      <param name="Плотность">{}</param>
+      <param name="Стеганое">{}</param>
+      <param name="Кассетное">{}</param>
+      <param name="Гипоаллергенное">{}</param>
+      <param name="Материал чехла">Керамика</param>
+  </offer>
+  </offers>
+</shop>
+</yml_catalog>
