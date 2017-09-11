@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2017-08-22 17:41">
+<shop>
+<name>magic-herbs.ru</name>
+<company>ООО "ЭкоБиоФарм"</company>
+<url>http://magic-herbs.ru/</url>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Детская косметика</category>
+<category id="2">Солнцезащитные средства</category>
+<category id="3">Бытовая химия</category>
+</categories>
+<offers>
+<offer id="0" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/detskoe-zhidkoe-mylo-dlya-chuvstvitelnoj-kozhi-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>116</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/00milo.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Жидкое мыло</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Детское жидкое мыло для чувствительной кожи с комплексом экстрактов серии "MAGIC HERBS" 300 мл, 15 шт.
+</model>
+<description>
+"Уникальный продукт, состоящий из 75 % натуральных экстрактов растений: череды, лаванды, липы, ромашки и алоэ. Не содержит: SLS, парабенов, силиконов, красителей. Описание компонентов входящих в состав: Экстракты череды, лаванды, липы, ромашки и алоэ, лаурилглюкозид, кокамидопропилбетаин, кокоилизетионат натрия, коко-глюкозид, глицерилолеат, Д-Пантенол, бисаболол, феноксиэтанол, этилгексилглицерин, ПЭГ-40 гидрогенизированное касторовое масло, парфюмерная композиция, лимонная кислота оказывают успокаивающее, очищающее и смягчающее действие. Д-Пантенол и бисаболол уменьшают раздражение и способствуют увлажнению кожи малыша."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="1" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/ekstrakty-dlya-kupaniya-malyshej-shalfej-romashka-lavanda-serii-magic-herbs
+</url>
+<price>171</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/shlarom.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Экстракты для купания</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Экстракты для купания малыша с экстрактами шалфея, ромашки и лаванды серии "MAGIC HERBS" 500 мл, 9 шт.
+</model>
+<description>
+"Натуральный состав обеспечивает бережный уход с первых дней жизни. Уникальный метод производства экстрактов позволяет извлечь максимум полезных веществ из целебных растений. Не содержит SLES, SLS, парабенов, силиконов, красителей и отдушек. Описание компонентов входящих в состав: Экстракт шалфея обладает противовоспалительным и антисептическим действием, существенно уменьшает потоотделение. Экстракт ромашки способствует смягчению и увлажнению кожи малыша, оказывает успокаивающее действие. Экстракт лаванды помогает малышу расслабиться, успокоиться и быстро заснуть. Глицерин хорошо смягчает и увлажняет кожу малыша и делает её эластичнее. Водно-глицериновые экстракты шалфея, ромашки и лаванды, феноксиэтанол, этилгексилглицерин."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="2" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/ekstrakty-dlya-kupaniya-malyshej-chereda-lopukh-bereza-serii-magic-herbs
+</url>
+<price>171</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/lopuhchebe.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Экстракты для купания</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Экстракты для купания малыша с экстрактами череды, лопуха и березы серии "MAGIC HERBS" 500 мл, 9 шт.
+</model>
+<description>
+"Натуральный состав обеспечивает бережный уход с первых дней жизни. Уникальный метод производства экстрактов позволяет извлечь максимум полезных веществ из целебных растений. Не содержит SLES, SLS, парабенов, силиконов, красителей и отдушек. Описание компонентов входящих в состав: Экстракт череды предохраняет от сухости, способствует смягчению кожи малыша. Экстракт берёзы способствует очищению кожи малыша, а также укреплению и росту волос на его голове. Экстракт лопуха способствует очищению кожи малыша, предохраняет от внешних воздействий. Глицерин хорошо смягчает и увлажняет кожу малыша и делает её эластичнее. Водно-глицериновые экстракты череды, берёзы и лопуха, феноксиэтанол, этилгексилглицерин."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="3" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/detskij-krem-dlya-ezhednevnogo-ukhoda-s-ekstraktom-romashki-i-vitaminom-e
+</url>
+<price>68</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/krem-uhod-everyday.jpg
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Детский крем для ежедневного ухода с экстрактом ромашки и витамином Е  серии "MAGIC HERBS" 75 мл, 24 шт.
+</model>
+<description>
+"Детский крем предназначен для ежедневного ухода за кожей малыша. Подходит для сухой и чувствительной кожи.
+
+Экстракт ромашки, масло зародышей пшеницы, масло ши (карите) и витамин Е, входящие в состав детского крема, питают и смягчают кожу, способствуют устранению покраснений, сухости и шелушения."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="4" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/detskij-krem-pod-podguznik-zashchitnyj-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>91</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/podpodguznik.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Детский крем под подгузник, защитный с комплексом экстрактов  серии "MAGIC HERBS" 75 мл, 24 шт.
+</model>
+<description>
+"Уникальный продукт, состоящий из 65 % натуральных экстрактов растений: череды, лаванды, липы, 
+ромашки и алоэ.
+
+Не содержит: SLS, парабенов, силиконов, красителей.
+
+Описание компонентов входящих в состав:
+
+Экстракты череды, лаванды, липы, ромашки и алоэ, цетеариловый спирт, глицерил стеарат, цетеарет-20, цетеарет-12, цетилпальмитат, каприлик /каприк триглицериды, вазелиновое масло, глицерин, церезин, парафин, ланолин, Д-пантенол, токоферол ацетат, экстракт розмарина, изопропилпальмитат, диметикон, феноксиэтанол, этилгексилглицерин, парфюмерная композиция оказывают успокаивающее, увлажняющее и смягчающее действие.
+
+Д-пантенол обладает заживляющим, увлажняющим действием."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="5" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/detskij-krem-ot-oprelostej-i-razdrazhenij-vosstanavlivayushchij-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>159</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/oprelost.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Детский крем от опрелостей и раздражений, восстанавливающий с комплексом экстрактов серии "MAGIC HERBS" 75 мл, 24 шт.
+</model>
+<description>"Уникальный продукт, состоящий из 60 % натуральных экстрактов растений: череды, лаванды, липы,ромашки и алоэ.
+
+Не содержит: SLS, парабенов, силиконов, красителей.
+
+Описание компонентов входящих в состав:
+
+Экстракты череды, лаванды, липы, ромашки и алоэ, каприлик/каприк триглицериды, оксид цинка, воск пчелиный, масло каритэ (ши), масло сладкого миндаля, глицерил каприлат, D-пантенилтриацетат, бисаболол, токоферол ацетат, экстракт розмарина, эфирное масло лаванды, феноксиэтанол, этилгексилглицерин, парфюмерная композиция оказывают успокаивающее, увлажняющее и смягчающее действие.
+
+Оксид цинка обладает антисептическим, защитным действием.
+
+D-пантенилтриацетат (производное пантотеновой кислоты, входящей в состав комплекса витамина В5), бисаболол и витамин Е уменьшают раздражение и способствуют увлажнению кожи малыша."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="6" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/detskij-krem-s-d-pantenolom-uvlazhnyayushchij-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>71</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/dpantenol.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Детский крем с Д-пантенолом, увлажняющий с комплексом экстрактов серии "MAGIC HERBS" 75 мл, 24 шт.
+</model>
+<description>"Уникальный продукт, состоящий из 65 % натуральных экстрактов растений: череды, лаванды, липы, 
+ромашки и алоэ.
+
+Не содержит: SLS, парабенов, силиконов, красителей.
+
+Описание компонентов входящих в состав:
+
+Экстракты череды, лаванды, липы, ромашки и алоэ, цетеариловый спирт, глицерил стеарат, цетеарет-20, цетеарет-12, цетилпальмитат, каприлик /каприк триглицериды, вазелиновое масло, глицерин, церезин, парафин, ланолин, Д-Пантенол, токоферол ацетат, экстракт розмарина, изопропилпальмитат, диметикон, феноксиэтанол, этилгексилглицерин, парфюмерная композиция оказывают успокаивающее, увлажняющее и смягчающее действие.
+
+Д-Пантенол обладает заживляющим, увлажняющим действием."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="7" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/detskij-gel-dlya-kupaniya-malysha-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>118</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/gelidetsk.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Детский гель для купания малыша с комплексом экстрактов серии "MAGIC HERBS" 300 мл, 15 шт.
+</model>
+<description>"Уникальный продукт, состоящий из 76 % натуральных экстрактов растений: череды, лаванды, липы,ромашки и алоэ.
+
+Не содержит: SLS, парабенов, силиконов, красителей."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="8" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/detskij-krem-zashchitnyj-ot-moroza-vetra-i-nepogody-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>70</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/cremotmoroza1.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Детский крем защитный от мороза, ветра и непогоды с комплексом экстрактов серии "MAGIC HERBS" 75 мл, 24 шт.
+</model>
+<description>"Уникальный продукт, состоящий из 65 % натуральных экстрактов растений: череды, лаванды, липы,
+ромашки и алоэ.
+
+Не содержит: SLS, парабенов, силиконов, красителей.
+
+Описание компонентов входящих в состав:
+
+Экстракты череды, лаванды, липы, ромашки и алоэ, глицерин, цетеариловый спирт, изопропилпальмитат, глицерилстеарат, циклометикон, цетеарет-20, вазелиновое масло, кокоглицериды, Д-Пантенол, аллантоин, витамин F, витамин Е, витамин А, бисаболол, экстракт розмарина, тальк, воск пчелиный, церезин, диметикон, вазелин, феноксиэтанол, этилгексилглицерин, парфюмерная композиция оказывают успокаивающее, увлажняющее и смягчающее действие.
+
+Бисаболол, витамины А, Е, F уменьшают раздражение и способствуют увлажнению и питанию кожи малыша."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="9" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/detskij-krem-prisypka-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>82</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/prisip.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Детский крем - присыпка с комплексом экстрактов серии "MAGIC HERBS" 75 мл, 24 шт.
+</model>
+<description>"Уникальный продукт, состоящий из 76 % натуральных экстрактов растений: череды, лаванды, липы, 
+ромашки и алоэ.
+
+Не содержит: SLS, парабенов, силиконов, красителей."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="10" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/detskij-shampun-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>92</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/shampoo.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Детский шампунь с комплексом экстрактов серии "MAGIC HERBS" 200 мл, 20 шт.
+</model>
+<description>"Уникальный продукт, состоящий из 76 % натуральных экстрактов растений: череды, лаванды, липы, 
+ромашки и алоэ.
+
+Не содержит: SLS, парабенов, силиконов, красителей.
+
+Описание компонентов входящих в состав:
+
+Экстракты череды, лаванды, липы, ромашки и алоэ, лаурилглюкозид, кокамидопропилбетаин, кокоилизетионат натрия, коко-глюкозид, глицерилолеат, Д-Пантенол, феноксиэтанол, этилгексилглицерин, парфюмерная композиция, лимонная кислота оказывают успокаивающее, очищающее и смягчающее действие.
+
+Д-Пантенол уменьшает раздражение и способствует увлажнению кожи малыша."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="11" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/krem-gel-dlya-kupaniya-malysha-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>114</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/cremgel.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Крем-гель для купания малыша с комплексом экстрактов серии "MAGIC HERBS" 300 мл, 15 шт.
+</model>
+<description>"Уникальный продукт, состоящий из 75 % натуральных экстрактов растений: череды, лаванды, липы, 
+ромашки и алоэ.
+
+Не содержит: SLS, парабенов, силиконов, красителей."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="12" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/detskoe-maslo-dlya-tela-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>136</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/maslo.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Детское масло для тела с комплексом экстрактов серии "MAGIC HERBS" 200 мл, 20 шт.
+</model>
+<description>"Уникальный продукт, из натуральных экстрактов растений: ромашка, череда, лаванда, липа, алоэ.
+
+Не содержит: SLS, парабенов, силиконов, красителей.
+
+Описание компонентов входящих в состав:
+
+Экстракты череды, лаванды, липы, ромашки и алоэ, вазелиновое масло, масло жожоба, масло сладкого миндаля, токоферил ацетат, экстракт розмарина, парфюмерная композиция. оказывают успокаивающее, увлажняющее и смягчающее действие.
+
+D-пантенилтриацетат (производное пантотеновой кислоты, входящей в состав комплекса витамина В5), бисаболол и витамин Е уменьшают раздражение и способствуют увлажнению кожи малыша."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="13" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/detskoe-uspokaivayushchee-molochko-posle-kupaniya-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>113</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/milk.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Детское косметическое молочко после купания с комплексом экстрактов серии "MAGIC HERBS" 200 мл, 20 шт.
+</model>
+<description>"Уникальный продукт, состоящий из 80% натуральных экстрактов растений: череды, лаванды, липы, 
+ромашки и алоэ. 
+
+Не содержит: SLS, парабенов, силиконов, красителей.
+
+Описание компонентов входящих в состав:
+
+Экстракты череды, лаванды, липы, ромашки и алоэ, цетеариловый спирт, октилдодеканол, коко-каприлат, масло каритэ (ши), Д-Пантенол, кокоглицериды, дикаприлиловый эфир, полиакрилат натрия, масло зародышей пшеницы, масло косточек абрикоса, токоферол ацетат, бисаболол, феноксиэтанол, этилгексилглицерин, парфюмерная композиция, лимонная кислота оказывают успокаивающее, увлажняющее и смягчающее действие.
+
+Д-Пантенол, бисаболол и витамин Е уменьшают раздражение и способствуют увлажнению кожи малыша."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="14" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/ochishchayushchaya-pena-dlya-kupaniya-malysha-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>94</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/pena.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Очищающая пена для купания малыша с комплексом экстрактов серии "MAGIC HERBS" 200 мл, 20 шт.
+</model>
+<description>"Уникальный продукт, состоящий из 76 % натуральных экстрактов растений: череды, лаванды, липы,ромашки и алоэ.
+
+Не содержит: SLS, парабенов, силиконов, красителей.
+
+Описание компонентов входящих в состав:
+
+Экстракты череды, лаванды, липы, ромашки и алоэ, лаурилглюкозид, кокамидопропилбетаин, кокоилизетионат натрия, коко-глюкозид, глицерилолеат, Д-пантенол, феноксиэтанол, этилгексилглицерин, парфюмерная композиция, лимонная кислота оказывают успокаивающее, очищающее и смягчающее действие.
+
+Д-Пантенол уменьшает раздражение и способствуют увлажнению кожи малыша."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="15" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/bytovaya-khimiya/bezopasnoe-sredstvo-dlya-uborki-v-detskih-pomeshheniya-s-ekstraktom-romashki-serii
+</url>
+<price>124</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/sredstvo-uborka-lico.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Безопасное средство для уборки в детских помещения с экстрактом ромашки серии «MAGIC HERBS» 500 мл, 8 шт.
+</model>
+<description>"Средство предназначено для уборки детских помещений, безопасно для использования в присутствии детей. Удаляет органические загрязнения, а также следы от фломастеров, карандашей, наклеек, скотча и другую грязь. Подходит для чистки предметов из кожи, дерева, кожзаменителя, тканей, пластика, линолеума и прочих.
+
+Не раздражает кожные покровы и дыхательные пути.
+
+Продукт биоразлагаем, не наносит вреда окружающей среде.
+
+Не содержит аллергенов.
+
+Без спирта
+Без хлора
+Без диоксидов"
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="16" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/bytovaya-khimiya/gel-detskiy-dlya-mytya-posudy-s-ekstraktom-romashki-i-aloe
+</url>
+<price>140</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/gel-posuda-facet.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Гель детский для мытья посуды с экстрактом ромашки и алоэ серии «MAGIC HERBS» 500 мл, 10 шт.
+</model>
+<description>"Гель предназначен для мытья детской посуды, в том числе бутылочек и сосок, игрушек из пластиковых, деревянных и резиновых материалов.
+
+Подходит для мытья овощей и фруктов.
+
+Без парабенов
+Без красителей
+Без отдушек
+Входящие в состав геля экстракты ромашки и алоэ смягчают кожу рук, предотвращая сухость и шелушение.
+
+о-Cymen-5-ol – антисептическое, бактерицидное и фунгицидное средство растительного происхождения, широкого спектра действия.
+
+Безопасно, не вызывает раздражения, эффективно очищает и дезинфицирует детскую посуду и игрушки."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="17" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/solntsezashchitnye-sredstva/detskij-kosmeticheskij-sprej-posle-zagara-serii-magic-herbs
+</url>
+<price>126</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/spreiposle.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Спрей детский успокаивающий после загара серии «MAGIC HERBS» 140 мл, 25 шт.
+</model>
+<description>"Экстракты ромашки, подорожника, шиповника, лаванды и алоэ, входящие в состав детского спрея, оказывают увлажняющее и смягчающее действие.
+
+Д-пантенол, бисаболол и аллантоин – обладаютсмягчающим действием, оказывают увлажняющие действия на кожу после загара.
+
+RonaCare® AP - косметическое масло."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="18" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/solntsezashchitnye-sredstva/detskij-kosmeticheskij-sprej-posle-zagara-serii-magic-herbs
+</url>
+<price>126</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/spreiposle.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Спрей детский успокаивающий после загара серии «MAGIC HERBS» 140 мл, 25 шт.
+</model>
+<description>"Экстракты ромашки, подорожника, шиповника, лаванды и алоэ, входящие в состав детского спрея, оказывают увлажняющее и смягчающее действие.
+
+Д-пантенол, бисаболол и аллантоин – обладаютсмягчающим действием, оказывают увлажняющие действия на кожу после загара.
+
+RonaCare® AP - косметическое масло."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="19" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/solntsezashchitnye-sredstva/sprej-detskij-solntsezashchitnyj-vodoustojchivyj-spf-30-serii-magic-herbs
+</url>
+<price>204</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/sprei30.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Спрей детский солнцезащитный SPF-30+ серии «MAGIC HERBS» 140 мл, 25 шт.
+</model>
+<description>"Экстракты ромашки, подорожника, шиповника, лаванды и алоэ, входящие в состав детского спрея, оказывают увлажняющее и смягчающее действие.
+
+RonaCare® AP - косметическое масло. При воздействии ультрафиолетовых лучей запускается полная система защиты.
+
+Комбинация солнцезащитных фильтров, обеспечивающих эффективную UVA/UVB защиту, была разработана с соответствии с рекомендациями специалистов компании Мерк КГаА, Германия."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer> 
+<offer id="20" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/solntsezashchitnye-sredstva/detskoe-kosmeticheskoe-molochko-posle-zagara-serii-magic-herbs
+</url>
+<price>136</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/milkposlezagara.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Молочко детское успокаивающее после загара серии «MAGIC HERBS» 140 мл, 25 шт.
+</model>
+<description>"Экстракты ромашки, подорожника, шиповника, лаванды и алоэ, входящие в состав детского молочка, оказывают увлажняющее и смягчающее действие.
+
+Д-пантенол и аллантоин – обладаютсмягчающим действием, оказывают увлажняющие действия на кожу после загара.
+
+RonaCare® AP - косметическое масло. При воздействии ультрафиолетовых лучей запускается полная система защиты."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="21" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/solntsezashchitnye-sredstva/molochko-detskoe-solntsezashchitnoe-spf-40-serii-magic-herbs
+</url>
+<price>264</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/milkspf40.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Молочко детское солнцезащитное SPF-40+ серии «MAGIC HERBS» 140 мл, 25 шт.
+</model>
+<description>"Экстракты ромашки, подорожника, шиповника, лаванды и алоэ, входящие в состав детского молочка, оказывают увлажняющее и смягчающее действие.
+
+RonaCare® AP - косметическое масло. При воздействии ультрафиолетовых лучей запускается полная система защиты.
+
+Комбинация солнцезащитных фильтров, обеспечивающих эффективную UVA/UVB защиту, была разработана с соответствии с рекомендациями специалистов компании Мерк КГаА, Германия."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="22" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/solntsezashchitnye-sredstva/molochko-detskoe-solntsezashchitnoe-spf-30-serii-magic-herbs
+</url>
+<price>217</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/milkspf30.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Молочко детское солнцезащитное SPF-30+ серии «MAGIC HERBS» 140 мл, 25 шт.
+</model>
+<description>"Экстракты ромашки, подорожника, шиповника, лаванды и алоэ, входящие в состав детского молочка, оказывают увлажняющее и смягчающее действие.
+
+RonaCare® AP - косметическое масло. При воздействии ультрафиолетовых лучей запускается полная система защиты.
+
+Комбинация солнцезащитных фильтров, обеспечивающих эффективную UVA/UVB защиту, была разработана с соответствии с рекомендациями специалистов компании Мерк КГаА, Германия."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="23" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/solntsezashchitnye-sredstva/molochko-detskoe-solntsezashchitnoe-spf-15-serii-magic-herbs
+</url>
+<price>192</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/milkspf15.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Молочко детское солнцезащитное SPF-15+ серии «MAGIC HERBS» 140 мл, 25 шт.
+</model>
+<description>"Экстракты ромашки, подорожника, шиповника, лаванды и алоэ, входящие в состав детского молочка, оказывают увлажняющее и смягчающее действие.
+
+RonaCare® AP - косметическое масло. При воздействии ультрафиолетовых лучей запускается полная система защиты.
+
+Комбинация солнцезащитных фильтров, обеспечивающих эффективную UVA/UVB защиту, была разработана с соответствии с рекомендациями специалистов компании Мерк КГаА, Германия."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="24" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/solntsezashchitnye-sredstva/krem-detskij-spf-30-serii-magic-herbs
+</url>
+<price>145</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/cremspf30.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Крем детский SPF-30+ серии «MAGIC HERBS» 75 мл, 24 шт.
+</model>
+<description>"Экстракты ромашки, подорожника, шиповника, лаванды и алоэ, входящие в состав детского крема, оказывают увлажняющее и смягчающее действие.
+
+RonaCare® AP - косметическое масло. При воздействии ультрафиолетовых лучей запускается полная система защиты.
+
+Комбинация солнцезащитных фильтров, обеспечивающих эффективную UVA/UVB защиту, была разработана с соответствии с рекомендациями специалистов компании Мерк КГаА, Германия."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="25" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/detskij-shampun-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>152</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/full_shampun-500.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Детский шампунь с комплексом экстрактов серии "MAGIC HERBS" 500 мл, 10 шт.
+</model>
+<description>"Уникальный продукт, состоящий из 76 % натуральных экстрактов растений: череды, лаванды, липы, 
+ромашки и алоэ.
+
+Не содержит: SLS, парабенов, силиконов, красителей.
+
+Описание компонентов входящих в состав:
+
+Экстракты череды, лаванды, липы, ромашки и алоэ, лаурилглюкозид, кокамидопропилбетаин, кокоилизетионат натрия, коко-глюкозид, глицерилолеат, Д-Пантенол, феноксиэтанол, этилгексилглицерин, парфюмерная композиция, лимонная кислота оказывают успокаивающее, очищающее и смягчающее действие.
+
+Д-Пантенол уменьшает раздражение и способствует увлажнению кожи малыша."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="26" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/detskij-gel-dlya-kupaniya-malysha-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>155</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/full_gel-500.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Детский гель для купания малыша с комплексом экстрактов серии "MAGIC HERBS" 500 мл, 10 шт.
+</model>
+<description>"Уникальный продукт, состоящий из 76 % натуральных экстрактов растений: череды, лаванды, липы,ромашки и алоэ.
+
+Не содержит: SLS, парабенов, силиконов, красителей."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="27" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/detskaya-seriya/detskoe-zhidkoe-mylo-dlya-chuvstvitelnoj-kozhi-s-kompleksom-ekstraktov-serii-magic-herbs
+</url>
+<price>155</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/full_milo-500.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Детское жидкое мыло для чувствительной кожи с комплексом экстрактов серии "MAGIC HERBS" 500 мл, 10 шт.
+</model>
+<description>"Уникальный продукт, состоящий из 75 % натуральных экстрактов растений: череды, лаванды, липы, 
+ромашки и алоэ.
+
+Не содержит: SLS, парабенов, силиконов, красителей.
+
+Описание компонентов входящих в состав:
+
+Экстракты череды, лаванды, липы, ромашки и алоэ, лаурилглюкозид, кокамидопропилбетаин, кокоилизетионат натрия, коко-глюкозид, глицерилолеат, Д-Пантенол, бисаболол, феноксиэтанол, этилгексилглицерин, ПЭГ-40 гидрогенизированное касторовое масло, парфюмерная композиция, лимонная кислота оказывают успокаивающее, очищающее и смягчающее действие.
+
+Д-Пантенол и бисаболол уменьшают раздражение и способствуют увлажнению кожи малыша."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="28" type="vendor.model" available="true">
+<url>
+http://magic-herbs.ru/produktsiya/solntsezashchitnye-sredstva/krem-detskij-spf-50-serii-magic-herbs
+</url>
+<price>176</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>
+http://magic-herbs.ru/components/com_jshopping/files/img_products/krem-SPF-501.png
+</picture>
+<delivery>false</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<typePrefix>Детский крем</typePrefix>
+<vendor>MAGIC HERBS</vendor>
+<vendorCode/>
+<model>
+Крем детский SPF-50+ серии «MAGIC HERBS» 75 мл, 24 шт.
+</model>
+<description>"Экстракты ромашки, подорожника, шиповника, лаванды и алоэ, входящие в состав детского крема, оказывают увлажняющее и смягчающее действие.
+
+RonaCare® AP - косметическое масло. При воздействии ультрафиолетовых лучей запускается полная система защиты.
+
+Комбинация солнцезащитных фильтров, обеспечивающих эффективную UVA/UVB защиту, была разработана с соответствии с рекомендациями специалистов компании Мерк КГаА, Германия."
+</description>
+<sales_notes>Необходима предоплата.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2017-08-03 19:40">
+<shop>
+<name>omatras</name>
+<company>omatras</company>
+<url>https://omatras.ru</url>
+<currencies><currency id="RUB" rate="1"/></currencies>
+<categories>
+	<category id="16">Матрасы</category>
+	<category id="18">Наматрасники</category>
+	<category id="19">Кровати</category>
+	<category id="54">Тонкие матрасы</category>
+	<category id="72">Основания</category>
+	<category id="73">Одеяла</category>
+	<category id="74">Подушки</category>
+	<category id="143">Детские матрасы</category>
+	<category id="238">Постельное белье</category>
+</categories>
+<delivery-options><option cost="0" days="32"/></delivery-options>
+<offers>
+<offer id="167209" available="true">
+	<url>https://omatras.ru/detskie-matrasy/kokon-dlya-novorozhdennykh-matello-cocon-baby/167209</url>
+<price>5990.00</price>
+<oldprice>8550.00</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>143</categoryId>
+<picture>https://omatras.ru/upload/iblock/386/3860882d7eb853be1644a2679fa9c9a0.jpg</picture>
+<picture>https://omatras.ru/upload/iblock/723/723f1d20cb6513d8f89a17c52143af70.jpg</picture>
+<picture>https://omatras.ru/upload/iblock/768/7688da627795e682cd7b1c60dc1eaf53.jpg</picture>
+<picture>https://omatras.ru/upload/iblock/345/34563bafd4f64b745275edbc5554c4f3.jpg</picture>
+<name>Кокон для новорожденных Matello Cocon Baby</name>
+	<vendor>Matello</vendor>
+<model>Cocon Baby</model>
+<barcode>00167209</barcode>
+</offer>
+<offer id="167212" available="true">
+	<url>https://omatras.ru/detskie-matrasy/kokon-dlya-novorozhdennykh-matello-cocon-baby-lux/167212</url>
+<price>7990.00</price>
+<oldprice>11500.00</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>143</categoryId>
+<picture>https://omatras.ru/upload/iblock/80d/80d14c5c6b872bb20ca278c8fceaa8c1.jpg</picture>
+<picture>https://omatras.ru/upload/iblock/7e2/7e2ddeecd89c643ce9f8489b1a7d7257.jpg</picture>
+<picture>https://omatras.ru/upload/iblock/280/280230be7cf3db58eb2978631b701f6f.jpg</picture>
+<picture>https://omatras.ru/upload/iblock/ec3/ec3453605b8e09541d60afe19e56d551.jpg</picture>
+<name>Кокон для новорожденных Matello Cocon Baby Lux</name>
+	<vendor>Matello</vendor>
+<model>Cocon Baby Lux</model>
+<barcode>00167212</barcode>
+</offer>
+<offer id="167214" available="true">
+	<url>https://omatras.ru/namatrasniki/namatrasnik-dlya-kokona-matello-baby-asti/167214</url>
+<price>1490.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>18</categoryId>
+<picture>https://omatras.ru/upload/iblock/d71/d718ebef81fe82c36879f2539cd5485b.jpg</picture>
+<picture>https://omatras.ru/upload/iblock/1ab/1ab08ae09ca707730dd2deba942a6ccd.jpg</picture>
+<picture>https://omatras.ru/upload/iblock/e62/e625a62083f905e7366d92dc6e333f7a.jpg</picture>
+<name>Наматрасник для кокона Matello Baby Asti</name>
+	<vendor>Matello</vendor>
+<model>Наматрасник для кокона  Baby Asti</model>
+<barcode>00167214</barcode>
+</offer>
+<offer id="167216" available="true">
+	<url>https://omatras.ru/namatrasniki/namatrasnik-dlya-kokona-matello-baby-garda/167216</url>
+<price>790.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>18</categoryId>
+<picture>https://omatras.ru/upload/iblock/12e/12ef6fa8ff65384dcb36817156906f2f.jpg</picture>
+<picture>https://omatras.ru/upload/iblock/418/418ae2d7b6491cc63122b07078f19fdd.jpg</picture>
+<picture>https://omatras.ru/upload/iblock/f2c/f2c4454fd95c120e38f5b340f832eac0.jpg</picture>
+<name>Наматрасник для кокона Matello Baby Garda</name>
+	<vendor>Matello</vendor>
+<model>Наматрасник для кокона  Baby Garda</model>
+<barcode>00167216</barcode>
+</offer>
+<offer id="167218" available="true">
+	<url>https://omatras.ru/namatrasniki/namatrasnik-dlya-kokona-matello-baby-aprika/167218</url>
+<price>990.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>18</categoryId>
+<picture>https://omatras.ru/upload/iblock/4b0/4b0092bfd9c2b6aecfffdf9ec5ed7ba8.jpg</picture>
+<picture>https://omatras.ru/upload/iblock/e09/e09d141982ddc96a7463aa88ae66ffa0.jpg</picture>
+<name>Наматрасник для кокона Matello Baby Aprika</name>
+	<vendor>Matello</vendor>
+<model>Наматрасник для кокона  Baby Aprika</model>
+<barcode>00167218</barcode>
+</offer>
+<offer id="167220" available="true">
+	<url>https://omatras.ru/namatrasniki/namatrasnik-dlya-kokona-matello-baby-siena/167220</url>
+<price>590.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>18</categoryId>
+<picture>https://omatras.ru/upload/iblock/858/8587f4448e90d0e376a42b17852a7c5d.jpg</picture>
+<picture>https://omatras.ru/upload/iblock/7bb/7bb3a0064a44f2377ea79f9677755788.jpg</picture>
+<name>Наматрасник для кокона Matello Baby Siena</name>
+	<vendor>Matello</vendor>
+<model>Наматрасник для кокона  Baby Siena</model>
+<barcode>00167220</barcode>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

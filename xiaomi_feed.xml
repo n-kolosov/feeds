@@ -1,0 +1,259 @@
+<yml_catalog date="2017-08-31 16:18">
+<shop>
+<name>mi-shop.com</name>
+<company>XIAOMI</company>
+<url>http://mi-shop.com</url>
+<platform>1C-Bitrix</platform>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="31">Универсальные внешние аккумуляторы</category>
+<category id="32">Другое</category>
+<category id="30">Умные устройства</category>
+<category id="29">Портативная акустика</category>
+<category id="28">Аксессуары</category>
+<category id="27">Смартфоны</category>
+<category id="8">Смартфоны</category>
+<category id="2">Напольные весы</category>
+<category id="11">Очки виртуальной реальности</category>
+<category id="102">Умные часы и браслеты</category>
+<category id="103">Сумки и рюкзаки для ноутбуков</category>
+<category id="104">Зарядные устройства и адаптеры для мобильных телефонов</category>
+<category id="105">Универсальные внешние аккумуляторы</category>
+<category id="106">Стационарные медиаплееры</category>
+<category id="107">Портативная акустика</category>
+<category id="14">Сетевое оборудование Wi-Fi и Bluetooth</category>
+</categories>
+<delivery-options>
+   <option cost="300" days="1" order-before="17"/>
+</delivery-options>
+<offers>
+
+
+<offer id="28" available="true" fee="2000" bid="16" cbid="16">
+<url>
+http://mi-shop.com/ru/accessories/portativnye-akkumulyatory/xiaomi-mi-power-bank-5000-mach/
+</url>
+<price>1290</price>
+
+<currencyId>RUB</currencyId>
+<categoryId>105</categoryId>
+<picture>
+http://mi-shop.com/upload/iblock/1f8/1f8046631b06a6cd0f9ba0edb13439a8.png
+</picture>
+<vendor>Xiaomi</vendor>
+<vendorCode>28</vendorCode>
+<name>Mi Power Bank 5000 мАч</name>
+<description>Xiaomi Mi Power Bank 5000 мАч надежный девайс для быстрой зарядки вашего смартфона и других гаджетов совместимых с интерфейсом USB. Максимальная сила тока достигает 2,1 А, благодаря чему подзарядка любого мобильного устройства отнимет не больше времени, чем при подключении к розетке. Встроенный микроконтроллер автоматически прерывает подачу питания в случае перегрузки, перегрева или короткого замыкания. Корпус состоит из высокопрочного алюминия, который защитит батарею от внешних повреждений.</description>
+<sales_notes>Официальные поставки. Сертифицированная продукция.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Китай</country_of_origin>
+<delivery-options>
+   <option cost="300" days="1" order-before="17"/>
+</delivery-options>
+
+</offer>
+
+
+<offer id="406" available="true" fee="1000" bid="16" cbid="16">
+<url>
+http://mi-shop.com/ru/smartphones/mobilnye-telefony/xiaomi-redmi-note-4-32gb/
+</url>
+<price>14990</price>
+
+<currencyId>RUB</currencyId>
+<categoryId>8</categoryId>
+<picture>
+http://mi-shop.com.opt-images.1c-bitrix-cdn.ru/upload/iblock/593/593ad7b911e8c62165a08db488207724.png?149137843595672
+</picture>
+<vendor>Xiaomi</vendor>
+<vendorCode>406</vendorCode>
+<name>Redmi Note 4 32GB</name>
+<description>Новый Redmi Note 4 на базе процессора Qualcomm Snapdragon 625 с батареей 4100 мА*ч, сканером отпечатка пальца и металлическим корпусом</description>
+<sales_notes>Официальные поставки. Сертифицированная продукция.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Китай</country_of_origin>
+<delivery-options>
+   <option cost="0" days="1" order-before="17"/>
+</delivery-options>
+<param name="2 sim-карты" unit="">1</param>
+<param name="Разрешение основной камеры" unit="Мпикс">12</param>
+<param name="Материал корпуса" unit="">алюминий</param>
+<param name="Емкость аккумулятора" unit="мА·ч">4100</param>
+<param name="Диагональ экрана" unit="дюйм">5.15</param>
+<param name="Вес" unit="г">145</param>
+<param name="3g" unit="">1</param>
+<param name="android" unit="">1</param>
+<param name="4g lte" unit="">1</param>
+<param name="Объем оперативной памяти" unit="Мб">3072</param>
+<param name="nfc" unit="">0</param>
+<param name="Слот для карты памяти" unit="">1</param>
+<param name="Разрешение экрана" unit="">1920x1080</param>
+<param name="gps/ГЛОНАСС" unit="">1</param>
+<param name="Разрешение фронтальной камеры" unit="Мпикс">4</param>
+<param name="Год анонсирования" unit="">2016</param>
+<param name="Память" unit="Гб">64</param>
+<param name="bluetooth" unit="">1</param>
+
+</offer>
+
+
+<offer id="369" available="true" fee="1000" bid="10" cbid="10">
+<url>
+http://mi-shop.com/ru/smartphones/mobilnye-telefony/xiaomi-mi-5s-plus/
+</url>
+<price>28990</price>
+
+<currencyId>RUB</currencyId>
+<categoryId>8</categoryId>
+<picture>
+http://mi-shop.com.opt-images.1c-bitrix-cdn.ru/upload/iblock/6ed/6ed59a84bd0e600d1b1b7360cfb6d3ac.jpg?1489662539268245
+</picture>
+<vendor>Xiaomi</vendor>
+<vendorCode>369</vendorCode>
+<name>Mi 5s Plus 64GB</name>
+<description>Флагман Mi 5s Plus с двойной камерой, большим объемом памяти, сканером отпечатков пальцев и впечатляющей производительностью</description>
+<sales_notes>Официальные поставки. Сертифицированная продукция.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Китай</country_of_origin>
+<delivery-options>
+   <option cost="0" days="1" order-before="17"/>
+</delivery-options>
+<param name="Память" unit="Гб">64</param>
+<param name="bluetooth" unit="">1</param>
+<param name="Разрешение фронтальной камеры" unit="Мпикс">4</param>
+<param name="Год анонсирования" unit="">2016</param>
+<param name="Слот для карты памяти" unit="">0</param>
+<param name="Разрешение экрана" unit="">1920x1080</param>
+<param name="gps/ГЛОНАСС" unit="">1</param>
+<param name="Объем оперативной памяти" unit="Мб">3800</param>
+<param name="nfc" unit="">1</param>
+<param name="android" unit="">1</param>
+<param name="4g lte" unit="">1</param>
+<param name="Вес" unit="г">168</param>
+<param name="3g" unit="">1</param>
+<param name="Материал корпуса" unit="">металл</param>
+<param name="Емкость аккумулятора" unit="мА·ч">3800</param>
+<param name="Диагональ экрана" unit="дюйм">5.7</param>
+<param name="2 sim-карты" unit="">1</param>
+<param name="Разрешение основной камеры" unit="Мпикс">13</param>
+
+</offer>
+
+
+<offer id="60" available="true" fee="1000" bid="16" cbid="16">
+<url>
+http://mi-shop.com/ru/smartphones/mobilnye-telefony/xiaomi-redmi-4a/
+</url>
+<price>8990</price>
+
+<currencyId>RUB</currencyId>
+<categoryId>8</categoryId>
+<picture>
+http://mi-shop.com/upload/iblock/4b6/4b6963245edade14a87135e2e3ecdf86.jpg
+</picture>
+<vendor>Xiaomi</vendor>
+<vendorCode>60</vendorCode>
+<name>Redmi 4A 16GB</name>
+<description>Благодаря новым прогрессивным технологиям Redmi 4A – самый легкий смартфон из всей линейки Redmi. Он обладает цельным матовым корпусом с плавными закруглениями, приятно лежит в руке.</description>
+<sales_notes>Официальные поставки. Сертифицированная продукция.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Китай</country_of_origin>
+<delivery-options>
+   <option cost="300" days="1" order-before="17"/>
+</delivery-options>
+<param name="Разрешение фронтальной камеры" unit="Мпикс">5</param>
+<param name="Год анонсирования" unit="">2016</param>
+<param name="Память" unit="Гб">16</param>
+<param name="bluetooth" unit="">1</param>
+<param name="Объем оперативной памяти" unit="Мб">2048</param>
+<param name="nfc" unit="">0</param>
+<param name="Слот для карты памяти" unit="">1</param>
+<param name="gps/ГЛОНАСС" unit="">1</param>
+<param name="Разрешение экрана" unit="">1280x720</param>
+<param name="Вес" unit="г">131</param>
+<param name="3g" unit="">1</param>
+<param name="Время работы в режиме ожидания" unit="ч">168</param>
+<param name="android" unit="">1</param>
+<param name="4g lte" unit="">1</param>
+<param name="2 sim-карты" unit="">1</param>
+<param name="Разрешение основной камеры" unit="Мпикс">13</param>
+<param name="Материал корпуса" unit="">металл</param>
+<param name="Емкость аккумулятора" unit="мА·ч">3120</param>
+<param name="Диагональ экрана" unit="дюйм">5</param>
+
+</offer>
+
+
+<offer id="26" available="true" fee="2000" bid="16" cbid="16">
+<url>
+http://mi-shop.com/ru/accessories/portativnaya-akustika/mi-bluetooth-speaker/
+</url>
+<price>3990</price>
+
+<currencyId>RUB</currencyId>
+<categoryId>107</categoryId>
+<picture>
+http://mi-shop.com/upload/iblock/85b/85bec5d5133f37894425b82188d8d9c1.png
+</picture>
+<vendor>Xiaomi</vendor>
+<vendorCode>26</vendorCode>
+<name>Mi Bluetooth Speaker</name>
+<description>Портативная колонка Xiaomi Mi Bluetooth Speaker - модный гаджет компактного размера в алюминиевом корпусе. Благодаря возможности 8 часовой автономной работы и поддержке MicroSD карт будет незаменима в походах и путешествиях.</description>
+<sales_notes>Официальные поставки. Сертифицированная продукция.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Китай</country_of_origin>
+<delivery-options>
+   <option cost="300" days="1" order-before="17"/>
+</delivery-options>
+
+</offer>
+
+
+<offer id="435" available="true" fee="1000" bid="10" cbid="10">
+<url>
+http://mi-shop.com/ru/smartphones/mobilnye-telefony/redmi-4a-32gb/
+</url>
+<price>9990</price>
+
+<currencyId>RUB</currencyId>
+<categoryId>8</categoryId>
+<picture>
+http://mi-shop.com.opt-images.1c-bitrix-cdn.ru/upload/iblock/655/655544261179b7ac7c1f43ee0d233d12.png?1493733975181477
+</picture>
+<vendor>Xiaomi</vendor>
+<vendorCode>435</vendorCode>
+<name>Redmi 4A 32GB</name>
+<description>Благодаря новым прогрессивным технологиям Redmi 4A – самый легкий смартфон из всей линейки Redmi. Он обладает цельным матовым корпусом с плавными закруглениями, приятно лежит в руке.</description>
+<sales_notes>Официальные поставки. Сертифицированная продукция.</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+<country_of_origin>Китай</country_of_origin>
+<delivery-options>
+   <option cost="300" days="1" order-before="17"/>
+</delivery-options>
+<param name="Память" unit="Гб">32</param>
+<param name="bluetooth" unit="">1</param>
+<param name="Разрешение фронтальной камеры" unit="Мпикс">5</param>
+<param name="Год анонсирования" unit="">2016</param>
+<param name="Слот для карты памяти" unit="">1</param>
+<param name="Разрешение экрана" unit="">1280x720</param>
+<param name="gps/ГЛОНАСС" unit="">1</param>
+<param name="Объем оперативной памяти" unit="Мб">2048</param>
+<param name="nfc" unit="">0</param>
+<param name="Время работы в режиме ожидания" unit="ч">168</param>
+<param name="android" unit="">1</param>
+<param name="4g lte" unit="">1</param>
+<param name="Вес" unit="г">131</param>
+<param name="3g" unit="">1</param>
+<param name="Материал корпуса" unit="">металл</param>
+<param name="Емкость аккумулятора" unit="мА·ч">3120</param>
+<param name="Диагональ экрана" unit="дюйм">5</param>
+<param name="2 sim-карты" unit="">1</param>
+<param name="Цвет" unit="">серый</param>
+<param name="Разрешение основной камеры" unit="Мпикс">13</param>
+
+</offer>
+</offers>
+</shop>
+</yml_catalog>

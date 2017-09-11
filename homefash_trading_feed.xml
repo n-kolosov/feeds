@@ -1,0 +1,2898 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2017-08-02 11:50">
+    <shop>
+        <name>Homefash-Trading</name>
+        <company>ООО МОЙ ДОМ</company>
+        <url>http://homefash-trading.com/</url>
+        <currencies><currency id="RUR" rate="1"/></currencies>
+        <categories>
+            <category id="11">Ванная</category>
+            <category id="12">Кухня</category>
+            <category id="13">Сервировка</category>
+            <category id="14">Мебель</category>
+            <category id="15">Декор</category>
+            <category id="16">Текстиль</category>
+            <category id="17">Свет</category>
+            <category id="18">Аксессуары</category>
+            <category id="19">Подарки и сувениры</category>
+            <category id="1101" parentId="11">Аксессуары для ванной</category>
+            <category id="1102" parentId="11">Полотенца</category>
+            <category id="1103" parentId="11">Коврики</category>
+            <category id="1104" parentId="11">Халаты</category>
+            <category id="1105" parentId="11">Корзины, ящики</category>
+            <category id="1106" parentId="11">Мусорные ведра</category>
+            <category id="1107" parentId="11">Мыло</category>
+            <category id="1201" parentId="12">Кухонные аксессуары</category>
+            <category id="1202" parentId="12">Бар</category>
+            <category id="1203" parentId="12">Приготовление пищи</category>
+            <category id="1204" parentId="12">Кухонный текстиль</category>
+            <category id="1205" parentId="12">Хранение на кухне</category>
+            <category id="1206" parentId="12">Термосы и термокружки</category>
+            <category id="1301" parentId="13">Тарелки и блюдца</category>
+            <category id="1302" parentId="13">Чашки и кружки</category>
+            <category id="1303" parentId="13">Стекло</category>
+            <category id="1304" parentId="13">Столовые приборы</category>
+            <category id="1305" parentId="13">Чайники и кофейники</category>
+            <category id="1306" parentId="13">Аксессуары для чая и кофе</category>
+            <category id="1307" parentId="13">Кувшины и графины</category>
+            <category id="1308" parentId="13">Подносы</category>
+            <category id="1309" parentId="13">Прочая посуда</category>
+            <category id="1401" parentId="14">Пуфы</category>
+            <category id="1402" parentId="14">Столы</category>
+            <category id="1403" parentId="14">Стулья и табуреты</category>
+            <category id="1404" parentId="14">Кресла</category>
+            <category id="1405" parentId="14">Шкафы</category>
+            <category id="1406" parentId="14">Зеркала</category>
+            <category id="1407" parentId="14">Декоративные предметы мебели</category>
+            <category id="1501" parentId="15">Картины и постеры</category>
+            <category id="1502" parentId="15">Свечи и подсвечники</category>
+            <category id="1503" parentId="15">Вазы и декоративные сосуды</category>
+            <category id="1504" parentId="15">Фоторамки</category>
+            <category id="1505" parentId="15">Часы</category>
+            <category id="1506" parentId="15">Шкатулки</category>
+            <category id="1507" parentId="15">Цветочные горшки и кашпо</category>
+            <category id="1508" parentId="15">Искусственные растения</category>
+            <category id="1509" parentId="15">Декоративные аксессуары</category>
+            <category id="1510" parentId="15">Настенный декор</category>
+            <category id="1511" parentId="15">Хранение</category>
+            <category id="1601" parentId="16">Одежда для дома</category>
+            <category id="1602" parentId="16">Покрывала</category>
+            <category id="1603" parentId="16">Подушки</category>
+            <category id="1604" parentId="16">Постельное белье</category>
+            <category id="1605" parentId="16">Пледы</category>
+            <category id="1606" parentId="16">Матрасы</category>
+            <category id="1607" parentId="16">Ковры</category>
+            <category id="1608" parentId="16">Пляжная мода</category>
+            <category id="1701" parentId="17">Светильники</category>
+            <category id="1702" parentId="17">Фонари</category>
+            <category id="1703" parentId="17">Лампы</category>
+            <category id="1704" parentId="17">Люстры</category>
+            <category id="1801" parentId="18">Косметички</category>
+            <category id="1802" parentId="18">Сумки</category>
+            <category id="1803" parentId="18">Зонты</category>
+            <category id="1804" parentId="18">Сумки для шоппинга</category>
+        </categories>
+        <offers>
+            <offer available="true" id="BA520001">
+                <price>2900</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Blush</name>
+                <description>Косметичка Blush</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520001</vendorCode>
+                <dimensions>Высота 11, ширина 12, длина 20</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520001.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>10</stock>
+                <weight>0.164141414141</weight>
+            </offer>
+            <offer available="true" id="BA520002">
+                <price>3640</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Blush</name>
+                <description>Косметичка Blush</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520002</vendorCode>
+                <dimensions>Высота 19, ширина 11, длина 28</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520002.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>13</stock>
+                <weight>0.227272727273</weight>
+            </offer>
+            <offer available="true" id="BA520004">
+                <price>5120</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Black Logo</name>
+                <description>Косметичка Black Logo</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520004</vendorCode>
+                <dimensions>Высота 20, ширина 17, длина 27</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520004.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>9</stock>
+                <weight>0.625</weight>
+            </offer>
+            <offer available="true" id="BA520005">
+                <price>3980</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Black</name>
+                <description>Косметичка Black</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520005</vendorCode>
+                <dimensions>Высота 17, ширина 13, длина 24</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520005.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>11</stock>
+                <weight>0.227272727273</weight>
+            </offer>
+            <offer available="true" id="BA520007">
+                <price>2500</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Black</name>
+                <description>Косметичка Black</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520007</vendorCode>
+                <dimensions>Высота 16, ширина 3,5, длина 22</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520007.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>9</stock>
+                <weight>0.179924242424</weight>
+            </offer>
+            <offer available="true" id="BA520008">
+                <price>3640</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Black</name>
+                <description>Косметичка Black</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520008</vendorCode>
+                <dimensions>Высота 16, ширина 9, длина 24</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520008.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>11</stock>
+                <weight>0.208333333333</weight>
+            </offer>
+            <offer available="true" id="BA520009">
+                <price>4380</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Black</name>
+                <description>Косметичка Black</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520009</vendorCode>
+                <dimensions>Высота 20, ширина 10,5, длина 33</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520009.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>0.30303030303</weight>
+            </offer>
+            <offer available="true" id="BA520010">
+                <price>2920</price>
+                <currencyId>RUR</currencyId>
+                <name>Пенал Nordic Blush</name>
+                <description>Пенал Nordic Blush</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520010</vendorCode>
+                <dimensions>Диаметр 6, длина 20,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520010.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>3</stock>
+                <weight>0.0530303030303</weight>
+            </offer>
+            <offer available="true" id="BA520011">
+                <price>3640</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Minty Stripe</name>
+                <description>Косметичка Minty Stripe</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520011</vendorCode>
+                <dimensions>Высота 19, ширина 11, длина 28</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520011.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>4</stock>
+                <weight>0.189393939394</weight>
+            </offer>
+            <offer available="true" id="BA520017">
+                <price>2500</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Cosmo Dot</name>
+                <description>Косметичка Cosmo Dot</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520017</vendorCode>
+                <dimensions>Высота 9, ширина 9, длина 15</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520017.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>18</stock>
+                <weight>0.0568181818182</weight>
+            </offer>
+            <offer available="true" id="BA520020">
+                <price>2920</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Blush Velvet</name>
+                <description>Косметичка Blush Velvet</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520020</vendorCode>
+                <dimensions>Высота 10,5, ширина 8,5, длина 20</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520020.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>0.121212121212</weight>
+            </offer>
+            <offer available="true" id="BA520022">
+                <price>4380</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Blush Velvet</name>
+                <description>Косметичка Blush Velvet</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520022</vendorCode>
+                <dimensions>Высота 19, ширина 10,5, длина 37</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520022.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>13</stock>
+                <weight>0.277777777778</weight>
+            </offer>
+            <offer available="true" id="BA520023">
+                <price>5120</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Blush Velvet</name>
+                <description>Косметичка Blush Velvet</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520023</vendorCode>
+                <dimensions>Высота 20, ширина 17, длина 27</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520023.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>12</stock>
+                <weight>0.416666666667</weight>
+            </offer>
+            <offer available="true" id="BA520026">
+                <price>4380</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Grey Velvet</name>
+                <description>Косметичка Grey Velvet</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520026</vendorCode>
+                <dimensions>Высота 19, ширина 10,5, длина 37</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520026.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>12</stock>
+                <weight>0.30303030303</weight>
+            </offer>
+            <offer available="true" id="BA520027">
+                <price>5120</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Grey Velvet</name>
+                <description>Косметичка Grey Velvet</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520027</vendorCode>
+                <dimensions>Высота 20, ширина 17, длина 27</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520027.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>15</stock>
+                <weight>0.416666666667</weight>
+            </offer>
+            <offer available="true" id="BA520034">
+                <price>2920</price>
+                <currencyId>RUR</currencyId>
+                <name>Обложка для паспорта Minty Vintage</name>
+                <description>Обложка для паспорта Minty Vintage</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520034</vendorCode>
+                <dimensions>Высота 18, ширина 1, длина 11,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520034.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>1</stock>
+                <weight>0.0909090909091</weight>
+            </offer>
+            <offer available="true" id="BA520040">
+                <price>3640</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Dream Lace</name>
+                <description>Косметичка Dream Lace</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520040</vendorCode>
+                <dimensions>Высота 15, ширина 8,5, длина 23</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520040.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>9</stock>
+                <weight>0.189393939394</weight>
+            </offer>
+            <offer available="true" id="BA520041">
+                <price>2920</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Dream Lace</name>
+                <description>Косметичка Dream Lace</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520041</vendorCode>
+                <dimensions>Высота 12, ширина 7,5, длина 16</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520041.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>14</stock>
+                <weight>0.0909090909091</weight>
+            </offer>
+            <offer available="true" id="BA520043">
+                <price>4120</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Shimmer Quilt</name>
+                <description>Косметичка Shimmer Quilt</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520043</vendorCode>
+                <dimensions>Высота 16, ширина 9, длина 24</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520043.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>3</stock>
+                <weight>0.227272727273</weight>
+            </offer>
+            <offer available="true" id="BA520044">
+                <price>3980</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Shimmer Quilt</name>
+                <description>Косметичка Shimmer Quilt</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520044</vendorCode>
+                <dimensions>Высота 16, ширина 13, длина 24</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520044.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>3</stock>
+                <weight>0.227272727273</weight>
+            </offer>
+            <offer available="true" id="BA520045">
+                <price>3540</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Shimmer Quilt</name>
+                <description>Косметичка Shimmer Quilt</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA520045</vendorCode>
+                <dimensions>Высота 10,5, ширина 12, длина 19</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA520045.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>1</stock>
+                <weight>0.151515151515</weight>
+            </offer>
+            <offer available="true" id="BA610003">
+                <price>4120</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Midnight Blue</name>
+                <description>Косметичка Midnight Blue</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610003</vendorCode>
+                <dimensions>высота 20, ширина 14, длина 26</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610003.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>7</stock>
+                <weight>0.0315656565657</weight>
+            </offer>
+            <offer available="true" id="BA610004">
+                <price>3640</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Midnight Blue</name>
+                <description>Косметичка Midnight Blue</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610004</vendorCode>
+                <dimensions>высота 13, ширина 11,5, длина 20</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610004.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>4</stock>
+                <weight>0.0252525252525</weight>
+            </offer>
+            <offer available="true" id="BA610005">
+                <price>4380</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Midnight Blue</name>
+                <description>Косметичка Midnight Blue</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610005</vendorCode>
+                <dimensions>высота 20, ширина 10,5, длина 33</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610005.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.0568181818182</weight>
+            </offer>
+            <offer available="true" id="BA610006">
+                <price>3640</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Midnight Blue</name>
+                <description>Косметичка Midnight Blue</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610006</vendorCode>
+                <dimensions>высота 16, ширина 9, длина 24</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610006.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>9</stock>
+                <weight>0.0347222222222</weight>
+            </offer>
+            <offer available="true" id="BA610009">
+                <price>4380</price>
+                <currencyId>RUR</currencyId>
+                <name>Кошелёк Powder Knit</name>
+                <description>Кошелёк Powder Knit</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610009</vendorCode>
+                <dimensions>высота 10, ширина 4, длина 19</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610009.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>10</stock>
+                <weight>0.0643939393939</weight>
+            </offer>
+            <offer available="true" id="BA610014">
+                <price>1920</price>
+                <currencyId>RUR</currencyId>
+                <name>Ключница Powder Knit</name>
+                <description>Ключница Powder Knit</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610014</vendorCode>
+                <dimensions>высота 7, ширина 2, длина 10</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610014.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>5</stock>
+                <weight>0.00409090909091</weight>
+            </offer>
+            <offer available="true" id="BA610015">
+                <price>7320</price>
+                <currencyId>RUR</currencyId>
+                <name>Сумка Black</name>
+                <description>Сумка Black</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610015</vendorCode>
+                <dimensions>высота 35, ширина 7, длина 40</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610015.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>1</stock>
+                <weight>0.265151515152</weight>
+            </offer>
+            <offer available="true" id="BA610019">
+                <price>2360</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Blue-Black Lace</name>
+                <description>Косметичка Blue-Black Lace</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610019</vendorCode>
+                <dimensions>высота 10, ширина 9, длина 12</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610019.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>12</stock>
+                <weight>0.00883838383838</weight>
+            </offer>
+            <offer available="true" id="BA610020">
+                <price>2920</price>
+                <currencyId>RUR</currencyId>
+                <name>Органайзер для документов Black Logo</name>
+                <description>Органайзер для документов Black Logo</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610020</vendorCode>
+                <dimensions>высота 12,5, ширина 2, длина 24</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610020.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>15</stock>
+                <weight>0.0340909090909</weight>
+            </offer>
+            <offer available="true" id="BA610021">
+                <price>2920</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Black Logo</name>
+                <description>Косметичка Black Logo</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610021</vendorCode>
+                <dimensions>высота 16, ширина 5, длина 26</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610021.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>11</stock>
+                <weight>0.0176767676768</weight>
+            </offer>
+            <offer available="true" id="BA610022">
+                <price>5120</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Parisienne</name>
+                <description>Косметичка Parisienne</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610022</vendorCode>
+                <dimensions>высота 20, ширина 14, длина 26</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610022.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.0394570707071</weight>
+            </offer>
+            <offer available="true" id="BA610023">
+                <price>4380</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Parisienne</name>
+                <description>Косметичка Parisienne</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610023</vendorCode>
+                <dimensions>высота 13, ширина 11,5, длина 20</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610023.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>13</stock>
+                <weight>0.0265151515152</weight>
+            </offer>
+            <offer available="true" id="BA610027">
+                <price>5120</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Parisienne</name>
+                <description>Косметичка Parisienne</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610027</vendorCode>
+                <dimensions>высота 20, ширина 10,5, длина 33</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610027.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>2</stock>
+                <weight>0.0462962962963</weight>
+            </offer>
+            <offer available="true" id="BA610029">
+                <price>4380</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Black</name>
+                <description>Косметичка Black</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610029</vendorCode>
+                <dimensions>высота 13, ширина 11,5, длина 20</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610029.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>10</stock>
+                <weight>0.0214646464646</weight>
+            </offer>
+            <offer available="true" id="BA610030">
+                <price>3640</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Black</name>
+                <description>Косметичка Black</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610030</vendorCode>
+                <dimensions>высота 16, ширина 5, длина 26</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610030.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>9</stock>
+                <weight>0.0183080808081</weight>
+            </offer>
+            <offer available="true" id="BA610031">
+                <price>3640</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Black</name>
+                <description>Косметичка Black</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610031</vendorCode>
+                <dimensions>высота 9, ширина 8, длина 19</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610031.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>15</stock>
+                <weight>0.0176767676768</weight>
+            </offer>
+            <offer available="true" id="BA610032">
+                <price>4380</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Black</name>
+                <description>Косметичка Black</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610032</vendorCode>
+                <dimensions>высота 16, ширина 9, длина 24</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610032.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>12</stock>
+                <weight>0.0284090909091</weight>
+            </offer>
+            <offer available="true" id="BA610033">
+                <price>5120</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Black</name>
+                <description>Косметичка Black</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610033</vendorCode>
+                <dimensions>высота 20, ширина 10,5, длина 33</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610033.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>14</stock>
+                <weight>0.0420875420875</weight>
+            </offer>
+            <offer available="true" id="BA610034">
+                <price>4380</price>
+                <currencyId>RUR</currencyId>
+                <name>Кошелёк Black</name>
+                <description>Кошелёк Black</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610034</vendorCode>
+                <dimensions>высота 10, ширина 4, длина 19</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610034.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>14</stock>
+                <weight>0.0530303030303</weight>
+            </offer>
+            <offer available="true" id="BA610038">
+                <price>2920</price>
+                <currencyId>RUR</currencyId>
+                <name>Органайзер для документов Powder Logo</name>
+                <description>Органайзер для документов Powder Logo</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610038</vendorCode>
+                <dimensions>высота 12,5, ширина 2, длина 24</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610038.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>9</stock>
+                <weight>0.0366161616162</weight>
+            </offer>
+            <offer available="true" id="BA610039">
+                <price>4380</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Powder Logo</name>
+                <description>Косметичка Powder Logo</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610039</vendorCode>
+                <dimensions>высота 20, ширина 10,5, длина 33</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610039.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>11</stock>
+                <weight>0.0505050505051</weight>
+            </offer>
+            <offer available="true" id="BA610040">
+                <price>3640</price>
+                <currencyId>RUR</currencyId>
+                <name>Косметичка Powder Logo</name>
+                <description>Косметичка Powder Logo</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>BA610040</vendorCode>
+                <dimensions>высота 16, ширина 9, длина 24</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/BA610040.jpg</picture>
+                <categoryId>1801</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>19</stock>
+                <weight>0.0315656565657</weight>
+            </offer>
+            <offer available="true" id="FR520002">
+                <price>2920</price>
+                <currencyId>RUR</currencyId>
+                <name>Фоторамка Silver Crystal</name>
+                <description>Фоторамка Silver Crystal</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR520002</vendorCode>
+                <dimensions>высота 10,3, ширина 1,8, длина 7,8</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR520002.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>10</stock>
+                <weight>0.166666666667</weight>
+            </offer>
+            <offer available="true" id="FR520003">
+                <price>2060</price>
+                <currencyId>RUR</currencyId>
+                <name>Фоторамка</name>
+                <description>Фоторамка</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR520003</vendorCode>
+                <dimensions>Высота 19,2, ширина 1,6, длина 14,2</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR520003.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>3</stock>
+                <weight>0.29797979798</weight>
+            </offer>
+            <offer available="true" id="FR520004">
+                <price>4380</price>
+                <currencyId>RUR</currencyId>
+                <name>Фоторамка</name>
+                <description>Фоторамка</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR520004</vendorCode>
+                <dimensions>высота 17,6, ширина 2, длина 36</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR520004.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>5</stock>
+                <weight>0.762626262626</weight>
+            </offer>
+            <offer available="true" id="FR520008">
+                <price>2920</price>
+                <currencyId>RUR</currencyId>
+                <name>Фоторамка</name>
+                <description>Фоторамка</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR520008</vendorCode>
+                <dimensions>Высота 23,7, ширина 2,1, длина 18,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR520008.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>2</stock>
+                <weight>0.462121212121</weight>
+            </offer>
+            <offer available="true" id="FR520009">
+                <price>2180</price>
+                <currencyId>RUR</currencyId>
+                <name>Фоторамка</name>
+                <description>Фоторамка</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR520009</vendorCode>
+                <dimensions>Высота 12,5, ширина 1,7, длина 12,4</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR520009.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>11</stock>
+                <weight>0.244318181818</weight>
+            </offer>
+            <offer available="true" id="FR520010">
+                <price>2660</price>
+                <currencyId>RUR</currencyId>
+                <name>Фоторамка Silver маленькая</name>
+                <description>Фоторамка Silver маленькая</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR520010</vendorCode>
+                <dimensions>Высота 21,9, ширина 2,3, длина 16,8</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR520010.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>1</stock>
+                <weight>0.371212121212</weight>
+            </offer>
+            <offer available="true" id="FR520011">
+                <price>2920</price>
+                <currencyId>RUR</currencyId>
+                <name>Фоторамка Silver средняя</name>
+                <description>Фоторамка Silver средняя</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR520011</vendorCode>
+                <dimensions>Высота 24,3, ширина 2,3, длина 19,3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR520011.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>4</stock>
+                <weight>0.378787878788</weight>
+            </offer>
+            <offer available="true" id="FR520012">
+                <price>4380</price>
+                <currencyId>RUR</currencyId>
+                <name>Фоторамка Silver большая</name>
+                <description>Фоторамка Silver большая</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR520012</vendorCode>
+                <dimensions>Высота 31,3, ширина 2,5, длина 26,3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR520012.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>5</stock>
+                <weight>0.825757575758</weight>
+            </offer>
+            <offer available="true" id="FR520013">
+                <price>2660</price>
+                <currencyId>RUR</currencyId>
+                <name>Фоторамка Silver с паспарту</name>
+                <description>Фоторамка Silver с паспарту</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR520013</vendorCode>
+                <dimensions>Высота 21, ширина 1,5, длина 16</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR520013.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>4</stock>
+                <weight>0.406565656566</weight>
+            </offer>
+            <offer available="true" id="FR520018">
+                <price>2500</price>
+                <currencyId>RUR</currencyId>
+                <name>Фоторамка Silver</name>
+                <description>Фоторамка Silver</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR520018</vendorCode>
+                <dimensions>Высота 18, ширина 1,8, длина 18,1</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR520018.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>3</stock>
+                <weight>0.397727272727</weight>
+            </offer>
+            <offer available="true" id="FR520025">
+                <price>4380</price>
+                <currencyId>RUR</currencyId>
+                <name>Картина в рамке</name>
+                <description>Картина в рамке</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR520025</vendorCode>
+                <dimensions>Высота 35,5, ширина 1,7, длина 27</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR520025.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>3</stock>
+                <weight>0.530303030303</weight>
+            </offer>
+            <offer available="true" id="FR520026">
+                <price>4380</price>
+                <currencyId>RUR</currencyId>
+                <name>Картина в рамке</name>
+                <description>Картина в рамке</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR520026</vendorCode>
+                <dimensions>высота 33,5, длина 25,5, ширина 1,8</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR520026.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>3</stock>
+                <weight>0.681818181818</weight>
+            </offer>
+            <offer available="true" id="FR520030">
+                <price>3640</price>
+                <currencyId>RUR</currencyId>
+                <name>Фоторамка</name>
+                <description>Фоторамка</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR520030</vendorCode>
+                <dimensions>высота 24, ширина 1, длина 19</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR520030.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>3</stock>
+                <weight>0.738636363636</weight>
+            </offer>
+            <offer available="true" id="FR610001">
+                <price>1760</price>
+                <currencyId>RUR</currencyId>
+                <name>Рамка Silver</name>
+                <description>Рамка Silver</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR610001</vendorCode>
+                <dimensions>высота 15,3, длина 10,4</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR610001.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>5</stock>
+                <weight>0.0350378787879</weight>
+            </offer>
+            <offer available="true" id="FR610002">
+                <price>2060</price>
+                <currencyId>RUR</currencyId>
+                <name>Рамка Silver</name>
+                <description>Рамка Silver</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR610002</vendorCode>
+                <dimensions>высота 18,1, длина 13</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR610002.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>5</stock>
+                <weight>0.0526094276094</weight>
+            </offer>
+            <offer available="true" id="FR610003">
+                <price>2340</price>
+                <currencyId>RUR</currencyId>
+                <name>Рамка Silver</name>
+                <description>Рамка Silver</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR610003</vendorCode>
+                <dimensions>высота 18,1, длина 13</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR610003.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>1</stock>
+                <weight>0.0526094276094</weight>
+            </offer>
+            <offer available="true" id="FR610005">
+                <price>3380</price>
+                <currencyId>RUR</currencyId>
+                <name>Рамка Silver</name>
+                <description>Рамка Silver</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR610005</vendorCode>
+                <dimensions>высота 25,7, длина 20,7</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR610005.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>5</stock>
+                <weight>0.102272727273</weight>
+            </offer>
+            <offer available="true" id="FR610006">
+                <price>3680</price>
+                <currencyId>RUR</currencyId>
+                <name>Рамка Silver</name>
+                <description>Рамка Silver</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR610006</vendorCode>
+                <dimensions>высота 30,9, длина 25,6</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR610006.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>2</stock>
+                <weight>0.21875</weight>
+            </offer>
+            <offer available="true" id="FR610008">
+                <price>1760</price>
+                <currencyId>RUR</currencyId>
+                <name>Рамка Gold</name>
+                <description>Рамка Gold</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR610008</vendorCode>
+                <dimensions>Ширина 10,4, длина 15,3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR610008.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>0.0350378787879</weight>
+            </offer>
+            <offer available="true" id="FR610010">
+                <price>2340</price>
+                <currencyId>RUR</currencyId>
+                <name>Рамка Gold</name>
+                <description>Рамка Gold</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR610010</vendorCode>
+                <dimensions>Ширина 13, длина 18,1</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR610010.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>4</stock>
+                <weight>0.0526094276094</weight>
+            </offer>
+            <offer available="true" id="FR610011">
+                <price>2640</price>
+                <currencyId>RUR</currencyId>
+                <name>Рамка Gold</name>
+                <description>Рамка Gold</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR610011</vendorCode>
+                <dimensions>Ширина 15,7, длина 20,8</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR610011.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>4</stock>
+                <weight>0.0656565656566</weight>
+            </offer>
+            <offer available="true" id="FR610016">
+                <price>3240</price>
+                <currencyId>RUR</currencyId>
+                <name>Рамка Gold</name>
+                <description>Рамка Gold</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR610016</vendorCode>
+                <dimensions>Ширина 20,7, длина 25,7</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR610016.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>2</stock>
+                <weight>0.102272727273</weight>
+            </offer>
+            <offer available="true" id="FR610022">
+                <price>2940</price>
+                <currencyId>RUR</currencyId>
+                <name>Рамка Copper</name>
+                <description>Рамка Copper</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR610022</vendorCode>
+                <dimensions>Ширина 15,7, длина 20,8</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR610022.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>5</stock>
+                <weight>0.0774410774411</weight>
+            </offer>
+            <offer available="true" id="FR610023">
+                <price>3680</price>
+                <currencyId>RUR</currencyId>
+                <name>Рамка Copper</name>
+                <description>Рамка Copper</description>
+                <vendor>Molly Marais</vendor>
+                <vendorCode>FR610023</vendorCode>
+                <dimensions>Ширина 18, длина 23,1</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Molly Marais/FR610023.jpg</picture>
+                <categoryId>1504</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>2</stock>
+                <weight>0.0959595959596</weight>
+            </offer>
+            <offer available="true" id="DO200507">
+                <price>1280</price>
+                <currencyId>RUR</currencyId>
+                <name>Штопор Stiletto</name>
+                <description>Штопор Stiletto</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200507</vendorCode>
+                <dimensions>Высота 4, ширина 9, длина 10</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200507.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>48</stock>
+                <weight>0.245454545455</weight>
+            </offer>
+            <offer available="true" id="DO200508">
+                <price>1280</price>
+                <currencyId>RUR</currencyId>
+                <name>Штопор Stiletto</name>
+                <description>Штопор Stiletto</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200508</vendorCode>
+                <dimensions>Высота 4, ширина 9, длина 10</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200508.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>7</stock>
+                <weight>0.245454545455</weight>
+            </offer>
+            <offer available="true" id="DO200509">
+                <price>1280</price>
+                <currencyId>RUR</currencyId>
+                <name>Штопор Stiletto</name>
+                <description>Штопор Stiletto</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200509</vendorCode>
+                <dimensions>Высота 4, ширина 9, длина 10</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200509.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>13</stock>
+                <weight>0.245454545455</weight>
+            </offer>
+            <offer available="true" id="DO200522">
+                <price>1100</price>
+                <currencyId>RUR</currencyId>
+                <name>Пробка для бутылки Rufus</name>
+                <description>Пробка для бутылки Rufus</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200522</vendorCode>
+                <dimensions>Высота 3,5, ширина 6,5, длина 9</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200522.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>64</stock>
+                <weight>0.06</weight>
+            </offer>
+            <offer available="true" id="DO200529">
+                <price>1100</price>
+                <currencyId>RUR</currencyId>
+                <name>Пробка для бутылки BullPower</name>
+                <description>Пробка для бутылки BullPower</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200529</vendorCode>
+                <dimensions>Высота 5,5, ширина 7,6, длина 8</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200529.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>47</stock>
+                <weight>0.0681818181818</weight>
+            </offer>
+            <offer available="true" id="DO200542">
+                <price>1280</price>
+                <currencyId>RUR</currencyId>
+                <name>Пробка для бутылки Shorty
+                </name>
+                <description>Пробка для бутылки Shorty
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200542</vendorCode>
+                <dimensions>Высота 7, ширина 5, длина 5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200542.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>25</stock>
+                <weight>0.109090909091</weight>
+            </offer>
+            <offer available="true" id="DO200543">
+                <price>1700</price>
+                <currencyId>RUR</currencyId>
+                <name>Насадка для бутылки Champagne Shower</name>
+                <description>Насадка для бутылки Champagne Shower</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200543</vendorCode>
+                <dimensions>Высота 7,5, ширина 7,5, длина 10</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200543.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>17</stock>
+                <weight>0.190909090909</weight>
+            </offer>
+            <offer available="true" id="DO200563">
+                <price>1460</price>
+                <currencyId>RUR</currencyId>
+                <name>Соковыжималка для цитрусовых Cactus Juicer</name>
+                <description>Соковыжималка для цитрусовых Cactus Juicer</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200563</vendorCode>
+                <dimensions>Высота 16, ширина 10,5, длина 11</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200563.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>53</stock>
+                <weight>0.423</weight>
+            </offer>
+            <offer available="true" id="DO200581">
+                <price>1040</price>
+                <currencyId>RUR</currencyId>
+                <name>Формочка для печенья Cookie-Tape</name>
+                <description>Формочка для печенья Cookie-Tape</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200581</vendorCode>
+                <dimensions>Высота 2,5, ширина 6,5, длина 10,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200581.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>80</stock>
+                <weight>0.0745454545455</weight>
+            </offer>
+            <offer available="true" id="DO200583">
+                <price>1040</price>
+                <currencyId>RUR</currencyId>
+                <name>Формочка для печенья Cookie Cam</name>
+                <description>Формочка для печенья Cookie Cam</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200583</vendorCode>
+                <dimensions>Высота 2,5, ширина 7, длина 11</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200583.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>3</stock>
+                <weight>0.07</weight>
+            </offer>
+            <offer available="true" id="DO200586">
+                <price>1040</price>
+                <currencyId>RUR</currencyId>
+                <name>Формочка для печенья Sneaker Cookie
+                </name>
+                <description>Формочка для печенья Sneaker Cookie
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200586</vendorCode>
+                <dimensions>Высота 2,5, ширина 6,2, длина 11,2</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200586.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>23</stock>
+                <weight>0.0572727272727</weight>
+            </offer>
+            <offer available="true" id="DO200601">
+                <price>920</price>
+                <currencyId>RUR</currencyId>
+                <name>Чехол для яиц Egg Bandit
+                </name>
+                <description>Чехол для яиц Egg Bandit
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200601</vendorCode>
+                <dimensions>Высота 5, ширина 6,5, длина 5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200601.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>3</stock>
+                <weight>0.0236363636364</weight>
+            </offer>
+            <offer available="true" id="DO200602">
+                <price>920</price>
+                <currencyId>RUR</currencyId>
+                <name>Чехол для яиц Egg Bandit
+                </name>
+                <description>Чехол для яиц Egg Bandit
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200602</vendorCode>
+                <dimensions>Высота 5, ширина 6,5, длина 5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200602.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>10</stock>
+                <weight>0.0254545454545</weight>
+            </offer>
+            <offer available="true" id="DO200603">
+                <price>920</price>
+                <currencyId>RUR</currencyId>
+                <name>Чехол для яиц Egg Bandit
+                </name>
+                <description>Чехол для яиц Egg Bandit
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200603</vendorCode>
+                <dimensions>Высота 5, ширина 6,5, длина 5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200603.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.0245454545455</weight>
+            </offer>
+            <offer available="true" id="DO200604">
+                <price>920</price>
+                <currencyId>RUR</currencyId>
+                <name>Чехол для яиц Egg Bandit
+                </name>
+                <description>Чехол для яиц Egg Bandit
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200604</vendorCode>
+                <dimensions>Высота 5, ширина 6,5, длина 5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200604.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>11</stock>
+                <weight>0.0254545454545</weight>
+            </offer>
+            <offer available="true" id="DO200613">
+                <price>920</price>
+                <currencyId>RUR</currencyId>
+                <name>Чехол для яиц Egg Bandit
+                </name>
+                <description>Чехол для яиц Egg Bandit
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200613</vendorCode>
+                <dimensions>Высота 6, ширина 6, длина 6</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200613.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>13</stock>
+                <weight>0.0272727272727</weight>
+            </offer>
+            <offer available="true" id="DO200618">
+                <price>920</price>
+                <currencyId>RUR</currencyId>
+                <name>Чехол для яиц Egg Bandit
+                </name>
+                <description>Чехол для яиц Egg Bandit
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200618</vendorCode>
+                <dimensions>Высота 5, ширина 6,5, длина 5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200618.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>9</stock>
+                <weight>0.0245454545455</weight>
+            </offer>
+            <offer available="true" id="DO200619">
+                <price>920</price>
+                <currencyId>RUR</currencyId>
+                <name>Чехол для яиц Egg Bandit
+                </name>
+                <description>Чехол для яиц Egg Bandit
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200619</vendorCode>
+                <dimensions>Высота 5, ширина 6,5, длина 5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200619.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>9</stock>
+                <weight>0.0245454545455</weight>
+            </offer>
+            <offer available="true" id="DO200621">
+                <price>920</price>
+                <currencyId>RUR</currencyId>
+                <name>Чехол для яиц Egg Bandit
+                </name>
+                <description>Чехол для яиц Egg Bandit
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200621</vendorCode>
+                <dimensions>Высота 5, ширина 6,5, длина 5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200621.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>12</stock>
+                <weight>0.0254545454545</weight>
+            </offer>
+            <offer available="true" id="DO200701">
+                <price>1000</price>
+                <currencyId>RUR</currencyId>
+                <name>Ланч бокс Lunch Boy</name>
+                <description>Ланч бокс Lunch Boy</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200701</vendorCode>
+                <dimensions>Высота 6,5, ширина 12,5, длина 17</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200701.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Швейцария</country_of_origin>
+                <stock>21</stock>
+                <weight>0.0818181818182</weight>
+            </offer>
+            <offer available="true" id="DO200704">
+                <price>1000</price>
+                <currencyId>RUR</currencyId>
+                <name>Ланч бокс Safety Food</name>
+                <description>Ланч бокс Safety Food</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200704</vendorCode>
+                <dimensions>Высота 6,5, ширина 12,5, длина 17</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200704.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>24</stock>
+                <weight>0.0818181818182</weight>
+            </offer>
+            <offer available="true" id="DO200705">
+                <price>1000</price>
+                <currencyId>RUR</currencyId>
+                <name>Ланч бокс Lunch Break
+                </name>
+                <description>Ланч бокс Lunch Break
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO200705</vendorCode>
+                <dimensions>Высота 6,5, ширина 12,5, длина 17</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO200705.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>29</stock>
+                <weight>0.0818181818182</weight>
+            </offer>
+            <offer available="true" id="DO210105">
+                <price>1040</price>
+                <currencyId>RUR</currencyId>
+                <name>Кружка Piggy
+                </name>
+                <description>Кружка Piggy
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210105</vendorCode>
+                <dimensions>Высота 7,3, ширина 7,3, длина 9,2</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210105.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>86</stock>
+                <weight>0.295454545455</weight>
+            </offer>
+            <offer available="true" id="DO210107">
+                <price>1040</price>
+                <currencyId>RUR</currencyId>
+                <name>Кружка Soother</name>
+                <description>Кружка Soother</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210107</vendorCode>
+                <dimensions>Высота 7,3, ширина 7,3, длина 9,2</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210107.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>50</stock>
+                <weight>0.295454545455</weight>
+            </offer>
+            <offer available="true" id="DO210108">
+                <price>1040</price>
+                <currencyId>RUR</currencyId>
+                <name>Кружка Save Water</name>
+                <description>Кружка Save Water</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210108</vendorCode>
+                <dimensions>Высота 7,3, ширина 7,3, длина 9,2</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210108.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>20</stock>
+                <weight>0.295454545455</weight>
+            </offer>
+            <offer available="true" id="DO210123">
+                <price>1280</price>
+                <currencyId>RUR</currencyId>
+                <name>Тарелка Wurst-O-Meter</name>
+                <description>Тарелка Wurst-O-Meter</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210123</vendorCode>
+                <dimensions>Высота 2, ширина 8,5, длина 30,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210123.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>18</stock>
+                <weight>0.383636363636</weight>
+            </offer>
+            <offer available="true" id="DO210124">
+                <price>1280</price>
+                <currencyId>RUR</currencyId>
+                <name>Тарелка Extrawurst</name>
+                <description>Тарелка Extrawurst</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210124</vendorCode>
+                <dimensions>Высота 2, ширина 8,5, длина 30,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210124.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>9</stock>
+                <weight>0.383636363636</weight>
+            </offer>
+            <offer available="true" id="DO210212">
+                <price>980</price>
+                <currencyId>RUR</currencyId>
+                <name>Кружка эмалированная #Enamel Quotes - Today
+                </name>
+                <description>Кружка эмалированная #Enamel Quotes - Today
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210212</vendorCode>
+                <dimensions>Высота 7,5 , ширина 11,5, длина 9</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210212.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>5</stock>
+                <weight>0.095</weight>
+            </offer>
+            <offer available="true" id="DO210213">
+                <price>980</price>
+                <currencyId>RUR</currencyId>
+                <name>Кружка эмалированная #Enamel Quotes - Life is beautiful / enamelmug</name>
+                <description>Кружка эмалированная #Enamel Quotes - Life is beautiful / enamelmug</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210213</vendorCode>
+                <dimensions>Высота 7,5 , ширина 11,5, длина 9</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210213.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>3</stock>
+                <weight>0.095</weight>
+            </offer>
+            <offer available="true" id="DO210303">
+                <price>1940</price>
+                <currencyId>RUR</currencyId>
+                <name>Кружка Morning Hero</name>
+                <description>Кружка Morning Hero</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210303</vendorCode>
+                <dimensions>Высота 9, ширина 9, длина 12</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210303.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>58</stock>
+                <weight>0.295454545455</weight>
+            </offer>
+            <offer available="true" id="DO210304">
+                <price>1940</price>
+                <currencyId>RUR</currencyId>
+                <name>Кружка Morning Gangster</name>
+                <description>Кружка Morning Gangster</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210304</vendorCode>
+                <dimensions>Высота 9, ширина 9, длина 12</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210304.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>58</stock>
+                <weight>0.295454545455</weight>
+            </offer>
+            <offer available="true" id="DO210315">
+                <price>1280</price>
+                <currencyId>RUR</currencyId>
+                <name>Подставка для рюмки-шота Get Away Car</name>
+                <description>Подставка для рюмки-шота Get Away Car</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210315</vendorCode>
+                <dimensions>Высота 5, ширина 9, длина 10</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210315.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>62</stock>
+                <weight>0.175454545455</weight>
+            </offer>
+            <offer available="true" id="DO210316">
+                <price>1640</price>
+                <currencyId>RUR</currencyId>
+                <name>Подставка для 2-х рюмок-шотов Thirst Quencher</name>
+                <description>Подставка для 2-х рюмок-шотов Thirst Quencher</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210316</vendorCode>
+                <dimensions>Высота 5, ширина 13, длина 10</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210316.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>67</stock>
+                <weight>0.32</weight>
+            </offer>
+            <offer available="true" id="DO210327">
+                <price>1320</price>
+                <currencyId>RUR</currencyId>
+                <name>Кружка с отделением для печенья</name>
+                <description>Кружка с отделением для печенья</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210327</vendorCode>
+                <dimensions>Высота 11,7, ширина 8,3, длина 13,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210327.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>39</stock>
+                <weight>0.363636363636</weight>
+            </offer>
+            <offer available="true" id="DO210361">
+                <price>880</price>
+                <currencyId>RUR</currencyId>
+                <name>Подставка для яйца Berta</name>
+                <description>Подставка для яйца Berta</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210361</vendorCode>
+                <dimensions>Высота 5,5, ширина 5, длина 5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210361.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>3</stock>
+                <weight>0.0718181818182</weight>
+            </offer>
+            <offer available="true" id="DO210364">
+                <price>880</price>
+                <currencyId>RUR</currencyId>
+                <name>Подставка для яйца Apollo Egg</name>
+                <description>Подставка для яйца Apollo Egg</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210364</vendorCode>
+                <dimensions>Высота 4,5, ширина 5,5, длина 5,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210364.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>7</stock>
+                <weight>0.0663636363636</weight>
+            </offer>
+            <offer available="true" id="DO210365">
+                <price>880</price>
+                <currencyId>RUR</currencyId>
+                <name>Подставка для яйца E2-G2</name>
+                <description>Подставка для яйца E2-G2</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210365</vendorCode>
+                <dimensions>Высота 4, ширина 5,5, длина 6,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210365.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>5</stock>
+                <weight>0.135454545455</weight>
+            </offer>
+            <offer available="true" id="DO210701">
+                <price>1540</price>
+                <currencyId>RUR</currencyId>
+                <name>Набор из солонки и перечницы Speed &amp; Cocaine</name>
+                <description>Набор из солонки и перечницы Speed &amp; Cocaine</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210701</vendorCode>
+                <dimensions>Высота 9, ширина 3,5, длина 3,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210701.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>19</stock>
+                <weight>0.148181818182</weight>
+            </offer>
+            <offer available="true" id="DO210702">
+                <price>1540</price>
+                <currencyId>RUR</currencyId>
+                <name>Набор из солонки и перечницы Spicy Graffiti</name>
+                <description>Набор из солонки и перечницы Spicy Graffiti</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO210702</vendorCode>
+                <dimensions>Высота 11,5, ширина 5, длина 5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO210702.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>14</stock>
+                <weight>0.218181818182</weight>
+            </offer>
+            <offer available="true" id="DO220206">
+                <price>720</price>
+                <currencyId>RUR</currencyId>
+                <name>Набор из 6-ти свечек Birthday</name>
+                <description>Набор из 6-ти свечек Birthday</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO220206</vendorCode>
+                <dimensions>Высота 2,7, ширина 8, длина 8</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO220206.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>0.1</weight>
+            </offer>
+            <offer available="true" id="DO220451">
+                <price>540</price>
+                <currencyId>RUR</currencyId>
+                <name>Набор из 6-ти свечек Happy Birthday</name>
+                <description>Набор из 6-ти свечек Happy Birthday</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO220451</vendorCode>
+                <dimensions>Высота 2,5, ширина 6,5, длина 6,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO220451.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>19</stock>
+                <weight>0.0490909090909</weight>
+            </offer>
+            <offer available="true" id="DO220453">
+                <price>540</price>
+                <currencyId>RUR</currencyId>
+                <name>Набор из 4-х свечек Love</name>
+                <description>Набор из 4-х свечек Love</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO220453</vendorCode>
+                <dimensions>Высота 2,5, ширина 6,5, длина 6,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO220453.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>3</stock>
+                <weight>0.0545454545455</weight>
+            </offer>
+            <offer available="true" id="DO220455">
+                <price>540</price>
+                <currencyId>RUR</currencyId>
+                <name>Набор из 5-ти свечек Thank you
+                </name>
+                <description>Набор из 5-ти свечек Thank you
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO220455</vendorCode>
+                <dimensions>Высота 2,5, ширина 6,5, длина 6,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO220455.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>7</stock>
+                <weight>0.0490909090909</weight>
+            </offer>
+            <offer available="true" id="DO220456">
+                <price>540</price>
+                <currencyId>RUR</currencyId>
+                <name>Набор из 2-х свечек Keep Smiling</name>
+                <description>Набор из 2-х свечек Keep Smiling</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO220456</vendorCode>
+                <dimensions>Высота 2,5, ширина 6,5, длина 6,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO220456.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.06</weight>
+            </offer>
+            <offer available="true" id="DO220602">
+                <price>1280</price>
+                <currencyId>RUR</currencyId>
+                <name>Свечка
+                </name>
+                <description>Свечка
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO220602</vendorCode>
+                <dimensions>Высота 24, ширина 7,5, длина 7,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO220602.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>10</stock>
+                <weight>0.157272727273</weight>
+            </offer>
+            <offer available="true" id="DO220603">
+                <price>1280</price>
+                <currencyId>RUR</currencyId>
+                <name>Свечка
+                </name>
+                <description>Свечка
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO220603</vendorCode>
+                <dimensions>Высота 24, ширина 7,5, длина 7,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO220603.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>0.157272727273</weight>
+            </offer>
+            <offer available="true" id="DO220604">
+                <price>1280</price>
+                <currencyId>RUR</currencyId>
+                <name>Свечка
+                </name>
+                <description>Свечка
+                </description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO220604</vendorCode>
+                <dimensions>Высота 24, ширина 7,5, длина 7,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO220604.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>9</stock>
+                <weight>0.157272727273</weight>
+            </offer>
+            <offer available="true" id="DO300720">
+                <price>880</price>
+                <currencyId>RUR</currencyId>
+                <name>Открывашка для бутылки Bike-Multi-Tool-Bottle</name>
+                <description>Открывашка для бутылки Bike-Multi-Tool-Bottle</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO300720</vendorCode>
+                <dimensions>Высота 0,5, ширина 6, длина 16</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO300720.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>18</stock>
+                <weight>0.0963636363636</weight>
+            </offer>
+            <offer available="true" id="DO300721">
+                <price>880</price>
+                <currencyId>RUR</currencyId>
+                <name>Открывашка для бутылки Bike-Multi-Tool-Bottle</name>
+                <description>Открывашка для бутылки Bike-Multi-Tool-Bottle</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO300721</vendorCode>
+                <dimensions>Высота 0,5, ширина 6, длина 16</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO300721.jpg</picture>
+                <categoryId>1201</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>39</stock>
+                <weight>0.0963636363636</weight>
+            </offer>
+            <offer available="true" id="DO300998">
+                <price>2080</price>
+                <currencyId>RUR</currencyId>
+                <name>Подушка для офиса Nerd Nap</name>
+                <description>Подушка для офиса Nerd Nap</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO300998</vendorCode>
+                <dimensions>Высота 7, ширина 27, длина 33</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO300998.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>36</stock>
+                <weight>0.303636363636</weight>
+            </offer>
+            <offer available="true" id="DO300999">
+                <price>2080</price>
+                <currencyId>RUR</currencyId>
+                <name>Подушка для офиса Power Nap</name>
+                <description>Подушка для офиса Power Nap</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO300999</vendorCode>
+                <dimensions>Высота 9, ширина 36, длина 25</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO300999.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>23</stock>
+                <weight>0.347272727273</weight>
+            </offer>
+            <offer available="true" id="DO330802">
+                <price>1660</price>
+                <currencyId>RUR</currencyId>
+                <name>Набор для пинг понга Ping Pong Patrol</name>
+                <description>Набор для пинг понга Ping Pong Patrol</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO330802</vendorCode>
+                <dimensions>Высота 2, ширина 16, длина 26</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO330802.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.213636363636</weight>
+            </offer>
+            <offer available="true" id="DO340002">
+                <price>800</price>
+                <currencyId>RUR</currencyId>
+                <name>Воздушный змей Captain Q. Fred</name>
+                <description>Воздушный змей Captain Q. Fred</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO340002</vendorCode>
+                <dimensions>Высота 2,6, ширина 8,6, длина 8,6</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO340002.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>3</stock>
+                <weight>0.0536363636364</weight>
+            </offer>
+            <offer available="true" id="DO400254">
+                <price>2440</price>
+                <currencyId>RUR</currencyId>
+                <name>Набор из кружки и ложки Twogether Forever</name>
+                <description>Набор из кружки и ложки Twogether Forever</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO400254</vendorCode>
+                <dimensions>Высота 7,3, ширина 7,3, длина 9,2</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO400254.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>12</stock>
+                <weight>0.436363636364</weight>
+            </offer>
+            <offer available="true" id="DO500110">
+                <price>780</price>
+                <currencyId>RUR</currencyId>
+                <name>Набор из 3-х растопок Burn your Dollar</name>
+                <description>Набор из 3-х растопок Burn your Dollar</description>
+                <vendor>Donkey</vendor>
+                <vendorCode>DO500110</vendorCode>
+                <dimensions>Высота 10, ширина 3, длина 9</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Donkey/DO500110.jpg</picture>
+                <categoryId>19</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>4</stock>
+                <weight>0.166363636364</weight>
+            </offer>
+            <offer available="true" id="ALMBMM-05">
+                <price>10520</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной ALMA 60x100</name>
+                <description>Коврик для ванной ALMA 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ALMBMM-05</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ALMBMM-05.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>7</stock>
+                <weight>1.68</weight>
+            </offer>
+            <offer available="true" id="ALMBMM-10">
+                <price>10520</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной ALMA 60x100</name>
+                <description>Коврик для ванной ALMA 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ALMBMM-10</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ALMBMM-10.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>6</stock>
+                <weight>1.56</weight>
+            </offer>
+            <offer available="true" id="ALMBMM-11">
+                <price>10520</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной ALMA 60x100</name>
+                <description>Коврик для ванной ALMA 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ALMBMM-11</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ALMBMM-11.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>8</stock>
+                <weight>1.68</weight>
+            </offer>
+            <offer available="true" id="ALMBMM-14">
+                <price>10520</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной ALMA 60x100</name>
+                <description>Коврик для ванной ALMA 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ALMBMM-14</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ALMBMM-14.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>6</stock>
+                <weight>1.68</weight>
+            </offer>
+            <offer available="true" id="ALMBMM-98">
+                <price>10520</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной ALMA 60x100</name>
+                <description>Коврик для ванной ALMA 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ALMBMM-98</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ALMBMM-98.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>4</stock>
+                <weight>1.68</weight>
+            </offer>
+            <offer available="true" id="ANDBMM-43">
+                <price>8420</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной ANDROS 60x100</name>
+                <description>Коврик для ванной ANDROS 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ANDBMM-43</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ANDBMM-43.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>11</stock>
+                <weight>0.9</weight>
+            </offer>
+            <offer available="true" id="ANDBMM-93">
+                <price>8420</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной ANDROS 60x100</name>
+                <description>Коврик для ванной ANDROS 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ANDBMM-93</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ANDBMM-93.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>4</stock>
+                <weight>0.9</weight>
+            </offer>
+            <offer available="true" id="ANDBMM-98">
+                <price>8420</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной ANDROS 60x100</name>
+                <description>Коврик для ванной ANDROS 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ANDBMM-98</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ANDBMM-98.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>9</stock>
+                <weight>0.9</weight>
+            </offer>
+            <offer available="true" id="ARNBMM-95">
+                <price>7720</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной ARNO 60x100</name>
+                <description>Коврик для ванной ARNO 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ARNBMM-95</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ARNBMM-95.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Болгария</country_of_origin>
+                <stock>4</stock>
+                <weight>0.87</weight>
+            </offer>
+            <offer available="true" id="AROCOS-90">
+                <price>3500</price>
+                <currencyId>RUR</currencyId>
+                <name>Шкатулка для косметических принадлежностей ARONA
+                </name>
+                <description>Шкатулка для косметических принадлежностей ARONA
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>AROCOS-90</vendorCode>
+                <dimensions>диаметр 11, высота 10,3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/AROCOS-90.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>0.701818181818</weight>
+            </offer>
+            <offer available="true" id="ARODIS-90">
+                <price>4900</price>
+                <currencyId>RUR</currencyId>
+                <name>Дозатор для мыла ARONA
+                </name>
+                <description>Дозатор для мыла ARONA
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ARODIS-90</vendorCode>
+                <dimensions>диаметр 10,2, высота 15,9</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ARODIS-90.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>0.296363636364</weight>
+            </offer>
+            <offer available="true" id="AROTRA-90">
+                <price>8300</price>
+                <currencyId>RUR</currencyId>
+                <name>Поднос ARONA
+                </name>
+                <description>Поднос ARONA
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>AROTRA-90</vendorCode>
+                <dimensions>диаметр 30, высота 3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/AROTRA-90.jpg</picture>
+                <categoryId>1308</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>0.391818181818</weight>
+            </offer>
+            <offer available="true" id="AROTUM-90">
+                <price>3080</price>
+                <currencyId>RUR</currencyId>
+                <name>Стакан для зубных щёток ARONA
+                </name>
+                <description>Стакан для зубных щёток ARONA
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>AROTUM-90</vendorCode>
+                <dimensions>диаметр 8,5, высота 10,3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/AROTUM-90.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>0.28</weight>
+            </offer>
+            <offer available="true" id="CESBMM-10">
+                <price>8420</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной CESAR 60x100</name>
+                <description>Коврик для ванной CESAR 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CESBMM-10</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CESBMM-10.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>4</stock>
+                <weight>1.8</weight>
+            </offer>
+            <offer available="true" id="CESBMM-91">
+                <price>8420</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной CESAR 60x100</name>
+                <description>Коврик для ванной CESAR 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CESBMM-91</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CESBMM-91.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>4</stock>
+                <weight>1.8</weight>
+            </offer>
+            <offer available="true" id="CLEBHR-68">
+                <price>5620</price>
+                <currencyId>RUR</currencyId>
+                <name>Ершик для ванной комнаты CLEO</name>
+                <description>Ершик для ванной комнаты CLEO</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CLEBHR-68</vendorCode>
+                <dimensions>диаметр 9 , высота 25.3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CLEBHR-68.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>12</stock>
+                <weight>0.48</weight>
+            </offer>
+            <offer available="true" id="CLEBHR-85">
+                <price>5620</price>
+                <currencyId>RUR</currencyId>
+                <name>Ершик для ванной комнаты CLEO</name>
+                <description>Ершик для ванной комнаты CLEO</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CLEBHR-85</vendorCode>
+                <dimensions>диаметр 9 , высота 25.3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CLEBHR-85.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>10</stock>
+                <weight>0.48</weight>
+            </offer>
+            <offer available="true" id="CLEDIS-68">
+                <price>3080</price>
+                <currencyId>RUR</currencyId>
+                <name>Дозатор CLEO</name>
+                <description>Дозатор CLEO</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CLEDIS-68</vendorCode>
+                <dimensions>диаметр 11, высота 11</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CLEDIS-68.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>9</stock>
+                <weight>0.22</weight>
+            </offer>
+            <offer available="true" id="CLEDIS-85">
+                <price>3080</price>
+                <currencyId>RUR</currencyId>
+                <name>Дозатор CLEO</name>
+                <description>Дозатор CLEO</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CLEDIS-85</vendorCode>
+                <dimensions>диаметр 11, высота 11</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CLEDIS-85.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>7</stock>
+                <weight>0.22</weight>
+            </offer>
+            <offer available="true" id="CLESDI-68">
+                <price>1820</price>
+                <currencyId>RUR</currencyId>
+                <name>Мыльница CLEO</name>
+                <description>Мыльница CLEO</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CLESDI-68</vendorCode>
+                <dimensions>диаметр 12, высота 3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CLESDI-68.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>12</stock>
+                <weight>0.12</weight>
+            </offer>
+            <offer available="true" id="CLESDI-85">
+                <price>1820</price>
+                <currencyId>RUR</currencyId>
+                <name>Мыльница CLEO</name>
+                <description>Мыльница CLEO</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CLESDI-85</vendorCode>
+                <dimensions>диаметр 12, высота 3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CLESDI-85.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>10</stock>
+                <weight>0.12</weight>
+            </offer>
+            <offer available="true" id="CLETUM-68">
+                <price>1620</price>
+                <currencyId>RUR</currencyId>
+                <name>Стакан для зубных щеток CLEO</name>
+                <description>Стакан для зубных щеток CLEO</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CLETUM-68</vendorCode>
+                <dimensions>диаметр 7,8, высота 11</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CLETUM-68.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.12</weight>
+            </offer>
+            <offer available="true" id="CLETUM-85">
+                <price>1620</price>
+                <currencyId>RUR</currencyId>
+                <name>Стакан для зубных щеток CLEO</name>
+                <description>Стакан для зубных щеток CLEO</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CLETUM-85</vendorCode>
+                <dimensions>диаметр 7,8, высота 11</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CLETUM-85.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>0.12</weight>
+            </offer>
+            <offer available="true" id="CONBHR-15">
+                <price>8420</price>
+                <currencyId>RUR</currencyId>
+                <name>Ершик для ванной комнаты CONOR</name>
+                <description>Ершик для ванной комнаты CONOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CONBHR-15</vendorCode>
+                <dimensions>диаметр 11,5, высота 18,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CONBHR-15.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>10</stock>
+                <weight>2.86</weight>
+            </offer>
+            <offer available="true" id="CONBOW-15">
+                <price>6740</price>
+                <currencyId>RUR</currencyId>
+                <name>Чаша CONOR</name>
+                <description>Чаша CONOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CONBOW-15</vendorCode>
+                <dimensions>диаметр 25, высота 7</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CONBOW-15.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>10</stock>
+                <weight>2.53</weight>
+            </offer>
+            <offer available="true" id="CONCPH-15">
+                <price>5280</price>
+                <currencyId>RUR</currencyId>
+                <name>Держатель для ватных дисков CONOR</name>
+                <description>Держатель для ватных дисков CONOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CONCPH-15</vendorCode>
+                <dimensions>диаметр 7,8, высота 19,2</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CONCPH-15.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>8</stock>
+                <weight>1.32</weight>
+            </offer>
+            <offer available="true" id="CONDIS-15">
+                <price>5620</price>
+                <currencyId>RUR</currencyId>
+                <name>Дозатор CONOR</name>
+                <description>Дозатор CONOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CONDIS-15</vendorCode>
+                <dimensions>диаметр 7,5, высота 20,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CONDIS-15.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>7</stock>
+                <weight>1.1</weight>
+            </offer>
+            <offer available="true" id="CONSDI-15">
+                <price>2800</price>
+                <currencyId>RUR</currencyId>
+                <name>Мыльница CONOR
+                </name>
+                <description>Мыльница CONOR
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CONSDI-15</vendorCode>
+                <dimensions>диаметр 10, высота 3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CONSDI-15.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>7</stock>
+                <weight>0.66</weight>
+            </offer>
+            <offer available="true" id="CONTLS-15">
+                <price>2800</price>
+                <currencyId>RUR</currencyId>
+                <name>Подсвечник CONOR</name>
+                <description>Подсвечник CONOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CONTLS-15</vendorCode>
+                <dimensions>диаметр 9 , высота 5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CONTLS-15.jpg</picture>
+                <categoryId>1502</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>12</stock>
+                <weight>0.99</weight>
+            </offer>
+            <offer available="true" id="CONTUM-15">
+                <price>2800</price>
+                <currencyId>RUR</currencyId>
+                <name>Стакан для зубных щеток CONOR</name>
+                <description>Стакан для зубных щеток CONOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>CONTUM-15</vendorCode>
+                <dimensions>длина 8,8, ширина 8,4, высота 12</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/CONTUM-15.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>9</stock>
+                <weight>0.84</weight>
+            </offer>
+            <offer available="true" id="ELVBMM-09">
+                <price>7020</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной ELVIRA 60x100</name>
+                <description>Коврик для ванной ELVIRA 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ELVBMM-09</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ELVBMM-09.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>4</stock>
+                <weight>1.2</weight>
+            </offer>
+            <offer available="true" id="ELVBMM-98">
+                <price>7020</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной ELVIRA 60x100</name>
+                <description>Коврик для ванной ELVIRA 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ELVBMM-98</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ELVBMM-98.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>9</stock>
+                <weight>1.2</weight>
+            </offer>
+            <offer available="true" id="GRABHR-78">
+                <price>6680</price>
+                <currencyId>RUR</currencyId>
+                <name>Ершик для ванной комнаты GRADIENT</name>
+                <description>Ершик для ванной комнаты GRADIENT</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>GRABHR-78</vendorCode>
+                <dimensions>диаметр 19,8, высота 36,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/GRABHR-78.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>1.188</weight>
+            </offer>
+            <offer available="true" id="GRACOS-78">
+                <price>3780</price>
+                <currencyId>RUR</currencyId>
+                <name>Шкатулка для косметических принадлежностей GRADIENT</name>
+                <description>Шкатулка для косметических принадлежностей GRADIENT</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>GRACOS-78</vendorCode>
+                <dimensions>диаметр 15,8, высота 10,8</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/GRACOS-78.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>9</stock>
+                <weight>0.539</weight>
+            </offer>
+            <offer available="true" id="GRADIS-78">
+                <price>2800</price>
+                <currencyId>RUR</currencyId>
+                <name>Диспенсер для мыла GRADIENT</name>
+                <description>Диспенсер для мыла GRADIENT</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>GRADIS-78</vendorCode>
+                <dimensions>диаметр 8, высота 17</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/GRADIS-78.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>12</stock>
+                <weight>0.266</weight>
+            </offer>
+            <offer available="true" id="GRASDI-78">
+                <price>1680</price>
+                <currencyId>RUR</currencyId>
+                <name>Мыльница GRADIENT</name>
+                <description>Мыльница GRADIENT</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>GRASDI-78</vendorCode>
+                <dimensions>ширина 10, длина 13, высота 2,6</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/GRASDI-78.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>12</stock>
+                <weight>0.153</weight>
+            </offer>
+            <offer available="true" id="GRATRA-78">
+                <price>2240</price>
+                <currencyId>RUR</currencyId>
+                <name>Поднос GRADIENT</name>
+                <description>Поднос GRADIENT</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>GRATRA-78</vendorCode>
+                <dimensions>ширина 10,5, длина 23,5, высота 2,6</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/GRATRA-78.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>10</stock>
+                <weight>0.813</weight>
+            </offer>
+            <offer available="true" id="GRATUM-78">
+                <price>1680</price>
+                <currencyId>RUR</currencyId>
+                <name>Стакан для зубных щеток GRADIENT</name>
+                <description>Стакан для зубных щеток GRADIENT</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>GRATUM-78</vendorCode>
+                <dimensions>диаметр 7,6, высота 9,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/GRATUM-78.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.203</weight>
+            </offer>
+            <offer available="true" id="LONBMM-84">
+                <price>5620</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной LONDON 60x100
+                </name>
+                <description>Коврик для ванной LONDON 60x100
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>LONBMM-84</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/LONBMM-84.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Турция</country_of_origin>
+                <stock>4</stock>
+                <weight>0.769090909091</weight>
+            </offer>
+            <offer available="true" id="LUKBMM-16">
+                <price>9820</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной LUKA 60x100</name>
+                <description>Коврик для ванной LUKA 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>LUKBMM-16</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/LUKBMM-16.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>4</stock>
+                <weight>1.68</weight>
+            </offer>
+            <offer available="true" id="LUKBMM-85">
+                <price>9820</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной LUKA 60x100</name>
+                <description>Коврик для ванной LUKA 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>LUKBMM-85</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/LUKBMM-85.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>4</stock>
+                <weight>1.68</weight>
+            </offer>
+            <offer available="true" id="LUKBMM-96">
+                <price>9820</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной LUKA 60x100</name>
+                <description>Коврик для ванной LUKA 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>LUKBMM-96</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/LUKBMM-96.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>4</stock>
+                <weight>1.68</weight>
+            </offer>
+            <offer available="true" id="LUXBHR-14">
+                <price>7720</price>
+                <currencyId>RUR</currencyId>
+                <name>Ершик для ванной комнаты LUXOR</name>
+                <description>Ершик для ванной комнаты LUXOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>LUXBHR-14</vendorCode>
+                <dimensions>диаметр 11, высота 22</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/LUXBHR-14.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>8</stock>
+                <weight>1.98</weight>
+            </offer>
+            <offer available="true" id="LUXBOW-14">
+                <price>6740</price>
+                <currencyId>RUR</currencyId>
+                <name>Чаша LUXOR</name>
+                <description>Чаша LUXOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>LUXBOW-14</vendorCode>
+                <dimensions>диаметр 25, высота 7</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/LUXBOW-14.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>9</stock>
+                <weight>2.53</weight>
+            </offer>
+            <offer available="true" id="LUXCPH-14">
+                <price>5280</price>
+                <currencyId>RUR</currencyId>
+                <name>Держатель для ватных дисков LUXOR</name>
+                <description>Держатель для ватных дисков LUXOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>LUXCPH-14</vendorCode>
+                <dimensions>диаметр 7,8, высота 19,2</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/LUXCPH-14.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>7</stock>
+                <weight>1.32</weight>
+            </offer>
+            <offer available="true" id="LUXDIS-14">
+                <price>5620</price>
+                <currencyId>RUR</currencyId>
+                <name>Дозатор LUXOR</name>
+                <description>Дозатор LUXOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>LUXDIS-14</vendorCode>
+                <dimensions>диаметр 12, высота 13,3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/LUXDIS-14.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>8</stock>
+                <weight>1.54</weight>
+            </offer>
+            <offer available="true" id="LUXRLH-14">
+                <price>4580</price>
+                <currencyId>RUR</currencyId>
+                <name>Держатель для туалетной бумаги LUXOR</name>
+                <description>Держатель для туалетной бумаги LUXOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>LUXRLH-14</vendorCode>
+                <dimensions>диаметр 12, высота 47</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/LUXRLH-14.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>6</stock>
+                <weight>0.99</weight>
+            </offer>
+            <offer available="true" id="LUXSDI-14">
+                <price>2800</price>
+                <currencyId>RUR</currencyId>
+                <name>Мыльница LUXOR</name>
+                <description>Мыльница LUXOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>LUXSDI-14</vendorCode>
+                <dimensions>диаметр 12, высота 4</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/LUXSDI-14.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>7</stock>
+                <weight>0.55</weight>
+            </offer>
+            <offer available="true" id="LUXTIL-14">
+                <price>6320</price>
+                <currencyId>RUR</currencyId>
+                <name>Держатель для салфеток LUXOR</name>
+                <description>Держатель для салфеток LUXOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>LUXTIL-14</vendorCode>
+                <dimensions>длина 25,5, ширина 13, высота 7,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/LUXTIL-14.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>9</stock>
+                <weight>1.76</weight>
+            </offer>
+            <offer available="true" id="LUXTIS-14">
+                <price>5340</price>
+                <currencyId>RUR</currencyId>
+                <name>Держатель для салфеток LUXOR</name>
+                <description>Держатель для салфеток LUXOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>LUXTIS-14</vendorCode>
+                <dimensions>длина 13, ширина 13, высота 12,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/LUXTIS-14.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>9</stock>
+                <weight>1.21</weight>
+            </offer>
+            <offer available="true" id="LUXTLS-14">
+                <price>2800</price>
+                <currencyId>RUR</currencyId>
+                <name>Подсвечник LUXOR
+                </name>
+                <description>Подсвечник LUXOR
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>LUXTLS-14</vendorCode>
+                <dimensions>высота 7,5, длина 7,5, ширина 7,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/LUXTLS-14.jpg</picture>
+                <categoryId>1502</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>9</stock>
+                <weight>1.21</weight>
+            </offer>
+            <offer available="true" id="LUXTUM-14">
+                <price>2800</price>
+                <currencyId>RUR</currencyId>
+                <name>Стакан для зубных щеток LUXOR</name>
+                <description>Стакан для зубных щеток LUXOR</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>LUXTUM-14</vendorCode>
+                <dimensions>диаметр 7,5, высота 10</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/LUXTUM-14.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Индонезия</country_of_origin>
+                <stock>6</stock>
+                <weight>0.594</weight>
+            </offer>
+            <offer available="true" id="MAKBMM-05">
+                <price>11220</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной MAKS 60x100</name>
+                <description>Коврик для ванной MAKS 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>MAKBMM-05</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/MAKBMM-05.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>8</stock>
+                <weight>1.8</weight>
+            </offer>
+            <offer available="true" id="MAKBMM-16">
+                <price>11220</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной MAKS 60x100</name>
+                <description>Коврик для ванной MAKS 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>MAKBMM-16</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/MAKBMM-16.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Индия</country_of_origin>
+                <stock>8</stock>
+                <weight>1.8</weight>
+            </offer>
+            <offer available="true" id="OPABHR-29">
+                <price>7740</price>
+                <currencyId>RUR</currencyId>
+                <name>Ершик для ванной комнаты OPACO
+                </name>
+                <description>Ершик для ванной комнаты OPACO
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>OPABHR-29</vendorCode>
+                <dimensions>диаметр 10,5, высота 39</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/OPABHR-29.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>0.909090909091</weight>
+            </offer>
+            <offer available="true" id="OPABHR-84">
+                <price>7740</price>
+                <currencyId>RUR</currencyId>
+                <name>Ершик для ванной комнаты OPACO
+                </name>
+                <description>Ершик для ванной комнаты OPACO
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>OPABHR-84</vendorCode>
+                <dimensions>диаметр 10,5, высота 39</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/OPABHR-84.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.909090909091</weight>
+            </offer>
+            <offer available="true" id="OPACOL-29">
+                <price>4900</price>
+                <currencyId>RUR</currencyId>
+                <name>Шкатулка для косметических принадлежностей OPACO большая</name>
+                <description>Шкатулка для косметических принадлежностей OPACO большая</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>OPACOL-29</vendorCode>
+                <dimensions>диаметр 14, высота 8</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/OPACOL-29.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>0.909090909091</weight>
+            </offer>
+            <offer available="true" id="OPACOL-84">
+                <price>4900</price>
+                <currencyId>RUR</currencyId>
+                <name>Шкатулка для косметических принадлежностей OPACO большая</name>
+                <description>Шкатулка для косметических принадлежностей OPACO большая</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>OPACOL-84</vendorCode>
+                <dimensions>диаметр 14, высота 8</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/OPACOL-84.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.909090909091</weight>
+            </offer>
+            <offer available="true" id="OPACOS-29">
+                <price>3500</price>
+                <currencyId>RUR</currencyId>
+                <name>Шкатулка для косметических принадлежностей OPACO малая</name>
+                <description>Шкатулка для косметических принадлежностей OPACO малая</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>OPACOS-29</vendorCode>
+                <dimensions>диаметр 9, высота 8</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/OPACOS-29.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>5</stock>
+                <weight>0.909090909091</weight>
+            </offer>
+            <offer available="true" id="OPACOS-84">
+                <price>3500</price>
+                <currencyId>RUR</currencyId>
+                <name>Шкатулка для косметических принадлежностей OPACO малая</name>
+                <description>Шкатулка для косметических принадлежностей OPACO малая</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>OPACOS-84</vendorCode>
+                <dimensions>диаметр 9, высота 8</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/OPACOS-84.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>7</stock>
+                <weight>0.909090909091</weight>
+            </offer>
+            <offer available="true" id="OPADIS-29">
+                <price>4200</price>
+                <currencyId>RUR</currencyId>
+                <name>Дозатор для мыла OPACO
+                </name>
+                <description>Дозатор для мыла OPACO
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>OPADIS-29</vendorCode>
+                <dimensions>диаметр 10,5, высота 14,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/OPADIS-29.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>0.727272727273</weight>
+            </offer>
+            <offer available="true" id="OPADIS-84">
+                <price>4200</price>
+                <currencyId>RUR</currencyId>
+                <name>Дозатор для мыла OPACO
+                </name>
+                <description>Дозатор для мыла OPACO
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>OPADIS-84</vendorCode>
+                <dimensions>диаметр 10,5, высота 14,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/OPADIS-84.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.909090909091</weight>
+            </offer>
+            <offer available="true" id="OPASDI-29">
+                <price>3500</price>
+                <currencyId>RUR</currencyId>
+                <name>Мыльница OPACO
+                </name>
+                <description>Мыльница OPACO
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>OPASDI-29</vendorCode>
+                <dimensions>диаметр 12, высота 3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/OPASDI-29.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>0.636363636364</weight>
+            </offer>
+            <offer available="true" id="OPASDI-84">
+                <price>3500</price>
+                <currencyId>RUR</currencyId>
+                <name>Мыльница OPACO
+                </name>
+                <description>Мыльница OPACO
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>OPASDI-84</vendorCode>
+                <dimensions>диаметр 12, высота 3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/OPASDI-84.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.636363636364</weight>
+            </offer>
+            <offer available="true" id="OPATRA-29">
+                <price>5620</price>
+                <currencyId>RUR</currencyId>
+                <name>Поднос OPACO
+                </name>
+                <description>Поднос OPACO
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>OPATRA-29</vendorCode>
+                <dimensions>диаметр 30, высота 3,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/OPATRA-29.jpg</picture>
+                <categoryId>1308</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>1.0</weight>
+            </offer>
+            <offer available="true" id="OPATRA-84">
+                <price>5620</price>
+                <currencyId>RUR</currencyId>
+                <name>Поднос OPACO
+                </name>
+                <description>Поднос OPACO
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>OPATRA-84</vendorCode>
+                <dimensions>диаметр 30, высота 3,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/OPATRA-84.jpg</picture>
+                <categoryId>1308</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>7</stock>
+                <weight>1.0</weight>
+            </offer>
+            <offer available="true" id="OPATUM-29">
+                <price>2380</price>
+                <currencyId>RUR</currencyId>
+                <name>Стакан для зубных щёток OPACO
+                </name>
+                <description>Стакан для зубных щёток OPACO
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>OPATUM-29</vendorCode>
+                <dimensions>диаметр 7,5, высота 10</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/OPATUM-29.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>6</stock>
+                <weight>1.0</weight>
+            </offer>
+            <offer available="true" id="OPATUM-84">
+                <price>2380</price>
+                <currencyId>RUR</currencyId>
+                <name>Стакан для зубных щёток OPACO
+                </name>
+                <description>Стакан для зубных щёток OPACO
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>OPATUM-84</vendorCode>
+                <dimensions>диаметр 7,5, высота 10</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/OPATUM-84.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.636363636364</weight>
+            </offer>
+            <offer available="true" id="ZAMBMM-95">
+                <price>7020</price>
+                <currencyId>RUR</currencyId>
+                <name>Коврик для ванной ZAMBA 60x100</name>
+                <description>Коврик для ванной ZAMBA 60x100</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ZAMBMM-95</vendorCode>
+                <dimensions>длина 100, ширина 60</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ZAMBMM-95.jpg</picture>
+                <categoryId>1103</categoryId>
+                <country_of_origin>Болгария</country_of_origin>
+                <stock>4</stock>
+                <weight>0.87</weight>
+            </offer>
+            <offer available="true" id="ZONBHR-43">
+                <price>7740</price>
+                <currencyId>RUR</currencyId>
+                <name>Ершик для ванной комнаты ZONA
+                </name>
+                <description>Ершик для ванной комнаты ZONA
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ZONBHR-43</vendorCode>
+                <dimensions>диаметр 9, высота 36,5</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ZONBHR-43.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.909090909091</weight>
+            </offer>
+            <offer available="true" id="ZONBOL-43">
+                <price>9140</price>
+                <currencyId>RUR</currencyId>
+                <name>Чаша ZONA большая</name>
+                <description>Чаша ZONA большая</description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ZONBOL-43</vendorCode>
+                <dimensions>диаметр 26, высота 7</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ZONBOL-43.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>10</stock>
+                <weight>1.09090909091</weight>
+            </offer>
+            <offer available="true" id="ZONDIS-43">
+                <price>7020</price>
+                <currencyId>RUR</currencyId>
+                <name>Дозатор для мыла ZONA
+                </name>
+                <description>Дозатор для мыла ZONA
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ZONDIS-43</vendorCode>
+                <dimensions>диаметр 10, высота 15,4</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ZONDIS-43.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.818181818182</weight>
+            </offer>
+            <offer available="true" id="ZONSDI-43">
+                <price>3500</price>
+                <currencyId>RUR</currencyId>
+                <name>Мыльница ZONA
+                </name>
+                <description>Мыльница ZONA
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ZONSDI-43</vendorCode>
+                <dimensions>диаметр 12, высота 3</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ZONSDI-43.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.727272727273</weight>
+            </offer>
+            <offer available="true" id="ZONTUM-43">
+                <price>3500</price>
+                <currencyId>RUR</currencyId>
+                <name>Стакан для зубных щёток ZONA
+                </name>
+                <description>Стакан для зубных щёток ZONA
+                </description>
+                <vendor>Aquanova</vendor>
+                <vendorCode>ZONTUM-43</vendorCode>
+                <dimensions>диаметр 8, высота 10</dimensions>
+                <picture>http://u0256746.isp.regruhosting.ru/images/Aquanova/ZONTUM-43.jpg</picture>
+                <categoryId>1101</categoryId>
+                <country_of_origin>Китай</country_of_origin>
+                <stock>8</stock>
+                <weight>0.727272727273</weight>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>

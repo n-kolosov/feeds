@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2017-08-10 12:00">
+<shop>
+<name>Сэнсит.ру</name>
+<company>ООО "Сэнсит.ру"</company>
+<url>http://senseit.ru</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+<currency id="USD" rate="CBRF"/>
+<currency id="EUR" rate="CBRF"/>
+</currencies>
+<categories>
+<category id="1">Мобильные телефоны</category>
+<category id="3">Розетки</category>
+<category id="2">GPS-трекеры</category>
+<category id="16">Аксессуары</category>
+</categories>
+
+<offers>
+
+<offer id="4104" type="vendor.model" available="true">
+<barcode>4670009890863</barcode>
+<url>http://senseit.ru/products/smartphones/senseit-r450-_oranzhevyy.html</url>
+<price>11990</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>http://senseit.ru/docs/market/450_marke.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>400</local_delivery_cost>
+<typePrefix>Защищенный смартфон</typePrefix>
+<vendor>SENSEIT</vendor>
+<vendorCode>SENSEIT R450</vendorCode>
+<model>SENSEIT R450 (Оранжевый)</model>
+<description>
+Смартфон с уровнем защиты IP67, поддержкой 4G/LTE на ОС Android 6.0; Батарея: 3000 мАч; SIM-карт: Две; Процессор: MTK6735M, 1.0 ГГц четырехъядерный; Камера основная/фронтальная: 8 Мп/2 Мп; Дисплей: 4,5" ёмкостный/мультитач; Wi-Fi; Bluetooth; Размер: 139,5 x 73,5 x 12,5 мм; Вес: 186 г
+</description>
+<sales_notes>Официальный интернет-магазин SENSEIT!</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+
+<offer id="3938" type="vendor.model" available="true">
+<barcode>4670009890900</barcode>
+<url>http://senseit.ru/products/phones/senseit-p300-_chyernyy.html</url>
+<price>5990</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>http://senseit.ru/upload/iblock/f56/1.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>400</local_delivery_cost>
+<typePrefix>Телефон-рация</typePrefix>
+<vendor>SENSEIT</vendor>
+<vendorCode>SENSEIT P300</vendorCode>
+<model>SENSEIT P300 (Чёрный)</model>
+<description>
+Защищенный телефон-рация! Уровень защиты IP67, Батарея: 2500 мАч, Время работы в режиме ожидания: до 200 часов, SIM-карт: Две, Камера: 2 Мп, Дисплей: 2,4" 360х400, Bluetooth, Размер: 130 х 57,7 х 23,3 мм, Вес: 195 г
+</description>
+<sales_notes>Официальный интернет-магазин SENSEIT!</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+
+<offer id="4062" type="vendor.model" available="true">
+<barcode>4670009890894</barcode>
+<url>http://senseit.ru/products/phones/senseit-p300-_zhyeltyy.html</url>
+<price>5990</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>http://senseit.ru/upload/iblock/399/2_2.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>400</local_delivery_cost>
+<typePrefix>Телефон-рация</typePrefix>
+<vendor>SENSEIT</vendor>
+<vendorCode>SENSEIT P300</vendorCode>
+<model>SENSEIT P300 (Жёлтый)</model>
+<description>
+Защищенный телефон-рация! Уровень защиты IP67, Батарея: 2500 мАч, Время работы в режиме ожидания: до 200 часов, SIM-карт: Две, Камера: 2 Мп, Дисплей: 2,4" 360х400, Bluetooth, Размер: 130 х 57,7 х 23,3 мм, Вес: 195 г
+</description>
+<sales_notes>Официальный интернет-магазин SENSEIT!</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+
+<offer id="3975" type="vendor.model" available="true">
+<barcode>4670009890627</barcode>
+<url>http://senseit.ru/products/smartphones/senseit-e510.html</url>
+<price>7990</price>
+<oldprice>9990</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>http://senseit.ru/upload/iblock/825/0009_senseit_e510_front.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>400</local_delivery_cost>
+<typePrefix>Смартфон</typePrefix>
+<vendor>SENSEIT</vendor>
+<vendorCode>SENSEIT E510</vendorCode>
+<model>SENSEIT E510</model>
+<description>
+Cмартфон на Android 6.0 и поддержкой 4G(LTE); Дисплей: 5,5" HD, ёмкостный/мультитач; Батарея: 4000 мАч; SIM-карт: Две; Процессор: MTK6735, 1.3 ГГц четырехъядерный; Камера основная/фронтальная: 13 Мп/3.2 Мп; Wi-Fi; Bluetooth; Размер: 153,5 x 77 x 8,8 мм; Вес: 175 г
+</description>
+<sales_notes>Официальный интернет-магазин SENSEIT!</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+
+<offer id="3936" type="vendor.model" available="true">
+<barcode>4670009890870</barcode>
+<url>http://senseit.ru/products/smartphones/senseit-r450-_seryy.html</url>
+<price>11990</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>http://senseit.ru/docs/market/450.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>400</local_delivery_cost>
+<typePrefix>Защищенный смартфон</typePrefix>
+<vendor>SENSEIT</vendor>
+<vendorCode>SENSEIT R450</vendorCode>
+<model>SENSEIT R450 (Серый)</model>
+<description>
+Смартфон с уровнем защиты IP67, поддержкой 4G/LTE на ОС Android 6.0; Батарея: 3000 мАч; SIM-карт: Две; Процессор: MTK6735M, 1.0 ГГц четырехъядерный; Камера основная/фронтальная: 8 Мп/2 Мп; Дисплей: 4,5" ёмкостный/мультитач; Wi-Fi; Bluetooth; Размер: 139,5 x 73,5 x 12,5 мм; Вес: 186 г
+</description>
+<sales_notes>Официальный интернет-магазин SENSEIT!</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+
+
+<offer id="3980" type="vendor.model" available="true">
+<barcode>4670009890887</barcode>
+<url>http://senseit.ru/products/phones/senseit-l208.html</url>
+<price>1990</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>http://senseit.ru/docs/market/Senseit_L208.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>400</local_delivery_cost>
+<typePrefix>Мобильный телефон</typePrefix>
+<vendor>SENSEIT</vendor>
+<vendorCode>SENSEIT L208</vendorCode>
+<model>SENSEIT L208</model>
+<description>
+Батарея: 4000 мАч, В режиме ожидания: до 90 дней! Две SIM-карты, Bluetooth, Фонарик, FM-радио,  Дисплей: 2,4" 320х240, Размер: 124 x 53 x 15 мм, Вес: 120 г
+</description>
+<sales_notes>Официальный интернет-магазин SENSEIT!</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+
+
+<offer id="3474" type="vendor.model" available="true">
+<barcode>4670009890412</barcode>
+<url>http://senseit.ru/products/phones/senseit-p101-_oranzhevyy.html</url>
+<price>3999</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>http://senseit.ru/docs/market/P101_yellow_front_m.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>400</local_delivery_cost>
+<typePrefix>Защищенный телефон</typePrefix>
+<vendor>SENSEIT</vendor>
+<vendorCode>SENSEIT P101</vendorCode>
+<model>SENSEIT P101 (Жёлтый)</model>
+<description>
+Защищенный телефон с уровнем защиты IP68, Батарея: 1800 мАч, Время работы в режиме ожидания: до 680 часов, SIM-карт: Две, Камера: 0,3 Мп, Дисплей: 2,4" 320х240, Bluetooth, Размер: 125 х 58 х 19 мм, Вес: 145 г
+</description>
+<sales_notes>Официальный интернет-магазин SENSEIT!</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+
+
+
+<offer id="130" type="vendor.model" available="true">
+<barcode>4670009890030</barcode>
+<url>http://senseit.ru/products/smart-house/senseit-gt13.html</url>
+<price>999</price>
+<oldprice>1999</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://senseit.ru/docs/market/gt13.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>400</local_delivery_cost>
+<typePrefix>Персональный трекер</typePrefix>
+<vendor>SENSEIT</vendor>
+<vendorCode>SENSEIT GT13</vendorCode>
+<model>SENSEIT GT13</model>
+<description>
+Компактный персональный трекер высокой точности. Время работы: 72 часа, Температурный режим: от -20° до 70°C, Точность позиционирования: до 10 м, Постоянный мониторинг местоположения, Определение мест стоянок, Уведомление о низком заряде батареи, Контроль выхода и входа в геозону, Отображение пройденного пути за выбранный период, Работа с сервисом мобильного мониторинга «MobiTrack».
+</description>
+<sales_notes>Официальный интернет-магазин SENSEIT!</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+
+<offer id="3683" type="vendor.model" available="true">
+<url>http://senseit.ru/products/accessories/chekhol-dlya-senseit-e400-_chernyy.html</url>
+<price>499</price>
+<currencyId>RUR</currencyId>
+<categoryId>16</categoryId>
+<picture>http://senseit.ru/docs/market/black_cover.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>400</local_delivery_cost>
+<typePrefix>Чехол-книжка</typePrefix>
+<vendor>SENSEIT</vendor>
+<vendorCode>Чехол для SENSET E400</vendorCode>
+<model>SENSET E400 (Чёрный)</model>
+<description>
+Чехол-книжка для смартфона SENSEIT E400. Цвет: Чёрный, Крепление смартфона: Клейкая основа.
+</description>
+<sales_notes>Официальный интернет-магазин SENSEIT!</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+
+<offer id="3680" type="vendor.model" available="true">
+<url>http://senseit.ru/products/accessories/chekhol_knizhka-dlya-senseit-e400.html</url>
+<price>499</price>
+<currencyId>RUR</currencyId>
+<categoryId>16</categoryId>
+<picture>http://senseit.ru/docs/market/brown_cover.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>400</local_delivery_cost>
+<typePrefix>Чехол-книжка</typePrefix>
+<vendor>SENSEIT</vendor>
+<vendorCode>Чехол для SENSET E400</vendorCode>
+<model>SENSET E400 (Коричневый)</model>
+<description>
+Чехол-книжка для смартфона SENSEIT E400. Цвет: Коричневый, Крепление смартфона: Клейкая основа.
+</description>
+<sales_notes>Официальный интернет-магазин SENSEIT!</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+
+<offer id="3682" type="vendor.model" available="true">
+<url>http://senseit.ru/products/accessories/chekhol-dlya-senseit-e500-_chernyy.html</url>
+<price>250</price>
+<currencyId>RUR</currencyId>
+<categoryId>16</categoryId>
+<picture>http://senseit.ru/docs/market/black_cover.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>400</local_delivery_cost>
+<typePrefix>Чехол-книжка</typePrefix>
+<vendor>SENSEIT</vendor>
+<vendorCode>Чехол для SENSET E500</vendorCode>
+<model>SENSET E500 (Чёрный)</model>
+<description>
+Чехол-книжка для смартфона SENSEIT E500. Цвет: Чёрный, Крепление смартфона: Клейкая основа.
+</description>
+<sales_notes>Официальный интернет-магазин SENSEIT!</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+
+<offer id="3732" type="vendor.model" available="true">
+<barcode>4670009890573</barcode>
+<url>http://senseit.ru/products/accessories/senseit-z10.html</url>
+<price>999</price>
+<currencyId>RUR</currencyId>
+<categoryId>16</categoryId>
+<picture>http://senseit.ru/docs/market/Senseit_Z10.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>400</local_delivery_cost>
+<typePrefix>Аккумуляторная батарея</typePrefix>
+<vendor>SENSEIT</vendor>
+<vendorCode>SENSET Z10</vendorCode>
+<model>SENSET Z10</model>
+<description>
+6000 мАч - автономная, аккумуляторная батарея.
+</description>
+<sales_notes>Официальный интернет-магазин SENSEIT!</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+
+
+<offer id="3914" type="vendor.model" available="true">
+<barcode>4670009890832</barcode>
+<url>http://senseit.ru/products/smartphones/senseit-A200.html</url>
+<price>5990</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>http://senseit.ru/docs/market/200.JPG</picture>
+<delivery>true</delivery>
+<local_delivery_cost>400</local_delivery_cost>
+<typePrefix>Смартфон</typePrefix>
+<vendor>SENSEIT</vendor>
+<vendorCode>SENSEIT A200</vendorCode>
+<model>SENSEIT A200</model>
+<description>
+Cмартфон на Android 6.0 и поддержкой 4G(LTE); Дисплей: 5" ёмкостный/мультитач; Батарея: 2500 мАч; SIM-карт: Две; Процессор: четырёхъядерный 1.0 ГГц; Камера основная/фронтальная: 8 Мп/3.2 Мп; Wi-Fi; Bluetooth; Размер: 143,5 x 71,4 x 8,95 мм; Вес: 139 г.
+</description>
+<sales_notes>Официальный интернет-магазин SENSEIT!</sales_notes>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+
+
+</offers>
+</shop>
+</yml_catalog>
