@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2017-11-03 14:30">
+    <shop>
+        <name>santehnika-tut.ru</name>
+        <company>Сантехника-Тут</company>
+        <url>http://santehnika-tut.ru/</url>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+           <category id="1">Мебель для ванной</category>
+           <category id="90">Ванны</category>
+           <category id="51">Унитазы</category>
+           <category id="43">Раковины</category>
+           <category id="132">Смесители</category>
+           <category id="16">Душевые кабины</category>
+           <category id="2">Душевые боксы</category>
+           <category id="30">Душевые ограждения</category>
+           <category id="202">Душевые поддоны</category>
+           <category id="165">Душевые трапы и лотки</category>
+           <category id="63">Инсталляции</category>
+           <category id="88">Биде</category>
+           <category id="58">Писсуары</category>
+           <category id="86">Душевые гарнитуры</category>
+           <category id="87">Душевые системы</category>
+           <category id="71">Душевые панели</category>
+           <category id="140">Верхние души</category>
+           <category id="164">Гигиенические души</category>
+           <category id="171">Кухонные мойки</category>
+           <category id="112">Аксессуары для ванной</category>
+           <category id="204">Аксессуары для общественных санузлов</category>
+           <category id="161">Комплектующие</category>
+           <category id="170">Сауны</category>
+           <category id="89">Бассейны</category>
+           <category id="212">Биотуалеты</category>
+           <category id="182">Фонтаны</category>
+           <category id="109">Полотенцесушители</category>
+           <category id="194">Радиаторы отопления</category>
+           <category id="200">Водонагреватели</category>
+           <category id="199">Котлы отопления</category>
+           <category id="177">Теплые полы</category>
+           <category id="198">Насосы</category>
+           <category id="184">Керамическая плитка</category>
+           <category id="191">Керамогранит</category>
+           <category id="185">Мозаика</category>
+           <category id="192">Ступени и клинкер</category>
+           <category id="193">Натуральный камень</category>
+           <category id="213">Искусственный камень</category>
+           <category id="206">Резиновая плитка</category>
+           <category id="197">Ламинат</category>
+           <category id="207">Виниловый ламинат</category>
+           <category id="196">Паркетная доска</category>
+           <category id="195">Инженерная доска</category>
+           <category id="208">Подложка</category>
+           <category id="189">Распродажа</category>
+        </categories>
+        <delivery-options>
+           <option cost="1500" days="5-7"/>
+        </delivery-options>
+        <offers>
+           <offer id="18601" type="vendor.model" available="false">
+                <url>http://santehnika-tut.ru/k18601.html</url>
+                <price>4789</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>132</categoryId>
+                <market_category>Все товары/Дом и дача/Строительство и ремонт/Сантехника и водоснабжение/Смесители</market_category>
+                <picture>http://santehnika-tut.ru/img/catphotos/40/8846_16020_bg.jpg</picture>        
+                <store>false</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <delivery-options><option cost="450" days="11-13" order-before="12"/></delivery-options>
+                <typePrefix>Смеситель</typePrefix>                
+                <vendor>Wasser Kraft</vendor>
+                <vendorCode>6301</vendorCode>
+                <model>Oder 6301 Хром</model>
+                <description>Wasser Kraft Oder 6301 Смеситель для ванны с коротким изливом. Керамический картридж 40мм, Sedal (Испания); Встроенный пластиковый аэратор Neoperl Cascade для равномерного распределения струи; Автоматический кнопочный переключатель на душ, работает при давлении от 0,3 Бар; Лейка 1-функциональная с системой защиты от известковых отложений; Фиксированное настенное крепление для душа.
+</description>        
+                <sales_notes>Необходима предоплата</sales_notes>        
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Германия</country_of_origin>
+            </offer>
+           <offer id="18626" type="vendor.model" available="false">
+                <url>http://santehnika-tut.ru/k18626.html</url>
+                <price>5999</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>132</categoryId>
+                <market_category>Все товары/Дом и дача/Строительство и ремонт/Сантехника и водоснабжение/Смесители</market_category>
+                <picture>http://santehnika-tut.ru/img/catphotos/40/8853_16028_bg.jpg</picture>        
+                <store>false</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <delivery-options><option cost="450" days="11-13" order-before="12"/></delivery-options>
+                <typePrefix>Смеситель</typePrefix>                
+                <vendor>Wasser Kraft</vendor>
+                <vendorCode>6302L</vendorCode>
+                <model>Oder 6302L Хром</model>
+                <description>Wasser Kraft Oder 6302L Смеситель для ванны с длинным поворотным изливом. Керамический картридж 40мм, Sedal (Испания); Встроенный силиконовый аэратор Neoperl Cascade для равномерного распределения струи; Керамический поворотный переключатель, работает при нулевом давлении; Длинный поворотный излив; Лейка 1-функциональная с системой защиты от известковых отложений; Фиксированное настенное крепление для душа.</description>        
+                <sales_notes>Необходима предоплата</sales_notes>        
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Германия</country_of_origin>
+            </offer>
+           <offer id="18628" type="vendor.model" available="false">
+                <url>http://santehnika-tut.ru/k18628.html</url>
+                <price>3520</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>132</categoryId>
+                <market_category>Все товары/Дом и дача/Строительство и ремонт/Сантехника и водоснабжение/Смесители</market_category>
+                <picture>http://santehnika-tut.ru/img/catphotos/40/8855_16032_bg.jpg</picture>        
+                <store>false</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <delivery-options><option cost="450" days="11-13" order-before="12"/></delivery-options>
+                <typePrefix>Смеситель</typePrefix>                
+                <vendor>Wasser Kraft</vendor>
+                <vendorCode>6307</vendorCode>
+                <model>Oder 6307 Хром</model>
+                <description>Wasser Kraft Oder 6307 Смеситель для кухни с поворотным изливом. Керамический картридж 40мм, Sedal (Испания); Встроенный силиконовый аэратор Neoperl Cascade для равномерного распределения струи; Поворотный излив: Гибкая подводка G1/2, набор для монтажа.</description>        
+                <sales_notes>Необходима предоплата</sales_notes>        
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Германия</country_of_origin>
+            </offer>
+           <offer id="18772" type="vendor.model" available="false">
+                <url>http://santehnika-tut.ru/k18772.html</url>
+                <price>10220</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>132</categoryId>
+                <market_category>Все товары/Дом и дача/Строительство и ремонт/Сантехника и водоснабжение/Смесители</market_category>
+                <picture>http://santehnika-tut.ru/img/catphotos/40/8925_16134_bg.jpg</picture>        
+                <store>false</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <delivery-options><option cost="450" days="11-13" order-before="12"/></delivery-options>
+                <typePrefix>Смеситель</typePrefix>                
+                <vendor>Wasser Kraft</vendor>
+                <vendorCode>1062L</vendorCode>
+                <model>Aller 1062L  Хром</model>
+                <description>Wasser Kraft Aller 1062L Смеситель для ванны с длинным поворотным изливом. Керамический картридж 35мм, Sedal (Испания), выдерживают 500 000 рабочих циклов (открытий/закрытий); Встроенный силиконовый аэратор Neoperl Cascade для равномерного распределения струи; Керамический поворотный переключатель, работает при нулевом давлении; Длинный поворотный излив; Лейка 1-функциональная с системой защиты от известковых отложений; Хромоникелевое покрытие; Поворотное настенное крепление для душа.</description>        
+                <sales_notes>Необходима предоплата</sales_notes>        
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Германия</country_of_origin>
+            </offer>
+           <offer id="18773" type="vendor.model" available="false">
+                <url>http://santehnika-tut.ru/k18773.html</url>
+                <price>5390</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>132</categoryId>
+                <market_category>Все товары/Дом и дача/Строительство и ремонт/Сантехника и водоснабжение/Смесители</market_category>
+                <picture>http://santehnika-tut.ru/img/catphotos/40/8926_16136_bg.jpg</picture>        
+                <store>false</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <delivery-options><option cost="450" days="11-13" order-before="12"/></delivery-options>
+                <typePrefix>Смеситель</typePrefix>                
+                <vendor>Wasser Kraft</vendor>
+                <vendorCode>1063</vendorCode>
+                <model>Aller 1063 Хром</model>
+                <description>Wasser Kraft Aller 1063 Смеситель для умывальника. Керамический картридж 35мм, Sedal (Испания), выдерживают 500 000 рабочих циклов (открытий/закрытий); Встроенный силиконовый аэратор Neoperl Cascade для равномерного распределения струи; Гибкая подводка G1/2, набор для монтажа.</description>        
+                <sales_notes>Необходима предоплата</sales_notes>        
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Германия</country_of_origin>
+            </offer>
+           <offer id="18774" type="vendor.model" available="false">
+                <url>http://santehnika-tut.ru/k18774.html</url>
+                <price>6790</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>132</categoryId>
+                <market_category>Все товары/Дом и дача/Строительство и ремонт/Сантехника и водоснабжение/Смесители</market_category>
+                <picture>http://santehnika-tut.ru/img/catphotos/40/8927_16138_bg.jpg</picture>        
+                <store>false</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <delivery-options><option cost="450" days="11-13" order-before="12"/></delivery-options>
+                <typePrefix>Смеситель</typePrefix>                
+                <vendor>Wasser Kraft</vendor>
+                <vendorCode>1067</vendorCode>
+                <model>Aller 1067 Хром</model>
+                <description>Wasser Kraft Aller 1067 Смеситель для кухни с поворотным изливом. Керамический картридж 35мм, Sedal (Испания), выдерживают 500 000 рабочих циклов (открытий/закрытий); Встроенный пластиковый аэратор Neoperl Cascade для равномерного распределения струи; Поворотный излив; Гибкая подводка G1/2, набор для монтажа.</description>        
+                <sales_notes>Необходима предоплата</sales_notes>        
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Германия</country_of_origin>
+            </offer>
+           <offer id="18788" type="vendor.model" available="false">
+                <url>http://santehnika-tut.ru/k18788.html?utm_source=market.yandex.ru&amp;utm_medium=cpc&amp;utm_campaign=dushevye-garnitury&amp;utm_term=city-krasnodar&amp;utm_content=Wasser+Kraft</url>
+                <price>3620</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>86</categoryId>
+                <market_category>Все товары/Дом и дача/Строительство и ремонт/Сантехника и водоснабжение/Души и душевые кабины/Души, душевые панели, гарнитуры</market_category>
+                <picture>http://santehnika-tut.ru/img/catphotos/41/8934_16146_bg.jpg</picture>        
+                <store>false</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <delivery-options><option cost="450" days="11-13" order-before="12"/></delivery-options>
+                <typePrefix>Душевой комплект</typePrefix>                
+                <vendor>Wasser Kraft</vendor>
+                <vendorCode>A004</vendorCode>
+                <model>A004 Хром</model>
+                <description>Wasser Kraft А004. Душевой комплект 67 см, с мыльницей, шлангом, 5-функциональной лейкой с системой защиты от известковых отложений.</description>        
+                <sales_notes>Необходима предоплата</sales_notes>        
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Германия</country_of_origin>
+            </offer>
+           <offer id="18798" type="vendor.model" available="false">
+                <url>http://santehnika-tut.ru/k18798.html?utm_source=market.yandex.ru&amp;utm_medium=cpc&amp;utm_campaign=dushevye-garnitury&amp;utm_term=city-krasnodar&amp;utm_content=Wasser+Kraft</url>
+                <price>2600</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>86</categoryId>
+                <market_category>Все товары/Дом и дача/Строительство и ремонт/Сантехника и водоснабжение/Души и душевые кабины/Души, душевые панели, гарнитуры</market_category>
+                <picture>http://santehnika-tut.ru/img/catphotos/41/8937_16150_bg.jpg</picture>        
+                <store>false</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <delivery-options><option cost="450" days="11-13" order-before="12"/></delivery-options>
+                <typePrefix>Душевой комплект</typePrefix>                
+                <vendor>Wasser Kraft</vendor>
+                <vendorCode>A005</vendorCode>
+                <model>A005 Хром</model>
+                <description>Wasser Kraft А005. Душевой комплект 57 см.
+ - Стойка для душа;
+ - Мыльница пластиковая, прозрачная;
+ - Шланг металлический 150 см, подключение к лейке;
+ - Лейка 3-функциональная с системой защиты от известковых отложений.</description>        
+                <sales_notes>Необходима предоплата</sales_notes>        
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Германия</country_of_origin>
+            </offer>
+           <offer id="18803" type="vendor.model" available="false">
+                <url>http://santehnika-tut.ru/k18803.html?utm_source=market.yandex.ru&amp;utm_medium=cpc&amp;utm_campaign=dushevye-garnitury&amp;utm_term=city-krasnodar&amp;utm_content=Wasser+Kraft</url>
+                <price>1570</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>86</categoryId>
+                <market_category>Все товары/Дом и дача/Строительство и ремонт/Сантехника и водоснабжение/Души и душевые кабины/Души, душевые панели, гарнитуры</market_category>
+                <picture>http://santehnika-tut.ru/img/catphotos/41/8940_16156_bg.jpg</picture>        
+                <store>false</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <delivery-options><option cost="450" days="11-13" order-before="12"/></delivery-options>
+                <typePrefix>Душевая стойка </typePrefix>                
+                <vendor>Wasser Kraft</vendor>
+                <vendorCode>A007</vendorCode>
+                <model>A007 Хром</model>
+                <description>Wasser Kraft А007. Стойка для душа 57 см, хром.</description>        
+                <sales_notes>Необходима предоплата</sales_notes>        
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Германия</country_of_origin>
+            </offer>
+           <offer id="18806" type="vendor.model" available="false">
+                <url>http://santehnika-tut.ru/k18806.html?utm_source=market.yandex.ru&amp;utm_medium=cpc&amp;utm_campaign=dushevye-garnitury&amp;utm_term=city-krasnodar&amp;utm_content=Wasser+Kraft</url>
+                <price>17150</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>86</categoryId>
+                <market_category>Все товары/Дом и дача/Строительство и ремонт/Сантехника и водоснабжение/Души и душевые кабины/Души, душевые панели, гарнитуры</market_category>
+                <picture>http://santehnika-tut.ru/img/catphotos/41/8942_16158_bg.jpg</picture>        
+                <store>false</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <delivery-options><option cost="0" days="11-13" order-before="12"/></delivery-options>
+                <typePrefix>Душевой комплект</typePrefix>                
+                <vendor>Wasser Kraft</vendor>
+                <vendorCode>A015</vendorCode>
+                <model>A015 Хром</model>
+                <description>Wasser Kraft A015. Душевой комплект, 102х52 см.
+ - Стойка для душа, 24мм;
+ - Душевая насадка 200 мм, 140 форсунок (форсунки из силикона с системой защиты от известковых отложений), латунь;
+ - Мыльница металлическая решетка;
+ - Шланг металлический 1500 мм, подключение к лейке;
+ - Шланг металлический 600 мм, подключение к смесителю;
+ - Лейка 3-функциональная с системой защиты от известковых отложений;
+ - Набор для монтажа.</description>        
+                <sales_notes>Необходима предоплата</sales_notes>        
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Германия</country_of_origin>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog> 

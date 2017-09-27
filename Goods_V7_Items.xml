@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2018-01-23 11:00">
+	<shop>
+		<name>Vseven</name>
+		<company>V7</company>
+		<url>http://www.v7sklad.ru/</url>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+			<currency id="USD" rate="56"/>
+		</currencies>
+		<categories>
+			<category id="1278">Смартфоны и Планшеты</category>
+			<category id="3761" parentId="1278">Аксессуары</category>
+			<category id="1553" parentId="3761">Чехлы</category>
+			<category id="3798">Кухонная техника</category>
+			<category id="1279" parentId="3798">Холодильники</category>
+		</categories>
+		<delivery-options>
+			<option days="0" order-before="15" cost="1000"/>
+			<option days="1-3" cost="200"/>
+		</delivery-options>
+		<shipment-options>
+			<option days="1" order-before="15" store-id="2"/>
+		</shipment-options>
+		<offers>
+			<offer id="1" available="true">
+				<url></url>
+				<name>Чехол PC для Apple iPhone 5/5S/SE, FIFA_Official Emblem, Deppa</name>
+				<oldprice>950</oldprice>
+				<price>1100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1553</categoryId>
+				<picture></picture>
+				<delivery-options>
+					<option days="1" order-before="15" cost="200"/>
+				</delivery-options>
+				<shipment-options>
+					<option days="1" order-before="15" store-id="2"/>
+				</shipment-options>
+				<outlets>
+					<outlet id="1" instock="50"/>
+					<outlet id="2" instock="25"/>
+				</outlets>
+				<vendor>Deppa</vendor>
+				<vendorCode>103844</vendorCode>
+				<model>Official Emblem</model>
+				<description>черная  основа PC, выборочный подъем рисунка, soft-touch</description>
+				<barcode>4680431024477</barcode>
+			</offer>
+			<offer id="2" available="true">
+				<url></url>
+				<name>Чехол TPU для Apple iPhone 5/5S/SE, FIFA_Moscow, Deppa</name>
+				<oldprice>920</oldprice>
+				<price>1050</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1553</categoryId>
+				<picture></picture>
+				<delivery-options>
+					<option days="1" order-before="15" cost="200"/>
+				</delivery-options>
+				<shipment-options>
+					<option days="1" order-before="15" store-id="2"/>
+				</shipment-options>
+				<outlets>
+					<outlet id="3" instock="10"/>
+					<outlet id="4" instock="15"/>
+				</outlets>
+				<vendor>Deppa</vendor>
+				<vendorCode>103857</vendorCode>
+				<model>Moscow</model>
+				<description>синяя основа TPU, матовое покрытие </description>
+				<barcode>4680431024606</barcode>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

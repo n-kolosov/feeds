@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2018-01-10 17:22">
+	<shop>
+		<name>Рив Гош</name>
+		<company>Рив Гош</company>
+		<url>http://www.rivegauche.ru/</url>
+		<categories>
+			<category id="1278">Парфюмерия</category>
+			<category id="3761" parentId="1278">Женские ароматы</category>
+		</categories>
+		<offers>
+			<offer id="858160" available="true">
+				<url>https://shop.rivegauche.ru/newstore/ru/Бренды/Все-Бренды/MASAKI-MATSUSHIMA/Masaki-Matsushima-Matsu-Sakura-Eau-De-Parfum/p/858160</url>
+				<name>Masaki Matsushima Matsu Sakura Eau De Parfum</name>
+				<price>825</price>
+				<categoryId>3761</categoryId>
+				<picture>https://shop.rivegauche.ru/media/impex/h9d/h4c/9122507456542.jpg</picture>
+				<shipment-options>
+					<option days="1" order-before="1"/>
+				</shipment-options>
+				<outlets>
+					<outlet id="1" instock="10"/>
+				</outlets>
+				<description>Masaki Matsushima Matsu Sakura Eau De Parfum, Парфюмерная вода,  10 мл</description>
+			</offer>
+			<offer id="858158" available="true">
+				<url>https://shop.rivegauche.ru/newstore/ru/Бренды/Все-Бренды/MASAKI-MATSUSHIMA/Masaki-Matsushima-Matsu-Sakura-Eau-De-Parfum/p/858158</url>
+				<name>Masaki Matsushima Matsu Sakura Eau De Parfum, Парфюмерная вода, 40 мл</name>
+				<price>2980</price>
+				<categoryId>3761</categoryId>
+				<picture>https://shop.rivegauche.ru/media/impex/h9d/h4c/9122507456542.jpg</picture>
+				<shipment-options>
+					<option days="1" order-before="1"/>
+				</shipment-options>
+				<outlets>
+					<outlet id="1" instock="9"/>
+				</outlets>
+				<description>Masaki Matsushima Matsu Sakura Eau De Parfum, Парфюмерная вода, 40 мл</description>
+			</offer>
+			<offer id="858159" available="true">
+				<url>https://shop.rivegauche.ru/newstore/ru/Бренды/Все-Бренды/MASAKI-MATSUSHIMA/Masaki-Matsushima-Matsu-Sakura-Eau-De-Parfum/p/858159</url>
+				<name>Masaki Matsushima Matsu Sakura Eau De Parfum, Парфюмерная вода, 80 мл</name>
+				<price>825</price>
+				<categoryId>3761</categoryId>
+				<picture>https://shop.rivegauche.ru/media/impex/h9d/h4c/9122507456542.jpg</picture>
+				<shipment-options>
+					<option days="1" order-before="1"/>
+				</shipment-options>
+				<outlets>
+					<outlet id="1" instock="9"/>
+				</outlets>
+				<description>Masaki Matsushima Matsu Sakura Eau De Parfum, Парфюмерная вода, 80 мл</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

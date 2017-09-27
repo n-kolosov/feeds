@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2017-09-26 17:28">
+	<shop>
+		<name>СГМ+</name>
+		<company>СГМ+</company>
+		<url>https://www.sgm-techno.ru/</url>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="70004032   ">Вибропоглощающие материалы</category>
+			<category id="70004033   ">Противоскрипные материалы</category>
+			<category id="70004034   ">Звукоизоляционные и Акустические материалы</category>
+			<category id="70004035   ">Звукоизоляционные и виброизоляционные материалы</category>
+			<category id="70004036   ">Тепло и звукоизоляционные материалы</category>
+			<category id="70004037   ">Инвентарь для шумоизоляции</category>
+		</categories>
+		<offers>
+			<offer id="70003977   " available="true">
+				<name>СГМ-вибро Lite3; 0,5х0,7 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>2450</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.Lite.3.05x070</vendorCode>
+				<barcode>4620765860693</barcode>
+			</offer>
+			<offer id="70003979   " available="true">
+				<name>СГМ-вибро М1А; 0,5х0,8 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>2100</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.М1А.1.05x080</vendorCode>
+				<barcode>4620765860709</barcode>
+			</offer>
+			<offer id="70003980   " available="true">
+				<name>СГМ-вибро М2А; 0,5х0,8 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>2600</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.М2А.2.05x080</vendorCode>
+				<barcode>4620765860716</barcode>
+			</offer>
+			<offer id="70003981   " available="true">
+				<name>СГМ-вибро М3А; 0,5х0,8 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>3000</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.М3А.3.05x080</vendorCode>
+				<barcode>4620765860723</barcode>
+			</offer>
+			<offer id="70003982   " available="true">
+				<name>СГМ-вибро М4А; 0,5х0,8 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>3400</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.М4А.4.05x080</vendorCode>
+				<barcode>4620765860730</barcode>
+			</offer>
+			<offer id="70003983   " available="true">
+				<name>СГМ-вибро BМА; 0,5х0,8 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>4000</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.BМА .4.05x080</vendorCode>
+				<barcode>4620765860631</barcode>
+			</offer>
+			<offer id="70003984   " available="true">
+				<name> СГМ-вибро М1АS; 0,5х0,7 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>1850</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.М1АS.1.05x070</vendorCode>
+				<barcode>4620765860747</barcode>
+			</offer>
+			<offer id="70003985   " available="true">
+				<name>СГМ-вибро М2АS; 0,5х0,7 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>2600</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.М2АS.2.05x070</vendorCode>
+				<barcode>4620765860754</barcode>
+			</offer>
+			<offer id="70003986   " available="true">
+				<name>СГМ-вибро М3АS; 0,5х0,7 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>2950</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.М3АS.3.05x070</vendorCode>
+				<barcode>4620765860761</barcode>
+			</offer>
+			<offer id="70003987   " available="true">
+				<name>СГМ-вибро М4АS; 0,5х0,7 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>3200</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.М4АS.4.05x070</vendorCode>
+				<barcode>4620765860778</barcode>
+			</offer>
+			<offer id="70003988   " available="true">
+				<name>СГМ-вибро М1А1; 0,5х0,8 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>2050</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.М1А1.1.05x080</vendorCode>
+				<barcode>4620765860785</barcode>
+			</offer>
+			<offer id="70003989   " available="true">
+				<name>СГМ-вибро М2А1; 0,5х0,8 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>2150</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.М2А1.2.05x080</vendorCode>
+				<barcode>4620765860617</barcode>
+			</offer>
+			<offer id="70003990   " available="true">
+				<name>СГМ-вибро М3А1; 0,5х0,8 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>2750</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.М3А1.3.05x080</vendorCode>
+				<barcode>4620765860792</barcode>
+			</offer>
+			<offer id="70003991   " available="true">
+				<name>СГМ-вибро М4А1; 0,5х0,8 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>3000</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode> SGM.М4А1.4.05x080</vendorCode>
+				<barcode>4620765860624</barcode>
+			</offer>
+			<offer id="70003992   " available="true">
+				<name>СГМ-вибро ОЕМ1 0,5х0,7 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>1450</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.ОЕМ.1.05x070</vendorCode>
+				<barcode>4620765860570</barcode>
+			</offer>
+			<offer id="70003993   " available="true">
+				<name>СГМ-вибро ОЕМ2 0,5х0,7 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>1550</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.ОЕМ.2.05x070</vendorCode>
+				<barcode>4620765860587</barcode>
+			</offer>
+			<offer id="70003994   " available="true">
+				<name>СГМ-вибро ОЕМ3 0,5х0,7 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>2000</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.ОЕМ.3.05x070</vendorCode>
+				<barcode>4620765860808</barcode>
+			</offer>
+			<offer id="70003995   " available="true">
+				<name> СГМ-вибро ОЕМ4 0,5х0,7 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004032   </categoryId>
+				<price>2400</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.ОЕМ.4.05x070</vendorCode>
+				<barcode>4620765860815</barcode>
+			</offer>
+			<offer id="70003996   " available="true">
+				<name>СГМ-шумо ПРОскрип-1КС; 0,025х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004033   </categoryId>
+				<price>65</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.SKR .1KS.0025x10</vendorCode>
+				<barcode>4620765860532</barcode>
+			</offer>
+			<offer id="70003997   " available="true">
+				<name>СГМ-шумо ПРОскрип-1КС; 1,5х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004033   </categoryId>
+				<price>550</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.SKR.1KS.150x100</vendorCode>
+				<barcode>4620765860822</barcode>
+			</offer>
+			<offer id="70003998   " available="true">
+				<name>СГМ-шумо Mute 5КС; 0,75х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004034   </categoryId>
+				<price>330</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode> SGM.Mute.5KS.075x10</vendorCode>
+				<barcode>4620765860839</barcode>
+			</offer>
+			<offer id="70003999   " available="true">
+				<name> СГМ-шумо Mute 10 КС; 0,75х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004034   </categoryId>
+				<price>440</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.Mute.10KS.075x10</vendorCode>
+				<barcode>4620765860846</barcode>
+			</offer>
+			<offer id="70004000   " available="true">
+				<name>СГМ-шумо convoluta 15КС; 0,75х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004034   </categoryId>
+				<price>500</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.CVLT.15KS.075x10</vendorCode>
+				<barcode>4620765860853</barcode>
+			</offer>
+			<offer id="70004001   " available="true">
+				<name>СГМ-шумо convoluta 25КС; 0,75х1,0,м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004034   </categoryId>
+				<price>620</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.CVLT.25KS.075x10</vendorCode>
+				<barcode>4620765860860</barcode>
+			</offer>
+			<offer id="70004003   " available="true">
+				<name>СГМ-шумо Fiber 10 КС; 0,75х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004034   </categoryId>
+				<price>210</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.AVV.10KS.075x100</vendorCode>
+				<barcode>4620765860884</barcode>
+			</offer>
+			<offer id="70004002   " available="true">
+				<name>СГМ-шумо Fiberblock 10 КС; 0,75х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004034   </categoryId>
+				<price>330</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.AVVP.10KS.075x10</vendorCode>
+				<barcode>4620765860877</barcode>
+			</offer>
+			<offer id="70004004   " available="true">
+				<name>СГМ-шумо BB-Plast 4КС; 0,75х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004034   </categoryId>
+				<price>210</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.BP.4KS.075x100</vendorCode>
+				<barcode>4620765860891</barcode>
+			</offer>
+			<offer id="70004005   " available="true">
+				<name>СГМ-шумо BB-Plast 8КС; 0,75х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004034   </categoryId>
+				<price>325</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.BP.8KS.075x100</vendorCode>
+				<barcode>4620765860907</barcode>
+			</offer>
+			<offer id="70004006   " available="true">
+				<name>СГМ-изол И4; 0,5х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004035   </categoryId>
+				<price>2500</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.ISL.И4.05X100</vendorCode>
+				<barcode>4620765860914</barcode>
+			</offer>
+			<offer id="70004007   " available="true">
+				<name>СГМ-изол И8; 0,5х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004035   </categoryId>
+				<price>1625</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.ISL.И8.05X100</vendorCode>
+				<barcode>4620765860921</barcode>
+			</offer>
+			<offer id="70004008   " available="true">
+				<name>СГМ-изол АИ4; 0,5х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004035   </categoryId>
+				<price>2750</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.ISL.АИ4.05X100</vendorCode>
+				<barcode>4620765860938</barcode>
+			</offer>
+			<offer id="70004009   " available="true">
+				<name>СГМ-изол АИ8; 0,5х1,0 м;</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004035   </categoryId>
+				<price>1675</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.ISL.АИ8.05X100</vendorCode>
+				<barcode>4620765860945</barcode>
+			</offer>
+			<offer id="70004010   " available="true">
+				<name>СГМ-изол АС4; 0,5х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004035   </categoryId>
+				<price>2250</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode> SGM.ISL.АС4.05X100</vendorCode>
+				<barcode>4620765860952</barcode>
+			</offer>
+			<offer id="70004011   " available="true">
+				<name>СГМ-изол АС8; 0,5х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004035   </categoryId>
+				<price>1225</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.ISL.АС8.05X100</vendorCode>
+				<barcode>4620765860969</barcode>
+			</offer>
+			<offer id="70004012   " available="true">
+				<name>СГМ-шумо PP4; 0,75х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004036   </categoryId>
+				<price>180</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.PP.4KS.075x100</vendorCode>
+				<barcode>4620765860976</barcode>
+			</offer>
+			<offer id="70004013   " available="true">
+				<name>СГМ-шумо PP8; 0,75х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004036   </categoryId>
+				<price>320</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.PP.8KS.075x100</vendorCode>
+				<barcode>4620765860983</barcode>
+			</offer>
+			<offer id="70004014   " available="true">
+				<name>СГМ-шумо Аритон 15Ф КС; 0,75х1,0 м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004036   </categoryId>
+				<price>310</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.ARI.15FKS.075X10</vendorCode>
+				<barcode>4620765860990</barcode>
+			</offer>
+			<offer id="70004015   " available="true">
+				<name>СГМ Набор съемников для интерьера салона </name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004037   </categoryId>
+				<price>880</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.INTRO</vendorCode>
+				<barcode>4620765861003</barcode>
+			</offer>
+			<offer id="70004016   " available="true">
+				<name>СГМ Валик прикаточный; 20 мм;  деревянная ручка</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004037   </categoryId>
+				<price>250</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.ROLLER.20</vendorCode>
+				<barcode>4620765861317</barcode>
+			</offer>
+			<offer id="70004017   " available="true">
+				<name>СГМ Валик прикаточный; 35 мм; деревянная ручка</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004037   </categoryId>
+				<price>300</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode> SGM.ROLLER.35</vendorCode>
+				<barcode>4620765861324</barcode>
+			</offer>
+			<offer id="70004018   " available="true">
+				<name>СГМ Валик прикаточный; 20 мм; пластиковая ручка</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004037   </categoryId>
+				<price>270</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.ROLLER.20.RED</vendorCode>
+				<barcode>4620765861010</barcode>
+			</offer>
+			<offer id="70004019   " available="true">
+				<name>СГМ Валик прикаточный; 30 мм; пластиковая ручка</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004037   </categoryId>
+				<price>320</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.ROLLER.30.RED</vendorCode>
+				<barcode>4620765861027</barcode>
+			</offer>
+			<offer id="70004020   " available="true">
+				<name>СГМ Скотч алюминиевый армированный  0,05*40м</name>
+				<currencyId>RUR</currencyId>
+				<categoryId>70004037   </categoryId>
+				<price>350</price>
+				<vendor>СГМ+</vendor>
+				<vendorCode>SGM.SCOTCHARM.12X50</vendorCode>
+				<barcode>4620765861034</barcode>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

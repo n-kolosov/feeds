@@ -1,0 +1,1388 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>				
+<yml_catalog date="2017-09-26 11:37">				
+	<shop>			
+		<name>ООО Компания "Кондтроль" </name>		
+		<company>Общество с ограниченной ответственностью Компания "Кондтроль" </company>		
+		<url></url>		
+		<currencies>		
+			<currency  id="RUR" rate="1"/>	
+		</currencies>		
+		<categories>		
+			<category id="941">DRESSCOTE</category>	
+			<category id="А00603" parentId="941">WILDBERRIES</category>	
+		</categories>		
+		<offers>		
+			<offer id="950" available="true">	
+			<url></url>	
+			<name>BANGLE Силиконовый браслет-стилус оранжевый </name>	
+			<oldprice>0</oldprice>	
+			<price>590.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="123.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>BANGLE Силиконовый браслет-стилус оранжевый </model>	
+			<description>BANGLE Силиконовый браслет-стилус оранжевый </description>	
+			<barcode>4620752692634</barcode>	
+			</offer>	
+			<offer id="949" available="true">	
+			<url></url>	
+			<name>BANGLE Силиконовый браслет-стилус черный </name>	
+			<oldprice>0</oldprice>	
+			<price>590.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="16.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>BANGLE Силиконовый браслет-стилус черный </model>	
+			<description>BANGLE Силиконовый браслет-стилус черный </description>	
+			<barcode>4620752692610</barcode>	
+			</offer>	
+			<offer id="А00103" available="true">	
+			<url></url>	
+			<name>BOOMSONIX Портативная колонка красная</name>	
+			<oldprice>0</oldprice>	
+			<price>1990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="292.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>BOOMSONIX Портативная колонка красная</model>	
+			<description>BOOMSONIX Портативная колонка красная</description>	
+			<barcode>4620752693211</barcode>	
+			</offer>	
+			<offer id="А00078" available="true">	
+			<url></url>	
+			<name>BOOMSONIX Портативная колонка оранжевая</name>	
+			<oldprice>0</oldprice>	
+			<price>1990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="148.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>BOOMSONIX Портативная колонка оранжевая</model>	
+			<description>BOOMSONIX Портативная колонка оранжевая</description>	
+			<barcode>4620752693136</barcode>	
+			</offer>	
+			<offer id="А00077" available="true">	
+			<url></url>	
+			<name>BOOMSONIX Портативная колонка синяя</name>	
+			<oldprice>0</oldprice>	
+			<price>1990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="93.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>BOOMSONIX Портативная колонка синяя</model>	
+			<description>BOOMSONIX Портативная колонка синяя</description>	
+			<barcode>4620752693150</barcode>	
+			</offer>	
+			<offer id="967" available="true">	
+			<url></url>	
+			<name>FLAPS W  Меховые беспроводные наушники с Bluetooth. Натуральная замша</name>	
+			<oldprice>0</oldprice>	
+			<price>2900.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="250.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>FLAPS W  Меховые беспроводные наушники с Bluetooth. Натуральная замша</model>	
+			<description>FLAPS W  Меховые беспроводные наушники с Bluetooth. Натуральная замша</description>	
+			<barcode>4620752692351</barcode>	
+			</offer>	
+			<offer id="А00399" available="true">	
+			<url></url>	
+			<name>HATSONIC Балаклава с гарнитурой Bluetooth (черная)</name>	
+			<oldprice>0</oldprice>	
+			<price>1990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="92.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>HATSONIC Балаклава с гарнитурой Bluetooth (черная)</model>	
+			<description>HATSONIC Балаклава с гарнитурой Bluetooth (черная)</description>	
+			<barcode>4620752693495</barcode>	
+			</offer>	
+			<offer id="А00400" available="true">	
+			<url></url>	
+			<name>HATSONIC Бейсболка с гарнитурой Bluetooth (черная)</name>	
+			<oldprice>0</oldprice>	
+			<price>1990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="8.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>HATSONIC Бейсболка с гарнитурой Bluetooth (черная)</model>	
+			<description>HATSONIC Бейсболка с гарнитурой Bluetooth (черная)</description>	
+			<barcode>4620752693471</barcode>	
+			</offer>	
+			<offer id="943" available="true">	
+			<url></url>	
+			<name>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 1) бежевая</name>	
+			<oldprice>0</oldprice>	
+			<price>990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="46.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 1) бежевая</model>	
+			<description>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 1) бежевая</description>	
+			<barcode>4620752692559</barcode>	
+			</offer>	
+			<offer id="А00396" available="true">	
+			<url></url>	
+			<name>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 1) оранжевая</name>	
+			<oldprice>0</oldprice>	
+			<price>990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="59.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 1) оранжевая</model>	
+			<description>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 1) оранжевая</description>	
+			<barcode>4620752693259</barcode>	
+			</offer>	
+			<offer id="942" available="true">	
+			<url></url>	
+			<name>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 1) серая</name>	
+			<oldprice>0</oldprice>	
+			<price>1290.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="240.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 1) серая</model>	
+			<description>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 1) серая</description>	
+			<barcode>4620752692535</barcode>	
+			</offer>	
+			<offer id="А00397" available="true">	
+			<url></url>	
+			<name>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 1) черная</name>	
+			<oldprice>0</oldprice>	
+			<price>1290.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="58.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 1) черная</model>	
+			<description>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 1) черная</description>	
+			<barcode>4620752693235</barcode>	
+			</offer>	
+			<offer id="944" available="true">	
+			<url></url>	
+			<name>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 2) черная</name>	
+			<oldprice>0</oldprice>	
+			<price>1290.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="23.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 2) черная</model>	
+			<description>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 2) черная</description>	
+			<barcode>4620752692573</barcode>	
+			</offer>	
+			<offer id="980" available="true">	
+			<url></url>	
+			<name>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 3) фотопечать</name>	
+			<oldprice>0</oldprice>	
+			<price>1990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="254.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 3) фотопечать</model>	
+			<description>HATSONIC Шапка с беспроводными Bluetooth наушниками (модель 3) фотопечать</description>	
+			<barcode>4620752692856</barcode>	
+			</offer>	
+			<offer id="А00449" available="true">	
+			<url></url>	
+			<name>H-BAND бандана с гарнитурой Bluetooth  (синий)</name>	
+			<oldprice>0</oldprice>	
+			<price>1990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="36.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>H-BAND бандана с гарнитурой Bluetooth  (синий)</model>	
+			<description>H-BAND бандана с гарнитурой Bluetooth  (синий)</description>	
+			<barcode>4620752693051</barcode>	
+			</offer>	
+			<offer id="983" available="true">	
+			<url></url>	
+			<name>TALKERS Сенсорные перчатки с гарнитурой Bluetooth (Размер M) серые			</name>	
+			<oldprice>0</oldprice>	
+			<price>790.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="323.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>TALKERS Сенсорные перчатки с гарнитурой Bluetooth (Размер M) серые			</model>	
+			<description>TALKERS Сенсорные перчатки с гарнитурой Bluetooth (Размер M) серые			</description>	
+			<barcode>4620752692795</barcode>	
+			</offer>	
+			<offer id="982" available="true">	
+			<url></url>	
+			<name>TALKERS Сенсорные перчатки с гарнитурой Bluetooth (Размер M) черные			</name>	
+			<oldprice>0</oldprice>	
+			<price>790.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="273.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>TALKERS Сенсорные перчатки с гарнитурой Bluetooth (Размер M) черные			</model>	
+			<description>TALKERS Сенсорные перчатки с гарнитурой Bluetooth (Размер M) черные			</description>	
+			<barcode>4620752692818</barcode>	
+			</offer>	
+			<offer id="981" available="true">	
+			<url></url>	
+			<name>TALKERS Сенсорные перчатки с гарнитурой Bluetooth (Размер S) оранжевые			</name>	
+			<oldprice>0</oldprice>	
+			<price>790.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="314.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>TALKERS Сенсорные перчатки с гарнитурой Bluetooth (Размер S) оранжевые			</model>	
+			<description>TALKERS Сенсорные перчатки с гарнитурой Bluetooth (Размер S) оранжевые			</description>	
+			<barcode>4620752692832</barcode>	
+			</offer>	
+			<offer id="948" available="true">	
+			<url></url>	
+			<name>TOUCHERS Сенсорные перчатки для смартфонов (Размер M) серые			</name>	
+			<oldprice>0</oldprice>	
+			<price>790.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="16.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>TOUCHERS Сенсорные перчатки для смартфонов (Размер M) серые			</model>	
+			<description>TOUCHERS Сенсорные перчатки для смартфонов (Размер M) серые			</description>	
+			<barcode>4620752692511</barcode>	
+			</offer>	
+			<offer id="947" available="true">	
+			<url></url>	
+			<name>TOUCHERS Сенсорные перчатки для смартфонов (Размер M) черные			</name>	
+			<oldprice>0</oldprice>	
+			<price>790.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="24.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>TOUCHERS Сенсорные перчатки для смартфонов (Размер M) черные			</model>	
+			<description>TOUCHERS Сенсорные перчатки для смартфонов (Размер M) черные			</description>	
+			<barcode>4620752692498</barcode>	
+			</offer>	
+			<offer id="946" available="true">	
+			<url></url>	
+			<name>TOUCHERS Сенсорные перчатки для смартфонов (Размер S) оранжевые			</name>	
+			<oldprice>0</oldprice>	
+			<price>790.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="442.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>TOUCHERS Сенсорные перчатки для смартфонов (Размер S) оранжевые			</model>	
+			<description>TOUCHERS Сенсорные перчатки для смартфонов (Размер S) оранжевые			</description>	
+			<barcode>4620752692375</barcode>	
+			</offer>	
+			<offer id="А00448" available="true">	
+			<url></url>	
+			<name>W-BAND напульсники с гарнитурой Bluetooth  (синий)</name>	
+			<oldprice>0</oldprice>	
+			<price>1200.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>941</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="39.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>W-BAND напульсники с гарнитурой Bluetooth  (синий)</model>	
+			<description>W-BAND напульсники с гарнитурой Bluetooth  (синий)</description>	
+			<barcode>4620752693457</barcode>	
+			</offer>	
+		</offers>		
+	</shop>			
+	<shop>			
+		<name>ООО "НЕО ЛАЗЕР"</name>		
+		<company>Общество с ограниченной ответственностью "НЕО ЛАЗЕР"</company>		
+		<url></url>		
+		<currencies>		
+			<currency  id="RUR" rate="1"/>	
+		</currencies>		
+		<categories>		
+			<category id="2">2 Лазерные приборы INFINITER                                </category>	
+			<category id="59">3 Геодезические приборы                             </category>	
+			<category id="1">1 Лазерные приборы CONDTROL                            </category>	
+			<category id="7">4 Приборы неразрушающего контроля                   </category>	
+			<category id="100001" parentId="1">ЛАЗЕРНЫЕ УРОВНИ, ЭЛЕКТРОННЫЕ УРОВНИ, УКЛОНОМЕРЫ</category>	
+			<category id="105001" parentId="1">МУЛЬТИПРИЗМЕННЫЕ ЛАЗЕРНЫЕ НИВЕЛИРЫ                </category>	
+			<category id="110001" parentId="1">РОТАЦИОННЫЕ ЛАЗЕРНЫЕ НИВЕЛИРЫ                     </category>	
+			<category id="115001" parentId="1">ЛАЗЕРНЫЕ ДАЛЬНОМЕРЫ                               </category>	
+			<category id="120001" parentId="1">УГЛОМЕРЫ                                          </category>	
+			<category id="130003" parentId="1">АКСЕССУАРЫ ДЛЯ ЛАЗЕРНЫХ НИВЕЛИРОВ И ДАЛЬНОМЕРОВ   </category>	
+			<category id="220001" parentId="2">НИВЕЛИРЫ ЦИФРОВЫЕ</category>	
+			<category id="202000" parentId="2">МУЛЬТИПРИЗМЕННЫЕ ЛАЗЕРНЫЕ НИВЕЛИРЫ                </category>	
+			<category id="204000" parentId="2">ЛАЗЕРНЫЕ ДАЛЬНОМЕРЫ                               </category>	
+			<category id="203000" parentId="2">РОТАЦИОННЫЕ ЛАЗЕРНЫЕ НИВЕЛИРЫ                     </category>	
+			<category id="201001" parentId="2">ЛАЗЕРНЫЕ УРОВНИ, ЭЛЕКТРОННЫЕ УРОВНИ, УКЛОНОМЕРЫ   </category>	
+			<category id="200001" parentId="250001">GPS ОБОРУДОВАНИЕ</category>	
+			<category id="205002" parentId="59">ЭЛЕКТРОННЫЕ ТАХЕОМЕТРЫ</category>	
+			<category id="210002" parentId="59">ТЕОДОЛИТЫ</category>	
+			<category id="215007" parentId="59">НИВЕЛИРЫ ОПТИЧЕСКИЕ</category>	
+			<category id="225001" parentId="59">ПРИБОРЫ ВЕРТИКАЛЬНОГО ПРОЕКТИРОВАНИЯ</category>	
+			<category id="230001" parentId="59">ДОРОЖНЫЕ КОЛЕСА</category>	
+			<category id="235001" parentId="59">РУЛЕТКИ</category>	
+			<category id="240001" parentId="59">ТРАССОИСКАТЕЛИ,ТЕЧЕИСКАТЕЛИ</category>	
+			<category id="250001" parentId="59">МЕТАЛЛОИСКАТЕЛИ</category>	
+			<category id="255001" parentId="59">ПЛАНИМЕТРЫ, КУРВИМЕТРЫ</category>	
+			<category id="260001" parentId="59">НИВЕЛИРНЫЕ РЕЙКИ</category>	
+			<category id="265003" parentId="59">ШТАТИВЫ, ШТАНГИ, ВЕХИ</category>	
+			<category id="270001" parentId="59">АКСЕССУАРЫ</category>	
+			<category id="300005" parentId="7">ТВЕРДОМЕРЫ ДЛЯ МЕТАЛЛОВ                           </category>	
+			<category id="303001" parentId="7">ТВЕРДОМЕРЫ ДЛЯ РЕЗИНЫ И ПЛАСТИКА                  </category>	
+			<category id="306001" parentId="7">ИЗМЕРИТЕЛИ ШЕРОХОВАТОСТИ                          </category>	
+			<category id="309001" parentId="7">ТОЛЩИНОМЕРЫ ДЛЯ МЕТАЛОВ И ПЛАСТИКОВ               </category>	
+			<category id="312001" parentId="7">ДЕФЕКТОСКОПЫ                                    </category>	
+			<category id="315001" parentId="7">УЛЬТРАЗВУКОВЫЕ ПРЕОБРАЗОВАТЕЛИ,СТРАНДАРТ. ОБРАЗЦЫ</category>	
+			<category id="351001" parentId="7">ОБОРУДОВАНИЕ ДЛЯ ДОРОЖНЫХ РАБОТ. КОНТРОЛЬ ГРУНТОВ</category>	
+			<category id="354001" parentId="7">КОНТРОЛЬ ПАРАМЕТРОВ ГАЗОВ      </category>	
+			<category id="357001" parentId="7">ПРОЧИЕ ПРИБОРЫ</category>	
+			<category id="323000" parentId="7">ВИДЕОСКОПЫ</category>	
+			<category id="336001" parentId="7">ИЗМЕРИТЕЛИ ВИБРАЦИИ                               </category>	
+			<category id="337001" parentId="7">ИЗМЕРИТЕЛИ ВЛАЖНОСТИ, ВЛАГОМЕРЫ     </category>	
+			<category id="339001" parentId="7">ТЕРМОМЕТРЫ, ТЕРМОГИГРОМЕТРЫ                       </category>	
+			<category id="342001" parentId="7">ПИРОМЕТРЫ, ИК-ТЕРМОМЕТРЫ          </category>	
+			<category id="345001" parentId="7">ТЕПЛОВИЗОРЫ        </category>	
+			<category id="348001" parentId="7">ИЗЕРИТЕЛИ ТЕПЛОПРОВОДНОСТИ                      </category>	
+			<category id="318001" parentId="7">ТОЛЩИНОМЕРЫ ЛАКОКРАСОЧНЫХ И ГАЛЬВАНИЧЕСКИХ ПОКРЫТИ</category>	
+			<category id="321001" parentId="7">АДГЕЗИМЕТРЫ, ТВЕРДОМЕРЫ ПОКРЫТИЙ  </category>	
+			<category id="322000" parentId="7">ВЕСЫ</category>	
+			<category id="327002" parentId="7">ИЗМЕРИТЕЛИ ПРОЧНОСТИ БЕТОНА    </category>	
+			<category id="330001" parentId="7">Измерители морозостойкости и воздухопроницаемости </category>	
+			<category id="333001" parentId="7">МЕТАЛЛОДЕТЕКТОРЫ / КОНТРОЛЬ  АРМАТУРЫ В БЕТОНЕ                        </category>	
+		</categories>		
+		<offers>		
+			<offer id="130050" available="true">	
+			<url></url>	
+			<name>Большая  отражательная пластина  CONDTROL  А4      </name>	
+			<oldprice>0</oldprice>	
+			<price>380.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>130003</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="62.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Большая  отражательная пластина  CONDTROL  А4      </model>	
+			<description>Большая  отражательная пластина  CONDTROL  А4      </description>	
+			<barcode>4620752690111</barcode>	
+			</offer>	
+			<offer id="337082" available="true">	
+			<url></url>	
+			<name>Влагомер древесины и бетона Hydro-Tec CONDTROL</name>	
+			<oldprice>0</oldprice>	
+			<price>5990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>337001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="640.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Влагомер древесины и бетона Hydro-Tec CONDTROL</model>	
+			<description>Влагомер древесины и бетона Hydro-Tec CONDTROL</description>	
+			<barcode>4620752692054</barcode>	
+			</offer>	
+			<offer id="337030" available="true">	
+			<url></url>	
+			<name>Влагомер строительных материалов и воздуха Hydro Pro CONDTROL</name>	
+			<oldprice>0</oldprice>	
+			<price>15800.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>337001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="5.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Влагомер строительных материалов и воздуха Hydro Pro CONDTROL</model>	
+			<description>Влагомер строительных материалов и воздуха Hydro Pro CONDTROL</description>	
+			<barcode>4620752690364</barcode>	
+			</offer>	
+			<offer id="265145" available="true">	
+			<url></url>	
+			<name>Геодезический штатив CONDTROL GEO S6-2</name>	
+			<oldprice>0</oldprice>	
+			<price>3990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>265003</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="190.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Геодезический штатив CONDTROL GEO S6-2</model>	
+			<description>Геодезический штатив CONDTROL GEO S6-2</description>	
+			<barcode>4620752690678</barcode>	
+			</offer>	
+			<offer id="333008" available="true">	
+			<url></url>	
+			<name>Детектор  Wall CONDTROL</name>	
+			<oldprice>0</oldprice>	
+			<price>2990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>333001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="17.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Детектор  Wall CONDTROL</model>	
+			<description>Детектор  Wall CONDTROL</description>	
+			<barcode>4620752690838</barcode>	
+			</offer>	
+			<offer id="964" available="true">	
+			<url></url>	
+			<name>Детектор-отражатель для лазерных нивелиров CONDTROL</name>	
+			<oldprice>0</oldprice>	
+			<price>4990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>130003</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="1.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Детектор-отражатель для лазерных нивелиров CONDTROL</model>	
+			<description>Детектор-отражатель для лазерных нивелиров CONDTROL</description>	
+			<barcode>4620752692450</barcode>	
+			</offer>	
+			<offer id="327001" available="true">	
+			<url></url>	
+			<name>Измеритель прочности бетона Easy Beton CONDTROL  ( электронный склерометр) </name>	
+			<oldprice>0</oldprice>	
+			<price>29990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>327002</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="9.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Измеритель прочности бетона Easy Beton CONDTROL  ( электронный склерометр) </model>	
+			<description>Измеритель прочности бетона Easy Beton CONDTROL  ( электронный склерометр) </description>	
+			<barcode>4620752690418</barcode>	
+			</offer>	
+			<offer id="931" available="true">	
+			<url></url>	
+			<name>Комплект  Wall CONDTROL Set+ инструмент</name>	
+			<oldprice>0</oldprice>	
+			<price>3490.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>333001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="27.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Комплект  Wall CONDTROL Set+ инструмент</model>	
+			<description>Комплект  Wall CONDTROL Set+ инструмент</description>	
+			<barcode>4620752692399</barcode>	
+			</offer>	
+			<offer id="932" available="true">	
+			<url></url>	
+			<name>Комплект  Wall Pro CONDTROL Set+ инструмент</name>	
+			<oldprice>0</oldprice>	
+			<price>5990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>333001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="8.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Комплект  Wall Pro CONDTROL Set+ инструмент</model>	
+			<description>Комплект  Wall Pro CONDTROL Set+ инструмент</description>	
+			<barcode>4620752692412</barcode>	
+			</offer>	
+			<offer id="105095" available="true">	
+			<url></url>	
+			<name>Комплект CONDTROL X-Kit NEW (EFX + X1 Plus)</name>	
+			<oldprice>0</oldprice>	
+			<price>7590.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>105001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="4.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Комплект CONDTROL X-Kit NEW (EFX + X1 Plus)</model>	
+			<description>Комплект CONDTROL X-Kit NEW (EFX + X1 Plus)</description>	
+			<barcode>4620752691736</barcode>	
+			</offer>	
+			<offer id="130142" available="true">	
+			<url></url>	
+			<name>Крепление для  лазерного нивелира KRAB CONDTROL</name>	
+			<oldprice>0</oldprice>	
+			<price>690.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>130003</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="19.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Крепление для  лазерного нивелира KRAB CONDTROL</model>	
+			<description>Крепление для  лазерного нивелира KRAB CONDTROL</description>	
+			<barcode>4620752692153</barcode>	
+			</offer>	
+			<offer id="А00293" available="true">	
+			<url></url>	
+			<name>Лазерный дальномер  CONDTROL X1 LITE</name>	
+			<oldprice>0</oldprice>	
+			<price>2490.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>115001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="19.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный дальномер  CONDTROL X1 LITE</model>	
+			<description>Лазерный дальномер  CONDTROL X1 LITE</description>	
+			<barcode>4620752693198</barcode>	
+			</offer>	
+			<offer id="А00290" available="true">	
+			<url></url>	
+			<name>Лазерный дальномер  CONDTROL XP1</name>	
+			<oldprice>0</oldprice>	
+			<price>2990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>115001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="76.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный дальномер  CONDTROL XP1</model>	
+			<description>Лазерный дальномер  CONDTROL XP1</description>	
+			<barcode>4620752693631</barcode>	
+			</offer>	
+			<offer id="А00292" available="true">	
+			<url></url>	
+			<name>Лазерный дальномер  CONDTROL XP2</name>	
+			<oldprice>0</oldprice>	
+			<price>4190.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>115001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="21.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный дальномер  CONDTROL XP2</model>	
+			<description>Лазерный дальномер  CONDTROL XP2</description>	
+			<barcode>4620752693655</barcode>	
+			</offer>	
+			<offer id="А00351" available="true">	
+			<url></url>	
+			<name>Лазерный дальномер  CONDTROL XP3</name>	
+			<oldprice>0</oldprice>	
+			<price>7590.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>115001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="2.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный дальномер  CONDTROL XP3</model>	
+			<description>Лазерный дальномер  CONDTROL XP3</description>	
+			<barcode>4620752693716</barcode>	
+			</offer>	
+			<offer id="А00352" available="true">	
+			<url></url>	
+			<name>Лазерный дальномер  CONDTROL XP4 </name>	
+			<oldprice>0</oldprice>	
+			<price>12990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>115001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="6.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный дальномер  CONDTROL XP4 </model>	
+			<description>Лазерный дальномер  CONDTROL XP4 </description>	
+			<barcode>4620752693730</barcode>	
+			</offer>	
+			<offer id="А00353" available="true">	
+			<url></url>	
+			<name>Лазерный дальномер  CONDTROL XP4 pro</name>	
+			<oldprice>0</oldprice>	
+			<price>16990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>115001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="6.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный дальномер  CONDTROL XP4 pro</model>	
+			<description>Лазерный дальномер  CONDTROL XP4 pro</description>	
+			<barcode>4620752693952</barcode>	
+			</offer>	
+			<offer id="115111" available="true">	
+			<url></url>	
+			<name>Лазерный дальномер CONDTROL XS                </name>	
+			<oldprice>0</oldprice>	
+			<price>1990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>115001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="1.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный дальномер CONDTROL XS                </model>	
+			<description>Лазерный дальномер CONDTROL XS                </description>	
+			<barcode>4620752692139</barcode>	
+			</offer>	
+			<offer id="А00733" available="true">	
+			<url></url>	
+			<name>Лазерный дальномер INFINITER 30 new     </name>	
+			<oldprice>0</oldprice>	
+			<price>1990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>204000</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="37.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный дальномер INFINITER 30 new     </model>	
+			<description>Лазерный дальномер INFINITER 30 new     </description>	
+			<barcode></barcode>	
+			</offer>	
+			<offer id="А00429" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир CONDTROL Auto Rotolaser</name>	
+			<oldprice>0</oldprice>	
+			<price>38990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>110001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="5.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир CONDTROL Auto Rotolaser</model>	
+			<description>Лазерный нивелир CONDTROL Auto Rotolaser</description>	
+			<barcode>4620752694034</barcode>	
+			</offer>	
+			<offer id="105105" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир CONDTROL MX2 Profi Set</name>	
+			<oldprice>0</oldprice>	
+			<price>11900.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>105001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="2.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир CONDTROL MX2 Profi Set</model>	
+			<description>Лазерный нивелир CONDTROL MX2 Profi Set</description>	
+			<barcode></barcode>	
+			</offer>	
+			<offer id="А00511" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир CONDTROL NEO G200</name>	
+			<oldprice>0</oldprice>	
+			<price>6990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>105001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="307.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир CONDTROL NEO G200</model>	
+			<description>Лазерный нивелир CONDTROL NEO G200</description>	
+			<barcode>4620752694294</barcode>	
+			</offer>	
+			<offer id="А00738" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир CONDTROL NEO G220 set</name>	
+			<oldprice>0</oldprice>	
+			<price>8880.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>105001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="127.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир CONDTROL NEO G220 set</model>	
+			<description>Лазерный нивелир CONDTROL NEO G220 set</description>	
+			<barcode>4620752694393</barcode>	
+			</offer>	
+			<offer id="А00345" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир CONDTROL NEO X200</name>	
+			<oldprice>0</oldprice>	
+			<price>4490.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>105001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="171.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир CONDTROL NEO X200</model>	
+			<description>Лазерный нивелир CONDTROL NEO X200</description>	
+			<barcode>4620752694072</barcode>	
+			</offer>	
+			<offer id="А00425" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир CONDTROL NEO X200 set</name>	
+			<oldprice>0</oldprice>	
+			<price>5490.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>105001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="160.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир CONDTROL NEO X200 set</model>	
+			<description>Лазерный нивелир CONDTROL NEO X200 set</description>	
+			<barcode>4620752694096</barcode>	
+			</offer>	
+			<offer id="А00426" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир CONDTROL NEO X220 set</name>	
+			<oldprice>0</oldprice>	
+			<price>6990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>105001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="19.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир CONDTROL NEO X220 set</model>	
+			<description>Лазерный нивелир CONDTROL NEO X220 set</description>	
+			<barcode>4620752694119</barcode>	
+			</offer>	
+			<offer id="А00412" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир CONDTROL QB</name>	
+			<oldprice>0</oldprice>	
+			<price>2690.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>105001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="309.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир CONDTROL QB</model>	
+			<description>Лазерный нивелир CONDTROL QB</description>	
+			<barcode>4620752693976</barcode>	
+			</offer>	
+			<offer id="А00430" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир CONDTROL Super Rotolaser</name>	
+			<oldprice>0</oldprice>	
+			<price>69990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>110001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="6.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир CONDTROL Super Rotolaser</model>	
+			<description>Лазерный нивелир CONDTROL Super Rotolaser</description>	
+			<barcode>4620752694058</barcode>	
+			</offer>	
+			<offer id="110014" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир CONDTROL SUPER RotoLaser c пультом и детектором</name>	
+			<oldprice>0</oldprice>	
+			<price>69990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>110001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="1.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир CONDTROL SUPER RotoLaser c пультом и детектором</model>	
+			<description>Лазерный нивелир CONDTROL SUPER RotoLaser c пультом и детектором</description>	
+			<barcode>4620752691019</barcode>	
+			</offer>	
+			<offer id="А00092" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир CONDTROL Unix360Pro</name>	
+			<oldprice>0</oldprice>	
+			<price>11690.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>105001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="30.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир CONDTROL Unix360Pro</model>	
+			<description>Лазерный нивелир CONDTROL Unix360Pro</description>	
+			<barcode>4620752693174</barcode>	
+			</offer>	
+			<offer id="А00356" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир CONDTROL XLiner Combo 360</name>	
+			<oldprice>0</oldprice>	
+			<price>9690.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>105001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="27.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир CONDTROL XLiner Combo 360</model>	
+			<description>Лазерный нивелир CONDTROL XLiner Combo 360</description>	
+			<barcode>4620752694256</barcode>	
+			</offer>	
+			<offer id="А00357" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир CONDTROL XLiner Duo 360</name>	
+			<oldprice>0</oldprice>	
+			<price>7690.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>105001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="237.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир CONDTROL XLiner Duo 360</model>	
+			<description>Лазерный нивелир CONDTROL XLiner Duo 360</description>	
+			<barcode>4620752694232</barcode>	
+			</offer>	
+			<offer id="105092" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир CONDTROL XMarker </name>	
+			<oldprice>0</oldprice>	
+			<price>3390.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>105001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="26.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир CONDTROL XMarker </model>	
+			<description>Лазерный нивелир CONDTROL XMarker </description>	
+			<barcode>4620752691033</barcode>	
+			</offer>	
+			<offer id="А00342" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир INFINITER CL2</name>	
+			<oldprice>0</oldprice>	
+			<price>4440.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>202000</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="1.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир INFINITER CL2</model>	
+			<description>Лазерный нивелир INFINITER CL2</description>	
+			<barcode></barcode>	
+			</offer>	
+			<offer id="А00635" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир INFINITER CL5 pro</name>	
+			<oldprice>0</oldprice>	
+			<price>8490.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>202000</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="58.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир INFINITER CL5 pro</model>	
+			<description>Лазерный нивелир INFINITER CL5 pro</description>	
+			<barcode></barcode>	
+			</offer>	
+			<offer id="202031" available="true">	
+			<url></url>	
+			<name>Лазерный нивелир INFINITER SQ</name>	
+			<oldprice>0</oldprice>	
+			<price>1590.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>202000</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="137.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный нивелир INFINITER SQ</model>	
+			<description>Лазерный нивелир INFINITER SQ</description>	
+			<barcode> 462075269197</barcode>	
+			</offer>	
+			<offer id="120041" available="true">	
+			<url></url>	
+			<name>Лазерный угломер CONDTROL A-Tronix</name>	
+			<oldprice>0</oldprice>	
+			<price>2790.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>120001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="316.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Лазерный угломер CONDTROL A-Tronix</model>	
+			<description>Лазерный угломер CONDTROL A-Tronix</description>	
+			<barcode> 462075269129</barcode>	
+			</offer>	
+			<offer id="130110" available="true">	
+			<url></url>	
+			<name>Магнитная мишень для лазерного нивелира           </name>	
+			<oldprice>0</oldprice>	
+			<price>290.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>130003</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="84.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Магнитная мишень для лазерного нивелира           </model>	
+			<description>Магнитная мишень для лазерного нивелира           </description>	
+			<barcode>4620752694270</barcode>	
+			</offer>	
+			<offer id="130141" available="true">	
+			<url></url>	
+			<name>Микро-штатив для лазерных нивелиров CONDTROL</name>	
+			<oldprice>0</oldprice>	
+			<price>390.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>130003</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="68.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Микро-штатив для лазерных нивелиров CONDTROL</model>	
+			<description>Микро-штатив для лазерных нивелиров CONDTROL</description>	
+			<barcode></barcode>	
+			</offer>	
+			<offer id="260044" available="true">	
+			<url></url>	
+			<name>Нивелирная рейка CONDTROL TS 3M</name>	
+			<oldprice>0</oldprice>	
+			<price>2790.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>260001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="99.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Нивелирная рейка CONDTROL TS 3M</model>	
+			<description>Нивелирная рейка CONDTROL TS 3M</description>	
+			<barcode>4620752690692</barcode>	
+			</offer>	
+			<offer id="260045" available="true">	
+			<url></url>	
+			<name>Нивелирная рейка CONDTROL TS 4M</name>	
+			<oldprice>0</oldprice>	
+			<price>2990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>260001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="227.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Нивелирная рейка CONDTROL TS 4M</model>	
+			<description>Нивелирная рейка CONDTROL TS 4M</description>	
+			<barcode>4620752690715</barcode>	
+			</offer>	
+			<offer id="260046" available="true">	
+			<url></url>	
+			<name>Нивелирная рейка CONDTROL TS 5M</name>	
+			<oldprice>0</oldprice>	
+			<price>3290.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>260001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="62.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Нивелирная рейка CONDTROL TS 5M</model>	
+			<description>Нивелирная рейка CONDTROL TS 5M</description>	
+			<barcode>4620752690739</barcode>	
+			</offer>	
+			<offer id="215006" available="true">	
+			<url></url>	
+			<name>Оптический нивелир CONDTROL 24X               </name>	
+			<oldprice>0</oldprice>	
+			<price>10990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>215007</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="91.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Оптический нивелир CONDTROL 24X               </model>	
+			<description>Оптический нивелир CONDTROL 24X               </description>	
+			<barcode>4620752690500</barcode>	
+			</offer>	
+			<offer id="215011" available="true">	
+			<url></url>	
+			<name>Оптический нивелир CONDTROL 24X c поверкой              </name>	
+			<oldprice>0</oldprice>	
+			<price>11990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>215007</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="7.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Оптический нивелир CONDTROL 24X c поверкой              </model>	
+			<description>Оптический нивелир CONDTROL 24X c поверкой              </description>	
+			<barcode></barcode>	
+			</offer>	
+			<offer id="215008" available="true">	
+			<url></url>	
+			<name>Оптический нивелир CONDTROL 32X             </name>	
+			<oldprice>0</oldprice>	
+			<price>11990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>215007</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="189.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Оптический нивелир CONDTROL 32X             </model>	
+			<description>Оптический нивелир CONDTROL 32X             </description>	
+			<barcode>4620752690517</barcode>	
+			</offer>	
+			<offer id="215012" available="true">	
+			<url></url>	
+			<name>Оптический нивелир CONDTROL 32X с поверкой             </name>	
+			<oldprice>0</oldprice>	
+			<price>12990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>215007</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="3.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Оптический нивелир CONDTROL 32X с поверкой             </model>	
+			<description>Оптический нивелир CONDTROL 32X с поверкой             </description>	
+			<barcode></barcode>	
+			</offer>	
+			<offer id="342010" available="true">	
+			<url></url>	
+			<name>Пирометр IR-T1 CONDTROL                           </name>	
+			<oldprice>0</oldprice>	
+			<price>1990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>342001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="59.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Пирометр IR-T1 CONDTROL                           </model>	
+			<description>Пирометр IR-T1 CONDTROL                           </description>	
+			<barcode>4620752690371</barcode>	
+			</offer>	
+			<offer id="А00343" available="true">	
+			<url></url>	
+			<name>Ротационная база для лазерного нивелира CONDTROL</name>	
+			<oldprice>0</oldprice>	
+			<price>690.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>130003</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="8.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Ротационная база для лазерного нивелира CONDTROL</model>	
+			<description>Ротационная база для лазерного нивелира CONDTROL</description>	
+			<barcode></barcode>	
+			</offer>	
+			<offer id="А00278" available="true">	
+			<url></url>	
+			<name>Тепловизор CONDTROL IR-CAM 2</name>	
+			<oldprice>0</oldprice>	
+			<price>36990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>345001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="1.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Тепловизор CONDTROL IR-CAM 2</model>	
+			<description>Тепловизор CONDTROL IR-CAM 2</description>	
+			<barcode>4620752693112</barcode>	
+			</offer>	
+			<offer id="130140" available="true">	
+			<url></url>	
+			<name>Универсальное крепление для  лазерного нивелира CONDTROL</name>	
+			<oldprice>0</oldprice>	
+			<price>1490.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>130003</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="107.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Универсальное крепление для  лазерного нивелира CONDTROL</model>	
+			<description>Универсальное крепление для  лазерного нивелира CONDTROL</description>	
+			<barcode>4620752691316</barcode>	
+			</offer>	
+			<offer id="265191" available="true">	
+			<url></url>	
+			<name>Штатив CONDTROL H130 с элевационной головкой 1/4"</name>	
+			<oldprice>0</oldprice>	
+			<price>1390.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>265003</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="140.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Штатив CONDTROL H130 с элевационной головкой 1/4"</model>	
+			<description>Штатив CONDTROL H130 с элевационной головкой 1/4"</description>	
+			<barcode>4620752691491</barcode>	
+			</offer>	
+			<offer id="265105" available="true">	
+			<url></url>	
+			<name>Штатив CONDTROL H190 с элевационной головкой 5/8"</name>	
+			<oldprice>0</oldprice>	
+			<price>2590.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>265003</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="416.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Штатив CONDTROL H190 с элевационной головкой 5/8"</model>	
+			<description>Штатив CONDTROL H190 с элевационной головкой 5/8"</description>	
+			<barcode>4620752690753</barcode>	
+			</offer>	
+			<offer id="210081" available="true">	
+			<url></url>	
+			<name>Электронный  теодолит CONDTROL iTeo 2</name>	
+			<oldprice>0</oldprice>	
+			<price>67990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>210002</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="1.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Электронный  теодолит CONDTROL iTeo 2</model>	
+			<description>Электронный  теодолит CONDTROL iTeo 2</description>	
+			<barcode>4620752691675</barcode>	
+			</offer>	
+			<offer id="210082" available="true">	
+			<url></url>	
+			<name>Электронный  теодолит CONDTROL iTeo 5</name>	
+			<oldprice>0</oldprice>	
+			<price>65990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>210002</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="1.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Электронный  теодолит CONDTROL iTeo 5</model>	
+			<description>Электронный  теодолит CONDTROL iTeo 5</description>	
+			<barcode>4620752691699</barcode>	
+			</offer>	
+			<offer id="100101" available="true">	
+			<url></url>	
+			<name>Электронный уровень, уклономер CONDTROL I-Tronix 60</name>	
+			<oldprice>0</oldprice>	
+			<price>3990.00</price>	
+			<currencyId>RUR</currencyId>	
+			<categoryId>100001</categoryId>	
+			<picture></picture>	
+			<outlets>	
+				<outlet id="1" instock="172.0000"/>
+			</outlets>	
+			<vendor></vendor>	
+			<vendorCode></vendorCode>	
+			<model>Электронный уровень, уклономер CONDTROL I-Tronix 60</model>	
+			<description>Электронный уровень, уклономер CONDTROL I-Tronix 60</description>	
+			<barcode>4620752691231</barcode>	
+			</offer>	
+		</offers>		
+	</shop>			
+</yml_catalog				
