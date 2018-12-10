@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yml_catalog date="2019-02-18 17:41">
+	<shop>
+		<name>mideer.ru</name>
+		<company>ИП Бартенев Илья Владимирович</company>
+		<url>http://mideer.ru</url>
+		<currencies>
+			<currency id="RUR" rate="1" plus="0"/>
+		</currencies>
+		<categories>
+			<category id="1">Пазлы</category>
+			<category id="2">Развивающие игрушки</category>
+			<category id="3">Мозаики</category>
+			<category id="4">Наборы для творчества</category>
+			<category id="5">Аксесуары для детской комнаты</category>
+			<category id="6">Настольные игры</category>
+		</categories>
+		<offers>
+			<offer id="MD1018" type="vendor.model" bid="1" cbid="1" available="true">
+				<barcode>6936352510185</barcode>
+				<name>РАЗВИВАЮЩАЯ ИГРА MIDEER МАГНИТНАЯ КАРТА МИРА "HELLO WORLD" </name>
+				<price>1890</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1018</vendorCode>
+				<model/>
+				<description>РАЗВИВАЮЩАЯ ИГРА MIDEER МАГНИТНАЯ КАРТА МИРА "HELLO WORLD" </description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD2031" available="true">
+				<barcode>6936352520313 </barcode>
+				<name>РАЗВИВАЮЩАЯ ИГРА MIDEER "АНАТОМИЯ ЧЕЛОВЕКА" ИГРА НА МАГНИТАХ</name>
+				<price>2995</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD2031</vendorCode>
+				<model/>
+				<description>РАЗВИВАЮЩАЯ ИГРА MIDEER "АНАТОМИЯ ЧЕЛОВЕКА" ИГРА НА МАГНИТАХ</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1041" available="true">
+				<barcode>6936352510413</barcode>
+				<name>МАГНИТНЫЙ ПАЗЛ С КАРТОЧКАМИ MIDEER "ГЕОМЕТРИЧЕСКИЕ ЖИВОТНЫЕ</name>
+				<price>1390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1041</vendorCode>
+				<model/>
+				<description> МАГНИТНЫЙ ПАЗЛ С КАРТОЧКАМИ MIDEER "ГЕОМЕТРИЧЕСКИЕ ЖИВОТНЫЕ</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1039" available="true">
+				<barcode>6936352510390</barcode>
+				<name>МАГНИТНЫЙ ПАЗЛ С КАРТОЧКАМИ MIDEER "ОДЕЖДА"</name>
+				<price>1390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1039</vendorCode>
+				<model/>
+				<description>МАГНИТНЫЙ ПАЗЛ С КАРТОЧКАМИ MIDEER "ОДЕЖДА"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1038" available="true">
+				<barcode>6936352510383</barcode>
+				<name>МАГНИТНЫЙ ПАЗЛ С КАРТОЧКАМИ MIDEER "ЗАБАВНЫЕ ЛИЦА"</name>
+				<price>1390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1038</vendorCode>
+				<model/>
+				<description>МАГНИТНЫЙ ПАЗЛ С КАРТОЧКАМИ MIDEER "ЗАБАВНЫЕ ЛИЦА"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1040" available="true">
+				<barcode>6936352510406</barcode>
+				<name>МАГНИТНЫЙ ПАЗЛ С КАРТОЧКАМИ MIDEER "ТРАНСПОРТ" </name>
+				<price>1390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1040</vendorCode>
+				<model/>
+				<description>МАГНИТНЫЙ ПАЗЛ С КАРТОЧКАМИ MIDEER "ТРАНСПОРТ" </description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD0077" available="true">
+				<barcode>6936352500773</barcode>
+				<name>НАБОР ПАЗЛОВ МОИ ПЕРВЫЕ ПАЗЛЫ MIDEER "ТРАНСПОРТ"</name>
+				<price>1190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD0077</vendorCode>
+				<model/>
+				<description>НАБОР ПАЗЛОВ МОИ ПЕРВЫЕ ПАЗЛЫ MIDEER "ТРАНСПОРТ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD0078" available="true">
+				<barcode>6936352500780</barcode>
+				<name>НАБОР ПАЗЛОВ МОИ ПЕРВЫЕ ПАЗЛЫ MIDEER "ДЖУНГЛИ"</name>
+				<price>1190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD0078</vendorCode>
+				<model/>
+				<description>НАБОР ПАЗЛОВ МОИ ПЕРВЫЕ ПАЗЛЫ MIDEER "ДЖУНГЛИ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3022" available="true">
+				<barcode>6936352530220</barcode>
+				<name>НАБОР ПАЗЛОВ МОИ ПЕРВЫЕ ПАЗЛЫ MIDEER "ГЕОМЕТРИЧЕСКИЕ ФИГУРЫ"</name>
+				<price>1190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3022</vendorCode>
+				<model/>
+				<description>НАБОР ПАЗЛОВ МОИ ПЕРВЫЕ ПАЗЛЫ MIDEER "ГЕОМЕТРИЧЕСКИЕ ФИГУРЫ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3012" available="true">
+				<barcode>6936352530121</barcode>
+				<name>НАБОР ПАЗЛОВ МОИ ПЕРВЫЕ ПАЗЛЫ MIDEER "ФЕРМА"</name>
+				<price>1190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3012</vendorCode>
+				<model/>
+				<description>НАБОР ПАЗЛОВ МОИ ПЕРВЫЕ ПАЗЛЫ MIDEER "ФЕРМА"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3030" available="true">
+				<barcode>6936352530305</barcode>
+				<name>НАБОР ПАЗЛОВ МОИ ПЕРВЫЕ ПАЗЛЫ MIDEER "ЦИФРЫ"</name>
+				<price>1190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3030</vendorCode>
+				<model/>
+				<description>НАБОР ПАЗЛОВ МОИ ПЕРВЫЕ ПАЗЛЫ MIDEER "ЦИФРЫ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3027" available="true">
+				<barcode>6936352530275</barcode>
+				<name>БОЛЬШОЙ НАПОЛЬНЫЙ ПАЗЛ MIDEER "КАРТА МИРА"</name>
+				<price>1790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3027</vendorCode>
+				<model/>
+				<description>БОЛЬШОЙ НАПОЛЬНЫЙ ПАЗЛ MIDEER "КАРТА МИРА"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3026" available="true">
+				<barcode>6936352530268</barcode>
+				<name>ПАЗЛ MIDEER "ВЕК ДИНОЗАВРОВ"</name>
+				<price>1690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3026</vendorCode>
+				<model/>
+				<description>ПАЗЛ MIDEER "ВЕК ДИНОЗАВРОВ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3028" available="true">
+				<barcode>6936352530282</barcode>
+				<name>ПАЗЛ "СПЯЩАЯ КРАСАВИЦА" MIDEER</name>
+				<price>1690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3028</vendorCode>
+				<model/>
+				<description>ПАЗЛ "СПЯЩАЯ КРАСАВИЦА" MIDEER</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3018" available="true">
+				<barcode>6936352530183</barcode>
+				<name>БОЛЬШОЙ НАПОЛЬНЫЙ ПАЗЛ MIDEER "МИР СКАЗОК"</name>
+				<price>1690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3018</vendorCode>
+				<model/>
+				<description>БОЛЬШОЙ НАПОЛЬНЫЙ ПАЗЛ MIDEER "МИР СКАЗОК"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3013" available="true">
+				<barcode>6936352530138</barcode>
+				<name>БОЛЬШОЙ ПАЗЛ MIDEER "МОЯ МЕЧТА"</name>
+				<price>1590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3013</vendorCode>
+				<model/>
+				<description>БОЛЬШОЙ ПАЗЛ MIDEER "МОЯ МЕЧТА"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD0083" available="true">
+				<barcode>6936352500834</barcode>
+				<name>БОЛЬШОЙ ПАЗЛ MIDEER "ПОДВОДНЫЙ МИР"</name>
+				<price>1850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD0083</vendorCode>
+				<model/>
+				<description>БОЛЬШОЙ ПАЗЛ MIDEER "ПОДВОДНЫЙ МИР"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD0084" available="true">
+				<barcode>6936352500841</barcode>
+				<name>НАПОЛЬНЫЙ ПАЗЛ MIDEER "ПРАЗДНИК" </name>
+				<price>1590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD0084</vendorCode>
+				<model/>
+				<description>НАПОЛЬНЫЙ ПАЗЛ MIDEER "ПРАЗДНИК" </description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3029" available="true">
+				<barcode>6936352530299</barcode>
+				<name>ПАЗЛ MIDEER "АВТОМАСТЕРСКАЯ И ПОРТ"</name>
+				<price>1790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3029</vendorCode>
+				<model/>
+				<description>ПАЗЛ MIDEER "АВТОМАСТЕРСКАЯ И ПОРТ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3020" available="true">
+				<barcode>6936352530206</barcode>
+				<name>ПАЗЛ-ЧАСЫ MIDEER "ПУТЕШЕСТВИЕ ПО ВРЕМЕНИ"</name>
+				<price>1290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3020</vendorCode>
+				<model/>
+				<description>ПАЗЛ-ЧАСЫ MIDEER "ПУТЕШЕСТВИЕ ПО ВРЕМЕНИ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3016" available="true">
+				<barcode>6936352530169</barcode>
+				<name>НАБОР ПАЗЛОВ 4 В 1 MIDEER "ВРЕМЕНА ГОДА"</name>
+				<price>1490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3016</vendorCode>
+				<model/>
+				<description>НАБОР ПАЗЛОВ 4 В 1 MIDEER "ВРЕМЕНА ГОДА"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3017" available="true">
+				<barcode>6936352530176</barcode>
+				<name>НАБОР ПАЗЛОВ 4 В 1 MIDEER "СКАЗОЧНЫЙ ГОРОД"</name>
+				<price>1490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3017</vendorCode>
+				<model/>
+				<description>НАБОР ПАЗЛОВ 4 В 1 MIDEER "СКАЗОЧНЫЙ ГОРОД"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3025" available="true">
+				<barcode>6936352530176</barcode>
+				<name>НАБОР ПАЗЛОВ 4 В 1 MIDEER "ТРАНСПОРТ"</name>
+				<price>1490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3025</vendorCode>
+				<model/>
+				<description>НАБОР ПАЗЛОВ 4 В 1 MIDEER "ТРАНСПОРТ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3010" available="true">
+				<barcode>6936352530107</barcode>
+				<name>ПАЗЛ MIDEER C ВОЛШЕБНЫМИ ОЧКАМИ "ЛЕС"</name>
+				<price>1190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3010</vendorCode>
+				<model/>
+				<description>ПАЗЛ MIDEER C ВОЛШЕБНЫМИ ОЧКАМИ "ЛЕС"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3011" available="true">
+				<barcode>6936352530114</barcode>
+				<name>ПАЗЛ MIDEER C ВОЛШЕБНЫМИ ОЧКАМИ "ОКЕАН"</name>
+				<price>1290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3011</vendorCode>
+				<model/>
+				<description>ПАЗЛ MIDEER C ВОЛШЕБНЫМИ ОЧКАМИ "ОКЕАН"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3008" available="true">
+				<barcode>6936352530084</barcode>
+				<name>ПАЗЛ С ЛУПОЙ MIDEER "ДЕТЕКТИВ В КОМНАТЕ"</name>
+				<price>1190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3008</vendorCode>
+				<model/>
+				<description>ПАЗЛ С ЛУПОЙ MIDEER "ДЕТЕКТИВ В КОМНАТЕ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3007" available="true">
+				<barcode>6936352530077</barcode>
+				<name>ПАЗЛ С ЛУПОЙ MIDEER "ДЕТЕКТИВ В КОСМОСЕ"</name>
+				<price>1190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3007</vendorCode>
+				<model/>
+				<description>ПАЗЛ С ЛУПОЙ MIDEER "ДЕТЕКТИВ В КОСМОСЕ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1030" available="true">
+				<barcode>6936352510307</barcode>
+				<name>АНИМИРОВАННЫЙ ПАЗЛ MIDEER "РОБОТЫ"</name>
+				<price>1549</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1030</vendorCode>
+				<model/>
+				<description>АНИМИРОВАННЫЙ ПАЗЛ MIDEER "РОБОТЫ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3023" available="true">
+				<barcode>6936352530237</barcode>
+				<name>АНИМИРОВАННЫЙ ПАЗЛ MIDEER "ФАБРИКА МЕЧТЫ"</name>
+				<price>1690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3023</vendorCode>
+				<model/>
+				<description>АНИМИРОВАННЫЙ ПАЗЛ MIDEER "ФАБРИКА МЕЧТЫ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1026" available="true">
+				<barcode>6936352510260</barcode>
+				<name>НАБОР ШТАМПОВ MIDEER "МИЛЫЕ ЗВЕРУШКИ"</name>
+				<price>790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1026</vendorCode>
+				<model/>
+				<description>НАБОР ШТАМПОВ MIDEER "МИЛЫЕ ЗВЕРУШКИ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1028" available="true">
+				<barcode>6936352510284</barcode>
+				<name>НАБОР ШТАМПОВ MIDEER "ДИНОЗАВРЫ"</name>
+				<price>790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1028</vendorCode>
+				<model/>
+				<description>НАБОР ШТАМПОВ MIDEER "ДИНОЗАВРЫ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1027" available="true">
+				<barcode>6936352510277</barcode>
+				<name>НАБОР ШТАМПОВ MIDEER "ПОДВОДНЫЙ МИР"</name>
+				<price>790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1027</vendorCode>
+				<model/>
+				<description>НАБОР ШТАМПОВ MIDEER "ПОДВОДНЫЙ МИР"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1002" available="true">
+				<barcode>6936352510024</barcode>
+				<name>БОЛЬШОЙ ДЕРЕВЯННЫЙ КОНСТРУКТОР ТАНГРАМ MIDEER</name>
+				<price>1890</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>3</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1002</vendorCode>
+				<model/>
+				<description>БОЛЬШОЙ ДЕРЕВЯННЫЙ КОНСТРУКТОР ТАНГРАМ MIDEER</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1035" available="true">
+				<barcode>6936352510352</barcode>
+				<name>КРАСОЧНЫЙ ТАНГРАМ MIDEER</name>
+				<price>1190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>3</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1035</vendorCode>
+				<model/>
+				<description>КРАСОЧНЫЙ ТАНГРАМ MIDEER</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4017" available="true">
+				<barcode>6936352540175</barcode>
+				<name>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "ДЕНЬ РОЖДЕНИЯ"</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4017</vendorCode>
+				<model/>
+				<description>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "ДЕНЬ РОЖДЕНИЯ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4019" available="true">
+				<barcode>6936352540199</barcode>
+				<name>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "ЦИРК"</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4019</vendorCode>
+				<model/>
+				<description>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "ЦИРК"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4016" available="true">
+				<barcode>6936352540168</barcode>
+				<name>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "РОБОТЫ"</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4016</vendorCode>
+				<model/>
+				<description>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "РОБОТЫ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4018" available="true">
+				<barcode>6936352540182</barcode>
+				<name>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "ПИРАТЫ"</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4018</vendorCode>
+				<model/>
+				<description>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "ПИРАТЫ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4021" available="true">
+				<barcode>6936352540212</barcode>
+				<name>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "КОСМОС"</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4021</vendorCode>
+				<model/>
+				<description>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "КОСМОС"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4020" available="true">
+				<barcode>6936352540205</barcode>
+				<name>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "РОЖДЕСТВО"</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4020</vendorCode>
+				<model/>
+				<description>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "РОЖДЕСТВО"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4041" available="true">
+				<barcode>6936352540410</barcode>
+				<name>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "МОРСКОЕ ПУТЕШЕСТВИЕ"</name>
+				<price>790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4041</vendorCode>
+				<model/>
+				<description>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "МОРСКОЕ ПУТЕШЕСТВИЕ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4042" available="true">
+				<barcode>6936352540427</barcode>
+				<name>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "СКАЗОЧНЫЙ САД"</name>
+				<price>790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4042</vendorCode>
+				<model/>
+				<description>НАБОР ВРЕМЕННЫХ ТАТУИРОВОК MIDEER "СКАЗОЧНЫЙ САД"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1017" available="true">
+				<barcode>6936352510178</barcode>
+				<name>НАБОР МНОГОРАЗОВЫХ НАКЛЕЕК MIDEER "ПИРАТЫ"</name>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1017</vendorCode>
+				<model/>
+				<description>НАБОР МНОГОРАЗОВЫХ НАКЛЕЕК MIDEER "ПИРАТЫ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1015" available="true">
+				<barcode>6936352510154</barcode>
+				<name>НАБОР МНОГОРАЗОВЫХ НАКЛЕЕК MIDEER "САФАРИ"</name>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1015</vendorCode>
+				<model/>
+				<description>НАБОР МНОГОРАЗОВЫХ НАКЛЕЕК MIDEER "САФАРИ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1016" available="true">
+				<barcode>6936352510161</barcode>
+				<name>НАБОР МНОГОРАЗОВЫХ НАКЛЕЕК MIDEER "ТРАНСПОРТ" MIDEER</name>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1016</vendorCode>
+				<model/>
+				<description>НАБОР МНОГОРАЗОВЫХ НАКЛЕЕК MIDEER "ТРАНСПОРТ" MIDEER</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1014" available="true">
+				<barcode>6936352510147</barcode>
+				<name>НАБОР МНОГОРАЗОВЫХ НАКЛЕЕК MIDEER "ЦИРК"</name>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1014</vendorCode>
+				<model/>
+				<description>НАБОР МНОГОРАЗОВЫХ НАКЛЕЕК MIDEER "ЦИРК"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4028" available="true">
+				<barcode>6936352540281</barcode>
+				<name>СВЕТЯЩИЕСЯ НАКЛЕЙКИ MIDEER "КОСМОС"</name>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4028</vendorCode>
+				<model/>
+				<description>СВЕТЯЩИЕСЯ НАКЛЕЙКИ MIDEER "КОСМОС"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4029" available="true">
+				<barcode>6936352540298</barcode>
+				<name>СВЕТЯЩИЕСЯ НАКЛЕЙКИ MIDEER "ОКЕАН"</name>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4029</vendorCode>
+				<model/>
+				<description>СВЕТЯЩИЕСЯ НАКЛЕЙКИ MIDEER "ОКЕАН"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD0074" available="true">
+				<barcode>6936352500742</barcode>
+				<name>КАЛЕЙДОСКОП MIDEER "ЗВЕЗДОЧЕТ"</name>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD0074</vendorCode>
+				<model/>
+				<description>КАЛЕЙДОСКОП MIDEER "ЗВЕЗДОЧЕТ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD0075" available="true">
+				<barcode>6936352500759</barcode>
+				<name>КАЛЕЙДОСКОП MIDEER "ЗЕБРА"</name>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD0075</vendorCode>
+				<model/>
+				<description>КАЛЕЙДОСКОП MIDEER "ЗЕБРА"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD0073" available="true">
+				<barcode>6936352500735</barcode>
+				<name>КАЛЕЙДОСКОП MIDEER "МОРЯЧОК"</name>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD0073</vendorCode>
+				<model/>
+				<description>КАЛЕЙДОСКОП MIDEER "МОРЯЧОК"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD0076" available="true">
+				<barcode>6936352500766</barcode>
+				<name>КАЛЕЙДОСКОП MIDEER "ЗООПАРК"</name>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD0076</vendorCode>
+				<model/>
+				<description>КАЛЕЙДОСКОП MIDEER "ЗООПАРК"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD0079" available="true">
+				<barcode>6936352500797</barcode>
+				<name>КАЛЕЙДОСКОП MIDEER "ЦИРК"</name>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD0079</vendorCode>
+				<model/>
+				<description>КАЛЕЙДОСКОП MIDEER "ЦИРК"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1012" available="true">
+				<barcode>6936352510123</barcode>
+				<name>КАЛЕЙДОСКОП СИНИЙ MIDEER</name>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1012</vendorCode>
+				<model/>
+				<description>КАЛЕЙДОСКОП СИНИЙ MIDEER</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1013" available="true">
+				<barcode>6936352510130</barcode>
+				<name>КАЛЕЙДОСКОП  РОЗОВЫЙ MIDEER</name>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1013</vendorCode>
+				<model/>
+				<description>КАЛЕЙДОСКОП  РОЗОВЫЙ MIDEER</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4001" available="true">
+				<barcode>6936352540045, 6936352540014, 6936352540021, 6936352540038, 6936352540052, 6936352540069, 6936352540076, 6936352540083, 6936352540090</barcode>
+				<name>НАБОР НАКЛЕЕК В АССОРТИМЕНТЕ MIDEER</name>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4001</vendorCode>
+				<model/>
+				<description>НАБОР НАКЛЕЕК В АССОРТИМЕНТЕ MIDEER</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4014" available="true">
+				<barcode>6936352540144</barcode>
+				<name>НАБОР ДЛЯ ОРИГАМИ MIDEER</name>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4014</vendorCode>
+				<model/>
+				<description>НАБОР ДЛЯ ОРИГАМИ MIDEER</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4015" available="true">
+				<barcode>6936352540151</barcode>
+				<name>НАБОР ДЛЯ ОРИГАМИ MIDEER "ЖИВОТНЫЕ"</name>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4015</vendorCode>
+				<model/>
+				<description>НАБОР ДЛЯ ОРИГАМИ MIDEER "ЖИВОТНЫЕ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4038" available="true">
+				<barcode>6936352540380</barcode>
+				<name>НАБОР ДЛЯ ОРИГАМИ MIDEER "САМОЛЕТЫ"</name>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4038</vendorCode>
+				<model/>
+				<description>НАБОР ДЛЯ ОРИГАМИ MIDEER "САМОЛЕТЫ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1082" available="true">
+				<barcode>6936352510526</barcode>
+				<name>КРАСОЧНЫЙ ГЕОМЕТРИЧЕСКИЙ ТАНГРАМ MIDEER</name>
+				<price>1390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1082</vendorCode>
+				<model/>
+				<description>КРАСОЧНЫЙ ГЕОМЕТРИЧЕСКИЙ ТАНГРАМ MIDEER</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD0068" available="true">
+				<barcode>6936352500681</barcode>
+				<name>НАСТОЛЬНАЯ ИГРА MIDEER "ДОСТАНЬ ПАЛОЧКУ"</name>
+				<price>790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>6</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD0068</vendorCode>
+				<model/>
+				<description>НАСТОЛЬНАЯ ИГРА MIDEER "ДОСТАНЬ ПАЛОЧКУ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1050" available="true">
+				<barcode>6936352510505</barcode>
+				<name>ИГРА БАЛАНСИР MIDEER "СЛОНИК"</name>
+				<price>790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>6</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1050</vendorCode>
+				<model/>
+				<description>ИГРА БАЛАНСИР MIDEER "СЛОНИК"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1051" available="true">
+				<barcode>6936352510512</barcode>
+				<name>ИГРА БАЛАНСИР MIDEER "ЛОШАДКА"</name>
+				<price>790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>6</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1051</vendorCode>
+				<model/>
+				<description>ИГРА БАЛАНСИР MIDEER "ЛОШАДКА"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1005" available="true">
+				<barcode>6936352510055</barcode>
+				<name>НАБОР ДЛЯ ТВОРЧЕСТВА MIDEER "СПИРАЛИ"</name>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1005</vendorCode>
+				<model/>
+				<description>НАБОР ДЛЯ ТВОРЧЕСТВА MIDEER "СПИРАЛИ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1024" available="true">
+				<barcode>6936352510246</barcode>
+				<name>ФОНАРИК ПРОЕКТОР MIDEER STORYBOOK</name>
+				<price>1090</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1024</vendorCode>
+				<model/>
+				<description>ФОНАРИК ПРОЕКТОР MIDEER STORYBOOK</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1043" available="true">
+				<barcode>6936352510437</barcode>
+				<name>ФОНАРИК ПРОЕКТОР MIDEER STORYBOOK</name>
+				<price>1450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1043</vendorCode>
+				<model/>
+				<description>ФОНАРИК ПРОЕКТОР MIDEER STORYBOOK</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3021" available="true">
+				<barcode>6936352530213</barcode>
+				<name>ШНУРОВКА MIDEER "ВЕСЕЛЫЕ ЗВЕРУШКИ"</name>
+				<price>1290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3021</vendorCode>
+				<model/>
+				<description>ШНУРОВКА MIDEER "ВЕСЕЛЫЕ ЗВЕРУШКИ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD6027" available="true">
+				<barcode>6936352560272</barcode>
+				<name>МИНИ ТЕЛЕСКОП MIDEER "ВЕРТОЛЕТ"</name>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD6027</vendorCode>
+				<model/>
+				<description>МИНИ ТЕЛЕСКОП MIDEER "ВЕРТОЛЕТ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD6028" available="true">
+				<barcode>6936352560289</barcode>
+				<name>МИНИ ТЕЛЕСКОП MIDEER "СТРЕКОЗА"</name>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD6028</vendorCode>
+				<model/>
+				<description>МИНИ ТЕЛЕСКОП MIDEER "СТРЕКОЗА"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD6026" available="true">
+				<barcode>6936352560265</barcode>
+				<name>МИНИ ТЕЛЕСКОП MIDEER "СЛОНИК"</name>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD6026</vendorCode>
+				<model/>
+				<description>МИНИ ТЕЛЕСКОП MIDEER "СЛОНИК"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD6029" available="true">
+				<barcode>6936352560296</barcode>
+				<name>КАЛЕЙДОСКОП MIDEER "КРОЛИК"</name>
+				<price>549</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD6029</vendorCode>
+				<model/>
+				<description>КАЛЕЙДОСКОП MIDEER "КРОЛИК"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD6030" available="true">
+				<barcode>6936352560302</barcode>
+				<name>КАЛЕЙДОСКОП MIDEER "ПОРОСЕНОК"</name>
+				<price>549</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD6030</vendorCode>
+				<model/>
+				<description>КАЛЕЙДОСКОП MIDEER "ПОРОСЕНОК"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD6031" available="true">
+				<barcode>6936352560319</barcode>
+				<name>КАЛЕЙДОСКОП MIDEER "КРАСНАЯ ШАПОЧКА"</name>
+				<price>549</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2</categoryId>
+				<typePrefix>2</typePrefix>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD6031</vendorCode>
+				<model/>
+				<description>КАЛЕЙДОСКОП MIDEER "КРАСНАЯ ШАПОЧКА"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4045" available="true">
+				<barcode>6936352540458</barcode>
+				<name>НАБОР НАКЛЕЕК ДЛЯ НОГТЕЙ MIDEER "ЗВЕЗДНОЕ НЕБО"</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4045</vendorCode>
+				<model/>
+				<description>НАБОР НАКЛЕЕК ДЛЯ НОГТЕЙ MIDEER "ЗВЕЗДНОЕ НЕБО"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4046" available="true">
+				<barcode>6936352540465</barcode>
+				<name>НАБОР НАКЛЕЕК ДЛЯ НОГТЕЙ MIDEER "ВЕСЕЛЫЕ ВЫХОДНЫЕ"</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4046</vendorCode>
+				<model/>
+				<description>НАБОР НАКЛЕЕК ДЛЯ НОГТЕЙ MIDEER "ВЕСЕЛЫЕ ВЫХОДНЫЕ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4047" available="true">
+				<barcode>6936352540472</barcode>
+				<name>НАБОР НАКЛЕЕК ДЛЯ НОГТЕЙ MIDEER "ЗАБАВНЫЕ МОРДАШКИ"</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4047</vendorCode>
+				<model/>
+				<description>НАБОР НАКЛЕЕК ДЛЯ НОГТЕЙ MIDEER "ЗАБАВНЫЕ МОРДАШКИ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4048" available="true">
+				<barcode>6936352540489</barcode>
+				<name>НАБОР НАКЛЕЕК ДЛЯ НОГТЕЙ MIDEER "МЕЧТАТЕЛЬНИЦА"</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4048</vendorCode>
+				<model/>
+				<description>НАБОР НАКЛЕЕК ДЛЯ НОГТЕЙ MIDEER "МЕЧТАТЕЛЬНИЦА"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD4049" available="true">
+				<barcode>6936352540496</barcode>
+				<name>НАБОР НАКЛЕЕК ДЛЯ НОГТЕЙ MIDEER "ЧЕРНЫЕ МОРДОЧКИ"</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>4</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD4049</vendorCode>
+				<model/>
+				<description>НАБОР НАКЛЕЕК ДЛЯ НОГТЕЙ MIDEER "ЧЕРНЫЕ МОРДОЧКИ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1011" available="true">
+				<barcode>6936352510116</barcode>
+				<name>МОЗАИКА MIDEER С ТРАФАРЕТАМИ</name>
+				<price>1390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>3</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1011</vendorCode>
+				<model/>
+				<description>МОЗАИКА MIDEER С ТРАФАРЕТАМИ</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD1044" available="true">
+				<barcode>6936352510444</barcode>
+				<name>МОЗАИКА MIDEER "ГЕОМЕТРИЧЕСКИ ФИГУРЫ"</name>
+				<price>1590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>3</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD1044</vendorCode>
+				<model/>
+				<description>МОЗАИКА MIDEER "ГЕОМЕТРИЧЕСКИ ФИГУРЫ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+			<offer id="MD3019" available="true">
+				<barcode>6936352530190</barcode>
+				<name>ПАЗЛ НАПОЛЬНЫЙ MIDEER "АНГЛИЙСКИЙ АЛФАВИТ"</name>
+				<price>1190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix/>
+				<vendor>Mideer</vendor>
+				<vendorCode>MD3019</vendorCode>
+				<model/>
+				<description>ПАЗЛ НАПОЛЬНЫЙ MIDEER "АНГЛИЙСКИЙ АЛФАВИТ"</description>
+				<manufacturer_warranty>Mideer</manufacturer_warranty>
+				<country_of_origin>Китай</country_of_origin>
+				<vat/>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

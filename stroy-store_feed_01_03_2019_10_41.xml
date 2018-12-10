@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+		<yml_catalog date="2019-02-28 18:45">
+		<shop>
+			<name>stroy-store.ru</name>
+			<company>stroy-store.ru</company>
+			<url>http://stroy-store.ru/</url>
+		<currencies>
+			<currency id="RUR" rate="1" />
+		</currencies>
+		<categories>
+			<category id="2">Сетевая циркулярная пила</category>
+			<category id="3">Аккумуляторные шуруповерты</category>
+			<category id="4">Болгарки</category>
+			<category id="5">Сетевой лобзик</category>
+			<category id="6">Электрическая газонокосилка</category>
+			<category id="7">Сетевые перфораторы</category>
+			<category id="8">Аккумуляторные отвертки</category>
+			<category id="9">Дрели ударные</category>
+			<category id="10">Сетевой шуруповерт</category>
+			<category id="11">Электропилы цепные</category>
+                        <category id="12">Мойки высокого давления</category>
+		</categories>
+		<offers>
+			<offer id="6019F8320" available="true">
+			       <barcode>3165140879828</barcode>
+			       <price>10399</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="0"/>
+                               </outlets>
+				<model>GSB 180-LI</model>
+				<delivery>true</delivery>
+			       <name>Аккумуляторная дрель-шуруповерт Bosch GSB 180-LI 06019F8320</name>
+				<vendorCode>06019F8320</vendorCode>
+			</offer>
+			<offer id="6013940R3" available="true">
+			       <barcode>3165140870634</barcode>
+			       <price>3799</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>4</categoryId>
+				<model>GWS 750-125</model>
+				<delivery>true</delivery>
+			       <name>Сетевая угловая шлифовальная машина Bosch GWS 750-125 06013940R3</name>
+				<vendorCode>06013940R3</vendorCode>
+			</offer>
+			<offer id="GA5030" available="true">
+			       <barcode>088381097031</barcode>
+			       <price>4720</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>4</categoryId>
+			       <outlets>
+                                <outlet id="1" instock="0"/>
+                               </outlets>
+				<model>GA5030</model>
+				<delivery>true</delivery>
+			       <name>Сетевая угловая шлифовальная машина Makita GA5030</name>
+				<vendorCode>GA5030</vendorCode>
+			</offer>
+			<offer id="HR2470" available="true">
+			       <barcode>088381081658</barcode>
+			       <price>8789</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+			       <outlets>
+                                <outlet id="1" instock="6"/>
+                               </outlets>
+                                <model>HR2470</model>
+				<delivery>true</delivery>
+			       <name>Сетевой перфоратор Makita HR2470</name>
+				<vendorCode>HR2470</vendorCode>
+			</offer>
+			<offer id="5477NB" available="true">
+			       <barcode>088381096133</barcode>
+			       <price>14509</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="5"/>
+                               </outlets>
+				<model>5477NB</model>
+				<delivery>true</delivery>
+			       <name>Сетевая циркулярная пила Makita 5477NB</name>
+				<vendorCode>5477NB</vendorCode>
+			</offer>
+			<offer id="HR2475" available="true">
+			       <barcode>088381603508</barcode>
+			       <price>11630</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<model>HR2475</model>
+				<delivery>true</delivery>
+			       <name>Сетевой перфоратор Makita HR2475</name>
+				<vendorCode>HR2475</vendorCode>
+			</offer>
+			<offer id="DF331DWYE" available="true">
+			       <barcode>088381801362</barcode>
+			       <price>7069</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="14"/>
+                               </outlets>
+				<model>DF331DWYE</model>
+				<delivery>true</delivery>
+			       <name>Аккумуляторная дрель-шуруповерт Makita DF331DWYE</name>
+				<vendorCode>DF331DWYE</vendorCode>
+			</offer>
+			<offer id="DF347DWE" available="true">
+			       <barcode>088381616683</barcode>
+			       <price>7908</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+			       <outlets>
+                                <outlet id="1" instock="0"/>
+                               </outlets>
+				<model>DF347DWE</model>
+				<delivery>true</delivery>
+			       <name>Аккумуляторная дрель-шуруповерт Makita DF347DWE</name>
+				<vendorCode>DF347DWE</vendorCode>
+			</offer>
+			<offer id="HS7601" available="true">
+			       <barcode>088381686099</barcode>
+			       <price>9339</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="2"/>
+                               </outlets>
+				<model>HS7601</model>
+				<delivery>true</delivery>
+			       <name>Сетевая циркулярная пила Makita HS7601</name>
+				<vendorCode>HS7601</vendorCode>
+			</offer>
+			<offer id="DF457DWE" available="true">
+			       <barcode>088381616782</barcode>
+			       <price>9009</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+			       <outlets>
+                                <outlet id="1" instock="2"/>
+                               </outlets>
+				<model>DF457DWE</model>
+				<delivery>true</delivery>
+			       <name>Аккумуляторная дрель-шуруповерт Makita DF457DWE</name>
+				<vendorCode>DF457DWE</vendorCode>
+			</offer>
+			<offer id="DF331DWYE4" available="true">
+			       <barcode>088381847506</barcode>
+			       <price>7585</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="8"/>
+                               </outlets>
+				<model>DF331DWYE4</model>
+				<delivery>true</delivery>
+			       <name>Аккумуляторная дрель-шуруповерт Makita DF331DWYE4</name>
+				<vendorCode>DF331DWYE4</vendorCode>
+			</offer>
+			<offer id="DF330DWE" available="true">
+			       <barcode>088381097314</barcode>
+			       <price>9340</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="0"/>
+                               </outlets>
+				<model>DF330DWE</model>
+				<delivery>true</delivery>
+			       <name>Аккумуляторная дрель-шуруповерт Makita DF330DWE</name>
+				<vendorCode>DF330DWE</vendorCode>
+			</offer>
+			<offer id="4329" available="true">
+			       <barcode>088381083102</barcode>
+			       <price>4999</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>5</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="6"/>
+                               </outlets>
+				<model>4329</model>
+				<delivery>true</delivery>
+			       <name>Сетевой лобзик Makita 4329</name>
+				<vendorCode>4329</vendorCode>
+			</offer>
+			<offer id="600080500" available="true">
+			       <barcode>4007430244239</barcode>
+			       <price>6489</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+			       <outlets>
+                                <outlet id="1" instock="10"/>
+                               </outlets>
+				<model>PowerMaxx BS Basic</model>
+				<delivery>true</delivery>
+			       <name>Аккумуляторная дрель-шуруповерт Metabo PowerMaxx BS Basic 10,8V 600080500</name>
+				<vendorCode>600080500</vendorCode>
+			</offer>
+                        <offer id="602206540" available="true">
+			       <barcode></barcode>
+			       <price>9789</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+			       <outlets>
+                                <outlet id="1" instock="1"/>
+                               </outlets>
+				<model>BS 14.4</model>
+				<delivery>true</delivery>
+			       <name>Аккумуляторная дрель-шуруповерт Metabo BS 14.4 602206540</name>
+				<vendorCode>602206540</vendorCode>
+			</offer>
+                        <offer id="HP1640" available="true">
+			       <barcode></barcode>
+			       <price>4684</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>9</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="3"/>
+                               </outlets>
+				<model>HP1640</model>
+				<delivery>true</delivery>
+			       <name>Сетевая ударная дрель HP 1640 Makita</name>
+				<vendorCode>HP1640</vendorCode>
+                        </offer>
+                        <offer id="UC4041A" available="true">
+			       <barcode></barcode>
+			       <price>9020</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>11</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="1"/>
+                               </outlets>
+				<model>UC4041A</model>
+				<delivery>true</delivery>
+			       <name>Электрическая цепная пила Makita UC4041A</name>
+				<vendorCode>UC4041A</vendorCode>
+                        </offer>		
+                        <offer id="9558HN" available="true">
+			       <barcode></barcode>
+			       <price>5915</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>4</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="2"/>
+                               </outlets>
+				<model>9558HN</model>
+				<delivery>true</delivery>
+			       <name>Сетевая угловая шлифовальная машина Makita 9558HN</name>
+				<vendorCode>9558HN</vendorCode>
+                        </offer>
+                        <offer id="SP6000" available="true">
+			       <barcode></barcode>
+			       <price>24188</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>4</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="0"/>
+                               </outlets>
+				<model>SP6000</model>
+				<delivery>true</delivery>
+			       <name>Сетевая циркулярная пила Makita SP6000</name>
+				<vendorCode>SP6000</vendorCode>
+                        </offer>
+                        <offer id="4329K(X1)" available="true">
+			       <barcode></barcode>
+			       <price>5269</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>4</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="1"/>
+                               </outlets>
+				<model>4329K(X1)</model>
+				<delivery>true</delivery>
+			       <name>Сетевой лобзик Makita 4329K(X1)</name>
+				<vendorCode>4329K(X1)</vendorCode>
+                        </offer>
+                        <offer id="DF331DWAE" available="true">
+			       <barcode></barcode>
+			       <price>7785</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="2"/>
+                               </outlets>
+				<model>DF331DWAE</model>
+				<delivery>true</delivery>
+			       <name>Аккумуляторная дрель-шуруповерт Makita DF331DWAE</name>
+				<vendorCode>DF331DWAE</vendorCode>
+			</offer>
+                        <offer id="HR2470FT" available="true">
+			       <barcode></barcode>
+			       <price>13189</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="2"/>
+                               </outlets>
+				<model>HR2470FT</model>
+				<delivery>true</delivery>
+			       <name>Сетевой перфоратор Makita HR2470FT</name>
+				<vendorCode>HR2470FT</vendorCode>
+			</offer>
+                        <offer id="М 1500" available="true">
+			       <barcode></barcode>
+			       <price>4114</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>12</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="10"/>
+                               </outlets>
+				<model>М 1500</model>
+				<delivery>true</delivery>
+			       <name>Электрическая мойка высокого давления Elitech М 1500</name>
+				<vendorCode>185408</vendorCode>
+			</offer>
+                        <offer id="М 1800РБК" available="true">
+			       <barcode></barcode>
+			       <price>7555</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>12</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="4"/>
+                               </outlets>
+				<model>М 1800РБК</model>
+				<delivery>true</delivery>
+			       <name>Электрическая мойка высокого давления Elitech М 1800РБК</name>
+				<vendorCode>183618</vendorCode>
+			</offer>
+                        <offer id="М 1900РБК" available="true">
+			       <barcode></barcode>
+			       <price>8998</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>12</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="2"/>
+                               </outlets>
+				<model>М 1900РБК</model>
+				<delivery>true</delivery>
+			       <name>Электрическая мойка высокого давления Elitech М 1900РБК</name>
+				<vendorCode>183619</vendorCode>
+			</offer>
+                        <offer id="М 2000РБК" available="true">
+			       <barcode></barcode>
+			       <price>10426</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>12</categoryId>
+                               <outlets>
+                                <outlet id="1" instock="1"/>
+                               </outlets>
+				<model>М 2000РБК</model>
+				<delivery>true</delivery>
+			       <name>Электрическая мойка высокого давления Elitech М 2000РБК</name>
+				<vendorCode>183620</vendorCode>
+			</offer>		        		        
+                       </offers>
+</shop>
+</yml_catalog>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-02-28 13:10">
+    <shop>
+    <name>ДОКТОР Н</name>
+    <company>ООО ДОКТОР Н</company>
+    <url>https://doctor-n.ru</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Лекарственные препараты и БАДы</category>
+    </categories>
+    <offers>
+      <offer id="260618doctorn" available="true" type="medicine"> 
+        <currencyId>RUB</currencyId> 
+        <categoryId>1</categoryId>
+        <name>Туя ДН, масло 20 г., ДОКТОР Н</name> 
+        <vendor>ООО ДОКТОР Н</vendor> 
+        <url>https://www.doctor-n.ru/catalog.php?tovar_id=8096</url> 
+        <picture>https://www.doctor-n.ru/catalog_photos/%EC%E0%F1%EB%EE%20%F2%F3%FF%20%E4%ED.jpg</picture> 
+        <price>252,00</price> 
+        <delivery>false</delivery> 
+        <pickup>true</pickup> 
+        <store>true</store> 
+		<barcode>4605234000978</barcode> 
+		<sales_notes>Препарат всегда в наличии и доступен для покупки.</sales_notes> 
+        <description>Применяется в качестве симптоматического средства в комплексной терапии хронического гнойного ринита.</description> 
+		<country_of_origin>Россия</country_of_origin> 
+		<expiry>P4Y11M30DT23H55M</expiry> 
+        <param name="Побочные действия">Возможны аллергические реакции</param> 
+        <param name="Код egk">43245</param> 
+        </offer>
+        
+        <offer id="07071842doctorn" available="true" type="medicine"> 
+        <currencyId>RUB</currencyId> 
+        <categoryId>1</categoryId>
+        <name>Арника ДН, мазь 20 г., ДОКТОР Н</name> 
+        <vendor>ООО ДОКТОР Н</vendor> 
+        <url>https://www.doctor-n.ru/catalog.php?tovar_id=4812</url> 
+        <picture>https://www.doctor-n.ru/catalog_photos/%EC%E0%E7%FC%20%C0%F0%ED%E8%EA%E0%2020%20%E3.jpg</picture> 
+        <price>261,00</price> 
+        <delivery>false</delivery> 
+        <pickup>true</pickup> 
+        <store>true</store> 
+		<barcode>4605234002705</barcode> 
+		<sales_notes>Препарат всегда в наличии и доступен для покупки.</sales_notes> 
+        <description>Применяется при ушибах мягких тканей и подкожных гематомах.</description> 
+		<country_of_origin>Россия</country_of_origin> 
+		<expiry>P4Y11M30DT23H55M</expiry> 
+        <param name="Побочные действия">Возможны аллергические реакции</param> 
+        <param name="Код egk">38005</param> 
+        </offer>
+        
+        <offer id="07071852doctorn" available="true" type="medicine"> 
+        <currencyId>RUB</currencyId> 
+        <categoryId>1</categoryId>
+        <name>Апис-плюс, суппозитории ректальные 6 шт., ДОКТОР Н</name> 
+        <vendor>ООО ДОКТОР Н</vendor> 
+        <url>https://www.doctor-n.ru/catalog.php?tovar_id=11796</url> 
+        <picture>https://www.doctor-n.ru/catalog_photos/S-5.jpg</picture> 
+        <price>261,00</price> 
+        <delivery>false</delivery> 
+        <pickup>true</pickup> 
+        <store>true</store> 
+		<barcode>4605234002651</barcode> 
+		<sales_notes>Препарат всегда в наличии и доступен для покупки.</sales_notes> 
+        <description>Применяется в комплексной терапии хронического сальпингоофорита, неспецифического простатита.</description> 
+		<country_of_origin>Россия</country_of_origin> 
+		<expiry>P4Y11M30DT23H55M</expiry> 
+        <param name="Побочные действия">Возможны аллергические реакции</param> 
+        <param name="Код egk">73853</param> 
+        </offer>
+		
+        <offer id="07071856doctorn" available="true" type="medicine"> 
+        <currencyId>RUB</currencyId> 
+        <categoryId>1</categoryId>
+        <name>Календула ДН, суппозитории ректальные 6 шт., ДОКТОР Н</name> 
+        <vendor>ООО ДОКТОР Н</vendor> 
+        <url>https://www.doctor-n.ru/catalog.php?tovar_id=6037</url> 
+        <picture>https://www.doctor-n.ru/catalog_photos/128.jpg</picture> 
+        <price>261,00</price> 
+        <delivery>false</delivery> 
+        <pickup>true</pickup> 
+        <store>true</store> 
+		<barcode>4605234002736</barcode> 
+		<sales_notes>Препарат всегда в наличии и доступен для покупки.</sales_notes> 
+        <description>В комплексной терапии эндоцервицита, кольпита, эндометрита, сальпингоофорита.</description> 
+		<country_of_origin>Россия</country_of_origin> 
+		<expiry>P4Y11M30DT23H55M</expiry> 
+        <param name="Побочные действия">Возможны аллергические реакции</param> 
+        <param name="Код egk">87600</param> 
+        </offer>
+		
+        <offer id="07071854doctorn" available="true" type="medicine"> 
+        <currencyId>RUB</currencyId> 
+        <categoryId>1</categoryId>
+        <name>Гамамелис ДН, суппозитории ректальные 6 шт., ДОКТОР Н</name> 
+        <vendor>ООО ДОКТОР Н</vendor> 
+        <url>https://www.doctor-n.ru/catalog.php?tovar_id=11565</url> 
+        <picture>https://www.doctor-n.ru/catalog_photos/124.jpg</picture> 
+        <price>261,00</price> 
+        <delivery>false</delivery> 
+        <pickup>true</pickup> 
+        <store>true</store> 
+		<barcode>4605234001685</barcode> 
+		<sales_notes>Препарат всегда в наличии и доступен для покупки.</sales_notes> 
+        <description>Неосложненный геморрой.</description> 
+		<country_of_origin>Россия</country_of_origin> 
+		<expiry>P4Y11M30DT23H55M</expiry> 
+        <param name="Побочные действия">Возможны аллергические реакции</param> 
+        <param name="Код egk">38003</param> 
+        </offer>
+		
+        <offer id="07071859doctorn" available="true" type="medicine"> 
+        <currencyId>RUB</currencyId> 
+        <categoryId>1</categoryId>
+        <name>Прополис ДН, суппозитории ректальные 6 шт., ДОКТОР Н</name> 
+        <vendor>ООО ДОКТОР Н</vendor> 
+        <url>https://www.doctor-n.ru/catalog.php?tovar_id=7370</url> 
+        <picture>https://www.doctor-n.ru/catalog_photos/123.jpg</picture> 
+        <price>288,00</price> 
+        <delivery>false</delivery> 
+        <pickup>true</pickup> 
+        <store>true</store> 
+		<barcode>4605234001692</barcode> 
+		<sales_notes>Препарат всегда в наличии и доступен для покупки.</sales_notes> 
+        <description>В качестве противовоспалительного средства в составе комплексной терапии часто и длительно болеющих пациентов ОРВИ.</description> 
+		<country_of_origin>Россия</country_of_origin> 
+		<expiry>P4Y11M30DT23H55M</expiry> 
+        <param name="Побочные действия">Возможны аллергические реакции</param> 
+        <param name="Код egk">61699</param> 
+        </offer>
+    </offers>
+  </shop>
+</yml_catalog>

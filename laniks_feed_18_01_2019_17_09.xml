@@ -1,0 +1,1296 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-01-17 13:48">
+	<shop>
+		<name>Оллин</name>
+		<categories>
+			<category id="00-00000538">Канцтовары</category>
+			<category id="00-00000327">Товары для детей</category>
+		</categories>
+		<offers>
+			<offer id="00-00001114" available="true">
+				<name>Маркер автоматический METALLIC MARKER, серебрянный марки "MORRIS"</name>
+				<price>86</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>88090235090512</barcode>
+			</offer>
+			<offer id="00-00000542" available="true">
+				<name>Масляная пастель марки "TOII", 12 цв. </name>
+				<price>120</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8807310000018</barcode>
+			</offer>
+			<offer id="00-00000543" available="true">
+				<name>Масляная пастель марки "TOII", 18 цв. </name>
+				<price>230</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8807310000728</barcode>
+			</offer>
+			<offer id="00-00000544" available="true">
+				<name>Масляная пастель марки "TOII", 24 цв.</name>
+				<price>290</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8807310000025</barcode>
+			</offer>
+			<offer id="00-00000545" available="true">
+				<name>Масляная пастель марки "TOII", 36 цв.</name>
+				<price>420</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8807310000032</barcode>
+			</offer>
+			<offer id="00-00000546" available="true">
+				<name>Масляная пастель марки "TOII", 55 цв.</name>
+				<price>630</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8807310000056</barcode>
+			</offer>
+			<offer id="00-00000547" available="true">
+				<name>Цветные карандаши марки "TOII", 12 цв. </name>
+				<price>200</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8807310000100</barcode>
+			</offer>
+			<offer id="00-00000548" available="true">
+				<name>Цветные карандаши марки "TOII", 16 цв.</name>
+				<price>240</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8807310000117</barcode>
+			</offer>
+			<offer id="00-00000549" available="true">
+				<name>Набор масляной пастели марки "OMMO", 6 цв.</name>
+				<price>830</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809356360538</barcode>
+			</offer>
+			<offer id="00-00000550" available="true">
+				<name>Набор масляной пастели марки "OMMO", 12 цв.</name>
+				<price>1560</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809356360569</barcode>
+			</offer>
+			<offer id="00-00000551" available="true">
+				<name>Альбом-рамка DIY марки "SENSIBR" 17х17 </name>
+				<price>1000</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809512270053</barcode>
+			</offer>
+			<offer id="00-00000552" available="true">
+				<name>Альбом-рамка DIY марки "SENSIBR" 17х25</name>
+				<price>1000</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809512270060</barcode>
+			</offer>
+			<offer id="00-00000553" available="true">
+				<name>Альбом-рамка DIY марки "SENSIBR" 23х23 </name>
+				<price>1250</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809512270039</barcode>
+			</offer>
+			<offer id="00-00000554" available="true">
+				<name>Альбом-рамка DIY марки "SENSIBR"  23х31</name>
+				<price>1250</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809512270046</barcode>
+			</offer>
+			<offer id="00-00000717" available="true">
+				<name>Набор In-style Combi марки "Java"</name>
+				<price>1300</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809061707475</barcode>
+			</offer>
+			<offer id="00-00000718" available="true">
+				<name>Набор Matrix марки "Java"</name>
+				<price>700</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809061703934</barcode>
+			</offer>
+			<offer id="00-00000719" available="true">
+				<name>Ручка шариковая Pastel персиково-розовый марки "Java"</name>
+				<price>300</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251769962</barcode>
+			</offer>
+			<offer id="00-00000720" available="true">
+				<name>Ручка шариковая Pastel сиреневый марки "Java"</name>
+				<price>300</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419810017</barcode>
+			</offer>
+			<offer id="00-00000721" available="true">
+				<name>Ручка шариковая Pastel голубой марки "Java"</name>
+				<price>300</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251769993</barcode>
+			</offer>
+			<offer id="00-00000722" available="true">
+				<name>Ручка шариковая Pastel лаймовый марки "Java"</name>
+				<price>300</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251769986</barcode>
+			</offer>
+			<offer id="00-00000723" available="true">
+				<name>Ручка шариковая Pastel бежевый марки "Java"</name>
+				<price>300</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251769979</barcode>
+			</offer>
+			<offer id="00-00000724" available="true">
+				<name>Ручка шариковая Diary, Синий марки "Java"</name>
+				<price>250</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419817252</barcode>
+			</offer>
+			<offer id="00-00000725" available="true">
+				<name>Ручка шариковая Dragon марки "Java"</name>
+				<price>1500</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251767500</barcode>
+			</offer>
+			<offer id="00-00000726" available="true">
+				<name>Набор Mugunghwa Set марки "Java"</name>
+				<price>1600</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251767517</barcode>
+			</offer>
+			<offer id="00-00000727" available="true">
+				<name>Ручка шариковая Hangul Consonants черный марки "Java"</name>
+				<price>350</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251769351</barcode>
+			</offer>
+			<offer id="00-00000728" available="true">
+				<name>Ручка шариковая Hangul Consonants синий марки "Java"</name>
+				<price>350</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251769368</barcode>
+			</offer>
+			<offer id="00-00000729" available="true">
+				<name>Ручка шариковая Hangul Consonants красный марки "Java"</name>
+				<price>350</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251769375</barcode>
+			</offer>
+			<offer id="00-00000730" available="true">
+				<name>Ручка шариковая Hangul Consonants белый марки "Java"</name>
+				<price>350</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251769382</barcode>
+			</offer>
+			<offer id="00-00000731" available="true">
+				<name>Маркер автоматический ROUND COLOR PEN, желтый с запахом Банана марки "MORRIS"</name>
+				<price>95</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023508317</barcode>
+			</offer>
+			<offer id="00-00000732" available="true">
+				<name>Маркер автоматический ROUND COLOR PEN, розовый с запахом Клубники марки "MORRIS"</name>
+				<price>95</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023508294</barcode>
+			</offer>
+			<offer id="00-00000733" available="true">
+				<name>Маркер автоматический ROUND COLOR PEN, фиолетовый с запахом Винограда марки "MORRIS"</name>
+				<price>95</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023508348</barcode>
+			</offer>
+			<offer id="00-00000734" available="true">
+				<name>Маркер автоматический ROUND COLOR PEN, синий с запахом Черники марки "MORRIS"</name>
+				<price>95</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023508331</barcode>
+			</offer>
+			<offer id="00-00000735" available="true">
+				<name>Маркер автоматический ROUND COLOR PEN, оранжевый с запахом Апельсина марки "MORRIS"</name>
+				<price>95</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023508300</barcode>
+			</offer>
+			<offer id="00-00000736" available="true">
+				<name>Маркер автоматический ROUND COLOR PEN, салатовый с запахом Дыни марки "MORRIS"</name>
+				<price>95</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023508324</barcode>
+			</offer>
+			<offer id="00-00000737" available="true">
+				<name>Выделитель текста автоматический HIGHLIGHTER-S MILD, розовый марки "MORRIS"</name>
+				<price>85</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023508102</barcode>
+			</offer>
+			<offer id="00-00000738" available="true">
+				<name>Выделитель текста автоматический HIGHLIGHTER-S MILD, оранжевый марки "MORRIS"</name>
+				<price>85</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023508096</barcode>
+			</offer>
+			<offer id="00-00000739" available="true">
+				<name>Выделитель текста автоматический HIGHLIGHTER-S MILD, желтый марки "MORRIS"</name>
+				<price>85</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023508089</barcode>
+			</offer>
+			<offer id="00-00000740" available="true">
+				<name>Выделитель текста авоматический HIGHLIGHTER-S MILD, мятный марки "MORRIS"</name>
+				<price>85</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023508157</barcode>
+			</offer>
+			<offer id="00-00000741" available="true">
+				<name>Выделитель текста автоматический HIGHLIGHTER-S MILD, синий марки "MORRIS"</name>
+				<price>85</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023508126</barcode>
+			</offer>
+			<offer id="00-00000742" available="true">
+				<name>Выделитель текста автоматический HIGHLIGHTER-S MILD, серый марки "MORRIS"</name>
+				<price>85</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023508140</barcode>
+			</offer>
+			<offer id="00-00000743" available="true">
+				<name>Выделитель текста автоматический HIGHLIGHTER-S, желтый марки "MORRIS"</name>
+				<price>83</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8909023505016</barcode>
+			</offer>
+			<offer id="00-00000749" available="true">
+				<name>Выделитель текста автоматический HIGHLIGHTER-S, оранжевый марки "MORRIS"</name>
+				<price>83</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8909023505399</barcode>
+			</offer>
+			<offer id="00-00000750" available="true">
+				<name>Выделитель текста автоматический HIGHLIGHTER-S, розовый марки "MORRIS"</name>
+				<price>83</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8909023505405</barcode>
+			</offer>
+			<offer id="00-00000751" available="true">
+				<name>Выделитель текста автоматический HIGHLIGHTER-S, фиолетовый марки "MORRIS"</name>
+				<price>83</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8909023505412</barcode>
+			</offer>
+			<offer id="00-00000752" available="true">
+				<name>Выделитель текста автоматический HIGHLIGHTER-S, синий марки "MORRIS"</name>
+				<price>83</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8909023505429</barcode>
+			</offer>
+			<offer id="00-00000753" available="true">
+				<name>Выделитель текста автоматический HIGHLIGHTER-S, зеленый марки "MORRIS"</name>
+				<price>83</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8909023505436</barcode>
+			</offer>
+			<offer id="00-00000754" available="true">
+				<name>Выделитель текста автоматический двухцветный DOUBLE COLOR HIGHLIGHTER желтый и розовый марки MORRIS</name>
+				<price>95</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023507099</barcode>
+			</offer>
+			<offer id="00-00000755" available="true">
+				<name>Выделитель текста автоматический двухцветный DOUBLE COLOR HIGHLIGHTER желтый и оранж. марки MORRIS</name>
+				<price>95</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023507747</barcode>
+			</offer>
+			<offer id="00-00000756" available="true">
+				<name>Выделитель текста автоматический двухцветный DOUBLE COLOR HIGHLIGHTER желтый и зеленый марки MORRIS</name>
+				<price>95</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023507785</barcode>
+			</offer>
+			<offer id="00-00000757" available="true">
+				<name>Маркер автоматический METALLIC MARKER, золотой марки "MORRIS"</name>
+				<price>86</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023509505</barcode>
+			</offer>
+			<offer id="00-00000759" available="true">
+				<name>Стикер-книга "STICKER ART BOOK NATURE" марки cypress</name>
+				<price>1050</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>9791160320190</barcode>
+			</offer>
+			<offer id="00-00000760" available="true">
+				<name>Стикер-книга "STICKER ART BOOK WINTER SPORT" марки cypress</name>
+				<price>1050</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>9791160320398</barcode>
+			</offer>
+			<offer id="00-00000762" available="true">
+				<name>Стикер-книга "STICKER ART BOOK FAMOUS PAINTING" марки cypress</name>
+				<price>1050</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>9791160320237</barcode>
+			</offer>
+			<offer id="00-00000763" available="true">
+				<name>Стикер-книга "STICKER ART BOOK FAMOUS PAINTING 2" марки cypress</name>
+				<price>1050</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>9791160320282</barcode>
+			</offer>
+			<offer id="00-00000764" available="true">
+				<name>Стикер-книга "STICKER ART BOOK PAINTING POST CARD" марки cypress </name>
+				<price>855</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809478710068</barcode>
+			</offer>
+			<offer id="00-00000765" available="true">
+				<name>Стикер-книга "STICKER ART BOOK INSECT" марки cypress</name>
+				<price>600</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809478710051</barcode>
+			</offer>
+			<offer id="00-00000766" available="true">
+				<name>Стикер-книга "STICKER ART BOOK ANIMAL" марки cypress</name>
+				<price>600</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809478710044</barcode>
+			</offer>
+			<offer id="00-00000767" available="true">
+				<name>Стикер-книга "STICKER ART BOOK VEHICLE" марки cypress</name>
+				<price>600</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809478710037</barcode>
+			</offer>
+			<offer id="00-00000768" available="true">
+				<name>Стикер-книга "STICKER ART BOOK LAND MARK" марки cypress</name>
+				<price>1050</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>9791160320367</barcode>
+			</offer>
+			<offer id="00-00000769" available="true">
+				<name>Ручка шариковая Diary, Черный марки "Java"</name>
+				<price>250</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419817245</barcode>
+			</offer>
+			<offer id="00-00000770" available="true">
+				<name>Ручка шариковая Diary, Красный марки "Java"</name>
+				<price>250</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419817269</barcode>
+			</offer>
+			<offer id="00-00000771" available="true">
+				<name>Ручка шариковая Diary, Серебряный марки "Java"</name>
+				<price>250</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419817276</barcode>
+			</offer>
+			<offer id="00-00001043" available="true">
+				<name>Ручка шариковая 0,7 Jet 2+1 Multipen, черный марки "Java"</name>
+				<price>179</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419812493</barcode>
+			</offer>
+			<offer id="00-00001044" available="true">
+				<name>Ручка шариковая 0,7 Jet 2+1 Multipen, ментоловый марки "Java"</name>
+				<price>179</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419812486</barcode>
+			</offer>
+			<offer id="00-00001045" available="true">
+				<name>Ручка шариковая 0,7 Jet 2+1 Multipen, серебряный марки "Java"</name>
+				<price>179</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419812479</barcode>
+			</offer>
+			<offer id="00-00001046" available="true">
+				<name>Ручка шариковая Four gracious plants, Слива марки "Java"</name>
+				<price>300</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251769306</barcode>
+			</offer>
+			<offer id="00-00001047" available="true">
+				<name>Ручка шариковая Four gracious plants, Орхидея марки "Java"</name>
+				<price>300</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251769313</barcode>
+			</offer>
+			<offer id="00-00001048" available="true">
+				<name>Ручка шариковая Four gracious plants, Хризантема марки "Java"</name>
+				<price>300</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251769320</barcode>
+			</offer>
+			<offer id="00-00001049" available="true">
+				<name>Ручка шариковая Four gracious plants, Бамбук марки "Java"</name>
+				<price>300</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251769337</barcode>
+			</offer>
+			<offer id="00-00001050" available="true">
+				<name>Ручка гелевая 3 в 1 Groom &amp; Bride, Жених марки "Java"</name>
+				<price>150</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419810895</barcode>
+			</offer>
+			<offer id="00-00001051" available="true">
+				<name>Ручка гелевая 3 в 1 Groom &amp; Bride, Невеста марки "Java"</name>
+				<price>150</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419810901</barcode>
+			</offer>
+			<offer id="00-00001052" available="true">
+				<name>Ручка шариковая Hunminjeongeum, черный марки "Java"</name>
+				<price>130</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251769559</barcode>
+			</offer>
+			<offer id="00-00001053" available="true">
+				<name>Ручка шариковая Hunminjeongeum, белый марки "Java"</name>
+				<price>130</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251769566</barcode>
+			</offer>
+			<offer id="00-00001054" available="true">
+				<name>Ручка шариковая 0,7 Jet 4+1 Multipen, ярко-розовый марки "Java"</name>
+				<price>270</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251768132</barcode>
+			</offer>
+			<offer id="00-00001055" available="true">
+				<name>Ручка шариковая 0,7 Jet 4+1 Multipen, мятный марки "Java"</name>
+				<price>270</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251768149</barcode>
+			</offer>
+			<offer id="00-00001056" available="true">
+				<name>Ручка шариковая 0,7 Jet 4+1 Multipen, серебряный марки "Java"</name>
+				<price>270</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251768156</barcode>
+			</offer>
+			<offer id="00-00001057" available="true">
+				<name>Ручка шариковая 0,7 Jet 4+1 Multipen, черный марки "Java"</name>
+				<price>270</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251768163</barcode>
+			</offer>
+			<offer id="00-00001058" available="true">
+				<name>Ручка гельевая 0,4 Nano&amp;C 4+1 Multipen, персиковый марки "Java"</name>
+				<price>300</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419811687</barcode>
+			</offer>
+			<offer id="00-00001059" available="true">
+				<name>Ручка гельевая 0,4 Nano&amp;C 4+1 Multipen, синий марки "Java"</name>
+				<price>300</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419811694</barcode>
+			</offer>
+			<offer id="00-00001060" available="true">
+				<name>Ручка гельевая 0,4 Nano&amp;C 4+1 Multipen, лавандовый марки "Java"</name>
+				<price>300</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419811700</barcode>
+			</offer>
+			<offer id="00-00001061" available="true">
+				<name>Ручка гельевая 0,4 Nano&amp;C 4+1 Multipen, черный марки "Java"</name>
+				<price>300</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419811717</barcode>
+			</offer>
+			<offer id="00-00001062" available="true">
+				<name>Ручка шариковая Naong набор 10 + 1 цв. Кошки, марки "Java"</name>
+				<price>380</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419816668</barcode>
+			</offer>
+			<offer id="00-00001063" available="true">
+				<name>Ручка шариковая Naong "Black and White Manx", марки "Java"</name>
+				<price>50</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419815234</barcode>
+			</offer>
+			<offer id="00-00001064" available="true">
+				<name>Ручка шариковая Naong "Russian Blue", марки "Java"</name>
+				<price>50</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419815241</barcode>
+			</offer>
+			<offer id="00-00001065" available="true">
+				<name>Ручка шариковая Naong "Ragdoll", марки "Java"</name>
+				<price>50</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419815258</barcode>
+			</offer>
+			<offer id="00-00001066" available="true">
+				<name>Ручка шариковая Naong "Abyssinian cat", марки "Java"</name>
+				<price>50</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419815296</barcode>
+			</offer>
+			<offer id="00-00001067" available="true">
+				<name>Ручка шариковая Naong "Persian", марки "Java"</name>
+				<price>50</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419815272</barcode>
+			</offer>
+			<offer id="00-00001068" available="true">
+				<name>Ручка шариковая Naong "Siamese", марки "Java"</name>
+				<price>50</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419815289</barcode>
+			</offer>
+			<offer id="00-00001069" available="true">
+				<name>Ручка шариковая Naong "American Short hair", марки "Java"</name>
+				<price>50</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419815326</barcode>
+			</offer>
+			<offer id="00-00001070" available="true">
+				<name>Ручка шариковая Naong "Exotic", марки "Java"</name>
+				<price>50</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419815319</barcode>
+			</offer>
+			<offer id="00-00001071" available="true">
+				<name>Ручка шариковая Naong "Korea Short hair", марки "Java"</name>
+				<price>50</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419815302</barcode>
+			</offer>
+			<offer id="00-00001072" available="true">
+				<name>Ручка шариковая Naong "Japaness bobtail", марки "Java"</name>
+				<price>50</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419815265</barcode>
+			</offer>
+			<offer id="00-00001073" available="true">
+				<name>Карандаш механический "Leadholder 3", марки "Java"</name>
+				<price>311</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809061709905</barcode>
+			</offer>
+			<offer id="00-00001074" available="true">
+				<name>Карандаш механический Phoenix II, белый марки "Java"</name>
+				<price>110</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419811915</barcode>
+			</offer>
+			<offer id="00-00001075" available="true">
+				<name>Карандаш механический Phoenix II, желтый марки "Java"</name>
+				<price>110</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419811939</barcode>
+			</offer>
+			<offer id="00-00001076" available="true">
+				<name>Карандаш механический Phoenix II, персиковый марки "Java"</name>
+				<price>110</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419811946</barcode>
+			</offer>
+			<offer id="00-00001077" available="true">
+				<name>Карандаш механический Phoenix II, голубой марки "Java"</name>
+				<price>110</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419811922</barcode>
+			</offer>
+			<offer id="00-00001078" available="true">
+				<name>Карандаш механический Phoenix II, лавандовый марки "Java"</name>
+				<price>110</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419811953</barcode>
+			</offer>
+			<offer id="00-00001079" available="true">
+				<name>Карандаш механический Phoenix II, черный марки "Java"</name>
+				<price>110</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419811960</barcode>
+			</offer>
+			<offer id="00-00001080" available="true">
+				<name>Карандаш механический Chess Triangle Sharp, белый марки "JAVAPEN"</name>
+				<price>74</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419812707</barcode>
+			</offer>
+			<offer id="00-00001081" available="true">
+				<name>Карандаш механический Chess Triangle Sharp, черный марки "JAVAPEN"</name>
+				<price>74</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419812714</barcode>
+			</offer>
+			<offer id="00-00001082" available="true">
+				<name>Грифель "Nano-Ceramic Pensil Leadis" марки "Java"</name>
+				<price>35</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251762970</barcode>
+			</offer>
+			<offer id="00-00001083" available="true">
+				<name>Маркеры-выделители текста "Рower Line" Набор 8 цв. марки "Java"</name>
+				<price>170</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809061706553</barcode>
+			</offer>
+			<offer id="00-00001084" available="true">
+				<name>Маркеры перманентые POP Colors Набор 12 цв. марки "Java"</name>
+				<price>718</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419812349</barcode>
+			</offer>
+			<offer id="00-00001085" available="true">
+				<name>Маркер выделитель текста Duplex 2-х сторонний, Розовый марки "Java"</name>
+				<price>47</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251764189</barcode>
+			</offer>
+			<offer id="00-00001086" available="true">
+				<name>Маркер выделитель текста Duplex 2-х сторонний, Оранжевый марки "Java"</name>
+				<price>47</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251764196</barcode>
+			</offer>
+			<offer id="00-00001087" available="true">
+				<name>Маркер выделитель текста Duplex 2-х сторонний, Желтый марки "Java"</name>
+				<price>47</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251764165</barcode>
+			</offer>
+			<offer id="00-00001088" available="true">
+				<name>Маркер выделитель текста Duplex 2-х сторонний, Салатовый марки "Java"</name>
+				<price>47</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251764172</barcode>
+			</offer>
+			<offer id="00-00001089" available="true">
+				<name>Маркер выделитель текста Duplex 2-х сторонний, Голубой марки "Java"</name>
+				<price>47</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251764202</barcode>
+			</offer>
+			<offer id="00-00001090" available="true">
+				<name>Маркер выделитель текста Duplex 2-х сторонний, Фиолетовый марки "Java"</name>
+				<price>47</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251764219</barcode>
+			</offer>
+			<offer id="00-00001091" available="true">
+				<name>Маркер выделитель текста Duplex 2-х сторонний, Бордовый марки "Java"</name>
+				<price>47</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251768354</barcode>
+			</offer>
+			<offer id="00-00001092" available="true">
+				<name>Маркер выделитель текста Duplex 2-х сторонний, Красный марки "Java"</name>
+				<price>47</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251768361</barcode>
+			</offer>
+			<offer id="00-00001093" available="true">
+				<name>Маркер выделитель текста Duplex 2-х сторонний, Золотой марки "Java"</name>
+				<price>47</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251768408</barcode>
+			</offer>
+			<offer id="00-00001094" available="true">
+				<name>Маркер выделитель текста Duplex 2-х сторонний, Хаки марки "Java"</name>
+				<price>47</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251768385</barcode>
+			</offer>
+			<offer id="00-00001095" available="true">
+				<name>Маркер выделитель текста Duplex 2-х сторонний, Смоки блю марки "Java"</name>
+				<price>47</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251768378</barcode>
+			</offer>
+			<offer id="00-00001096" available="true">
+				<name>Маркер выделитель текста Duplex 2-х сторонний, Серый марки "Java"</name>
+				<price>47</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809251768392</barcode>
+			</offer>
+			<offer id="00-00001132" available="true">
+				<name>Ручка шариковая Slim Ball Point Pen, синяя марки "Java"</name>
+				<price>44</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809061708762</barcode>
+			</offer>
+			<offer id="00-00001133" available="true">
+				<name>Ручка шариковая Slim Ball Point Pen, черная марки "Java"</name>
+				<price>44</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809061708755</barcode>
+			</offer>
+			<offer id="00-00001134" available="true">
+				<name>Ручка шариковая Slim Ball Point Pen, красная марки "Java"</name>
+				<price>44</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809061708779</barcode>
+			</offer>
+			<offer id="00-00001136" available="true">
+				<name>Фломастеры JAVAPET набор 12 цв., Собаки марки "Java"</name>
+				<price>250</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419815128</barcode>
+			</offer>
+			<offer id="00-00001137" available="true">
+				<name>Набор двусторонних маркеров Bamboo Color Pen 12 цв. марки "MORRIS"</name>
+				<price>600</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809023506726</barcode>
+			</offer>
+			<offer id="00-00001139" available="true">
+				<name>Ножницы-нож DUO-CUT, ассорти марки "MAEPYO CHEMICAL CO."</name>
+				<price>450</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8805004201017</barcode>
+			</offer>
+			<offer id="00-00001147" available="true">
+				<name>Ручка шариковая JET LINE 0,38, черный марки "Java"</name>
+				<price>55</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419816347</barcode>
+			</offer>
+			<offer id="00-00001148" available="true">
+				<name>Ручка шариковая JET LINE 0,38, красный марки "Java"</name>
+				<price>55</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419816361</barcode>
+			</offer>
+			<offer id="00-00001149" available="true">
+				<name>Ручка шариковая JET LINE 0,38, синий марки "Java"</name>
+				<price>55</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419816354</barcode>
+			</offer>
+			<offer id="00-00001150" available="true">
+				<name>Ручка шариковая JET LINE 1,0 красный марки "Java"</name>
+				<price>55</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419813995</barcode>
+			</offer>
+			<offer id="00-00001151" available="true">
+				<name>Ручка шариковая JET LINE 1,0 синий марки "Java"</name>
+				<price>55</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419813988</barcode>
+			</offer>
+			<offer id="00-00001155" available="true">
+				<name>Ручка шариковая JET LINE 1,0 черный марки "Java"</name>
+				<price>55</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419813971</barcode>
+			</offer>
+			<offer id="00-00001169" available="true">
+				<name>Ручка гелевая 3 в 1 Neulbo 3 ball, фиолетовый марки "Java"</name>
+				<price>110</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419814749</barcode>
+			</offer>
+			<offer id="00-00001170" available="true">
+				<name>Ручка гелевая 3 в 1 Neulbo 3 ball, ярко-розовый марки "Java"</name>
+				<price>110</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419814770</barcode>
+			</offer>
+			<offer id="00-00001171" available="true">
+				<name>Ручка гелевая 3 в 1 Neulbo 3 ball, мятный марки "Java"</name>
+				<price>110</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419814763</barcode>
+			</offer>
+			<offer id="00-00001172" available="true">
+				<name>Ручка гелевая 3 в 1 Neulbo 3 ball, салатовый марки "Java"</name>
+				<price>110</price>
+				<categoryId>00-00000538</categoryId>
+				<barcode>8809419814756</barcode>
+			</offer>
+			<offer id="ЦБ-00001258" available="true">
+				<name>Игрушка ПИНГВИН ПИПИ В ИГЛУ марки «Harp»</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322905</barcode>
+			</offer>
+			<offer id="ЦБ-00001259" available="true">
+				<name>Игрушка ПИНГВИН ПОПО В ИГЛУ марки «Harp»</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322892</barcode>
+			</offer>
+			<offer id="ЦБ-00001257" available="true">
+				<name>Игровой набор ДОМИК-ИГЛУ ХАРПА марки «Harp»</name>
+				<price>2418</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322878</barcode>
+			</offer>
+			<offer id="00-00000555" available="true">
+				<name>Игровой набор КУХНЯ марки «Dalimi»</name>
+				<price>4460</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182326791</barcode>
+			</offer>
+			<offer id="00-00000556" available="true">
+				<name>Игровой набор ХОЛОДИЛЬНИК марки «Dalimi»</name>
+				<price>2150</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182326500</barcode>
+			</offer>
+			<offer id="00-00000557" available="true">
+				<name>Игровой набор ПИЦЦЕРИЯ марки «Dalimi»</name>
+				<price>2460</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182326753</barcode>
+			</offer>
+			<offer id="00-00000558" available="true">
+				<name>Игровой набор СУПЕРМАРКЕТ марки «Dalimi»</name>
+				<price>2000</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182326838</barcode>
+			</offer>
+			<offer id="00-00000559" available="true">
+				<name>Игровой набор МАГАЗИН МОРОЖЕНОГО марки «Dalimi»</name>
+				<price>2100</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182326777</barcode>
+			</offer>
+			<offer id="00-00000560" available="true">
+				<name>Игровой набор БУРГЕРНАЯ марки «Dalimi»</name>
+				<price>1680</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182326760</barcode>
+			</offer>
+			<offer id="00-00000561" available="true">
+				<name>Игровой набор ЛЕДЯНАЯ ГОРКА марки «Harp»</name>
+				<price>1890</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322502</barcode>
+			</offer>
+			<offer id="00-00000562" available="true">
+				<name>Игрушка ТЮЛЕНЬ ХОП В ИГЛУ марки «Harp»</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322519</barcode>
+			</offer>
+			<offer id="00-00000563" available="true">
+				<name>Игрушка ТЮЛЕНЬ ВИНК В ИГЛУ марки «Harp»</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322526</barcode>
+			</offer>
+			<offer id="00-00000564" available="true">
+				<name>Игрушка МОРЖ МУНК В ИГЛУ марки «Harp»</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322533</barcode>
+			</offer>
+			<offer id="00-00000565" available="true">
+				<name>Игрушка КИТ МИНК В ИГЛУ марки «Harp»</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322618</barcode>
+			</offer>
+			<offer id="00-00000566" available="true">
+				<name>Игрушка КИТ ПИНК В ИГЛУ марки «Harp»</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322625</barcode>
+			</offer>
+			<offer id="00-00000567" available="true">
+				<name>Игровой набор СНЕЖНЫЙ ШАР СВОИМИ РУКАМИ марки «Harp»</name>
+				<price>1870</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322755</barcode>
+			</offer>
+			<offer id="00-00000568" available="true">
+				<name>Игровой набор ГЕРОИ В СНЕЖНОМ ШАРЕ марки «Harp»</name>
+				<price>590</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322762</barcode>
+			</offer>
+			<offer id="00-00000569" available="true">
+				<name>Игровой набор ДОМ ТЮЛЕНЯ ХАРПА марки «Harp»</name>
+				<price>1870</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322700</barcode>
+			</offer>
+			<offer id="00-00000578" available="true">
+				<name>Игрушка КИОСК МОРОЖЕНОГО марки «Harp». Герой: тюлень Попо</name>
+				<price>800</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322809</barcode>
+			</offer>
+			<offer id="00-00000579" available="true">
+				<name>Игрушка КИОСК ВАФЕЛЬ марки «Harp». Герой: тюлень Пипи</name>
+				<price>800</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322816</barcode>
+			</offer>
+			<offer id="00-00000580" available="true">
+				<name>Игрушка КИОСК ШОКОЛАДА марки «Harp». Герой: тюлень Винк</name>
+				<price>800</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322823</barcode>
+			</offer>
+			<offer id="00-00000581" available="true">
+				<name>Игрушка КИОСК МАРМЕЛАДА марки «Harp». Герой: тюлень Хоп</name>
+				<price>800</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322830</barcode>
+			</offer>
+			<offer id="00-00000582" available="true">
+				<name>Игровой набор ГОТОВИМ ШОКОЛАД марки «Harp»</name>
+				<price>1680</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322632</barcode>
+			</offer>
+			<offer id="00-00000583" available="true">
+				<name>Аппарат для приготовления сахарной ваты марки «Harp»</name>
+				<price>2680</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322854</barcode>
+			</offer>
+			<offer id="00-00000584" available="true">
+				<name>Игровой набор ГОТОВИМ МАРМЕЛАД марки «Harp»</name>
+				<price>1060</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322786</barcode>
+			</offer>
+			<offer id="00-00000585" available="true">
+				<name>Игровой набор СТИКЕРЫ СВОИМИ РУКАМИ марки «Harp»</name>
+				<price>1250</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322571</barcode>
+			</offer>
+			<offer id="00-00000586" available="true">
+				<name>Заготовки для набора СТИКЕРЫ СВОИМИ РУКАМИ марки «Harp»</name>
+				<price>400</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809182322601</barcode>
+			</offer>
+			<offer id="00-00001122" available="true">
+				<name>Рюкзак детский плюшевый марки "AGUARD" Овца</name>
+				<price>780</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8807473541502</barcode>
+			</offer>
+			<offer id="00-00001123" available="true">
+				<name>Рюкзак детский плюшевый марки "AGUARD" Жираф</name>
+				<price>780</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8807473541496</barcode>
+			</offer>
+			<offer id="00-00000660" available="true">
+				<name>Рюкзак детский плюшевый марки "AGUARD" Пчелка</name>
+				<price>780</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8807473525687</barcode>
+			</offer>
+			<offer id="00-00000661" available="true">
+				<name>Рюкзак детский плюшевый марки "AGUARD" Божья коровка</name>
+				<price>570</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8807473525670</barcode>
+			</offer>
+			<offer id="00-00000704" available="true">
+				<name>СУШИЛКА ДЛЯ ДЕТСКИХ НОСКОВ МАРКИ "BIKIT BEBE" SWAN_YELLOW</name>
+				<price>315</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809459430855</barcode>
+			</offer>
+			<offer id="00-00000705" available="true">
+				<name>СУШИЛКА ДЛЯ ДЕТСКИХ НОСКОВ МАРКИ "BIKIT BEBE" SWAN_BABYPINK </name>
+				<price>315</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809459430862</barcode>
+			</offer>
+			<offer id="00-00000706" available="true">
+				<name>СУШИЛКА ДЛЯ ДЕТСКИХ НОСКОВ МАРКИ "BIKIT BEBE" CAMEL_GREEN  </name>
+				<price>315</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809459430886</barcode>
+			</offer>
+			<offer id="00-00000707" available="true">
+				<name>СУШИЛКА ДЛЯ ДЕТСКИХ НОСКОВ МАРКИ "BIKIT BEBE" CAMEL_LAVENDER </name>
+				<price>315</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809459430893</barcode>
+			</offer>
+			<offer id="00-00000708" available="true">
+				<name>СУШИЛКА ДЛЯ ДЕТСКИХ НОСКОВ МАРКИ "BIKIT BEBE" ELEPHANT_AZALEA</name>
+				<price>315</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809459430848</barcode>
+			</offer>
+			<offer id="00-00000709" available="true">
+				<name>СУШИЛКА ДЛЯ ДЕТСКИХ НОСКОВ МАРКИ "BIKIT BEBE" ELEPHANT_SKYBLUE </name>
+				<price>315</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809459430879</barcode>
+			</offer>
+			<offer id="00-00000599" available="true">
+				<name>Подушка детская марки GIO Pillow PINK, размер S</name>
+				<price>2500</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809398920028</barcode>
+			</offer>
+			<offer id="00-00000600" available="true">
+				<name>Подушка детская марки GIO Pillow PINK, размер М</name>
+				<price>2500</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809398920059</barcode>
+			</offer>
+			<offer id="00-00000601" available="true">
+				<name>Подушка детская марки GIO Pillow BLUE, размер S</name>
+				<price>2500</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809398920011</barcode>
+			</offer>
+			<offer id="00-00000612" available="true">
+				<name>Подушка детская марки GIO Pillow BLUE, размер M</name>
+				<price>2500</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809398920042</barcode>
+			</offer>
+			<offer id="00-00000650" available="true">
+				<name>Чехол на подушку марки GIO Pillow, ALPHABET STAR, размер S</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809398920561</barcode>
+			</offer>
+			<offer id="00-00000651" available="true">
+				<name>Чехол на подушку марки GIO Pillow, ALPHABET STAR, размер M</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809398920608</barcode>
+			</offer>
+			<offer id="00-00000652" available="true">
+				<name>Чехол на подушку марки GIO Pillow, NAVY STAR, размер S</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809398920981</barcode>
+			</offer>
+			<offer id="00-00000653" available="true">
+				<name>Чехол на подушку марки GIO Pillow, NAVY STAR, размер M</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809398920998</barcode>
+			</offer>
+			<offer id="00-00000654" available="true">
+				<name>Чехол на подушку марки GIO Pillow, GOLD FLOWER, размер S</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809398920554</barcode>
+			</offer>
+			<offer id="00-00000655" available="true">
+				<name>Чехол на подушку марки GIO Pillow, GOLD FLOWER, размер M</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809398920592</barcode>
+			</offer>
+			<offer id="00-00000656" available="true">
+				<name>Чехол на подушку марки GIO Pillow, BABY CAR, размер S</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809398920530</barcode>
+			</offer>
+			<offer id="00-00000657" available="true">
+				<name>Чехол на подушку марки GIO Pillow, BABY CAR, размер M</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809398920578</barcode>
+			</offer>
+			<offer id="00-00000658" available="true">
+				<name>Чехол на подушку марки GIO Pillow, BANDI FLOWER, размер S</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809398920547</barcode>
+			</offer>
+			<offer id="00-00000659" available="true">
+				<name>Чехол на подушку марки GIO Pillow, BANDI FLOWER, размер M</name>
+				<price>450</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809398920585</barcode>
+			</offer>
+			<offer id="00-00000662" available="true">
+				<name>ЛОЖКА ДЛЯ КОРМЛЕНИЯ_1</name>
+				<price>195</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227435068</barcode>
+			</offer>
+			<offer id="00-00000663" available="true">
+				<name>ЛОЖКА ДЛЯ КОРМЛЕНИЯ_2</name>
+				<price>195</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436423</barcode>
+			</offer>
+			<offer id="00-00000664" available="true">
+				<name>ЛОЖКА И ВИЛКА ДЛЯ САМОСТОЯТЕЛЬНОГО ПРИЕМА ПИЩИ </name>
+				<price>370</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227435075</barcode>
+			</offer>
+			<offer id="00-00000665" available="true">
+				<name>ЛОЖКА И ВИЛКА ДЛЯ ТЕХ, КТО ПОСТАРШЕ</name>
+				<price>370</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227435341</barcode>
+			</offer>
+			<offer id="00-00000666" available="true">
+				<name>ЛОЖКИ В ПЕРЕНОСНОМ КОНТЕЙНЕРЕ</name>
+				<price>600</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436195</barcode>
+			</offer>
+			<offer id="00-00000667" available="true">
+				<name>МИСКА С РУЧКАМИ 240 мл.</name>
+				<price>390</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227435105</barcode>
+			</offer>
+			<offer id="00-00000668" available="true">
+				<name>КРУЖКА  ДЛЯ САМОСТОЯТЕЛЬНОГО ПИТЬЯ</name>
+				<price>390</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227435112</barcode>
+			</offer>
+			<offer id="00-00000669" available="true">
+				<name>ПЛОСКАЯ ТАРЕЛКА С 3-МЯ ОТДЕЛЕНИЯМИ</name>
+				<price>630</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227435129</barcode>
+			</offer>
+			<offer id="00-00000670" available="true">
+				<name>ГЛУБОКАЯ ТАРЕЛКА С 5-Ю ОТДЕЛЕНИЯМИ</name>
+				<price>750</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227435136</barcode>
+			</offer>
+			<offer id="00-00000671" available="true">
+				<name>ТАРЕЛКА НА 4 ОТДЕЛЕНИЯ </name>
+				<price>640</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436188</barcode>
+			</offer>
+			<offer id="00-00000672" available="true">
+				<name>НАБОР ИЗ 4 ПРЕДМЕТОВ "УМНЫЙ МАЛЫШ"</name>
+				<price>1360</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436119</barcode>
+			</offer>
+			<offer id="00-00000676" available="true">
+				<name>НАБОР ИЗ 4 ПРЕДМЕТОВ "СЧАСТЛИВЫЙ МАЛЫШ"</name>
+				<price>1530</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227435389</barcode>
+			</offer>
+			<offer id="00-00000680" available="true">
+				<name>НАБОР ИЗ 7 ПРЕДМЕТОВ "РАСТУЩИЙ МАЛЫШ"</name>
+				<price>2990</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227435143</barcode>
+			</offer>
+			<offer id="00-00000681" available="true">
+				<name>ПОДНОС "ШКОЛЬНЫЙ АВТОБУС"</name>
+				<price>820</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436546</barcode>
+			</offer>
+			<offer id="00-00000682" available="true">
+				<name>МИСКА С РУЧКАМИ И ГЛУБОКИМ ДНОМ 330 мл.</name>
+				<price>480</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436553</barcode>
+			</offer>
+			<offer id="00-00000684" available="true">
+				<name>ВОЛШЕБНАЯ МИСКА 380 мл.</name>
+				<price>580</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436348</barcode>
+			</offer>
+			<offer id="00-00000686" available="true">
+				<name>ВОЛШЕБНАЯ МИСКА 280 мл.</name>
+				<price>480</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436331</barcode>
+			</offer>
+			<offer id="00-00000687" available="true">
+				<name>МИСКА-ПОДНОС С ДВУМЯ ОТДЕЛЕНИЯМИ</name>
+				<price>590</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436560</barcode>
+			</offer>
+			<offer id="00-00000690" available="true">
+				<name>НАБОР ИЗ ЛОЖКИ И ВИЛКИ</name>
+				<price>370</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436362</barcode>
+			</offer>
+			<offer id="00-00000692" available="true">
+				<name>КРУЖКА БОЛЬШАЯ, 310 мл</name>
+				<price>470</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436584</barcode>
+			</offer>
+			<offer id="00-00000693" available="true">
+				<name>КРУЖКА-НЕПРОЛИВАЙКА ДЛЯ СНЭКОВ 310 мл.</name>
+				<price>650</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436577</barcode>
+			</offer>
+			<offer id="00-00000694" available="true">
+				<name>КРУЖКА СРЕДНЯЯ 250 мл.</name>
+				<price>430</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436355</barcode>
+			</offer>
+			<offer id="00-00000695" available="true">
+				<name>БОЛЬШОЙ ОБУЧАЮЩИЙ НАБОР "ЕДИМ И ИГРАЕМ" (6 предметов)</name>
+				<price>3290</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436386</barcode>
+			</offer>
+			<offer id="00-00000696" available="true">
+				<name>НАБОР КОНТЕЙНЕРОВ "МАМИНА РАДОСТЬ" (3 ШТ по 200 мл.)</name>
+				<price>900</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436522</barcode>
+			</offer>
+			<offer id="00-00000697" available="true">
+				<name>НАБОР КОНТЕЙНЕРОВ "МАМИНА РАДОСТЬ" (6 ШТ по 200 мл.)</name>
+				<price>1650</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436102</barcode>
+			</offer>
+			<offer id="00-00000698" available="true">
+				<name>ЧАШКА ДЛЯ ЖИДКОСТИ</name>
+				<price>330</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227435167</barcode>
+			</offer>
+			<offer id="00-00000699" available="true">
+				<name>КОНТЕЙНЕР ДЛЯ СТОЛОВЫХ ПРИБОРОВ</name>
+				<price>290</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227435235</barcode>
+			</offer>
+			<offer id="00-00000700" available="true">
+				<name>НАБОР ИЗ МАЛЕНЬКИХ ЛОЖЕК (3 ШТ)</name>
+				<price>150</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227435204</barcode>
+			</offer>
+			<offer id="00-00000701" available="true">
+				<name>НАБОР ИЗ МАЛЕНЬКИХ ВИЛОК (3 ШТ)</name>
+				<price>150</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227435242</barcode>
+			</offer>
+			<offer id="00-00000702" available="true">
+				<name>МИСКА C РУЧКАМИ ДЛЯ СУПА 330 мл.</name>
+				<price>300</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436126</barcode>
+			</offer>
+			<offer id="00-00000703" available="true">
+				<name>КОНТЕЙНЕР ДЛЯ СНЕКОВ 230 мл.     </name>
+				<price>470</price>
+				<categoryId>00-00000327</categoryId>
+				<barcode>8809227436508</barcode>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

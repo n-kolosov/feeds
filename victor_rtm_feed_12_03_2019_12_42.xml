@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2019-02-27 15:33">
+	<shop>
+		<name>VICTOR-RTM</name>
+		<company>VICTOR-RTM</company>
+		<url>http://victor-rtm.com/</url>
+		<currencies>
+			<currency id="RUB" rate="1" />
+		</currencies>
+		<categories>
+			<category id="1">Лицо</category>
+			<category id="6" parentId="1">Гели</category>
+			<category id="97">Тело</category>
+			<category id="99" parentId="97">Гели</category>
+			<category id="106" parentId="97">Лосьоны</category>
+		</categories>
+		<offers>
+			<offer id="00001" available="true">
+				<url>http://victor-rtm.com/product4</url>
+				<vendor>Advanced Technologies</vendor>
+				<vendorCode>0543</vendorCode>
+				<barcode>4631143060543</barcode>
+				<name>Лосьон гигиенический с наносеребром Барьер-уход</name>
+				<price>120.00</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>106</categoryId>
+				<picture>http://victor-rtm.com/product4</picture>
+				<outlets>
+					<outlet id="1" instock="1" />
+				</outlets>
+				<description></description>
+			</offer>
+			<offer id="00002" available="true">
+				<url>http://victor-rtm.com/portfolio/product3</url>
+				<vendor>Advanced Technologies</vendor>
+				<vendorCode>0550</vendorCode>
+				<barcode>4631143060550</barcode>
+				<name>Таксифолин гель</name>
+				<price>320.00</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>99</categoryId>
+				<picture>http://victor-rtm.com/portfolio/product3</picture>
+				<outlets>
+					<outlet id="1" instock="1" />
+				</outlets>
+				<description></description>
+			</offer>
+			<offer id="00003" available="true">
+				<url>http://victor-rtm.com/portfolio/product2</url>
+				<vendor>Advanced Technologies</vendor>
+				<vendorCode>0536</vendorCode>
+				<barcode>4631143060536</barcode>
+				<name>БАД Таксифолин аква</name>
+				<price>990.00</price>
+				<currencyId>RUB</currencyId>
+				<categoryId></categoryId>
+				<picture>http://victor-rtm.com/portfolio/product2</picture>
+				<outlets>
+					<outlet id="1" instock="1" />
+				</outlets>
+				<description></description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

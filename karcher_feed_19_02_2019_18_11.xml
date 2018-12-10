@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2019-02-04 14:05">
+<shop>
+   <name>www.karcher.ru</name>
+   <company>ООО Керхер</company>
+   <url>https://www.karcher.ru/</url>
+      <currencies>
+      <currency id="RUR" rate="1"/>
+   </currencies>
+    <categories>
+		<category id="100">Минимойки высокого давления</category>
+		<category id="200">Пароочистители</category>
+		<category id="300">Пылесосы</category>
+			<category id="301" parentId="300">Хозяйственные пылесосы</category>
+			<category id="302" parentId="300">Циклонные пылесосы</category>
+			<category id="303" parentId="300">Вертикальные пылесосы</category>
+			<category id="304" parentId="300">Пылесосы с аквафильтром</category>
+		<category id="400">Электровеники</category>
+		<category id="500">Стеклоочистители</category>
+	</categories>
+<offers>
+	<offer id="16731590" available="true" bid="1">
+         <delivery>true</delivery>
+         <store>true</store>
+         <url>https://www.karcher.ru/ru/home-garden/moiki-vysokogo-davlenija/k-2-basic-16731590.html</url>
+         <price>4990.00</price>
+         <currencyId>RUR</currencyId>
+         <categoryId>100</categoryId>
+         <picture>https://s1.kaercher-media.com/products/16731590/main/1/d1.jpg</picture>
+         <name>Минимойка Керхер K 2 Basic</name>
+         <description>Минимойка высокого давления Керхер K 2 Basic - идеальный аппарат для периодического использования и простых бытовых загрязнений (велосипеды, садовые инструменты, садовая мебель)</description>         
+    </offer>
+	<offer id="16018120" available="true" bid="1">
+         <delivery>true</delivery>
+         <store>true</store>
+         <url>https://www.karcher.ru/ru/home-garden/moiki-vysokogo-davlenija/k-3-16018120.html</url>
+         <price>7490.00</price>
+         <currencyId>RUR</currencyId>
+         <categoryId>100</categoryId>
+         <picture>https://s1.kaercher-media.com/products/16018120/main/1/d1.jpg</picture>
+         <name>Минимойка Керхер K 3 Basic</name>
+         <description>Модель &quot;Керхер&quot; K 3 идеальна для периодического использования. Она поможет отмыть несильно загрязненные легковые автомобили, мотоциклы, велосипеды, садовую мебель, площадки вокруг дома и многое другое.</description>         
+    </offer>
+	<offer id="16375000" available="true" bid="1">
+         <delivery>true</delivery>
+         <store>true</store>
+         <url>https://www.karcher.ru/ru/home-garden/moiki-vysokogo-davlenija/k-4-compact-eu-16375000.html</url>
+         <price>14490.00</price>
+         <currencyId>RUR</currencyId>
+         <categoryId>100</categoryId>
+         <picture>https://s1.kaercher-media.com/products/16375000/main/1/d1.jpg</picture>
+         <name>Минимойка Керхер K 4 Compact</name>
+         <description>Удобная в транспортировке и хранении мойка высокого давления «Керхер» K4 Compact с двигателем водяного охлаждения и шлангом длиной 6 м подойдет для очистки умеренно загрязненных транспортных средств (легковых автомобилей, мотоциклов и т.д.), а также фасадов зданий, садовой мебели и инвентаря.</description>
+	</offer>
+	<offer id="15120500" available="true" bid="1">
+         <delivery>true</delivery>
+         <store>true</store>
+         <url>https://www.karcher.ru/ru/home-garden/paroochistiteli/sc-2-easyfix-15120500.html</url>
+         <price>9290.00</price>
+         <currencyId>RUR</currencyId>
+         <categoryId>200</categoryId>
+         <picture>https://s1.kaercher-media.com/products/15120500/main/1/d1.jpg</picture>
+         <name>Пароочиститель SC 2 EasyFix</name>
+         <description>Модель начального класса для уборки паром без применения чистящих средств: пароочиститель SC 2 EasyFix от Kärcher. Для настоящей чистоты всех твердых покрытий в домашнем хозяйстве. С насадкой для уборки пола EasyFix.</description>
+	</offer>
+	<offer id="15124500" available="true" bid="1">
+         <delivery>true</delivery>
+         <store>true</store>
+         <url>https://www.karcher.ru/ru/home-garden/paroochistiteli/sc-4-easyfix-15124500.html</url>
+         <price>16990.00</price>
+         <currencyId>RUR</currencyId>
+         <categoryId>200</categoryId>
+         <picture>https://s1.kaercher-media.com/products/15124500/main/1/d1.jpg</picture>
+         <name>Пароочиститель SC 4 EasyFix</name>
+         <description>Комфортная очистка паром без перерывов в работе: пароочиститель SC 4 EasyFix с насадкой для пола EasyFix и съемным баком для воды с возможностью постоянного долива.</description>
+    </offer>
+	<offer id="15125300" available="true" bid="1">
+         <delivery>true</delivery>
+         <store>true</store>
+         <url>https://www.karcher.ru/ru/home-garden/paroochistiteli/sc-5-easyfix-15125300.html</url>
+         <price>28990.00</price>
+         <currencyId>RUR</currencyId>
+         <categoryId>200</categoryId>
+         <picture>https://s1.kaercher-media.com/products/15125300/main/1/d1.jpg</picture>
+         <name>Пароочиститель SC 5 EasyFix</name>
+         <description>Мощный и универсальный: пароочиститель SC 5 EasyFix с давлением пара 4,2 Бара. У модели доступна функция VapoHydro, пополняемый резервуар для воды и насадка для уборки пола.</description>
+    </offer>
+	<offer id="16331170" available="true" bid="1">
+         <delivery>true</delivery>
+         <store>true</store>
+         <url>https://www.karcher.ru/ru/home-garden/stekloochistiteli/wv-50-plus-16331170.html</url>
+         <price>3990.00</price>
+         <currencyId>RUR</currencyId>
+         <categoryId>500</categoryId>
+         <picture>https://s1.kaercher-media.com/products/16331170/main/1/d1.jpg</picture>
+         <name>Стеклоочиститель WV 50 Plus</name>
+         <description>Стеклоочиститель Керхер WV 50 Plus - первый электрический пылесос для поддержки окон в чистоте. В наборе включено все для решения проблемы грязных окон и др. плоских, гладких поверхностей, в том числе стекол и керамической плитки.</description>
+    </offer>
+	<offer id="16297600" available="true" bid="1">
+         <delivery>true</delivery>
+         <store>true</store>
+         <url>https://www.karcher.ru/ru/home-garden/pylesosy/khozjaistvennye-pylesosy/wd-2-16297600.html</url>
+         <price>4990.00</price>
+         <currencyId>RUR</currencyId>
+         <categoryId>301</categoryId>
+         <picture>https://s1.kaercher-media.com/products/16297600/main/1/d1.jpg</picture>
+         <name>Хозяйственный пылесос WD 2</name>
+         <description>Мощный и энергоэффективный хозяйственный пылесос WD 2 в ударопрочном пластиковом корпусе, оснащенный контейнером для мусора объемом 12 л.</description>
+    </offer>
+	<offer id="13491050" available="true" bid="1">
+         <delivery>true</delivery>
+         <store>true</store>
+         <url>https://www.karcher.ru/ru/home-garden/pylesosy/vertikalnye-pylesosy/vc-5-13491050.html</url>
+         <price>11990.00</price>
+         <currencyId>RUR</currencyId>
+         <categoryId>303</categoryId>
+         <picture>https://s1.kaercher-media.com/products/13491050/main/1/d1.jpg</picture>
+         <name>Вертикальный пылесос VC 5</name>
+         <description>Маленький и мощный: компактный безмешковой пылесос может храниться даже в самых маленьких помещениях, но по эффективности ничем не уступает обычным бытовым пылесосам.</description>
+    </offer>
+	<offer id="11981250" available="true" bid="1">
+         <delivery>true</delivery>
+         <store>true</store>
+         <url>https://www.karcher.ru/ru/home-garden/pylesosy/pylesosy-bez-meshka/vc-3-11981250.html</url>
+         <price>9490.00</price>
+         <currencyId>RUR</currencyId>
+         <categoryId>302</categoryId>
+         <picture>https://s1.kaercher-media.com/products/11981250/main/1/d1.jpg</picture>
+         <name>Циклонный пылесос VC 3</name>
+         <description>Больше не нужно менять фильтр-мешки, а тем более покупать: Циклонный пылесос без мешка Керхер VC 3 с прозрачным контейнером, который можно мыть.</description>
+    </offer>
+	<offer id="11952410" available="true" bid="1">
+         <delivery>true</delivery>
+         <store>true</store>
+         <url>https://www.karcher.ru/ru/home-garden/pylesosy/pylesosy-s-akvafiltrom/ds-6-premium-mediclean-11952410.html</url>
+         <price>22990.00</price>
+         <currencyId>RUR</currencyId>
+         <categoryId>304</categoryId>
+         <picture>https://s1.kaercher-media.com/products/11952410/main/1/d1.jpg</picture>
+         <name>Пылесос с аквафильтром DS 6 Premium Mediclean</name>
+         <description>Пылесос с инновационной технологией аквафильтра делает воздух в помещении свежим и на 99,95% чище. Аллергики могут вздохнуть спокойно.</description>
+    </offer>
+	<offer id="12580000" available="true" bid="1">
+         <delivery>true</delivery>
+         <store>true</store>
+         <url>https://www.karcher.ru/ru/home-garden/ehlektroveniki/kb-5-12580000.html</url>
+         <price>5490.00</price>
+         <currencyId>RUR</currencyId>
+         <categoryId>400</categoryId>
+         <picture>https://s1.kaercher-media.com/products/12580000/main/1/d1.jpg</picture>
+         <name>Электровеник</name>
+         <description>Готов к использованию быстрее чем любой пылесос: Аккумуляторный электровеник KB 5 для промежуточной уборки. Невероятные результаты уборки на малых площадях.</description>
+    </offer>
+	
+</offers>
+
+</shop>
+</yml_catalog>

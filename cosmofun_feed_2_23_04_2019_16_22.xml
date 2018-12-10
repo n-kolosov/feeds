@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!DOCTYPE yml_catalog
+  SYSTEM 'shops.dtd'>
+<yml_catalog date="2019-03-18 23:35">
+  <shop>
+    <name>Cosmofun.ru</name>
+    <company>Название компании</company>
+    <url>https://cosmofun.ru</url>
+    <platform>1C-Bitrix</platform>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+      <currency id="USD" rate="64.81"/>
+      <currency id="EUR" rate="71.71"/>
+      <currency id="UAH" rate="2.604"/>
+      <currency id="BYN" rate="32.34"/>
+    </currencies>
+    <categories>
+      <category id="195">БРОВИ И РЕСНИЦЫ</category>
+      <category id="196" parentId="195">Инструменты</category>
+      <category id="300" parentId="195">Краска</category>
+      <category id="197" parentId="195">Наращивание ресниц</category>
+      <category id="198" parentId="195">Средства для роста ресниц</category>
+      <category id="199" parentId="195">Уход для бровей и ресниц</category>
+      <category id="200">ВОЛОСЫ</category>
+      <category id="331" parentId="200">Блески</category>
+      <category id="345" parentId="200">Ботокс для волос</category>
+      <category id="327" parentId="200">Ламинирование и экранирование</category>
+      <category id="201" parentId="200">Аксессуары</category>
+      <category id="202" parentId="200">Ампулы и капсулы</category>
+      <category id="203" parentId="200">Бальзамы</category>
+      <category id="334" parentId="200">Кератиновое выпрямление</category>
+      <category id="204" parentId="200">Гели</category>
+      <category id="324" parentId="200">Воски</category>
+      <category id="205" parentId="200">Глины и пасты</category>
+      <category id="206" parentId="200">Кондиционеры</category>
+      <category id="207" parentId="200">Краски и оксиды</category>
+      <category id="208" parentId="200">Кремы для волос</category>
+      <category id="209" parentId="200">Лаки</category>
+      <category id="210" parentId="200">Лосьоны и тоники</category>
+      <category id="211" parentId="200">Маски</category>
+      <category id="212" parentId="200">Масла</category>
+      <category id="213" parentId="200">Молочко</category>
+      <category id="214" parentId="200">Муссы и пенки</category>
+      <category id="215" parentId="200">Наборы</category>
+      <category id="216" parentId="200">Обесцвечивание и декапирование</category>
+      <category id="217" parentId="200">Расчески и брашинги</category>
+      <category id="301" parentId="200">Пудры для объема</category>
+      <category id="218" parentId="200">Скрабы и пилинги</category>
+      <category id="219" parentId="200">Спреи</category>
+      <category id="329" parentId="200">Плексы для защиты волос</category>
+      <category id="220" parentId="200">Сыворотки и концентраты</category>
+      <category id="221" parentId="200">Флюиды</category>
+      <category id="222" parentId="200">Шампуни</category>
+      <category id="223" parentId="200">Эликсиры</category>
+      <category id="303" parentId="200">Химическая завивка и выпрямление</category>
+      <category id="224" parentId="200">Эссенции</category>
+      <category id="225">ЛИЦО</category>
+      <category id="294" parentId="225">BB крем</category>
+      <category id="226" parentId="225">CC крем</category>
+      <category id="227" parentId="225">Аксессуары</category>
+      <category id="228" parentId="225">Ампулы и капсулы</category>
+      <category id="229" parentId="225">Бальзамы</category>
+      <category id="293" parentId="225">Бальзамы для губ</category>
+      <category id="230" parentId="225">Гели</category>
+      <category id="231" parentId="225">Концентраты</category>
+      <category id="232" parentId="225">Кремы</category>
+      <category id="233" parentId="225">Лосьоны и тоники</category>
+      <category id="234" parentId="225">Маски</category>
+      <category id="235" parentId="225">Масла</category>
+      <category id="236" parentId="225">Молочко</category>
+      <category id="237" parentId="225">Мыло</category>
+      <category id="238" parentId="225">Наборы</category>
+      <category id="239" parentId="225">Очищающие пудры</category>
+      <category id="240" parentId="225">Пенки</category>
+      <category id="241" parentId="225">Пилинги</category>
+      <category id="325" parentId="225">Брови и ресницы</category>
+      <category id="242" parentId="225">Скрабы</category>
+      <category id="243" parentId="225">Солнечная линия</category>
+      <category id="244" parentId="225">Сыворотки</category>
+      <category id="245" parentId="225">Флюиды</category>
+      <category id="246" parentId="225">Эмульсии</category>
+      <category id="247">МАКИЯЖ</category>
+      <category id="341" parentId="247">Краска для бровей и ресниц</category>
+      <category id="342" parentId="247">Накладные ресницы</category>
+      <category id="248" parentId="247">Аксессуары</category>
+      <category id="284" parentId="247">BB крем</category>
+      <category id="292" parentId="247">CC крем</category>
+      <category id="249" parentId="247">Карандаш для бровей</category>
+      <category id="288" parentId="247">Бальзам для губ</category>
+      <category id="250" parentId="247">Карандаш для глаз</category>
+      <category id="291" parentId="247">Блеск для губ</category>
+      <category id="251" parentId="247">Корректоры</category>
+      <category id="285" parentId="247">Кисти</category>
+      <category id="252" parentId="247">Палетки и наборы</category>
+      <category id="253" parentId="247">Подводка</category>
+      <category id="254" parentId="247">Праймеры</category>
+      <category id="255" parentId="247">Пудра</category>
+      <category id="256" parentId="247">Тени для бровей</category>
+      <category id="295" parentId="247">Карандаш для губ</category>
+      <category id="257" parentId="247">Тональные основы</category>
+      <category id="258" parentId="247">Тушь для бровей</category>
+      <category id="289" parentId="247">Румяна</category>
+      <category id="286" parentId="247">Тени для век</category>
+      <category id="296" parentId="247">Помада</category>
+      <category id="287" parentId="247">Хайлайтеры</category>
+      <category id="290" parentId="247">Тушь для ресниц</category>
+      <category id="305">ТЕЛО</category>
+      <category id="350" parentId="305">Бальзамы</category>
+      <category id="343" parentId="305">Парафины</category>
+      <category id="348" parentId="305">Аксессуары</category>
+      <category id="349" parentId="305">Сахарные пасты</category>
+      <category id="333" parentId="305">Мыло</category>
+      <category id="306" parentId="305">Гели для душа</category>
+      <category id="307" parentId="305">Гели для тела</category>
+      <category id="308" parentId="305">Защита от пота</category>
+      <category id="309" parentId="305">Интимная гигиена</category>
+      <category id="310" parentId="305">Концентраты</category>
+      <category id="311" parentId="305">Кремы и эмульсии</category>
+      <category id="312" parentId="305">Лосьоны</category>
+      <category id="313" parentId="305">Маски</category>
+      <category id="314" parentId="305">Масла</category>
+      <category id="315" parentId="305">Молочко</category>
+      <category id="316" parentId="305">Наборы</category>
+      <category id="317" parentId="305">Обертывания</category>
+      <category id="318" parentId="305">Скрабы</category>
+      <category id="319" parentId="305">Солнечная линия</category>
+      <category id="320" parentId="305">Спреи</category>
+      <category id="321" parentId="305">Сыворотки</category>
+      <category id="323" parentId="305">Пены для ванны</category>
+      <category id="278">ДЕПИЛЯЦИЯ</category>
+      <category id="279" parentId="278">Наборы</category>
+      <category id="280" parentId="278">Полоски для снятия воска</category>
+      <category id="281" parentId="278">Сахарная паста</category>
+      <category id="282" parentId="278">Уход до депиляции</category>
+      <category id="283" parentId="278">Уход после депиляции</category>
+      <category id="266">РУКИ И НОГИ</category>
+      <category id="332" parentId="266">Наборы</category>
+      <category id="330" parentId="266">Пилинги</category>
+      <category id="267" parentId="266">Ванночки для ног</category>
+      <category id="268" parentId="266">Дезодорант для ног</category>
+      <category id="269" parentId="266">Инструменты</category>
+      <category id="270" parentId="266">Кремы и бальзамы для ног</category>
+      <category id="271" parentId="266">Кремы и лосьоны для рук</category>
+      <category id="272" parentId="266">Лечебные средства для ногтей</category>
+      <category id="273" parentId="266">Лосьоны и спреи для ног</category>
+      <category id="274" parentId="266">Маникюр</category>
+      <category id="275" parentId="266">Парафин</category>
+      <category id="276" parentId="266">Пластыри и супинаторы</category>
+      <category id="277" parentId="266">Скрабы</category>
+      <category id="259">МАССАЖ</category>
+      <category id="328" parentId="259">Аксессуары</category>
+      <category id="260" parentId="259">Массажные кремы</category>
+      <category id="261" parentId="259">Массажные масла</category>
+      <category id="297" parentId="259">Обертывания</category>
+      <category id="335">ДЕТЯМ</category>
+      <category id="336" parentId="335">Детские зубные пасты</category>
+      <category id="337" parentId="335">Детские масла</category>
+      <category id="338" parentId="335">Детские шампуни</category>
+      <category id="339" parentId="335">Косметика для купания</category>
+      <category id="340" parentId="335">Косметика для умывания детей</category>
+      <category id="262">МУЖЧИНАМ</category>
+      <category id="346" parentId="262">Аксессуары</category>
+      <category id="347" parentId="262">Уход за бородой и усами</category>
+      <category id="263" parentId="262">Бальзамы и кондиционеры для волос</category>
+      <category id="264" parentId="262">Стайлинги для волос</category>
+      <category id="265" parentId="262">Шампуни для волос</category>
+      <category id="298" parentId="262">Для тела</category>
+      <category id="299" parentId="262">Кремы и бальзамы для лица</category>
+      <category id="302" parentId="262">Бритье</category>
+      <category id="304" parentId="262">Наборы</category>
+      <category id="322" parentId="262">Очищение лица</category>
+      <category id="326" parentId="262">Мужские красители для волос</category>
+      <category id="344">РАСПРОДАЖА</category>
+    </categories>
+    <offers>
+      <offer available="true" id="633911630235">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1085EU/63023</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик цв. добавка двойной пепел Double Ash Additive 85 гр</name>
+        <barcode>633911630235</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911630259">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1087EU/63025</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик цв. добавка красная Red Additive 85 гр</name>
+        <barcode>633911630259</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620267">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1000EU/62026</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 1 N Black 85 гр</name>
+        <barcode>633911620267</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620663">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1038EU/62066</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 10 G Extra Light Gold Blonde 85 гр</name>
+        <barcode>633911620663</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620359">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1009EU/62035</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 10 N Extra Light Blonde 85 гр</name>
+        <barcode>633911620359</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620526">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1024EU/62052</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 11 I 85 гр</name>
+        <barcode>633911620526</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620755">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1047EU/62075</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 4 C 85 гр</name>
+        <barcode>633911620755</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911660546">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1090EU/66054</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 4 CM 85 гр</name>
+        <barcode>633911660546</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620298">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1003EU/62029</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 4 N Dark Brown 85 гр</name>
+        <barcode>633911620298</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620670">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1039EU/62067</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 4 RB 85 гр</name>
+        <barcode>633911620670</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620854">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1057EU/62085</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 4 RV 85 гр</name>
+        <barcode>633911620854</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620380">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1012EU/62038</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 5 A Medium Ash Brown 85 гр</name>
+        <barcode>633911620380</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620762">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1048EU/62076</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 5 C Medium Copper Brown 85 гр</name>
+        <barcode>633911620762</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620717">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1043EU/62071</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 5 CG Medium Copper Golden Brown 85 гр</name>
+        <barcode>633911620717</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911660553">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1091EU/66055</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 5 CM Medium Chocolate Mocha Brown 85 гр</name>
+        <barcode>633911660553</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620861">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1058EU/62086</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 5 RV Medium Red Violet 85 гр</name>
+        <barcode>633911620861</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620564">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1028EU/62056</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 5 W Medium Warm Brown 85 гр</name>
+        <barcode>633911620564</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620908">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1062EU/62090</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 50-4 N 85 гр</name>
+        <barcode>633911620908</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620915">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1063EU/62091</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 50-5 N 85 гр</name>
+        <barcode>633911620915</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620922">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1064EU/62092</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 50-6 N 85 гр</name>
+        <barcode>633911620922</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620939">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1065EU/62093</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 50-7 N Dark Natural Blonde 85 гр</name>
+        <barcode>633911620939</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620946">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1066EU/62094</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 50-8 N 85 гр</name>
+        <barcode>633911620946</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620953">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1067EU/62095</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 50-9 N 85 гр</name>
+        <barcode>633911620953</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620397">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1013EU/62039</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 6 A Light Ash Brown 85 гр</name>
+        <barcode>633911620397</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620458">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1019EU/62045</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 6 AA 85 гр</name>
+        <barcode>633911620458</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620533">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1025EU/62053</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 6 B 85 гр</name>
+        <barcode>633911620533</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911660560">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1092EU/66056</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 6 CM Light Chocolate Mocha Brown 85 гр</name>
+        <barcode>633911660560</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620625">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1034EU/62062</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 6 G Light Gold Brown 85 гр</name>
+        <barcode>633911620625</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620311">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1005EU/62031</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 6 N Light Brown 85 гр</name>
+        <barcode>633911620311</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620687">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1040EU/62068</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 6 RB Light Red Brown 85 гр</name>
+        <barcode>633911620687</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620571">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1029EU/62057</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 6 W Light Warm Brown 85 гр</name>
+        <barcode>633911620571</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620403">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1014EU/62040</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 7 A Dark Ash Blonde 85 гр</name>
+        <barcode>633911620403</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620465">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1020EU/62046</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 7 AA Dark Ash Ash Blonde 85 гр</name>
+        <barcode>633911620465</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620786">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1050EU/62078</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 7 C 85 гр</name>
+        <barcode>633911620786</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620724">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1044EU/62072</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 7 CG 85 гр</name>
+        <barcode>633911620724</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620632">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1035EU/62063</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 7 G 85 гр</name>
+        <barcode>633911620632</barcode>
+        <categoryId>207</categoryId>
+        <price>994</price>
+      </offer>
+      <offer available="true" id="633911620328">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1006EU/62032</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 7 N Dark Blonde 85 гр</name>
+        <barcode>633911620328</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620694">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1041EU/62069</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 7 RB 85 гр</name>
+        <barcode>633911620694</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620885">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1060EU/62088</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 7 RV Extra Light Red Violet 85 гр</name>
+        <barcode>633911620885</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620588">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1030EU/62058</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 7 W Dark Warm Blonde 85 гр</name>
+        <barcode>633911620588</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620410">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1015EU/62041</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 8 A 85 гр</name>
+        <barcode>633911620410</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620496">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1021EU/62049</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 8 AA Medium Ash Ash Blonde 85 гр</name>
+        <barcode>633911620496</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620793">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1051EU/62079</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 8 C Medium Copper Blonde 85 гр</name>
+        <barcode>633911620793</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911660584">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1094EU/66058</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 8 CM 85 гр</name>
+        <barcode>633911660584</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620649">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1036EU/62064</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 8 G 85 гр</name>
+        <barcode>633911620649</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620335">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1007EU/62033</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 8 N Medium Blonde 85 гр</name>
+        <barcode>633911620335</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620595">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1031EU/62059</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 8 W Medium Warm Blonde 85 гр</name>
+        <barcode>633911620595</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620427">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1016EU/62042</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 9 A Light Ash Blonde 85 гр</name>
+        <barcode>633911620427</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911620342">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1008EU/62034</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик 9 N Light Blonde 85 гр</name>
+        <barcode>633911620342</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911630150">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1076EU/63015</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик UL-12 N 85 гр</name>
+        <barcode>633911630150</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911630181">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1079EU/63018</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик ULP-13 A 85 гр</name>
+        <barcode>633911630181</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911630204">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1081EU/63020</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик ULP-13 B 85 гр</name>
+        <barcode>633911630204</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911630198">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI1080EU/63019</vendorCode>
+        <name>CHI. IONIC COLOR. Крем-краска Чи Ионик ULP-13 N 85 гр</name>
+        <barcode>633911630198</barcode>
+        <categoryId>207</categoryId>
+        <price>760.48</price>
+      </offer>
+      <offer available="true" id="633911677902">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI0706/67790</vendorCode>
+        <name>CHI. INFRA High Lift - Краска Чи Инфра (осветляющая) ABR Пепельно-коричневый 120 гр</name>
+        <barcode>633911677902</barcode>
+        <categoryId>207</categoryId>
+        <price>1254.4</price>
+      </offer>
+      <offer available="true" id="633911678640">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI0724/67864</vendorCode>
+        <name>CHI. INFRA High Lift - Краска Чи Инфра (осветляющая) BB Бежевый блондин 120 гр</name>
+        <barcode>633911678640</barcode>
+        <categoryId>207</categoryId>
+        <price>1254.4</price>
+      </offer>
+      <offer available="true" id="633911678664">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI0725/67866</vendorCode>
+        <name>CHI. INFRA High Lift - Краска Чи Инфра (осветляющая) CB Холодный блондин 120 гр</name>
+        <barcode>633911678664</barcode>
+        <categoryId>207</categoryId>
+        <price>1254.4</price>
+      </offer>
+      <offer available="true" id="6339911678626">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI0723/67862</vendorCode>
+        <name>CHI. INFRA High Lift - Краска Чи Инфра (осветляющая) GB Золотой блондин 120 гр</name>
+        <barcode>6339911678626</barcode>
+        <categoryId>207</categoryId>
+        <price>1254.4</price>
+      </offer>
+      <offer available="true" id="633911677926">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI0707/67792</vendorCode>
+        <name>CHI. INFRA High Lift - Краска Чи Инфра (осветляющая) NBR Натуральный коричневый 120 гр</name>
+        <barcode>633911677926</barcode>
+        <categoryId>207</categoryId>
+        <price>1254.4</price>
+      </offer>
+      <offer available="true" id="633911678589">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI0721/67858</vendorCode>
+        <name>CHI. INFRA High Lift - Краска Чи Инфра (осветляющая) RR Красная 120 гр</name>
+        <barcode>633911678589</barcode>
+        <categoryId>207</categoryId>
+        <price>1254.4</price>
+      </offer>
+      <offer available="true" id="633911678602">
+        <currencyId>RUB</currencyId>
+        <vendor>CHI</vendor>
+        <vendorCode>CHI0702/67860</vendorCode>
+        <name>CHI. INFRA High Lift - Краска Чи Инфра (осветляющая) RV Красно-фиолетовая 120 гр</name>
+        <barcode>633911678602</barcode>
+        <categoryId>207</categoryId>
+        <price>1254.4</price>
+      </offer>
+      <offer available="true" id="7290011843717">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-277/3717</vendorCode>
+        <name>H&amp;B Sun. Кокосовое масло д/загара, 250мл</name>
+        <barcode>7290011843717</barcode>
+        <categoryId>314</categoryId>
+        <price>1136.025</price>
+      </offer>
+      <offer available="true" id="7290011843755">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-278/3755/3700</vendorCode>
+        <name>H&amp;B Sun. Морковно-ореховое масло д/загара, 250мл</name>
+        <barcode>7290011843755</barcode>
+        <categoryId>314</categoryId>
+        <price>1136.025</price>
+      </offer>
+      <offer available="true" id="7290011843694">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-276/3694</vendorCode>
+        <name>H&amp;B Sun. Ореховое масло д/загара, 250мл</name>
+        <barcode>7290011843694</barcode>
+        <categoryId>314</categoryId>
+        <price>1136.025</price>
+      </offer>
+      <offer available="true" id="7290011843779">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-203/3779</vendorCode>
+        <name>H&amp;B B. Крем для ног, 250 мл</name>
+        <barcode>7290011843779</barcode>
+        <categoryId>270</categoryId>
+        <price>903.975</price>
+      </offer>
+      <offer available="true" id="7290015247313">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-20100/7313</vendorCode>
+        <name>H&amp;B B. Интенсивный крем для ног на основе грязи  Мертвого моря, 100 мл</name>
+        <barcode>7290015247313</barcode>
+        <categoryId>270</categoryId>
+        <price>472.5</price>
+      </offer>
+      <offer available="true" id="7290015247108">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-2010/7108</vendorCode>
+        <name>H&amp;B B. Мультивитаминный крем для ног с маслом Аргана от трещин, 100 мл</name>
+        <barcode>7290015247108</barcode>
+        <categoryId>270</categoryId>
+        <price>497.25</price>
+      </offer>
+      <offer available="true" id="7290015247320">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-2040/7320</vendorCode>
+        <name>H&amp;B B. Интенсивный крем для рук на основе грязи  Мертвого моря, 100 мл</name>
+        <barcode>7290015247320</barcode>
+        <categoryId>271</categoryId>
+        <price>439.875</price>
+      </offer>
+      <offer available="true" id="7290014043541">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-2223/3541</vendorCode>
+        <name>H&amp;B B. Крем для рук - Лаванда,  100 мл</name>
+        <barcode>7290014043541</barcode>
+        <categoryId>271</categoryId>
+        <price>489.6</price>
+      </offer>
+      <offer available="true" id="7290014043572">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-2225/3572</vendorCode>
+        <name>H&amp;B B. Крем для рук - Орхидея,  100 мл</name>
+        <barcode>7290014043572</barcode>
+        <categoryId>271</categoryId>
+        <price>489.6</price>
+      </offer>
+      <offer available="true" id="7290014043534">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-2222/3534</vendorCode>
+        <name>H&amp;B B. Крем для рук - Роза,  100 мл</name>
+        <barcode>7290014043534</barcode>
+        <categoryId>271</categoryId>
+        <price>489.6</price>
+      </offer>
+      <offer available="true" id="7290011843434">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-204/3434</vendorCode>
+        <name>H&amp;B B. Мультивитаминный крем д/рук и ногтей, 100мл</name>
+        <barcode>7290011843434</barcode>
+        <categoryId>271</categoryId>
+        <price>439.875</price>
+      </offer>
+      <offer available="true" id="7290011843151">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-205/3151</vendorCode>
+        <name>H&amp;B B. Мультивитаминный крем д/рук и ногтей, 180мл</name>
+        <barcode>7290011843151</barcode>
+        <categoryId>271</categoryId>
+        <price>626.025</price>
+      </offer>
+      <offer available="true" id="7290015247085">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-2041/7085</vendorCode>
+        <name>H&amp;B B. Крем для ухода за руками и ногтями с маслом Аргана,100 мл</name>
+        <barcode>7290015247085</barcode>
+        <categoryId>271</categoryId>
+        <price>489.6</price>
+      </offer>
+      <offer available="true" id="7290011843441">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-201/3441</vendorCode>
+        <name>H&amp;B B. Освежающий крем-дезодорант д/ног, 100мл</name>
+        <barcode>7290011843441</barcode>
+        <categoryId>270</categoryId>
+        <price>438</price>
+      </offer>
+      <offer available="true" id="7290012326639">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-294/6639</vendorCode>
+        <name>H&amp;B B. Минеральное ср-во д/укрепления ногтей, 15 гр</name>
+        <barcode>7290012326639</barcode>
+        <categoryId>271</categoryId>
+        <price>1448.4</price>
+      </offer>
+      <offer available="true" id="7290011843854">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-216/3854</vendorCode>
+        <name>H&amp;B B. Гель с Алоэ Вера и витамином Е, 250мл</name>
+        <barcode>7290011843854</barcode>
+        <categoryId>311</categoryId>
+        <price>1077.375</price>
+      </offer>
+      <offer available="true" id="7290011843502">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-219/3502</vendorCode>
+        <name>H&amp;B B. Антивозрастной крем с облепихой, 180мл</name>
+        <barcode>7290011843502</barcode>
+        <categoryId>311</categoryId>
+        <price>660.45</price>
+      </offer>
+      <offer available="true" id="7290012326578">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-296/6578</vendorCode>
+        <name>H&amp;B B. Укрепляющий антивозрастной гранатовый крем, 180мл</name>
+        <barcode>7290012326578</barcode>
+        <categoryId>311</categoryId>
+        <price>660.45</price>
+      </offer>
+      <offer available="true" id="7290014043718">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-1217/3718</vendorCode>
+        <name>H&amp;B B. Многофункциональный крем для тела с Авокадо, 100 мл</name>
+        <barcode>7290014043718</barcode>
+        <categoryId>311</categoryId>
+        <price>304.575</price>
+      </offer>
+      <offer available="true" id="7290014043695">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-1219/3695</vendorCode>
+        <name>H&amp;B B. Интенсивный крем на основе оливкового масла и меда,, 100 мл</name>
+        <barcode>7290014043695</barcode>
+        <categoryId>311</categoryId>
+        <price>304.575</price>
+      </offer>
+      <offer available="true" id="7290011843489">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-220/3489</vendorCode>
+        <name>H&amp;B B. Интенсивный крем на основе оливкового масла и меда, 180мл</name>
+        <barcode>7290011843489</barcode>
+        <categoryId>311</categoryId>
+        <price>660.45</price>
+      </offer>
+      <offer available="true" id="7290011843465">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-221/3465</vendorCode>
+        <name>H&amp;B B. Увлажняющий крем с Алоэ Вера, 180мл</name>
+        <barcode>7290011843465</barcode>
+        <categoryId>311</categoryId>
+        <price>660.45</price>
+      </offer>
+      <offer available="true" id="7290011843830">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-213/3830</vendorCode>
+        <name>H&amp;B B. Увлажняющий крем с Алоэ Вера, 250мл</name>
+        <barcode>7290011843830</barcode>
+        <categoryId>311</categoryId>
+        <price>903.975</price>
+      </offer>
+      <offer available="true" id="7290011843878">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-282/3878</vendorCode>
+        <name>H&amp;B Men. Дезодорант мужской роликовый, 80 мл</name>
+        <barcode>7290011843878</barcode>
+        <categoryId>298</categoryId>
+        <price>1147.5</price>
+      </offer>
+      <offer available="true" id="7290012326592">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-135/6592</vendorCode>
+        <name>H&amp;B Men. Увлажняющ.крем против морщин д/мужч. SPF-15, 50мл</name>
+        <barcode>7290012326592</barcode>
+        <categoryId>299</categoryId>
+        <price>1011.075</price>
+      </offer>
+      <offer available="true" id="7290011843199">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-123/3199</vendorCode>
+        <name>H&amp;B Men. Увлаж. крем-бальзам после бритья д/мужч, 150мл</name>
+        <barcode>7290011843199</barcode>
+        <categoryId>302</categoryId>
+        <price>1065.9</price>
+      </offer>
+      <offer available="true" id="7290011843496">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-274/3496</vendorCode>
+        <name>H&amp;B Med. Природная грязь Мертвого моря, 600 гр</name>
+        <barcode>7290011843496</barcode>
+        <categoryId>317</categoryId>
+        <price>555.9</price>
+      </offer>
+      <offer available="true" id="7290014043527">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-2016/3527</vendorCode>
+        <name>H&amp;B Med. Ароматическое масло для расслабления мышц,50 мл.</name>
+        <barcode>7290014043527</barcode>
+        <categoryId>314</categoryId>
+        <price>1189.5</price>
+      </offer>
+      <offer available="true" id="7290014043510">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-2018/3510</vendorCode>
+        <name>H&amp;B Med. Мыло травяное по рецептам Каббалы, 100 гр</name>
+        <barcode>7290014043510</barcode>
+        <categoryId>333</categoryId>
+        <price>1020</price>
+      </offer>
+      <offer available="true" id="7290011843144">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-265/3144</vendorCode>
+        <name>H&amp;B Med. Соль Мертвого моря для ванны - белая, 1200гр</name>
+        <barcode>7290011843144</barcode>
+        <categoryId>310</categoryId>
+        <price>985.575</price>
+      </offer>
+      <offer available="true" id="7290011843312">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-261/3311</vendorCode>
+        <name>H&amp;B Med. Соль Мертвого моря для ванны - синяя, 500гр</name>
+        <barcode>7290011843312</barcode>
+        <categoryId>310</categoryId>
+        <price>453.9</price>
+      </offer>
+      <offer available="true" id="7290011843885">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-283/3885</vendorCode>
+        <name>H&amp;B S. Дезодорант ролл, 80мл</name>
+        <barcode>7290011843885</barcode>
+        <categoryId>308</categoryId>
+        <price>949.875</price>
+      </offer>
+      <offer available="true" id="7290014043664">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-2021/3664</vendorCode>
+        <name>H&amp;B S. Антицеллюлитный крем, 250 мл</name>
+        <barcode>7290014043664</barcode>
+        <categoryId>311</categoryId>
+        <price>2793.525</price>
+      </offer>
+      <offer available="true" id="7290011843120">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-209/3120</vendorCode>
+        <name>H&amp;B S. Лосьон для тела &quot;Ванильный шелк&quot;, Ваниль и Кокос , 250 мл.</name>
+        <barcode>7290011843120</barcode>
+        <categoryId>312</categoryId>
+        <price>1082.475</price>
+      </offer>
+      <offer available="true" id="7290011843564">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-207/3564</vendorCode>
+        <name>H&amp;B S. Лосьон для тела &quot;Сладкий сон&quot;, Жасмин и Вишня , 250 мл.</name>
+        <barcode>7290011843564</barcode>
+        <categoryId>312</categoryId>
+        <price>1082.475</price>
+      </offer>
+      <offer available="true" id="7290011843588">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-210/3588</vendorCode>
+        <name>H&amp;B S. Лосьон для тела &quot;Романтический поцелуй &quot;, Орхидея и Ирис ,250 мл.</name>
+        <barcode>7290011843588</barcode>
+        <categoryId>312</categoryId>
+        <price>1082.475</price>
+      </offer>
+      <offer available="true" id="7290011843571">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-208/3571</vendorCode>
+        <name>H&amp;B S. Лосьон для тела &quot;Секреты флирта&quot;, Яблоко и Иланг-Иланг , 250 мл.</name>
+        <barcode>7290011843571</barcode>
+        <categoryId>312</categoryId>
+        <price>1082.475</price>
+      </offer>
+      <offer available="true" id="7290015247528">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-2080/7528</vendorCode>
+        <name>H&amp;B S. Лосьон для тела &quot;Экзотическая фантазия&quot;, Янтарь и Вишня , 250 мл.</name>
+        <barcode>7290015247528</barcode>
+        <categoryId>312</categoryId>
+        <price>1082.475</price>
+      </offer>
+      <offer available="true" id="7290014043633">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-300/3633</vendorCode>
+        <name>H&amp;B S. Ароматическое масло д/тела - Орхидея, 350мл</name>
+        <barcode>7290014043633</barcode>
+        <categoryId>314</categoryId>
+        <price>1181.925</price>
+      </offer>
+      <offer available="true" id="7290011843540">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-226/3540</vendorCode>
+        <name>H&amp;B S. Мыло антицеллюлитное д/массажа, 125гр</name>
+        <barcode>7290011843540</barcode>
+        <categoryId>333</categoryId>
+        <price>489.6</price>
+      </offer>
+      <offer available="true" id="7290012326547">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-291/6547</vendorCode>
+        <name>H&amp;B S. Мыло гранатовое, 125гр</name>
+        <barcode>7290012326547</barcode>
+        <categoryId>333</categoryId>
+        <price>498.525</price>
+      </offer>
+      <offer available="true" id="7290015247337">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-2204/7337</vendorCode>
+        <name>H&amp;B S. Гигиеническое жидкое мыло для женщин, 250 мл</name>
+        <barcode>7290015247337</barcode>
+        <categoryId>333</categoryId>
+        <price>1218</price>
+      </offer>
+      <offer available="true" id="7290011843526">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-228/3526</vendorCode>
+        <name>H&amp;B S. Мыло натуральное с облепихой, 125гр</name>
+        <barcode>7290011843526</barcode>
+        <categoryId>333</categoryId>
+        <price>489.6</price>
+      </offer>
+      <offer available="true" id="7290011843960">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-227/3960</vendorCode>
+        <name>H&amp;B S. Мыло-пилинг с минералами, 125гр</name>
+        <barcode>7290011843960</barcode>
+        <categoryId>333</categoryId>
+        <price>489.6</price>
+      </offer>
+      <offer available="true" id="7290012326486">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-285/6486/6219</vendorCode>
+        <name>H&amp;B S. Ароматический пилинг для тела Ангел, 450 мл</name>
+        <barcode>7290012326486</barcode>
+        <categoryId>318</categoryId>
+        <price>949.875</price>
+      </offer>
+      <offer available="true" id="7290012326219">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-251/6219</vendorCode>
+        <name>H&amp;B S. Ароматический скраб д/тела - Ваниль, 450мл</name>
+        <barcode>7290012326219</barcode>
+        <categoryId>318</categoryId>
+        <price>949.875</price>
+      </offer>
+      <offer available="true" id="7290012326462">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-255/6462/Киви</vendorCode>
+        <name>H&amp;B S. Ароматический скраб д/тела - Киви, 450мл</name>
+        <barcode>7290012326462</barcode>
+        <categoryId>318</categoryId>
+        <price>949.875</price>
+      </offer>
+      <offer available="true" id="7290012326448">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-253/6448/Мускус</vendorCode>
+        <name>H&amp;B S. Ароматический скраб д/тела - Мускус, 450мл</name>
+        <barcode>7290012326448</barcode>
+        <categoryId>318</categoryId>
+        <price>949.875</price>
+      </offer>
+      <offer available="true" id="7290012326451">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-254/6451/6219/6455 Роза</vendorCode>
+        <name>H&amp;B S. Ароматический скраб д/тела - Роза, 450мл</name>
+        <barcode>7290012326451</barcode>
+        <categoryId>318</categoryId>
+        <price>949.875</price>
+      </offer>
+      <offer available="true" id="7290012326721">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-325/6721</vendorCode>
+        <name>H&amp;B H. Кондиционер д/волос на основе масла Облепихи, 400мл</name>
+        <barcode>7290012326721</barcode>
+        <categoryId>206</categoryId>
+        <price>580.125</price>
+      </offer>
+      <offer available="true" id="7290012326325">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-307/6325</vendorCode>
+        <name>H&amp;B H. Крем д/волос увлажняющий силиконовый, 400мл</name>
+        <barcode>7290012326325</barcode>
+        <categoryId>208</categoryId>
+        <price>787.95</price>
+      </offer>
+      <offer available="true" id="7290011843298">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-306/3298</vendorCode>
+        <name>H&amp;B H. Маска д/волос восстанавивающая на основе морковного масла с доб.кератина (д/сух и поврежд. вол), 250мл</name>
+        <barcode>7290011843298</barcode>
+        <categoryId>211</categoryId>
+        <price>742.05</price>
+      </offer>
+      <offer available="true" id="7290011843281">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-303/3281</vendorCode>
+        <name>H&amp;B H. Маска д/волос восстанавивающая с маслом марроканской аргании (д/сух и поврежд. вол), 250мл</name>
+        <barcode>7290011843281</barcode>
+        <categoryId>211</categoryId>
+        <price>742.05</price>
+      </offer>
+      <offer available="true" id="7290015247122">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-311/7122</vendorCode>
+        <name>H&amp;B H. Маска д/вол с кератином, 500 мл</name>
+        <barcode>7290015247122</barcode>
+        <categoryId>211</categoryId>
+        <price>2269.5</price>
+      </offer>
+      <offer available="true" id="7290014043756">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-309/3756</vendorCode>
+        <name>H&amp;B H. Маска д/волос увлажняющая с добавлением Граната (д/сух. окр. вол), 250мл</name>
+        <barcode>7290014043756</barcode>
+        <categoryId>211</categoryId>
+        <price>742.05</price>
+      </offer>
+      <offer available="true" id="7290014043565">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-310/3565</vendorCode>
+        <name>H&amp;B H. Маска д/волос увлажняющая с грязью Мертвого Моря, 250мл</name>
+        <barcode>7290014043565</barcode>
+        <categoryId>211</categoryId>
+        <price>742.05</price>
+      </offer>
+      <offer available="true" id="7290011843786">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-304/3786</vendorCode>
+        <name>H&amp;B H. Маска д/волос увлажняющая с маслом авокадо и алоэ (д/всех тип. вол), 250мл</name>
+        <barcode>7290011843786</barcode>
+        <categoryId>211</categoryId>
+        <price>742.05</price>
+      </offer>
+      <offer available="true" id="7290011843304">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-301/3304</vendorCode>
+        <name>H&amp;B H. Маска д/волос увлажняющ. с добавлением оливкового масла и меда (д/всех тип.вол), 250мл</name>
+        <barcode>7290011843304</barcode>
+        <categoryId>211</categoryId>
+        <price>742.05</price>
+      </offer>
+      <offer available="true" id="7290014043619">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-312/3619</vendorCode>
+        <name>H&amp;B H. Спрей-блеск для ламинирования волос с силиконом, 200мл</name>
+        <barcode>7290014043619</barcode>
+        <categoryId>219</categoryId>
+        <price>1518.75</price>
+      </offer>
+      <offer available="true" id="7290015247139">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-308/7139</vendorCode>
+        <name>H&amp;B H. Серум для волос с кератином, 50 мл</name>
+        <barcode>7290015247139</barcode>
+        <categoryId>220</categoryId>
+        <price>1976.25</price>
+      </offer>
+      <offer available="true" id="7290012326004">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-314/6004</vendorCode>
+        <name>H&amp;B H. Увлажняющий восстанавливающий серум (сыворотка) д/волос - Облепиха, 50мл</name>
+        <barcode>7290012326004</barcode>
+        <categoryId>220</categoryId>
+        <price>1332.375</price>
+      </offer>
+      <offer available="true" id="7290011843892">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-317/3892</vendorCode>
+        <name>H&amp;B H. Шампунь с грязями Мертвого моря, 400мл</name>
+        <barcode>7290011843892</barcode>
+        <categoryId>222</categoryId>
+        <price>675</price>
+      </offer>
+      <offer available="true" id="7290012326714">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-324/6714</vendorCode>
+        <name>H&amp;B H. Шампунь с Облепихой д/сухих, окр. волос, 400мл</name>
+        <barcode>7290012326714</barcode>
+        <categoryId>222</categoryId>
+        <price>583.5</price>
+      </offer>
+      <offer available="true" id="7290012326783">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-327/6783</vendorCode>
+        <name>H&amp;B H. Шампунь укрепляющий с маслом Араган, 780мл</name>
+        <barcode>7290012326783</barcode>
+        <categoryId>222</categoryId>
+        <price>835.125</price>
+      </offer>
+      <offer available="true" id="7290012326738">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-329/6738</vendorCode>
+        <name>H&amp;B H. Шампунь укрепляющий с экстрактом Граната, 400мл</name>
+        <barcode>7290012326738</barcode>
+        <categoryId>222</categoryId>
+        <price>580.125</price>
+      </offer>
+      <offer available="true" id="7290015247832">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>X-140/7832</vendorCode>
+        <name>H&amp;B F. Активный крем для лица с Аргановым маслом , 50 мл</name>
+        <barcode>7290015247832</barcode>
+        <categoryId>232</categoryId>
+        <price>1002.375</price>
+      </offer>
+      <offer available="true" id="7290015247214">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-176/7214</vendorCode>
+        <name>H&amp;B F. Мультивитаминные капсулы для лица 40*30гр</name>
+        <barcode>7290015247214</barcode>
+        <categoryId>228</categoryId>
+        <price>3382.5</price>
+      </offer>
+      <offer available="true" id="7290011843519">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-102/3519</vendorCode>
+        <name>H&amp;B F. Облепиховый антивозрастной крем SPF-20, 50 мл</name>
+        <barcode>7290011843519</barcode>
+        <categoryId>232</categoryId>
+        <price>889.95</price>
+      </offer>
+      <offer available="true" id="7290012326097">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-104/6097</vendorCode>
+        <name>H&amp;B F. Интенсивный крем с Авокадо и Алоэ, 50мл</name>
+        <barcode>7290012326097</barcode>
+        <categoryId>232</categoryId>
+        <price>889.95</price>
+      </offer>
+      <offer available="true" id="7290011843038">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-107/3038</vendorCode>
+        <name>H&amp;B F. Интенсивный крем от морщин SPF-20, 50мл</name>
+        <barcode>7290011843038</barcode>
+        <categoryId>232</categoryId>
+        <price>889.95</price>
+      </offer>
+      <offer available="true" id="7290015247245">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-171/7245</vendorCode>
+        <name>H&amp;B F. Мультиактивный дневной крем с Гиалуроновой кислотой и экстрактом черной икры 50мл</name>
+        <barcode>7290015247245</barcode>
+        <categoryId>232</categoryId>
+        <price>1728.6</price>
+      </offer>
+      <offer available="true" id="7290015247252">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-172/7252</vendorCode>
+        <name>H&amp;B F. Мультиактивный ночной крем с Гиалуроновой кислотой и экстрактом черной икры 50мл</name>
+        <barcode>7290015247252</barcode>
+        <categoryId>232</categoryId>
+        <price>1728.6</price>
+      </offer>
+      <offer available="true" id="7290014043961">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-1080/3961</vendorCode>
+        <name>H&amp;B F. Интенсивный ночной крем с Коллагеном, 50мл</name>
+        <barcode>7290014043961</barcode>
+        <categoryId>232</categoryId>
+        <price>1448.4</price>
+      </offer>
+      <offer available="true" id="7290011843267">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-101/3267</vendorCode>
+        <name>H&amp;B F. Крем с оливковым маслом и медом SPF-20, 50 мл</name>
+        <barcode>7290011843267</barcode>
+        <categoryId>232</categoryId>
+        <price>889.95</price>
+      </offer>
+      <offer available="true" id="7290011843939">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-105/3939</vendorCode>
+        <name>H&amp;B F. Обезжиренный увлажняющий крем, 50мл</name>
+        <barcode>7290011843939</barcode>
+        <categoryId>232</categoryId>
+        <price>1117.5</price>
+      </offer>
+      <offer available="true" id="7290015247177">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-174/7177*1/ №1</vendorCode>
+        <name>H&amp;B F. Увлажняющий крем с добавлением тонального крема Light, 80 мл</name>
+        <barcode>7290015247177</barcode>
+        <categoryId>232</categoryId>
+        <price>2033.475</price>
+      </offer>
+      <offer available="true" id="7290012326554">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-133/6554</vendorCode>
+        <name>H&amp;B F. Укрепляющий гранатовый крем SPF-15, 50мл</name>
+        <barcode>7290012326554</barcode>
+        <categoryId>232</categoryId>
+        <price>918</price>
+      </offer>
+      <offer available="true" id="729011843656">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-129/3656</vendorCode>
+        <name>H&amp;B F. Коллагеновый укрепляющий крем SPF-20, 50мл</name>
+        <barcode>729011843656</barcode>
+        <categoryId>232</categoryId>
+        <price>1442.025</price>
+      </offer>
+      <offer available="true" id="7290012326073">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-110/6073</vendorCode>
+        <name>H&amp;B F. Антивозрастная сыворотка вокруг глаз, 50мл</name>
+        <barcode>7290012326073</barcode>
+        <categoryId>244</categoryId>
+        <price>1867.5</price>
+      </offer>
+      <offer available="true" id="7290011843069">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-126/3069</vendorCode>
+        <name>H&amp;B F. Сыворотка минеральная от морщин, 50мл</name>
+        <barcode>7290011843069</barcode>
+        <categoryId>244</categoryId>
+        <price>1572.075</price>
+      </offer>
+      <offer available="true" id="729012326813">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-139/2055/6813</vendorCode>
+        <name>H&amp;B F. Шелковая сыворотка для лифтинга и упругости кожи, 30мл</name>
+        <barcode>729012326813</barcode>
+        <categoryId>244</categoryId>
+        <price>2620.125</price>
+      </offer>
+      <offer available="true" id="7290011843090">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-113/3090</vendorCode>
+        <name>H&amp;B F. Очищающая грязевая маска с Алоэ Вера, 100мл</name>
+        <barcode>7290011843090</barcode>
+        <categoryId>234</categoryId>
+        <price>932.025</price>
+      </offer>
+      <offer available="true" id="7290011843946">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-112/3946</vendorCode>
+        <name>H&amp;B F. Очищающая грязевая маска с Алоэ Вера, 150мл</name>
+        <barcode>7290011843946</barcode>
+        <categoryId>234</categoryId>
+        <price>997.05</price>
+      </offer>
+      <offer available="true" id="7290012326530">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-134/6530</vendorCode>
+        <name>H&amp;B F. Очищающая грязевая маска с Алоэ Вера, 220мл</name>
+        <barcode>7290012326530</barcode>
+        <categoryId>234</categoryId>
+        <price>1130.925</price>
+      </offer>
+      <offer available="true" id="7290015247498">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-1121/7498</vendorCode>
+        <name>H&amp;B F. Увлажняющая и расслабляющая маска для лица с гиалуроновой кислотой,100 мл.</name>
+        <barcode>7290015247498</barcode>
+        <categoryId>234</categoryId>
+        <price>1130.925</price>
+      </offer>
+      <offer available="true" id="7290011843922">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-115/3922</vendorCode>
+        <name>H&amp;B F. Минеральная маска-пилинг, 150мл</name>
+        <barcode>7290011843922</barcode>
+        <categoryId>234</categoryId>
+        <price>1042.95</price>
+      </offer>
+      <offer available="true" id="7290015247290">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-1222/7290</vendorCode>
+        <name>H&amp;B F. Двухфазный лосьон для снятия макияжа (для глаз и губ), 250 мл</name>
+        <barcode>7290015247290</barcode>
+        <categoryId>233</categoryId>
+        <price>1453.725</price>
+      </offer>
+      <offer available="true" id="7290011843113">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-119/3113</vendorCode>
+        <name>H&amp;B F. Очищающее молочко д/лица, 250мл</name>
+        <barcode>7290011843113</barcode>
+        <categoryId>236</categoryId>
+        <price>930</price>
+      </offer>
+      <offer available="true" id="7290012326141">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-122/6141</vendorCode>
+        <name>H&amp;B F. Очищающее мыло с облепихой, ромашкой и витамином Е, 250мл</name>
+        <barcode>7290012326141</barcode>
+        <categoryId>237</categoryId>
+        <price>897.6</price>
+      </offer>
+      <offer available="true" id="7290014043800">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-137/3800</vendorCode>
+        <name>H&amp;B F. Уникальный очищающий пилинг-гель, 50 мл</name>
+        <barcode>7290014043800</barcode>
+        <categoryId>230</categoryId>
+        <price>2032.5</price>
+      </offer>
+      <offer available="true" id="7290015247801">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>X-151/7801</vendorCode>
+        <name>H&amp;B F. Тканевая магнитная маска для лица с Минералами Мертвого моря Алоэ Вера и гиалуроновой кислотой,1шт.</name>
+        <barcode>7290015247801</barcode>
+        <categoryId>234</categoryId>
+        <price>445.5</price>
+      </offer>
+      <offer available="true" id="7290015247733">
+        <currencyId>RUB</currencyId>
+        <vendor>Health &amp; Beauty</vendor>
+        <vendorCode>Х-150/7733</vendorCode>
+        <name>H&amp;B F. Тканевая маска для лица с пептидами и гиалуроновой кислотой,1шт.</name>
+        <barcode>7290015247733</barcode>
+        <categoryId>234</categoryId>
+        <price>442.5</price>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

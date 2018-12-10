@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2018-11-26 17:22">
+   <shop>
+      <name>Вотерхаус, упаковка 24 шт.</name>
+      <company>Waterhouse</company>
+      <url>http://www.waterhouse.ru</url>
+      <currencies>
+         <currency id="RUR" rate="1" />
+      </currencies>
+      <categories>
+         <category id="1000">Негазированная вода</category>
+         <category id="1100" parentId="1000">Артезианская</category>
+         <category id="1200" parentId="1000">Минеральная</category>
+         <category id="2000">Газированная минеральная вода</category>
+         <category id="3000">Фруктовые соки</category>
+         <category id="4000">Овощные соки</category>
+         <category id="5000">Нектары</category>
+         <category id="6000">Сокосодержащие напитки</category>
+      </categories>
+      <offers>
+         <offer id="1101" available="true">
+            <url>http://waterhouse.ru/shop/mineral-naya-voda-fiji-b-g-pe-t-0-33l-36/</url>
+            <name>Вода минеральная Fiji артезианская FIJI Water (UK) Ltd. 0.33мл пластиковая бутылка Великобритания</name>
+            <price>4334.87711742624</price>
+            <categoryId>1100</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2018/06/033-300x300.jpg</picture>
+            <vendor>Fiji</vendor>
+            <model>Fiji</model>
+            <description>Вода минеральная Fiji артезианская FIJI Water (UK) Ltd. 0.33мл пластиковая бутылка Великобритания</description>
+            <barcode>9417574000427</barcode>
+         </offer>
+         <offer id="1102" available="true">
+            <url>http://waterhouse.ru/shop/mineral-naya-voda-fiji-b-g-pe-t-0-5l-24/</url>
+            <name>Вода минеральная Fiji артезианская FIJI Water (UK) Ltd. 0.5мл пластиковая бутылка Великобритания</name>
+            <price>3066.91008</price>
+            <categoryId>1100</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2018/06/033-300x300.jpg</picture>
+            <vendor>Fiji</vendor>
+            <model>Fiji</model>
+            <description>Вода минеральная Fiji артезианская FIJI Water (UK) Ltd. 0.5мл пластиковая бутылка Великобритания</description>
+            <barcode>9417574000090</barcode>
+         </offer>
+         <offer id="1103" available="true">
+            <url>http://waterhouse.ru/shop/mineral-naya-voda-fiji-b-g-pe-t-1l-12/</url>
+            <name>Вода минеральная Fiji артезианская FIJI Water (UK) Ltd. 1л пластиковая бутылка Великобритания</name>
+            <price>2245.83192</price>
+            <categoryId>1100</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2018/06/033-300x300.jpg</picture>
+            <vendor>Fiji</vendor>
+            <model>Fiji</model>
+            <description>Вода минеральная Fiji артезианская FIJI Water (UK) Ltd. 1л пластиковая бутылка Великобритания</description>
+            <barcode>9417574000120</barcode>
+         </offer>
+         <offer id="1201" available="true">
+            <url>http://waterhouse.ru/shop/mineral-naya-voda-antipodes-1200ml-negazirovannaya/</url>
+            <name>Antipodes Негазированная 1l</name>
+            <price>6384</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/500ml-Still--300x300.jpg</picture>
+            <vendor>Antipodes</vendor>
+            <model>Antipodes</model>
+            <description>Antipodes Негазированная 1l</description>
+            <barcode>19421017790032</barcode>
+         </offer>
+         <offer id="1202" available="true">
+            <url>http://waterhouse.ru/shop/mineral-naya-voda-antipodes-0-500ml-negazirovanaya/</url>
+            <name>Antipodes Негазированная 0.5l</name>
+            <price>8550</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/500ml-Still--300x300.jpg</picture>
+            <vendor>Antipodes</vendor>
+            <model>Antipodes</model>
+            <description>Antipodes Негазированная 0.5l</description>
+            <barcode>19421017790049</barcode>
+         </offer>
+         <offer id="1203" available="true">
+            <url>http://waterhouse.ru/shop/san-benedetto-mineral-naya-voda-0-5-l-negazirovannaya-steklo/</url>
+            <name>San Benedetto 0.5L. Стекло, Негазированная</name>
+            <price>2612.5</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/05-sparkling-300x300.jpg</picture>
+            <vendor>San Benedetto</vendor>
+            <model>San Benedetto</model>
+            <description>San Benedetto 0.5L. Стекло, Негазированная</description>
+            <barcode>18001620001308</barcode>
+         </offer>
+         <offer id="1204" available="true">
+            <url>http://waterhouse.ru/shop/san-benedetto-mineral-naya-voda-1-0-l-negazirovannaya-steklo/</url>
+            <name>San Benedetto 1L. Стекло, Негазированная</name>
+            <price>2274.3</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/05-sparkling-300x300.jpg</picture>
+            <vendor>San Benedetto</vendor>
+            <model>San Benedetto</model>
+            <description>San Benedetto 1L. Стекло, Негазированная</description>
+            <barcode>18001620003296</barcode>
+         </offer>
+         <offer id="1205" available="true">
+            <url>http://waterhouse.ru/shop/san-benedetto-mineral-naya-voda-1-0-l-negazirovannaya-pe-t/</url>
+            <name>San Benedetto 1L. PET Elite, Негазированная</name>
+            <price>880.65</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/05-sparkling-300x300.jpg</picture>
+            <vendor>San Benedetto</vendor>
+            <model>San Benedetto</model>
+            <description>San Benedetto 1L. PET Elite, Негазированная</description>
+            <barcode>18001620006556</barcode>
+         </offer>
+         <offer id="1206" available="true">
+            <url>http://waterhouse.ru/shop/san-benedetto-mineral-naya-voda-0-5-l-negazirovannaya-pe-t-sport/</url>
+            <name>San Benedetto 0.5L. PET SPORT, Негазированная</name>
+            <price>2268.6</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/05-sparkling-300x300.jpg</picture>
+            <vendor>San Benedetto</vendor>
+            <model>San Benedetto</model>
+            <description>San Benedetto 0.5L. PET SPORT, Негазированная</description>
+            <barcode>18001620003708</barcode>
+         </offer>
+         <offer id="1207" available="true">
+            <url>http://waterhouse.ru/shop/lurisia-luriziya-mineral-naya-prirodnaya-voda-negazirovannaya-0-75-steklo/</url>
+            <name>Lurisia Негазированная 0.75l</name>
+            <price>3705</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/075-300x300.jpg</picture>
+            <vendor>Lurisia</vendor>
+            <model>Lurisia</model>
+            <description>Lurisia Негазированная 0.75l</description>
+            <barcode>18032919460353</barcode>
+         </offer>
+         <offer id="1208" available="true">
+            <url>http://waterhouse.ru/shop/lurisia-luriziya-mineral-naya-prirodnaya-voda-negazirovannaya-0-33-steklo/</url>
+            <name>Lurisia Негазированная 0.33l</name>
+            <price>3515</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/075-300x300.jpg</picture>
+            <vendor>Lurisia</vendor>
+            <model>Lurisia</model>
+            <description>Lurisia Негазированная 0.33l</description>
+            <barcode>18032919460315</barcode>
+         </offer>
+         <offer id="1209" available="true">
+            <url>http://waterhouse.ru/shop/sairme-0-5-l-negazirovannaya-pe-t/</url>
+            <name>ПЭТ Саирме 0.5 Родниковая Негазированная</name>
+            <price>564.3</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2015/08/Sairme-0-5-pet-300x300.jpg</picture>
+            <vendor>Sairme</vendor>
+            <model>Sairme</model>
+            <description>ПЭТ Саирме 0.5 Родниковая Негазированная</description>
+            <barcode>14860001590176</barcode>
+         </offer>
+         <offer id="1210" available="true">
+            <url>http://waterhouse.ru/shop/sairme-0-5-l-negazirovannaya-steklo/</url>
+            <name>Стекло Саирме 0.5 Родниковая Негазированная</name>
+            <price>883.5</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2017/07/g-300x300.jpg</picture>
+            <vendor>Sairme</vendor>
+            <model>Sairme</model>
+            <description>Стекло Саирме 0.5 Родниковая Негазированная</description>
+            <barcode>14860001590138</barcode>
+         </offer>
+         <offer id="1211" available="true">
+            <url>http://waterhouse.ru/shop/aqua-russa-0-2-negaz-steklo/</url>
+            <name>Aqua Russa 0.2 негаз Стекло</name>
+            <price>1083</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2017/07/02-steklo-gaz-na-sajt-300x300.jpg</picture>
+            <vendor>Aqua Russa</vendor>
+            <model>Aqua Russa</model>
+            <description>Aqua Russa 0.2 негаз Стекло</description>
+            <barcode>14690491051747</barcode>
+         </offer>
+         <offer id="1212" available="true">
+            <url>http://waterhouse.ru/shop/aqua-russa-0-5-negaz-steklo/</url>
+            <name>Aqua Russa 0.5 негаз Стекло</name>
+            <price>792.3</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2017/07/02-steklo-gaz-na-sajt-300x300.jpg</picture>
+            <vendor>Aqua Russa</vendor>
+            <model>Aqua Russa</model>
+            <description>Aqua Russa 0.5 негаз Стекло</description>
+            <barcode>14627107120032</barcode>
+         </offer>
+         <offer id="1213" available="true">
+            <url>https://simplewine.ru/catalog/product/aqua_russa_akva_russa_033_l_gaz_pet_033/</url>
+            <name>Aqua Russa 0.3 газ ПЭТ</name>
+            <price>370.5</price>
+            <categoryId>1200</categoryId>
+            <picture>https://simplewine.ru/upload/iblock/c33/c3373050d5b3a31fb7a7058e06aea6d8.png</picture>
+            <vendor>Aqua Russa</vendor>
+            <model>Aqua Russa</model>
+            <description>Aqua Russa 0.3 газ ПЭТ</description>
+            <barcode>14627107100162</barcode>
+         </offer>
+         <offer id="1214" available="true">
+            <url>http://waterhouse.ru/shop/aqua-russa-0-5-gaz-pe-t/</url>
+            <name>Aqua Russa 0.5 газ ПЭТ</name>
+            <price>213.75</price>
+            <categoryId>1200</categoryId>
+            <picture>https://simplewine.ru/upload/iblock/c33/c3373050d5b3a31fb7a7058e06aea6d8.png</picture>
+            <vendor>Aqua Russa</vendor>
+            <model>Aqua Russa</model>
+            <description>Aqua Russa 0.5 газ ПЭТ</description>
+            <barcode>14627107100100</barcode>
+         </offer>
+         <offer id="1215" available="true">
+            <url>http://waterhouse.ru/shop/aqua-russa-1l-negaz-pe-t/</url>
+            <name>Aqua Russa 1 негаз ПЭТ</name>
+            <price>367.65</price>
+            <categoryId>1200</categoryId>
+            <picture>https://simplewine.ru/upload/iblock/c33/c3373050d5b3a31fb7a7058e06aea6d8.png</picture>
+            <vendor>Aqua Russa</vendor>
+            <model>Aqua Russa</model>
+            <description>Aqua Russa 1 негаз ПЭТ</description>
+            <barcode>14627107100117</barcode>
+         </offer>
+         <offer id="1216" available="true">
+            <url>http://waterhouse.ru/shop/aqua-russa-1-5l-negaz-pe-t/</url>
+            <name>Aqua Russa 1.5 негаз ПЭТ</name>
+            <price>367.65</price>
+            <categoryId>1200</categoryId>
+            <picture>https://simplewine.ru/upload/iblock/c33/c3373050d5b3a31fb7a7058e06aea6d8.png</picture>
+            <vendor>Aqua Russa</vendor>
+            <model>Aqua Russa</model>
+            <description>Aqua Russa 1.5 негаз ПЭТ</description>
+            <barcode>14627107100131</barcode>
+         </offer>
+         <offer id="1217" available="true">
+            <url>http://waterhouse.ru/shop/voda-selters-naturell-steklo-0-275l-24-negazirovannaya/</url>
+            <name>Вода Имп.Selters Naturell 0.275 бут</name>
+            <price>3005.8152</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2019/02/Voda-Selters-Naturell-steklo-0.275-l-bg-300x300.jpg</picture>
+            <vendor>Selters</vendor>
+            <model>Selters</model>
+            <description>Вода Имп.Selters Naturell 0.275 бут</description>
+            <barcode>4053400176666</barcode>
+         </offer>
+         <offer id="1218" available="true">
+            <url>http://waterhouse.ru/shop/voda-selters-classic-steklo-0-275l-24-gazirovannaya/</url>
+            <name>Вода Имп. Selters Classic 0.275 бут</name>
+            <price>1962.17712</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2019/02/Voda-Selters-Naturell-steklo-0.275-l-bg-300x300.jpg</picture>
+            <vendor>Selters</vendor>
+            <model>Selters</model>
+            <description>Вода Имп. Selters Classic 0.275 бут</description>
+            <barcode>4053400176659</barcode>
+         </offer>
+         <offer id="1219" available="true">
+            <url>http://waterhouse.ru/shop/voda-selters-naturell-pe-t-0-5l-24-negazirovannaya/</url>
+            <name>Вода Имп.Selters Naturell 0.5 пэт</name>
+            <price>1962.17712</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2019/02/Voda-Selters-Naturell-steklo-0.275-l-bg-300x300.jpg</picture>
+            <vendor>Selters</vendor>
+            <model>Selters</model>
+            <description>Вода Имп.Selters Naturell 0.5 пэт</description>
+            <barcode>4053400176765</barcode>
+         </offer>
+         <offer id="1220" available="true">
+            <url>http://waterhouse.ru/shop/voda-selters-classic-pe-t-0-5l-24-gazirovannaya/</url>
+            <name>Вода Имп. Selters Classic 0,5 пэт</name>
+            <price>2106.05424</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2019/02/Voda-Selters-Naturell-steklo-0.275-l-bg-300x300.jpg</picture>
+            <vendor>Selters</vendor>
+            <model>Selters</model>
+            <description>Вода Имп. Selters Classic 0,5 пэт</description>
+            <barcode>4053400176703</barcode>
+         </offer>
+         <offer id="1221" available="true">
+            <url>http://waterhouse.ru/shop/voda-selters-naturell-steklo-0-8l-12-negazirovannaya/</url>
+            <name>Вода Имп.Selters Naturell 0,8 ст</name>
+            <price>1053.02712</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2019/02/Voda-Selters-Naturell-steklo-0.275-l-bg-300x300.jpg</picture>
+            <vendor>Selters</vendor>
+            <model>Selters</model>
+            <description>Вода Имп.Selters Naturell 0,8 ст</description>
+            <barcode>4053400176680</barcode>
+         </offer>
+         <offer id="1222" available="true">
+            <url>http://waterhouse.ru/shop/voda-selters-classic-steklo-0-8l-12-gazirovannaya/</url>
+            <name>Вода Имп. Selters Classic 0,8 ст</name>
+            <price>2382.6</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2019/02/Voda-Selters-Naturell-steklo-0.275-l-bg-300x300.jpg</picture>
+            <vendor>Selters</vendor>
+            <model>Selters</model>
+            <description>Вода Имп. Selters Classic 0,8 ст</description>
+            <barcode>4053400176703</barcode>
+         </offer>
+         <offer id="1223" available="true">
+            <url>http://waterhouse.ru/shop/voda-selters-naturell-pe-t-1-l-negazirovannaya/</url>
+            <name>Вода Имп.Selters Naturell 1.0 пэт</name>
+            <price>1191.3</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2019/02/Voda-Selters-Naturell-steklo-0.275-l-bg-300x300.jpg</picture>
+            <vendor>Selters</vendor>
+            <model>Selters</model>
+            <description>Вода Имп.Selters Naturell 1.0 пэт</description>
+            <barcode>4053400165899</barcode>
+         </offer>
+         <offer id="1224" available="true">
+            <url>http://waterhouse.ru/shop/voda-selters-classic-pe-t-1l-6-gazirovannaya/</url>
+            <name>Вода Имп. Selters Classic 1.0 пэт</name>
+            <price>722.47951957104</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2019/02/Voda-Selters-Naturell-steklo-0.275-l-bg-300x300.jpg</picture>
+            <vendor>Selters</vendor>
+            <model>Selters</model>
+            <description>Вода Имп. Selters Classic 1.0 пэт</description>
+            <barcode>4058300001827</barcode>
+         </offer>
+         <offer id="1225" available="true">
+            <url>http://waterhouse.ru/shop/acqua-panna-voda-min-pit-pr-stol-bg-025-st/</url>
+            <name>Мин. вода н/газ Acqua Panna 0,25л ст.</name>
+            <price>3081.192</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2013/10/0.251-300x300.jpg</picture>
+            <vendor>Acqua Panna</vendor>
+            <model>Acqua Panna</model>
+            <description>Мин. вода н/газ Acqua Panna 0,25л ст.</description>
+            <barcode>8000815024590</barcode>
+         </offer>
+         <offer id="1226" available="true">
+            <url>http://waterhouse.ru/shop/acqua-panna-voda-mineral-naya-pit-evaya-prirodnaya-stolovaya-negazirovannaya-0-5l-pe-t/</url>
+            <name>Мин. вода н/газ Acqua Panna 0,5л пэт</name>
+            <price>1795.8192</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2013/10/0.251-300x300.jpg</picture>
+            <vendor>Acqua Panna</vendor>
+            <model>Acqua Panna</model>
+            <description>Мин. вода н/газ Acqua Panna 0,5л пэт</description>
+            <barcode>8000815095262</barcode>
+         </offer>
+         <offer id="1227" available="true">
+            <url>http://waterhouse.ru/shop/acqua-panna-voda-mineral-naya-pit-evaya-prirodnaya-stolovaya-negazirovannaya-1l-pe-t/</url>
+            <name>Мин. вода н/газ Acqua Panna 1л пэт</name>
+            <price>1795.8192</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2013/10/0.251-300x300.jpg</picture>
+            <vendor>Acqua Panna</vendor>
+            <model>Acqua Panna</model>
+            <description>Мин. вода н/газ Acqua Panna 1л пэт</description>
+            <barcode>8000815255253</barcode>
+         </offer>
+         <offer id="1228" available="true">
+            <url>http://waterhouse.ru/shop/acqua-panna-voda-min-pit-pr-stol-b-g-0-75-st/</url>
+            <name>Мин. вода н/газ Acqua Panna 0,75л ст.</name>
+            <price>1469.6823</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2013/10/0.251-300x300.jpg</picture>
+            <vendor>Acqua Panna</vendor>
+            <model>Acqua Panna</model>
+            <description>Мин. вода н/газ Acqua Panna 0,75л ст.</description>
+            <barcode>8000815024422</barcode>
+         </offer>
+         <offer id="1229" available="true">
+            <url>http://waterhouse.ru/shop/vittel-voda-min-prir-stol-b-gaz-0-33-pe-t-frantsiya/</url>
+            <name>Мин. вода н/газ Vittel 0,33л пэт</name>
+            <price>2944.19136</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2013/10/RU_PIM_28145001004_03-300x300.jpg</picture>
+            <vendor>Vittel</vendor>
+            <model>Vittel</model>
+            <description>Мин. вода н/газ Vittel 0,33л пэт</description>
+            <barcode>3179732371812</barcode>
+         </offer>
+         <offer id="1230" available="true">
+            <url>http://waterhouse.ru/shop/vittel-voda-min-prir-stol-b-gaz-0-5-pe-t-frantsiya/</url>
+            <name>Мин. вода н/газ Vittel 0,5л пэт</name>
+            <price>1249.93248</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2013/10/RU_PIM_28145001004_03-300x300.jpg</picture>
+            <vendor>Vittel</vendor>
+            <model>Vittel</model>
+            <description>Мин. вода н/газ Vittel 0,5л пэт</description>
+            <barcode>3179732364814</barcode>
+         </offer>
+         <offer id="1231" available="true">
+            <url>http://waterhouse.ru/shop/vittel-voda-min-prir-stol-b-gaz-0-75-pe-t-sport-frantsiya/</url>
+            <name>Мин. вода н/газ Vittel 0,75л пэт спорт</name>
+            <price>361.94088</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2013/10/RU_PIM_28145001004_03-300x300.jpg</picture>
+            <vendor>Vittel</vendor>
+            <model>Vittel</model>
+            <description>Мин. вода н/газ Vittel 0,75л пэт спорт</description>
+            <barcode>3179730117856</barcode>
+         </offer>
+         <offer id="1232" available="true">
+            <url>http://waterhouse.ru/shop/vittel-voda-min-prir-stol-b-gaz-1l-pe-t-frantsiya/</url>
+            <name>Мин. вода н/газ Vittel 1л пэт</name>
+            <price>448.9548</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2013/10/RU_PIM_28145001004_03-300x300.jpg</picture>
+            <vendor>Vittel</vendor>
+            <model>Vittel</model>
+            <description>Мин. вода н/газ Vittel 1л пэт</description>
+            <barcode>3179732354976</barcode>
+         </offer>
+         <offer id="1233" available="true">
+            <url>http://waterhouse.ru/shop/vittel-voda-min-prir-stol-b-gaz-1-5pe-t-frantsiya/</url>
+            <name>Мин. вода н/газ Vittel 1,5л пэт</name>
+            <price>524.19936</price>
+            <categoryId>1200</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2013/10/RU_PIM_28145001004_03-300x300.jpg</picture>
+            <vendor>Vittel</vendor>
+            <model>Vittel</model>
+            <description>Мин. вода н/газ Vittel 1,5л пэт</description>
+            <barcode>3048430229520</barcode>
+         </offer>
+         <offer id="2001" available="true">
+            <url>http://waterhouse.ru/shop/mineral-naya-voda-antipodes-1200ml-gazirovannaya/</url>
+            <name>Antipodes Газированная 1l</name>
+            <price>6384</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/500ml-Still--300x300.jpg</picture>
+            <vendor>Antipodes</vendor>
+            <model>Antipodes</model>
+            <description>Antipodes Газированная 1l</description>
+            <barcode>19421017790018</barcode>
+         </offer>
+         <offer id="2002" available="true">
+            <url>http://waterhouse.ru/shop/mineral-naya-voda-antipodes-0-500ml-gazirovanaya/</url>
+            <name>Antipodes Газированная 0.5l</name>
+            <price>8550</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/500ml-Still--300x300.jpg</picture>
+            <vendor>San Benedetto</vendor>
+            <model>San Benedetto</model>
+            <description>Antipodes Газированная 0.5l</description>
+            <barcode>19421017790025</barcode>
+         </offer>
+         <offer id="2003" available="true">
+            <url>http://waterhouse.ru/shop/san-benedetto-mineral-naya-voda-0-5-l-gazirovannaya-steklo/</url>
+            <name>San Benedetto 0.5L. Стекло, Газированная</name>
+            <price>2612.5</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/05-sparkling-300x300.jpg</picture>
+            <vendor>San Benedetto</vendor>
+            <model>San Benedetto</model>
+            <description>San Benedetto 0.5L. Стекло, Газированная</description>
+            <barcode>18001620003227</barcode>
+         </offer>
+         <offer id="2004" available="true">
+            <url>http://waterhouse.ru/shop/san-benedetto-mineral-naya-voda-0-75-l-gazirovannaya-steklo/</url>
+            <name>San Benedetto 0.75L. Стекло, Газированная</name>
+            <price>2046.3</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/05-sparkling-300x300.jpg</picture>
+            <vendor>San Benedetto</vendor>
+            <model>San Benedetto</model>
+            <description>San Benedetto 0.75L. Стекло, Газированная</description>
+            <barcode>18001620005320</barcode>
+         </offer>
+         <offer id="2005" available="true">
+            <url>http://waterhouse.ru/shop/san-benedetto-mineral-naya-voda-1-0-l-gazirovannaya-steklo/</url>
+            <name>San Benedetto 1L. Стекло, Газированная</name>
+            <price>2274.3</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/05-sparkling-300x300.jpg</picture>
+            <vendor>San Benedetto</vendor>
+            <model>San Benedetto</model>
+            <description>San Benedetto 1L. Стекло, Газированная</description>
+            <barcode>18001620003234</barcode>
+         </offer>
+         <offer id="2006" available="true">
+            <url>http://waterhouse.ru/shop/san-benedetto-mineral-naya-voda-1-0-l-gazirovannaya-pe-t/</url>
+            <name>San Benedetto 1L. PET Elite, Газированная</name>
+            <price>880.65</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/05-sparkling-300x300.jpg</picture>
+            <vendor>San Benedetto</vendor>
+            <model>San Benedetto</model>
+            <description>San Benedetto 1L. PET Elite, Газированная</description>
+            <barcode>18001620006648</barcode>
+         </offer>
+         <offer id="2007" available="true">
+            <url>http://waterhouse.ru/shop/san-benedetto-mineral-naya-voda-1-5-l-gazirovannaya-pe-t/</url>
+            <name>San Benedetto 1.5L. PET, Газированная</name>
+            <price>880.65</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/05-sparkling-300x300.jpg</picture>
+            <vendor>San Benedetto</vendor>
+            <model>San Benedetto</model>
+            <description>San Benedetto 1.5L. PET, Газированная</description>
+            <barcode>14690491043223</barcode>
+         </offer>
+         <offer id="2008" available="true">
+            <url>http://waterhouse.ru/shop/san-benedetto-mineral-naya-voda-0-33-l-gazirovannaya-pe-t/</url>
+            <name>San Benedetto 0.33L. PET , Газированная</name>
+            <price>1311</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/05-sparkling-300x300.jpg</picture>
+            <vendor>San Benedetto</vendor>
+            <model>San Benedetto</model>
+            <description>San Benedetto 0.33L. PET , Газированная</description>
+            <barcode>14690491043209</barcode>
+         </offer>
+         <offer id="2009" available="true">
+            <url>http://waterhouse.ru/shop/san-benedetto-mineral-naya-voda-0-5-l-gazirovannaya-pe-t/</url>
+            <name>San Benedetto 0.5L. PET, Газированная</name>
+            <price>1767</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/05-sparkling-300x300.jpg</picture>
+            <vendor>San Benedetto</vendor>
+            <model>San Benedetto</model>
+            <description>San Benedetto 0.5L. PET, Газированная</description>
+            <barcode>8001620101018</barcode>
+         </offer>
+         <offer id="2010" available="true">
+            <url>http://waterhouse.ru/shop/lurisia-luriziya-mineral-naya-prirodnaya-voda-gazirovannaya-0-75-steklo/</url>
+            <name>Lurisia Газированная 0.75l</name>
+            <price>3705</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/075-300x300.jpg</picture>
+            <vendor>Lurisia</vendor>
+            <model>Lurisia</model>
+            <description>Lurisia Газированная 0.75l</description>
+            <barcode>18032919460346</barcode>
+         </offer>
+         <offer id="2011" available="true">
+            <url>http://waterhouse.ru/shop/lurisia-luriziya-mineral-naya-prirodnaya-voda-gazirovannaya-0-33-steklo/</url>
+            <name>Lurisia Газированная  0.33l</name>
+            <price>3515</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2014/11/075-300x300.jpg</picture>
+            <vendor>Lurisia</vendor>
+            <model>Lurisia</model>
+            <description>Lurisia Газированная  0.33l</description>
+            <barcode>18032919460308</barcode>
+         </offer>
+         <offer id="2012" available="true">
+            <url>http://waterhouse.ru/shop/sairme-0-5-l-gazirovannaya-pe-t/</url>
+            <name>ПЭТ Саирме 0.5 минеральная Газированная</name>
+            <price>564.3</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2015/08/Sairme-0-5-pet-300x300.jpg</picture>
+            <vendor>Sairme</vendor>
+            <model>Sairme</model>
+            <description>ПЭТ Саирме 0.5 минеральная Газированная</description>
+            <barcode>14860001590152</barcode>
+         </offer>
+         <offer id="2013" available="true">
+            <url>http://waterhouse.ru/shop/sairme-0-5-l-gazirovannaya-steklo/</url>
+            <name>Стекло Саирме 0.5 минеральная Газированная</name>
+            <price>883.5</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2017/07/g-300x300.jpg</picture>
+            <vendor>Sairme</vendor>
+            <model>Sairme</model>
+            <description>Стекло Саирме 0.5 минеральная Газированная</description>
+            <barcode>14860001590121</barcode>
+         </offer>
+         <offer id="2014" available="true">
+            <url>http://waterhouse.ru/shop/aqua-russa-0-2-gaz-steklo/</url>
+            <name>Aqua Russa 0.2 газ Стекло</name>
+            <price>1083</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2017/07/02-steklo-gaz-na-sajt-300x300.jpg</picture>
+            <vendor>Aqua Russa</vendor>
+            <model>Aqua Russa</model>
+            <description>Aqua Russa 0.2 газ Стекло</description>
+            <barcode>14690491051754</barcode>
+         </offer>
+         <offer id="2015" available="true">
+            <url>http://waterhouse.ru/shop/aqua-russa-1l-gaz-steklo/</url>
+            <name>Aqua Russa 1 газ Стекло</name>
+            <price>481.65</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2017/07/02-steklo-gaz-na-sajt-300x300.jpg</picture>
+            <vendor>Aqua Russa</vendor>
+            <model>Aqua Russa</model>
+            <description>Aqua Russa 1 газ Стекло</description>
+            <barcode>14690491051730</barcode>
+         </offer>
+         <offer id="2016" available="true">
+            <url>http://waterhouse.ru/shop/aqua-russa-1l-negaz-steklo/</url>
+            <name>Aqua Russa 1 негаз Стекло</name>
+            <price>481.65</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2017/07/02-steklo-gaz-na-sajt-300x300.jpg</picture>
+            <vendor>Aqua Russa</vendor>
+            <model>Aqua Russa</model>
+            <description>Aqua Russa 1 негаз Стекло</description>
+            <barcode>14690491051723</barcode>
+         </offer>
+         <offer id="2017" available="true">
+            <url>https://simplewine.ru/catalog/product/aqua_russa_akva_russa_033_l_negaz_pet_033/</url>
+            <name>Aqua Russa 0.3 негаз ПЭТ</name>
+            <price>370.5</price>
+            <categoryId>2000</categoryId>
+            <picture>https://simplewine.ru/upload/iblock/c33/c3373050d5b3a31fb7a7058e06aea6d8.png</picture>
+            <vendor>Aqua Russa</vendor>
+            <model>Aqua Russa</model>
+            <description>Aqua Russa 0.3 негаз ПЭТ</description>
+            <barcode>14627107100155</barcode>
+         </offer>
+         <offer id="2018" available="true">
+            <url>http://waterhouse.ru/shop/aqua-russa-0-5-negaz-pe-t/</url>
+            <name>Aqua Russa 0.5 негаз ПЭТ</name>
+            <price>304.95</price>
+            <categoryId>2000</categoryId>
+            <picture>https://simplewine.ru/upload/iblock/c33/c3373050d5b3a31fb7a7058e06aea6d8.png</picture>
+            <vendor>Aqua Russa</vendor>
+            <model>Aqua Russa</model>
+            <description>Aqua Russa 0.5 негаз ПЭТ</description>
+            <barcode>14627107120094</barcode>
+         </offer>
+         <offer id="2019" available="true">
+            <url>http://waterhouse.ru/shop/aqua-russa-1l-gaz-pe-t/</url>
+            <name>Aqua Russa 1 газ ПЭТ</name>
+            <price>304.95</price>
+            <categoryId>2000</categoryId>
+            <picture>https://simplewine.ru/upload/iblock/c33/c3373050d5b3a31fb7a7058e06aea6d8.png</picture>
+            <vendor>Aqua Russa</vendor>
+            <model>Aqua Russa</model>
+            <description>Aqua Russa 1 газ ПЭТ</description>
+            <barcode>14627107100124</barcode>
+         </offer>
+         <offer id="2020" available="true">
+            <url>http://waterhouse.ru/shop/aqua-russa-1-5l-gaz-pe-t/</url>
+            <name>Aqua Russa 1.5 газ ПЭТ</name>
+            <price>367.65</price>
+            <categoryId>2000</categoryId>
+            <picture>https://simplewine.ru/upload/iblock/c33/c3373050d5b3a31fb7a7058e06aea6d8.png</picture>
+            <vendor>Aqua Russa</vendor>
+            <model>Aqua Russa</model>
+            <description>Aqua Russa 1.5 газ ПЭТ</description>
+            <barcode>14627107100148</barcode>
+         </offer>
+         <offer id="2021" available="true">
+            <url>http://waterhouse.ru/shop/san-pellegrino-voda-min-prir-lech-stol-0-25-st-gaz/</url>
+            <name>Мин. вода газ S.Pellegrino 0,25л ст.</name>
+            <price>1548.12</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2013/10/0251-300x300.jpg</picture>
+            <vendor>Sanpellegrino</vendor>
+            <model>Sanpellegrino</model>
+            <description>Мин. вода газ S.Pellegrino 0,25л ст.</description>
+            <barcode>8002270041068</barcode>
+         </offer>
+         <offer id="2022" available="true">
+            <url>http://waterhouse.ru/shop/san-pellegrino-voda-min-prir-lech-stol-1-0-l-pe-t-gaz/</url>
+            <name>Мин. вода газ S.Pellegrino 1л пэт</name>
+            <price>448.9548</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2013/10/0251-300x300.jpg</picture>
+            <vendor>Sanpellegrino</vendor>
+            <model>Sanpellegrino</model>
+            <description>Мин. вода газ S.Pellegrino 1л пэт</description>
+            <barcode>8002270044892</barcode>
+         </offer>
+         <offer id="2023" available="true">
+            <url>http://waterhouse.ru/shop/san-pellegrino-voda-min-prir-lech-stol-0-75-st-gaz/</url>
+            <name>Мин. вода газ S.Pellegrino 0,75л ст.</name>
+            <price>1545.3897</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2013/10/0251-300x300.jpg</picture>
+            <vendor>Sanpellegrino</vendor>
+            <model>Sanpellegrino</model>
+            <description>Мин. вода газ S.Pellegrino 0,75л ст.</description>
+            <barcode>8002270052453</barcode>
+         </offer>
+         <offer id="2024" available="true">
+            <url>http://waterhouse.ru/shop/perrier-0-33-steklo-gaz/</url>
+            <name>Мин. вода газ Perrier 0,33л ст.</name>
+            <price>3005.8152</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2013/10/033-klasik-300x300.jpg</picture>
+            <vendor>Perrier</vendor>
+            <model>Perrier</model>
+            <description>Мин. вода газ Perrier 0,33л ст.</description>
+            <barcode>3179732351517</barcode>
+         </offer>
+         <offer id="2025" available="true">
+            <url>http://waterhouse.ru/shop/perrier-0-75-steklo-gaz/</url>
+            <name>Мин. вода газ Perrier 0,75л ст.</name>
+            <price>897.9096</price>
+            <categoryId>2000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2013/10/033-klasik-300x300.jpg</picture>
+            <vendor>Perrier</vendor>
+            <model>Perrier</model>
+            <description>Мин. вода газ Perrier 0,75л ст.</description>
+            <barcode>3179732332219</barcode>
+         </offer>
+         <offer id="3001" available="true">
+            <url>http://waterhouse.ru/shop/sok-yoga-krasnoe-yabloko-0-2l/</url>
+            <name>Yoga Яблоко осветленное</name>
+            <price>7103.13936</price>
+            <categoryId>3000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2015/03/krasnoe-yabloko-300x300.jpg</picture>
+            <vendor>YOGA</vendor>
+            <model>YOGA</model>
+            <description>Yoga Яблоко осветленное</description>
+            <barcode>18001440124379</barcode>
+         </offer>
+         <offer id="3002" available="true">
+            <url>http://waterhouse.ru/shop/sok-yoga-grejpfrut-0-2l/</url>
+            <name>Yoga Грейпфрут</name>
+            <price>2046.3</price>
+            <categoryId>3000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2015/03/chernika-300x300.jpg</picture>
+            <vendor>YOGA</vendor>
+            <model>YOGA</model>
+            <description>Yoga Грейпфрут</description>
+            <barcode>18001440124393</barcode>
+         </offer>
+         <offer id="3003" available="true">
+            <url>http://waterhouse.ru/shop/sok-yoga-ananas-0-2l/</url>
+            <name>Yoga Ананас</name>
+            <price>2154.6</price>
+            <categoryId>3000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2015/03/ananas-300x300.jpg</picture>
+            <vendor>YOGA</vendor>
+            <model>YOGA</model>
+            <description>Yoga Ананас</description>
+            <barcode>18001440124218</barcode>
+         </offer>
+         <offer id="3004" available="true">
+            <url>http://waterhouse.ru/shop/sok-yoga-apel-sin-0-2l/</url>
+            <name>Yoga Апельсин</name>
+            <price>2046.3</price>
+            <categoryId>3000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2015/03/apel-sin-300x300.jpg</picture>
+            <vendor>YOGA</vendor>
+            <model>YOGA</model>
+            <description>Yoga Апельсин</description>
+            <barcode>18001440124195</barcode>
+         </offer>
+         <offer id="4001" available="true">
+            <url>http://waterhouse.ru/shop/sok-yoga-pomidor-0-2l/</url>
+            <name>Yoga Томат</name>
+            <price>2046.3</price>
+            <categoryId>4000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2015/03/pomidor-300x300.jpg</picture>
+            <vendor>YOGA</vendor>
+            <model>YOGA</model>
+            <description>Yoga Томат</description>
+            <barcode>18001440124294</barcode>
+         </offer>
+         <offer id="5001" available="true">
+            <url>http://waterhouse.ru/shop/sok-yoga-banan-0-2l/</url>
+            <name>Yoga Банан</name>
+            <price>2046.3</price>
+            <categoryId>5000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2015/03/banan-300x300.jpg</picture>
+            <vendor>YOGA</vendor>
+            <model>YOGA</model>
+            <description>Yoga Банан</description>
+            <barcode>18001440124249</barcode>
+         </offer>
+         <offer id="5002" available="true">
+            <url>http://waterhouse.ru/shop/sok-yoga-chernika-0-2l/</url>
+            <name>Yoga Черника</name>
+            <price>3408.6</price>
+            <categoryId>5000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2015/03/chernika-300x300.jpg</picture>
+            <vendor>YOGA</vendor>
+            <model>YOGA</model>
+            <description>Yoga Черника</description>
+            <barcode>18001440124386</barcode>
+         </offer>
+         <offer id="5003" available="true">
+            <url>http://waterhouse.ru/shop/sok-yoga-vishnya-0-2l/</url>
+            <name>Yoga Вишня</name>
+            <price>2274.3</price>
+            <categoryId>5000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2015/03/vishnya-300x300.jpg</picture>
+            <vendor>YOGA</vendor>
+            <model>YOGA</model>
+            <description>Yoga Вишня</description>
+            <barcode>18001440126533</barcode>
+         </offer>
+         <offer id="6001" available="true">
+            <url>http://waterhouse.ru/shop/sok-yoga-persik-0-2l/</url>
+            <name>Yoga Персик</name>
+            <price>2046.3</price>
+            <categoryId>6000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2015/03/persik1-300x300.jpg</picture>
+            <vendor>YOGA</vendor>
+            <model>YOGA</model>
+            <description>Yoga Персик</description>
+            <barcode>18001440124140</barcode>
+         </offer>
+         <offer id="6002" available="true">
+            <url>http://waterhouse.ru/shop/sok-yoga-grusha-0-2l/</url>
+            <name>Yoga Груша</name>
+            <price>2046.3</price>
+            <categoryId>6000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2015/03/grusha-300x300.jpg</picture>
+            <vendor>YOGA</vendor>
+            <model>YOGA</model>
+            <description>Yoga Груша</description>
+            <barcode>18001440124133</barcode>
+         </offer>
+         <offer id="6003" available="true">
+            <url>http://waterhouse.ru/shop/sok-yoga-abrikos-0-2l/</url>
+            <name>Yoga Абрикос</name>
+            <price>2046.3</price>
+            <categoryId>6000</categoryId>
+            <picture>http://waterhouse.ru/wp-content/uploads/2015/03/abrikos-300x300.jpg</picture>
+            <vendor>YOGA</vendor>
+            <model>YOGA</model>
+            <description>Yoga Абрикос</description>
+            <barcode>18001440124171</barcode>
+         </offer>
+      </offers>
+   </shop>
+</yml_catalog>

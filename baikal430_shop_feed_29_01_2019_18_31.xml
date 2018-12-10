@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-01-29 15:20">
+  <shop>
+    <name>BAIKAL430.SHOP</name>
+    <company>Интернет-магазин природной и минеральной воды BAIKAL430.SHOP</company>
+    <url>https://baikal430.shop/</url>
+    <platform>X-Cart</platform>
+    <version>5.3.5.5</version>
+    <cpa>0</cpa>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="15">Супермаркет</category>
+      <category id="18" parentId="15">Напитки</category>
+      <category id="19" parentId="15">Вода</category>
+      <category id="1">Детские товары</category>
+      <category id="2" parentId="1">Детское питание</category>
+      <category id="3" parentId="2">Детские напитки</category>
+    </categories>
+    <offers>
+      <offer available="true" id="4670010850450">
+        <url>https://baikal430.shop/baikal430-0.45-litra.html?utm_medium=cpc&amp;utm_source=goods&amp;utm_campaign=baikalskaya_voda&amp;utm_content=pet&amp;utm_term=55</url>
+        <currencyId>RUB</currencyId>
+        <name>Глубинная байкальская вода BAIKAL430 (БАЙКАЛ 430) 0,45 литра, ПЭТ, 12 шт. в упак.</name>
+        <vendor>BAIKALSEA Company</vendor>
+        <vendorCode>00000000222</vendorCode>
+        <categoryId>19</categoryId>
+        <description>BAIKAL430 &amp;mdash; природная чистейшая вода из великого озера Байкал с глубины 430 метров. Растворенный в Байкале кислород придает воде свежесть вкуса, а сверхлегкая минерализация &amp;mdash; несравненное преимущество перед любой другой водой. Цивилизация и человек не оказали никакого влияния на байкальскую экосистему, и чистота воды великого озера доходит до нас в первозданном виде. На сегодняшний день система забора воды BAIKALSEA Company &amp;mdash; единственная система на Байкале, выполненная с соблюдением всех стандартов и соответствующая всем современным требованиям, обеспечивающим неизменность уникального качества глубинной байкальской воды. Каждая бутылка глубинной байкальской воды BAIKAL430 имеет уникальный код, который используется для проверки подлинности воды. Когда Вы вводите код из-под крышки на сайте BAIKAL430.RU система сравнивает его с базой кодов и подтверждает либо не подтверждает подлинность. Введя код из-под крышки и указав номер своего телефона вы получаете шанс круглый год выиграть незабываемое &amp;laquo;Путешествие на Байкал с BAIKAL430&amp;raquo;. Победители определяются из числа участников, зарегистрировавших наибольшее количество кодов. Путешествие выигрывают по 5 человек дважды в год.</description>
+        <price>540</price>
+        <param name="Объем" unit="литр">0,45</param>
+        <param name="Кол-во в упаковке">12 шт.</param>
+        <param name="Упаковка">ПЭТ</param>
+        <param name="Тип воды">Глубинная байкальская</param>
+        <param name="Бренд">BAIKALSEA Company</param>
+        <param name="Единица измерения">упак.</param>
+        <param name="Общая минерализация">≤0,12±0,02 г/л</param>
+        <param name="Значение pH">7,3-8,0</param>&gt;
+        <picture>https://baikal430.shop/images/product/baikal430_1.jpg</picture>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <sales_notes>Минимальный заказ — 1000 рублей</sales_notes>
+        <barcode>4670010850467</barcode></offer>
+      <offer available="true" id="4670010850498">
+        <url>https://baikal430.shop/baikal430-9.0-litra.html?utm_medium=cpc&amp;utm_source=goods&amp;utm_campaign=baikalskaya_voda&amp;utm_content=pet&amp;utm_term=56</url>
+        <currencyId>RUB</currencyId>
+        <name>Глубинная байкальская вода BAIKAL430 (БАЙКАЛ 430) 9 литров, одноразовая ПЭТ упаковка</name>
+        <vendor>BAIKALSEA Company</vendor>
+        <vendorCode>00000000004</vendorCode>
+        <categoryId>19</categoryId>
+        <description>BAIKAL430 &amp;mdash; природная чистейшая вода из великого озера Байкал с глубины 430 метров. Растворенный в Байкале кислород придает воде свежесть вкуса, а сверхлегкая минерализация &amp;mdash; несравненное преимущество перед любой другой водой. Цивилизация и человек не оказали никакого влияния на байкальскую экосистему, и чистота воды великого озера доходит до нас в первозданном виде. На сегодняшний день система забора воды BAIKALSEA Company &amp;mdash; единственная система на Байкале, выполненная с соблюдением всех стандартов и соответствующая всем современным требованиям, обеспечивающим неизменность уникального качества глубинной байкальской воды. Специально для взыскательных и неравнодушных людей BAIKALSEA Company представляет возможность использовать глубинную байкальскую воду BAIKAL430 для приготовления еды и напитков. Единственный из выпускаемых BAIKALSEA Company продуктов, который подходит для стандартного кулера &amp;mdash; это 9-ти литровая глубинная байкальская вода BAIKAL430. Чтобы вы могли получить воду высочайшего качества, мы производим ее в одноразовом формате упаковки. Глубинная байкальская вода BAIKAL430 станет лучшей основой для приготовления ваших любимых блюд, ароматного чая, кофе или освежающих коктейлей. Благодаря сверхлегкой минерализации и исключительной чистоте, байкальская вода не влияет на вкус и аромат ингредиентов, оставляя неизменными вкусовые качества ваших блюд.Специальное предложение для дома и офиса.</description>
+        <price>700</price>
+        <param name="Объем" unit="литр">9,0</param>
+        <param name="Кол-во в упаковке">1 шт.</param>
+        <param name="Упаковка">ПЭТ</param>
+        <param name="Тип воды">Глубинная байкальская</param>
+        <param name="Бренд">BAIKAL430</param>
+        <param name="Единица измерения">упак.</param>
+        <param name="Общая минерализация">≤0,12±0,02 г/л</param>
+        <param name="Значение pH">7,3-8,0</param>
+        <picture>https://baikal430.shop/images/product/baikal430-9_1.jpg</picture>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <sales_notes>Минимальный заказ — 1000 рублей</sales_notes>
+        <barcode>4670010850498</barcode>
+      </offer>
+      <offer available="true" id="4670010850399">
+        <url>https://baikal430.shop/baikal-pearl-0.25-litra.html?utm_medium=cpc&amp;utm_source=goods&amp;utm_campaign=baikalskaya_voda&amp;utm_content=steklo&amp;utm_term=57</url>
+        <currencyId>RUB</currencyId>
+        <name>Природная вода «Жемчужина Байкала» (BAIKAL PEARL) 0,25 литра, Стекло, 24 шт. в упак.</name>
+        <vendor>BAIKALSEA Company</vendor>
+        <vendorCode>00000000065</vendorCode>
+        <categoryId>19</categoryId>
+        <description>Природная вода &amp;laquo;Жемчужина Байкала&amp;raquo; (BAIKAL PEARL) 0,25 &amp;mdash; это артезианская негазированная вода из подземного источника глубиной более 60 метров. Миллионы лет чистейшая природная вода содержится в подземных месторождениях вокруг Байкала. Легендарное озеро пополняется из подземных рек водой, нетронутой цивилизацией. Добыча воды из защищенного горизонта является гарантией постоянного качества воды. Дизайн бутылки и логотип созданы такими, чтобы каждый мог увидеть в нем свой Байкал. Ключевыми элементами выбраны наскальные рисунки с утеса на берегу Байкала под названием Саган Заба и линия воды в виде волны. Уникальные элементы оформления, сложная коническая геометрия самой бутылки гарантируют защиту от подделки.</description>
+        <price>1680</price>
+        <param name="Объем" unit="литр">0,25</param>
+        <param name="Кол-во в упаковке">24 шт.</param>
+        <param name="Упаковка">Стекло</param>
+        <param name="Тип воды">Природная артезианская</param>
+        <param name="Бренд">BAIKAL PEARL</param>
+        <param name="Единица измерения">упак.</param>
+        <param name="Общая минерализация">0,2±0,02 г/л</param>
+        <param name="Значение pH">7,2-7,4</param>
+        <picture>https://baikal430.shop/images/product/BP_250g_24.jpg</picture>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <sales_notes>Минимальный заказ — 1000 рублей</sales_notes>
+        <barcode>4670010850429</barcode>
+      </offer>
+      <offer available="true" id="4670010850178">
+        <url>https://baikal430.shop/baikal-pearl-0.33-litra.html?utm_medium=cpc&amp;utm_source=goods&amp;utm_campaign=baikalskaya_voda&amp;utm_content=pet&amp;utm_term=105</url>
+        <currencyId>RUB</currencyId>
+        <name>Природная вода «Жемчужина Байкала» (BAIKAL PEARL) 0,33 литра, ПЭТ, 12 шт. в упак.</name>
+        <vendor>BAIKALSEA Company</vendor>
+        <vendorCode>УПП01011189</vendorCode>
+        <categoryId>19</categoryId>
+        <description>Природная вода &amp;laquo;Жемчужина Байкала&amp;raquo; (BAIKAL PEARL) 0,33 &amp;mdash; это артезианская негазированная вода из подземного источника глубиной более 60 метров. Миллионы лет чистейшая природная вода содержится в подземных месторождениях вокруг Байкала. Легендарное озеро пополняется из подземных рек водой, нетронутой цивилизацией. Добыча воды из защищенного горизонта является гарантией постоянного качества воды. Дизайн бутылки и логотип созданы такими, чтобы каждый мог увидеть в нем свой Байкал. Ключевыми элементами выбраны наскальные рисунки с утеса на берегу Байкала под названием Саган Заба и линия воды в виде волны. Уникальные элементы оформления, сложная коническая геометрия самой бутылки гарантируют защиту от подделки.</description>
+        <price>610</price>
+        <param name="Объем" unit="литр">0,33</param>
+        <param name="Кол-во в упаковке">12 шт.</param>
+        <param name="Упаковка">ПЭТ</param>
+        <param name="Тип воды">Природная артезианская</param>
+        <param name="Бренд">BAIKAL PEARL</param>
+        <param name="Единица измерения">упак.</param>
+        <param name="Общая минерализация">0,2±0,02 г/л</param>
+        <param name="Значение pH">7,2-7,4</param>
+        <picture>https://baikal430.shop/images/product/s_pearl_033_2.jpg</picture>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <sales_notes>Минимальный заказ — 1000 рублей</sales_notes>
+        <barcode>4670010850566</barcode>
+      </offer>
+      <offer available="true" id="4670010850030">
+        <url>https://baikal430.shop/baikal-pearl-0.53-litra.html?utm_medium=cpc&amp;utm_source=goods&amp;utm_campaign=baikalskaya_voda&amp;utm_content=steklo&amp;utm_term=59</url>
+        <currencyId>RUB</currencyId>
+        <name>Природная вода «Жемчужина Байкала» (BAIKAL PEARL) 0,53 литра, Стекло, 20 шт. в упак.</name>
+        <vendor>BAIKALSEA Company</vendor>
+        <vendorCode>00000000245</vendorCode>
+        <categoryId>19</categoryId>
+        <description>Природная вода &amp;laquo;Жемчужина Байкала&amp;raquo; (BAIKAL PEARL) 0,53 &amp;mdash; это артезианская негазированная вода из подземного источника глубиной более 60 метров. Миллионы лет чистейшая природная вода содержится в подземных месторождениях вокруг Байкала. Легендарное озеро пополняется из подземных рек водой, нетронутой цивилизацией. Добыча воды из защищенного горизонта является гарантией постоянного качества воды. Дизайн бутылки и логотип созданы такими, чтобы каждый мог увидеть в нем свой Байкал. Ключевыми элементами выбраны наскальные рисунки с утеса на берегу Байкала под названием Саган Заба и линия воды в виде волны. Уникальные элементы оформления, сложная коническая геометрия самой бутылки гарантируют защиту от подделки.</description>
+        <price>2100</price>
+        <param name="Объем" unit="литр">0,53</param>
+        <param name="Кол-во в упаковке">20 шт.</param>
+        <param name="Упаковка">Стекло</param>
+        <param name="Тип воды">Природная артезианская</param>
+        <param name="Бренд">BAIKAL PEARL</param>
+        <param name="Единица измерения">упак.</param>
+        <param name="Общая минерализация">0,2±0,02 г/л</param>
+        <param name="Значение pH">7,2-7,4</param>
+        <picture>https://baikal430.shop/images/product/BP_500g_20.jpg</picture>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <sales_notes>Минимальный заказ — 1000 рублей</sales_notes>
+        <barcode>4670010850436</barcode>
+      </offer>
+      <offer available="true" id="4670010850276">
+        <url>https://baikal430.shop/baikal-pearl-1-litr.html?utm_medium=cpc&amp;utm_source=goods&amp;utm_campaign=baikalskaya_voda&amp;utm_content=pet&amp;utm_term=96</url>
+        <currencyId>RUB</currencyId>
+        <name>Природная вода «Жемчужина Байкала» (BAIKAL PEARL) 1 литр, ПЭТ, 6 шт. в упак.</name>
+        <vendor>BAIKALSEA Company</vendor>
+        <vendorCode>УПП01011183</vendorCode>
+        <categoryId>19</categoryId>
+        <description>Природная вода &amp;laquo;Жемчужина Байкала&amp;raquo; (BAIKAL PEARL) 1 &amp;mdash; это артезианская негазированная вода из подземного источника глубиной более 60 метров. Миллионы лет чистейшая природная вода содержится в подземных месторождениях вокруг Байкала. Легендарное озеро пополняется из подземных рек водой, нетронутой цивилизацией. Добыча воды из защищенного горизонта является гарантией постоянного качества воды. Дизайн бутылки и логотип созданы такими, чтобы каждый мог увидеть в нем свой Байкал. Ключевыми элементами выбраны наскальные рисунки с утеса на берегу Байкала под названием Саган Заба и линия воды в виде волны. Уникальные элементы оформления, сложная коническая геометрия самой бутылки гарантируют защиту от подделки.</description>
+        <price>540</price>
+        <param name="Объем" unit="литр">1,0</param>
+        <param name="Кол-во в упаковке">6 шт.</param>
+        <param name="Упаковка">ПЭТ</param>
+        <param name="Тип воды">Природная артезианская</param>
+        <param name="Бренд">BAIKAL PEARL</param>
+        <param name="Единица измерения">упак.</param>
+        <param name="Общая минерализация">0,2±0,02 г/л</param>
+        <param name="Значение pH">7,2-7,4</param>
+        <picture>https://baikal430.shop/images/product/s_pearl_1_2.jpg</picture>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <sales_notes>Минимальный заказ — 1000 рублей</sales_notes>
+        <barcode>4670010850580</barcode>
+      </offer>
+      <offer available="true" id="4670010850375">
+        <url>https://baikal430.shop/baikal-pearl-sport-0.5-litra.html?utm_medium=cpc&amp;utm_source=goods&amp;utm_campaign=baikalskaya_voda&amp;utm_content=pet&amp;utm_term=61</url>
+        <currencyId>RUB</currencyId>
+        <name>Природная вода «Жемчужина Байкала» (BAIKAL PEARL) SPORT 0,5 литра, ПЭТ, 12 шт. в упак.</name>
+        <vendor>BAIKALSEA Company</vendor>
+        <vendorCode>00000000274</vendorCode>
+        <categoryId>19</categoryId>
+        <description>Природная вода &amp;laquo;Жемчужина Байкала&amp;raquo; (BAIKAL PEARL) 0,5 &amp;mdash; это артезианская негазированная вода из подземного источника глубиной более 60 метров. Миллионы лет чистейшая природная вода содержится в подземных месторождениях вокруг Байкала. Легендарное озеро пополняется из подземных рек водой, нетронутой цивилизацией. Добыча воды из защищенного горизонта является гарантией постоянного качества воды. Дизайн бутылки и логотип созданы такими, чтобы каждый мог увидеть в нем свой Байкал. Ключевыми элементами выбраны наскальные рисунки с утеса на берегу Байкала под названием Саган Заба и линия воды в виде волны. Уникальные элементы оформления, сложная коническая геометрия самой бутылки гарантируют защиту от подделки.</description>
+        <price>680</price>
+        <param name="Объем" unit="литр">0,5</param>
+        <param name="Кол-во в упаковке">12 шт.</param>
+        <param name="Упаковка">ПЭТ</param>
+        <param name="Тип воды">Природная артезианская</param>
+        <param name="Бренд">BAIKAL PEARL</param>
+        <param name="Единица измерения">упак.</param>
+        <param name="Общая минерализация">0,2±0,02 г/л</param>
+        <param name="Значение pH">7,2-7,4</param>
+        <picture>https://baikal430.shop/images/product/BP_Sport_12.jpg</picture>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <sales_notes>Минимальный заказ — 1000 рублей</sales_notes>
+        <barcode>4670010850405</barcode>
+      </offer>
+      <offer available="true" id="4670010850382">
+        <url>https://baikal430.shop/baikal-reserve-0.25-litra.html?utm_medium=cpc&amp;utm_source=goods&amp;utm_campaign=baikalskaya_voda&amp;utm_content=steklo&amp;utm_term=62</url>
+        <currencyId>RUB</currencyId>
+        <name>Минеральная лечебно-столовая вода «Байкал Резерв» (BAIKAL RESERVE) 0,25 литра, Стекло, 24 шт. в упак.</name>
+        <vendor>BAIKALSEA Company</vendor>
+        <vendorCode>00000000064</vendorCode>
+        <categoryId>19</categoryId>
+        <description>Минеральная лечебно-столовая газированная вода &amp;laquo;Байкал Резерв&amp;raquo; (BAIKAL RESERVE) 0,25 добывается из подземного озера, находящегося на глубине 352 метра. Лечебные свойства минеральной воды &amp;laquo;Байкал Резерв&amp;raquo; (BAIKAL RESERVE) известны людям с 60-х годов прошлого века. &amp;laquo;Байкал Резерв&amp;raquo; помогает пищеварению и улучшает кровоснабжение всего организма. Минеральная вода добывается из холодного источника, поэтому сохраняет лечебные свойства в течение длительного времени. &amp;laquo;Мягкая минерализация&amp;raquo; делает &amp;laquo;Байкал Резерв&amp;raquo; идеальной для ежедневного употребления как столовой воды, она прекрасно утоляет жажду, является незаменимым спутником активного и здорового образа жизни, помощником в заботе о своем здоровье.</description>
+        <price>1680</price>
+        <param name="Объем" unit="литр">0,25</param>
+        <param name="Кол-во в упаковке">24 шт.</param>
+        <param name="Упаковка">Стекло</param>
+        <param name="Тип воды">Минеральная газированная</param>
+        <param name="Бренд">BAIKAL RESERVE</param>
+        <param name="Единица измерения">упак.</param>
+        <param name="Общая минерализация">1,2-3,0 г/л</param>
+        <param name="Значение pH">7,2-7,5</param>
+        <picture>https://baikal430.shop/images/product/BR_250g_24.jpg</picture>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <sales_notes>Минимальный заказ — 1000 рублей</sales_notes>
+        <barcode>4670010850412</barcode>
+      </offer>
+      <offer available="true" id="4670010850474">
+        <url>https://baikal430.shop/baikal-reserve-0.33-litra.html?utm_medium=cpc&amp;utm_source=goods&amp;utm_campaign=baikalskaya_voda&amp;utm_content=pet&amp;utm_term=98</url>
+        <currencyId>RUB</currencyId>
+        <name>Минеральная лечебно-столовая вода «Байкал Резерв» (BAIKAL RESERVE) 0,33 литра, ПЭТ, 12 шт. в упак.</name>
+        <vendor>BAIKALSEA Company</vendor>
+        <vendorCode>УПП01011189</vendorCode>
+        <categoryId>19</categoryId>
+        <description>Минеральная лечебно-столовая газированная вода &amp;laquo;Байкал Резерв&amp;raquo; (BAIKAL RESERVE) 0,5 добывается из подземного озера, находящегося на глубине 352 метра. Лечебные свойства минеральной воды &amp;laquo;Байкал Резерв&amp;raquo; (BAIKAL RESERVE) известны людям с 60-х годов прошлого века. &amp;laquo;Байкал Резерв&amp;raquo; помогает пищеварению и улучшает кровоснабжение всего организма. Минеральная вода добывается из холодного источника, поэтому сохраняет лечебные свойства в течение длительного времени. &amp;laquo;Мягкая минерализация&amp;raquo; делает &amp;laquo;Байкал Резерв&amp;raquo; идеальной для ежедневного употребления как столовой воды, она прекрасно утоляет жажду, является незаменимым спутником активного и здорового образа жизни, помощником в заботе о своем здоровье.</description>
+        <price>610</price>
+        <param name="Объем" unit="литр">0,33</param>
+        <param name="Кол-во в упаковке">12 шт.</param>
+        <param name="Упаковка">ПЭТ</param>
+        <param name="Тип воды">Минеральная газированная</param>
+        <param name="Бренд">BAIKAL RESERVE</param>
+        <param name="Единица измерения">упак.</param>
+        <param name="Общая минерализация">1,2-3,0 г/л</param>
+        <param name="Значение pH">7,2-7,5</param>
+        <picture>https://baikal430.shop/images/product/s_reserve_033_2.jpg</picture>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <sales_notes>Минимальный заказ — 1000 рублей</sales_notes>
+        <barcode>4670010850603</barcode>
+      </offer>
+      <offer available="true" id="4670010850023">
+        <url>https://baikal430.shop/baikal-reserve-0.53-litra.html?utm_medium=cpc&amp;utm_source=goods&amp;utm_campaign=baikalskaya_voda&amp;utm_content=steklo&amp;utm_term=64</url>
+        <currencyId>RUB</currencyId>
+        <name>Минеральная лечебно-столовая вода «Байкал Резерв» (BAIKAL RESERVE) 0,53 литра, Стекло, 20 шт. в упак.</name>
+        <vendor>BAIKALSEA Company</vendor>
+        <vendorCode>00000000246</vendorCode>
+        <categoryId>19</categoryId>
+        <description>Минеральная лечебно-столовая газированная вода &amp;laquo;Байкал Резерв&amp;raquo; (BAIKAL RESERVE) 0,53 добывается из подземного озера, находящегося на глубине 352 метра. Лечебные свойства минеральной воды &amp;laquo;Байкал Резерв&amp;raquo; (BAIKAL RESERVE) известны людям с 60-х годов прошлого века. &amp;laquo;Байкал Резерв&amp;raquo; помогает пищеварению и улучшает кровоснабжение всего организма. Минеральная вода добывается из холодного источника, поэтому сохраняет лечебные свойства в течение длительного времени. &amp;laquo;Мягкая минерализация&amp;raquo; делает &amp;laquo;Байкал Резерв&amp;raquo; идеальной для ежедневного употребления как столовой воды, она прекрасно утоляет жажду, является незаменимым спутником активного и здорового образа жизни, помощником в заботе о своем здоровье.</description>
+        <price>2100</price>
+        <param name="Объем" unit="литр">0,53</param>
+        <param name="Кол-во в упаковке">20 шт.</param>
+        <param name="Упаковка">Стекло</param>
+        <param name="Тип воды">Минеральная газированная</param>
+        <param name="Бренд">BAIKAL RESERVE</param>
+        <param name="Единица измерения">упак.</param>
+        <param name="Общая минерализация">1,2-3,0 г/л</param>
+        <param name="Значение pH">7,2-7,5</param>
+        <picture>https://baikal430.shop/images/product/BR_500g_20.jpg</picture>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <sales_notes>Минимальный заказ — 1000 рублей</sales_notes>
+        <barcode>4670010850443</barcode>
+      </offer>
+      <offer available="true" id="4670010850279">
+        <url>https://baikal430.shop/baikal-reserve-1-litra.html?utm_medium=cpc&amp;utm_source=goods&amp;utm_campaign=baikalskaya_voda&amp;utm_content=pet&amp;utm_term=97</url>
+        <currencyId>RUB</currencyId>
+        <name>Минеральная лечебно-столовая вода «Байкал Резерв» (BAIKAL RESERVE) 1 литр, ПЭТ, 6 шт. в упак.</name>
+        <vendor>BAIKALSEA Company</vendor>
+        <vendorCode>УПП01011188</vendorCode>
+        <categoryId>19</categoryId>
+        <description>Минеральная лечебно-столовая газированная вода &amp;laquo;Байкал Резерв&amp;raquo; (BAIKAL RESERVE) 1 добывается из подземного озера, находящегося на глубине 352 метра. Лечебные свойства минеральной воды &amp;laquo;Байкал Резерв&amp;raquo; (BAIKAL RESERVE) известны людям с 60-х годов прошлого века. &amp;laquo;Байкал Резерв&amp;raquo; помогает пищеварению и улучшает кровоснабжение всего организма. Минеральная вода добывается из холодного источника, поэтому сохраняет лечебные свойства в течение длительного времени. &amp;laquo;Мягкая минерализация&amp;raquo; делает &amp;laquo;Байкал Резерв&amp;raquo; идеальной для ежедневного употребления как столовой воды, она прекрасно утоляет жажду, является незаменимым спутником активного и здорового образа жизни, помощником в заботе о своем здоровье.</description>
+        <price>540</price>
+        <param name="Объем" unit="литр">1,0</param>
+        <param name="Кол-во в упаковке">6 шт.</param>
+        <param name="Упаковка">ПЭТ</param>
+        <param name="Тип воды">Минеральная газированная</param>
+        <param name="Бренд">BAIKAL RESERVE</param>
+        <param name="Единица измерения">упак.</param>
+        <param name="Общая минерализация">1,2-3,0 г/л</param>
+        <param name="Значение pH">7,2-7,5</param>
+        <picture>https://baikal430.shop/images/product/s_reserve_1_2.jpg</picture>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <sales_notes>Минимальный заказ — 1000 рублей</sales_notes>
+        <barcode>4670010850627</barcode>
+      </offer>
+      <offer available="true" id="4607154510452">
+        <url>https://baikal430.shop/baikal-pearl-for-baby-0.5-litra.html?utm_medium=cpc&amp;utm_source=goods&amp;utm_campaign=baikalskaya_voda&amp;utm_content=pet&amp;utm_term=66</url>
+        <currencyId>RUB</currencyId>
+        <name>Детская минеральная вода «Жемчужинка Байкала» 0,5 литра, ПЭТ, 12 шт. в упак.</name>
+        <vendor>BAIKALSEA Company</vendor>
+        <vendorCode>00000000270</vendorCode>
+        <categoryId>3</categoryId>
+        <description>Детская минеральная вода &amp;laquo;Жемчужинка Байкала&amp;raquo; занимает особое место в линейке продуктов, имеет свой собственный уникальный состав и добывается из артезианского источника вблизи Саянских гор. В отличие от прочих вод, сертифицированных для детского питания, которые готовятся методом фильтрации и последующего кондиционирования и минерализации &amp;mdash; то есть искусственно, детская минеральная вода &amp;laquo;Жемчужинка Байкала&amp;raquo; имеет естественную природную минерализацию. Нетронутая природа Байкальского края позволяет получать самую чистую воду, имеющую все необходимые для малыша минералы. Исследования подтвердили уникальность и полезность байкальской воды для детского питания. &amp;laquo;Жемчужинка Байкала&amp;raquo; добывается с глубины более 100 метров в охраняемой экологической зоне Байкала. Детская минеральная вода &amp;laquo;Жемчужинка Байкала&amp;raquo; зарегистрирована в Федеральной службе по надзору в сфере защиты прав потребителя и благополучия человека, как вода для питья с первых дней жизни, начиная с момента рождения, пригодна для восстановления сухих детских смесей, а также полезна людям всех возрастов.</description>
+        <price>750</price>
+        <param name="Объем" unit="литр">0,5</param>
+        <param name="Кол-во в упаковке">12 шт.</param>
+        <param name="Упаковка">ПЭТ</param>
+        <param name="Тип воды">Детская минеральная</param>
+        <param name="Бренд">ЖЕМЧУЖИНКА БАЙКАЛА</param>
+        <param name="Единица измерения">упак.</param>
+        <param name="Общая минерализация">0,3-0,5 г/л</param>
+        <param name="Значение pH">7,5-7,9</param>
+        <picture>https://baikal430.shop/images/product/BPkids_500p_12.jpg</picture>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <sales_notes>Минимальный заказ — 1000 рублей</sales_notes>
+        <barcode>4607154510872</barcode>
+      </offer>
+      <offer available="true" id="4607154510469">
+        <url>https://baikal430.shop/baikal-pearl-for-baby-1.5-litra.html?utm_medium=cpc&amp;utm_source=goods&amp;utm_campaign=baikalskaya_voda&amp;utm_content=pet&amp;utm_term=67</url>
+        <currencyId>RUB</currencyId>
+        <name>Детская минеральная вода «Жемчужинка Байкала» 1,5 литра, ПЭТ, 6 шт. в упак.</name>
+        <vendor>BAIKALSEA Company</vendor>
+        <vendorCode>00000000271</vendorCode>
+        <categoryId>3</categoryId>
+        <description>Детская минеральная вода &amp;laquo;Жемчужинка Байкала&amp;raquo; занимает особое место в линейке продуктов, имеет свой собственный уникальный состав и добывается из артезианского источника вблизи Саянских гор. В отличие от прочих вод, сертифицированных для детского питания, которые готовятся методом фильтрации и последующего кондиционирования и минерализации &amp;mdash; то есть искусственно, детская минеральная вода &amp;laquo;Жемчужинка Байкала&amp;raquo; имеет естественную природную минерализацию. Нетронутая природа Байкальского края позволяет получать самую чистую воду, имеющую все необходимые для малыша минералы. Исследования подтвердили уникальность и полезность байкальской воды для детского питания. &amp;laquo;Жемчужинка Байкала&amp;raquo; добывается с глубины более 100 метров в охраняемой экологической зоне Байкала. Детская минеральная вода &amp;laquo;Жемчужинка Байкала&amp;raquo; зарегистрирована в Федеральной службе по надзору в сфере защиты прав потребителя и благополучия человека, как вода для питья с первых дней жизни, начиная с момента рождения, пригодна для восстановления сухих детских смесей, а также полезна людям всех возрастов.</description>
+        <price>560</price>
+        <param name="Объем" unit="литр">1,5</param>
+        <param name="Кол-во в упаковке">6 шт.</param>
+        <param name="Упаковка">ПЭТ</param>
+        <param name="Тип воды">Детская минеральная</param>
+        <param name="Бренд">ЖЕМЧУЖИНКА БАЙКАЛА</param>
+        <param name="Единица измерения">упак.</param>
+        <param name="Общая минерализация">0,3-0,5 г/л</param>
+        <param name="Значение pH">7,5-7,9</param>
+        <picture>https://baikal430.shop/images/product/BPkids_2Lp_6.jpg</picture>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <sales_notes>Минимальный заказ — 1000 рублей</sales_notes>
+        <barcode>4607154510889</barcode>
+      </offer>
+      <offer available="true" id="4607154510919">
+        <url>https://baikal430.shop/baikal-pearl-for-baby-5.0-litra.html?utm_medium=cpc&amp;utm_source=goods&amp;utm_campaign=baikalskaya_voda&amp;utm_content=pet&amp;utm_term=68</url>
+        <currencyId>RUB</currencyId>
+        <name>Детская минеральная вода «Жемчужинка Байкала» 5,0 литров, ПЭТ, 2 шт. в упак.</name>
+        <vendor>BAIKALSEA Company</vendor>
+        <vendorCode>00000000337</vendorCode>
+        <categoryId>3</categoryId>
+        <description>Детская минеральная вода &amp;laquo;Жемчужинка Байкала&amp;raquo; занимает особое место в линейке продуктов, имеет свой собственный уникальный состав и добывается из артезианского источника вблизи Саянских гор. В отличие от прочих вод, сертифицированных для детского питания, которые готовятся методом фильтрации и последующего кондиционирования и минерализации &amp;mdash; то есть искусственно, детская минеральная вода &amp;laquo;Жемчужинка Байкала&amp;raquo; имеет естественную природную минерализацию. Нетронутая природа Байкальского края позволяет получать самую чистую воду, имеющую все необходимые для малыша минералы. Исследования подтвердили уникальность и полезность байкальской воды для детского питания. &amp;laquo;Жемчужинка Байкала&amp;raquo; добывается с глубины более 100 метров в охраняемой экологической зоне Байкала. Детская минеральная вода &amp;laquo;Жемчужинка Байкала&amp;raquo; зарегистрирована в Федеральной службе по надзору в сфере защиты прав потребителя и благополучия человека, как вода для питья с первых дней жизни, начиная с момента рождения, пригодна для восстановления сухих детских смесей, а также полезна людям всех возрастов.</description>
+        <price>399</price>
+        <param name="Объем" unit="литр">5,0</param>
+        <param name="Кол-во в упаковке">2 шт.</param>
+        <param name="Упаковка">ПЭТ</param>
+        <param name="Тип воды">Детская минеральная</param>
+        <param name="Бренд">ЖЕМЧУЖИНКА БАЙКАЛА</param>
+        <param name="Единица измерения">упак.</param>
+        <param name="Общая минерализация">0,3-0,5 г/л</param>
+        <param name="Значение pH">7,5-7,9</param>
+        <picture>https://baikal430.shop/images/product/BPkids_5p_2.jpg</picture>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <sales_notes>Минимальный заказ — 1000 рублей</sales_notes>
+        <barcode>4607154511107</barcode>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

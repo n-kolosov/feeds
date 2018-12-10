@@ -1,0 +1,3033 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2019-01-10 16:01">
+  <shop>
+    <name>ЗАО &quot;Л.Арго&quot;</name>
+    <company>Закрытое Акционерное Общество &quot;Л.Арго&quot;</company>
+    <url>https://www.l-argo.ru</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Детские МОЛОЧНЫЕ и СПЕЦИАЛИЗИРОВАННЫЕ СМЕСИ</category>
+      <category id="912" parentId="2">Флёр Альпин - каши молочные на коровьем молоке (Германия)</category>
+      <category id="917" parentId="2">Флёр Альпин - каши молочные на козьем молоке (Германия)</category>
+      <category id="936" parentId="2">Флёр Альпин - каши ПРОМО (Германия)</category>
+      <category id="843" parentId="2">Флёр Альпин - каши безмолочные (Германия)</category>
+      <category id="2">Детские КАШИ</category>
+      <category id="52" parentId="2">Беби Ситтер - каши (Израиль)</category>
+      <category id="937" parentId="923">Флёр Альпин - супчики быстрого приготовления ПРОМО (Италия)</category>
+      <category id="923">Детские СУПЧИКИ</category>
+      <category id="920" parentId="923">Флёр Альпин - супчики быстрого приготовления (Италия)</category>
+      <category id="930" parentId="315">Флёр Альпин - печенье детское Органик (Бельгия)</category>
+      <category id="938" parentId="315">Флёр Альпин - печенье детское Органик ПРОМО (Бельгия)</category>
+      <category id="315">Детское ПЕЧЕНЬЕ</category>
+      <category id="919" parentId="847">Флёр Альпин - масло оливковое для детей (Италия) </category>
+      <category id="847">Детское МАСЛО</category>
+      <category id="844" parentId="456">Флёр Альпин - пюре фруктовые и овощные 125г, (Германия)</category>
+      <category id="813" parentId="456">Флёр Альпин - пюре фруктовые 80г, (Германия)</category>
+      <category id="814" parentId="456">Флёр Альпин - пюре овощные 80г, (Германия)</category>
+      <category id="456">Детское ПЮРЕ</category>
+      <category id="963" parentId="456">Флёр Альпин - пюре фруктовые, фруктово - овощные в паучах 120г, (Шотландия)</category>
+      <category id="932" parentId="456">Флёр Альпин - пюре ПРОМО (Германия)</category>
+      <category id="921" parentId="456">Флёр Альпин - пюре фруктовые и овощные в паучах 90г, (Шотландия)</category>
+      <category id="1096" parentId="456">Флёр Альпин - пюре фруктово - молочные в паучах 120г, (Шотландия)</category>
+      <category id="933" parentId="4">Флёр Альпин - соки ПРОМО (Нидерланды)</category>
+      <category id="4">Детские СОКИ</category>
+      <category id="792" parentId="4">Флёр Альпин - соки 200г, (Нидерланды)</category>
+      <category id="591" parentId="314">Флёр Альпин - чай детский и чай для кормящих мам, (Чехия)</category>
+      <category id="314">Детский ЧАЙ и ЧАЙ для мам</category>
+      <category id="934" parentId="314">Флёр Альпин - чай детский и чай для кормящих матерей ПРОМО (Чехия)</category>
+      <category id="313">Детская ВОДА</category>
+      <category id="898" parentId="313">Флёр Альпин - вода детская питьевая (Австрия)</category>
+      <category id="768" parentId="1038">Флёр Альпин - сушки Органик (Италия)</category>
+      <category id="1038">Для всей семьи СУШКИ</category>
+      <category id="1037" parentId="1030">Флёр Альпин - Паста (Италия)</category>
+      <category id="1030">Для всей семьи Паста</category>
+      <category id="1081" parentId="1030">Флёр Альпин - ПРОМО Паста</category>
+      <category id="1087" parentId="507">Флёр Альпин - батончик овсяный Органик (Швейцария)</category>
+      <category id="507">Детская БАКАЛЕЯ, КОНДИТЕРСКИЕ ИЗДЕЛИЯ</category>
+      <category id="5">Детские ПОДГУЗНИКИ, ВЛАЖНЫЕ САЛФЕТКИ</category>
+      <category id="746">БУМАЖНО-ГИГИЕНИЧЕСКАЯ Продукция</category>
+      <category id="808">СРЕДСТВА ЗАЩИТЫ ОТ КОМАРОВ И КЛЕЩЕЙ</category>
+      <category id="674">Детская КОСМЕТИКА, КОСМЕТИКА ДЛЯ МАМ</category>
+      <category id="734">Средства ПО УХОДУ ЗА ДЕТСКИМИ ВЕЩАМИ И АКСЕССУАРАМИ </category>
+      <category id="1049" parentId="1041">Флёр Альпин - пюре фруктовые в паучах (Шотландия)</category>
+      <category id="1041">WB - детское питание и подгузники в ассортименте</category>
+      <category id="1100" parentId="1041">Флёр Альпин - Паста (Италия)</category>
+      <category id="1084" parentId="1041">Беби Ситтер - каши (Израиль)</category>
+      <category id="1092" parentId="1041">Флёр Альпин - детское печенье</category>
+      <category id="1066" parentId="1041">Флёр Альпин - каши (Германия)</category>
+      <category id="821">РАЗНОЕ</category>
+    </categories>
+    <offers>
+      <offer available="true" id="578">
+        <url/>
+        <name>Беби Ситтер - каша рисовая, 4 мес., 200/12  </name>
+        <oldprice>0</oldprice>
+        <price>199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290000021065</barcode>
+      </offer>
+      <offer available="true" id="597">
+        <url/>
+        <name>Беби Ситтер - каша злаковая, 6 мес., 200/12 </name>
+        <oldprice>0</oldprice>
+        <price>199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290000021096</barcode>
+      </offer>
+      <offer available="true" id="719">
+        <url/>
+        <name>Беби Ситтер - кашка - кисель кукурузная, 5 мес., 200/12 </name>
+        <oldprice>0</oldprice>
+        <price>199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290000021058</barcode>
+      </offer>
+      <offer available="true" id="1542">
+        <url/>
+        <name>Беби Ситтер - каша гречневая, 4 мес., 200/12</name>
+        <oldprice>0</oldprice>
+        <price>237.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290000021102</barcode>
+      </offer>
+      <offer available="true" id="1624">
+        <url/>
+        <name>Беби Ситтер - каша овсяная, 5 мес., 200/12 </name>
+        <oldprice>0</oldprice>
+        <price>199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290000021089</barcode>
+      </offer>
+      <offer available="true" id="8241">
+        <url/>
+        <name>Беби Ситтер - каша ячменная, 4 мес., 200/12</name>
+        <oldprice>0</oldprice>
+        <price>199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290008289344</barcode>
+      </offer>
+      <offer available="true" id="8242">
+        <url/>
+        <name>Беби Ситтер - каша пшённая со злаками, 6 мес., 200/12</name>
+        <oldprice>0</oldprice>
+        <price>199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290008289597</barcode>
+      </offer>
+      <offer available="false" id="8476">
+        <url/>
+        <name>Беби Ситтер - НАБОР каша овсяная + подарок (ложка), 5 мес., 210/9 </name>
+        <oldprice>0</oldprice>
+        <price>199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290000021089</barcode>
+      </offer>
+      <offer available="false" id="9499">
+        <url/>
+        <name>Беби Ситтер - НАБОР каша злаковая + подарок (ложка), 6 мес., 210/9</name>
+        <oldprice>0</oldprice>
+        <price>199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290000021096</barcode>
+      </offer>
+      <offer available="false" id="9501">
+        <url/>
+        <name>Беби Ситтер - НАБОР каша пшённая со злаками + подарок (ложка), 6 мес., 210/9 </name>
+        <oldprice>0</oldprice>
+        <price>199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290008289597</barcode>
+      </offer>
+      <offer available="true" id="10269">
+        <url/>
+        <name>Флёр Альпин - каша Органик три злака, 6 мес., 175/6</name>
+        <oldprice>0</oldprice>
+        <price>6027.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>843</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632135</barcode>
+      </offer>
+      <offer available="true" id="10307">
+        <url/>
+        <name>Флёр Альпин - каша Органик рисовая гипоаллергенная, 4 мес., 175/6</name>
+        <oldprice>0</oldprice>
+        <price>6027.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>843</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632012</barcode>
+      </offer>
+      <offer available="true" id="10308">
+        <url/>
+        <name>Флёр Альпин - каша Органик овсяная, 5 мес., 175/6</name>
+        <oldprice>0</oldprice>
+        <price>5429.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>843</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632036</barcode>
+      </offer>
+      <offer available="true" id="10309">
+        <url/>
+        <name>Флёр Альпин - каша Органик пшеничная (спельтовая), 5 мес., 175/6</name>
+        <oldprice>0</oldprice>
+        <price>6027.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>843</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632050 </barcode>
+      </offer>
+      <offer available="true" id="10310">
+        <url/>
+        <name>Флёр Альпин - каша Органик кукурузная с пребиотиками гипоаллергенная, 5 мес., 175/6</name>
+        <oldprice>0</oldprice>
+        <price>6027.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>843</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632074</barcode>
+      </offer>
+      <offer available="true" id="10311">
+        <url/>
+        <name>Флёр Альпин - каша Органик гречневая гипоаллергенная, 4 мес., 175/6</name>
+        <oldprice>0</oldprice>
+        <price>8870.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>843</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632098</barcode>
+      </offer>
+      <offer available="true" id="10312">
+        <url/>
+        <name>Флёр Альпин - каша Органик пшённая и смесь злаков, 6 мес., 175/6</name>
+        <oldprice>0</oldprice>
+        <price>6027.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>843</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632111</barcode>
+      </offer>
+      <offer available="true" id="10313">
+        <url/>
+        <name>Флёр Альпин - каша молочная Органик рисовая, 4 мес., 200/6</name>
+        <oldprice>0</oldprice>
+        <price>8270.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>912</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632159</barcode>
+      </offer>
+      <offer available="true" id="10314">
+        <url/>
+        <name>Флёр Альпин - каша молочная Органик гречневая с яблоком, 4 мес., 200/6</name>
+        <oldprice>0</oldprice>
+        <price>9156.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>912</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632173</barcode>
+      </offer>
+      <offer available="true" id="10315">
+        <url/>
+        <name>Флёр Альпин - каша молочная Органик овсяная с грушей, 5 мес., 200/6</name>
+        <oldprice>0</oldprice>
+        <price>7835.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>912</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632197</barcode>
+      </offer>
+      <offer available="true" id="10316">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик рисовая, 4 мес., 200/6</name>
+        <oldprice>0</oldprice>
+        <price>14033.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>917</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632210</barcode>
+      </offer>
+      <offer available="true" id="10317">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик гречневая, 4 мес., 200/6</name>
+        <oldprice>0</oldprice>
+        <price>11750.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>917</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632234</barcode>
+      </offer>
+      <offer available="true" id="10318">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик овсяная, 5 мес., 200/6</name>
+        <oldprice>0</oldprice>
+        <price>14619.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>917</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632258</barcode>
+      </offer>
+      <offer available="false" id="10736">
+        <url/>
+        <name>Беби Ситтер - НАБОР каша рисовая + подарок (ложка), 4 мес., 210/9</name>
+        <oldprice>0</oldprice>
+        <price>199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290000021065</barcode>
+      </offer>
+      <offer available="true" id="10661">
+        <url/>
+        <name>Флёр Альпин - каша молочная Органик &quot;Альпийский вечер&quot;, 6 мес., 200/6</name>
+        <oldprice>0</oldprice>
+        <price>8270.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>912</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303001689</barcode>
+      </offer>
+      <offer available="false" id="10695">
+        <url/>
+        <name>Беби Ситтер - НАБОР каша кукурузная + подарок (ложка), 5 мес., 210/9 </name>
+        <oldprice>0</oldprice>
+        <price>199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290000021058</barcode>
+      </offer>
+      <offer available="false" id="11290">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик рисовая + подарок (ложка), 4 мес., 200/4</name>
+        <oldprice>0</oldprice>
+        <price>349.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>936</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632210</barcode>
+      </offer>
+      <offer available="false" id="11291">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик пшеничная (спельтовая) + подарок (ложка), 5 мес., 200/4</name>
+        <oldprice>0</oldprice>
+        <price>343.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>936</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632272</barcode>
+      </offer>
+      <offer available="true" id="11567">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик пшеничная (спельтовая), 5 мес., 200/6</name>
+        <oldprice>0</oldprice>
+        <price>13919.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>917</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303002914</barcode>
+      </offer>
+      <offer available="true" id="11591">
+        <url/>
+        <name>Флёр Альпин - каша Органик пшенично-овсяная с кусочками банана и яблока, 10 мес, 175/6</name>
+        <oldprice>0</oldprice>
+        <price>7462.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>843</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303002778</barcode>
+      </offer>
+      <offer available="true" id="11592">
+        <url/>
+        <name>Флёр Альпин - каша молочная Органик пшенично-овсяная с кусочками груши и яблока, 10 мес, 200/6</name>
+        <oldprice>0</oldprice>
+        <price>7835.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>912</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303002754</barcode>
+      </offer>
+      <offer available="true" id="11593">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик кукурузная с пребиотиками, 5 мес, 200/6</name>
+        <oldprice>0</oldprice>
+        <price>13333.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>917</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303001641</barcode>
+      </offer>
+      <offer available="false" id="12394">
+        <url/>
+        <name>Флёр Альпин - каша Органик пшенично-овсяная с кусочками банана и яблока, 10 мес, 175/6 + подарок (книжка раскраска)</name>
+        <oldprice>0</oldprice>
+        <price>229.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>936</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303002778</barcode>
+      </offer>
+      <offer available="false" id="12450">
+        <url/>
+        <name>Флёр Альпин - каша молочная Органик пшенично-овсяная с кусочками груши и яблока + подарок (Сашет каша кукурузная на козьем молоке), 10 мес, 200/5</name>
+        <oldprice>0</oldprice>
+        <price>241.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>936</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303002754</barcode>
+      </offer>
+      <offer available="false" id="12682">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик кукурузная с пребиотиками + подарок (ложка), 5 мес, 200/4</name>
+        <oldprice>0</oldprice>
+        <price>349.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>936</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303001641</barcode>
+      </offer>
+      <offer available="true" id="12683">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик гречневая + подарок (ложка), 4 мес., 200/4</name>
+        <oldprice>0</oldprice>
+        <price>406.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>936</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632234</barcode>
+      </offer>
+      <offer available="false" id="12684">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик овсяная + подарок (ложка), 5 мес., 200/4</name>
+        <oldprice>0</oldprice>
+        <price>343.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>936</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632258</barcode>
+      </offer>
+      <offer available="true" id="13141">
+        <url/>
+        <name>Флёр Альпин - каша Органик пшеничная (спельтовая), 5 мес., 175/6</name>
+        <oldprice>0</oldprice>
+        <price>6027.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>843</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632050 </barcode>
+      </offer>
+      <offer available="true" id="13497">
+        <url/>
+        <name>Беби Ситтер - НАБОР каша злаковая + подарок (ложка), 6 мес., 210/6</name>
+        <oldprice>0</oldprice>
+        <price>199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290000021096</barcode>
+      </offer>
+      <offer available="true" id="13499">
+        <url/>
+        <name>Беби Ситтер - НАБОР каша ячменная + подарок (ложка), 4 мес., 210/6</name>
+        <oldprice>0</oldprice>
+        <price>199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290008289344</barcode>
+      </offer>
+      <offer available="true" id="13500">
+        <url/>
+        <name>Беби Ситтер - НАБОР каша пшённая со злаками + подарок (ложка), 6 мес., 210/6</name>
+        <oldprice>0</oldprice>
+        <price>199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7290008289597</barcode>
+      </offer>
+      <offer available="true" id="13154">
+        <url/>
+        <name>Флёр Альпин - каша Органик пшённая и смесь злаков, 6 мес., 175/6</name>
+        <oldprice>0</oldprice>
+        <price>6027.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>843</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4006303632111 </barcode>
+      </offer>
+      <offer available="false" id="12954">
+        <url/>
+        <name>Флёр Альпин - НАБОР печенье детское Органик &quot;Какао&quot; + подарок (салфетки), 9 мес., 150/4</name>
+        <oldprice>0</oldprice>
+        <price>191.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>938</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916941189</barcode>
+      </offer>
+      <offer available="false" id="12955">
+        <url/>
+        <name>Флёр Альпин - НАБОР печенье детское Органик &quot;Бельгийское с кусочками шоколада&quot; + подарок (салфетки), с 3-х лет, 150/4</name>
+        <oldprice>0</oldprice>
+        <price>191.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>938</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916941172</barcode>
+      </offer>
+      <offer available="false" id="12444">
+        <url/>
+        <name>Флёр Альпин - НАБОР печенье детское Органик &quot;Альпийское с пребиотиками&quot; + подарок (книжка раскраска Овощи) 6 мес., 150/6</name>
+        <oldprice>0</oldprice>
+        <price>180.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>938</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916940861</barcode>
+      </offer>
+      <offer available="false" id="12445">
+        <url/>
+        <name>Флёр Альпин - НАБОР печенье детское Органик &quot;Какао&quot; + подарок (книжка раскраска Фрукты), 9 мес., 150/6</name>
+        <oldprice>0</oldprice>
+        <price>191.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>938</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916941189</barcode>
+      </offer>
+      <offer available="false" id="12446">
+        <url/>
+        <name>Флёр Альпин - НАБОР печенье детское Органик &quot;Бельгийское с кусочками шоколада&quot; + подарок (книжка раскраска Ягоды), с 3-х лет, 150/6</name>
+        <oldprice>0</oldprice>
+        <price>191.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>938</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916941172</barcode>
+      </offer>
+      <offer available="false" id="11897">
+        <url/>
+        <name>Флёр Альпин - НАБОР печенье детское Органик &quot;Натуральное&quot;+ конвертик с 4-мя сашетами чая, 6 мес., 150/5</name>
+        <oldprice>0</oldprice>
+        <price>180.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>938</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916940823</barcode>
+      </offer>
+      <offer available="true" id="11899">
+        <url/>
+        <name>Флёр Альпин - НАБОР печенье детское Органик &quot;Какао&quot; + конвертик с 4-мя сашетами чая, 9 мес., 150/5</name>
+        <oldprice>0</oldprice>
+        <price>191.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>938</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916941189</barcode>
+      </offer>
+      <offer available="false" id="11900">
+        <url/>
+        <name>Флёр Альпин - НАБОР печенье детское Органик &quot;Бельгийское с кусоч. шоколада&quot; + конвертик с 4-мя сашетами чая, с 3-х лет, 150/5</name>
+        <oldprice>0</oldprice>
+        <price>191.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>938</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916941172</barcode>
+      </offer>
+      <offer available="true" id="11620">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;Натуральное&quot;, 6 мес., 150/6</name>
+        <oldprice>0</oldprice>
+        <price>5880.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>930</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916940823</barcode>
+      </offer>
+      <offer available="true" id="11621">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;С виноградным соком&quot;, 6 мес., 150/6</name>
+        <oldprice>0</oldprice>
+        <price>5880.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>930</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916940830</barcode>
+      </offer>
+      <offer available="true" id="11622">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;С яблочным соком&quot;, 6 мес., 150/6</name>
+        <oldprice>0</oldprice>
+        <price>5880.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>930</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916940854</barcode>
+      </offer>
+      <offer available="true" id="11623">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;Овсяное&quot;, 6 мес., 150/6</name>
+        <oldprice>0</oldprice>
+        <price>5880.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>930</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916940847</barcode>
+      </offer>
+      <offer available="true" id="11624">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;Альпийское с пребиотиками&quot;, 6 мес., 150/6</name>
+        <oldprice>0</oldprice>
+        <price>5880.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>930</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916940861</barcode>
+      </offer>
+      <offer available="true" id="11625">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;Французское&quot;, 8 мес., 150/8</name>
+        <oldprice>0</oldprice>
+        <price>6199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>930</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916940878</barcode>
+      </offer>
+      <offer available="true" id="11626">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;Яблочный мармелад&quot;, 18 мес., 150/6</name>
+        <oldprice>0</oldprice>
+        <price>6772.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>930</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916941165</barcode>
+      </offer>
+      <offer available="true" id="11627">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;Бельгийское с кусочками шоколада&quot;, с 3-х лет, 150/6</name>
+        <oldprice>0</oldprice>
+        <price>6199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>930</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916941172</barcode>
+      </offer>
+      <offer available="true" id="11628">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;Какао&quot;, 9 мес., 150/6</name>
+        <oldprice>0</oldprice>
+        <price>6199.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>930</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5412916941189</barcode>
+      </offer>
+      <offer available="true" id="11250">
+        <url/>
+        <name>Флер Альпин - масло детское оливковое Органик порционное, 6 мес, 10 мл., 12*30/360</name>
+        <oldprice>0</oldprice>
+        <price>648.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>919</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8000832705298</barcode>
+      </offer>
+      <offer available="true" id="10275">
+        <url/>
+        <name>Флёр Альпин - масло детское оливковое Органик, 6 мес., 250/12</name>
+        <oldprice>0</oldprice>
+        <price>11488.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>919</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8000832705007</barcode>
+      </offer>
+      <offer available="true" id="11496">
+        <url/>
+        <name>Флёр Альпин - масло детское оливковое Органик порционное ШОУБОКС, 6 мес., 1*300/12</name>
+        <oldprice>0</oldprice>
+        <price>19379.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>919</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8000832785290</barcode>
+      </offer>
+      <offer available="false" id="11964">
+        <url/>
+        <name>Флёр Альпин - НАБОР масло Органик детское оливковое + подарок (сашет масло), 6 мес., 250/12</name>
+        <oldprice>0</oldprice>
+        <price>11488.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>919</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8000832705007</barcode>
+      </offer>
+      <offer available="false" id="11916">
+        <url/>
+        <name>Флёр Альпин - пюре Органик манго (пауч), 6 мес., 90/48</name>
+        <oldprice>0</oldprice>
+        <price>2135.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001123</barcode>
+      </offer>
+      <offer available="true" id="11918">
+        <url/>
+        <name>Флёр Альпин - пюре Органик морковь (пауч), 4 мес., 90/6</name>
+        <oldprice>0</oldprice>
+        <price>2135.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001116</barcode>
+      </offer>
+      <offer available="true" id="11919">
+        <url/>
+        <name>Флёр Альпин - пюре Органик тыква (пауч), 5 мес., 90/6</name>
+        <oldprice>0</oldprice>
+        <price>2510.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001109</barcode>
+      </offer>
+      <offer available="true" id="11920">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-банан-йогурт (пауч), 6 мес., 120/6</name>
+        <oldprice>0</oldprice>
+        <price>2350.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1096</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001154</barcode>
+      </offer>
+      <offer available="true" id="11921">
+        <url/>
+        <name>Флёр Альпин - пюре Органик манго-персик-яблоко-йогурт (пауч), 6 мес., 120/6</name>
+        <oldprice>0</oldprice>
+        <price>2350.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1096</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001147</barcode>
+      </offer>
+      <offer available="true" id="11922">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-банан-черника-йогурт (пауч), 6 мес., 120/6</name>
+        <oldprice>0</oldprice>
+        <price>2350.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1096</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001161</barcode>
+      </offer>
+      <offer available="true" id="12243">
+        <url/>
+        <name>Флёр Альпин - пюре Органик манго (пауч), 6 мес., 90/6</name>
+        <oldprice>0</oldprice>
+        <price>2135.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001123</barcode>
+      </offer>
+      <offer available="true" id="12244">
+        <url/>
+        <name>Флёр Альпин - пюре Органик чернослив (пауч), 4 мес., 90/6</name>
+        <oldprice>0</oldprice>
+        <price>2339.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001031</barcode>
+      </offer>
+      <offer available="true" id="12245">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-чернослив (пауч), 5 мес., 90/6</name>
+        <oldprice>0</oldprice>
+        <price>2135.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001048</barcode>
+      </offer>
+      <offer available="true" id="12271">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-пастернак (пауч), 6 мес., 120/6</name>
+        <oldprice>0</oldprice>
+        <price>2358.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>963</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001062</barcode>
+      </offer>
+      <offer available="true" id="12272">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-морковь-пастернак (пауч), 6 мес., 120/6</name>
+        <oldprice>0</oldprice>
+        <price>2358.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>963</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001079</barcode>
+      </offer>
+      <offer available="true" id="12299">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-черника (пауч), 5 мес., 90/6</name>
+        <oldprice>0</oldprice>
+        <price>2435.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001130</barcode>
+      </offer>
+      <offer available="true" id="12312">
+        <url/>
+        <name>Флёр Альпин - пюре Органик груша (пауч), 4 мес., 90/6</name>
+        <oldprice>0</oldprice>
+        <price>2135.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001024</barcode>
+      </offer>
+      <offer available="true" id="12358">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-груша-банан (пауч), 6 мес., 120/6</name>
+        <oldprice>0</oldprice>
+        <price>2358.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>963</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001086</barcode>
+      </offer>
+      <offer available="true" id="12359">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-шиповник (пауч), 5 мес., 90/6</name>
+        <oldprice>0</oldprice>
+        <price>2135.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001055</barcode>
+      </offer>
+      <offer available="false" id="10284">
+        <url/>
+        <name>Флёр Альпин - пюре Органик груша (пауч), 4 мес., 90/48</name>
+        <oldprice>0</oldprice>
+        <price>2135.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001024</barcode>
+      </offer>
+      <offer available="false" id="10287">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-шиповник (пауч), 5 мес., 90/48</name>
+        <oldprice>0</oldprice>
+        <price>1941.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001055</barcode>
+      </offer>
+      <offer available="false" id="10288">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-пастернак (пауч), 6 мес., 120/48</name>
+        <oldprice>0</oldprice>
+        <price>2358.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>963</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001062</barcode>
+      </offer>
+      <offer available="true" id="10289">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-морковь-пастернак (пауч), 6 мес., 120/48</name>
+        <oldprice>0</oldprice>
+        <price>2358.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>963</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001079</barcode>
+      </offer>
+      <offer available="false" id="10290">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-груша-банан (пауч), 6 мес., 120/48</name>
+        <oldprice>0</oldprice>
+        <price>2358.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>963</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001086</barcode>
+      </offer>
+      <offer available="true" id="11146">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко (пауч), 4 мес., 90/48</name>
+        <oldprice>0</oldprice>
+        <price>2135.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001017</barcode>
+      </offer>
+      <offer available="true" id="11147">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-чернослив (пауч), 5 мес., 90/48</name>
+        <oldprice>0</oldprice>
+        <price>2135.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001048</barcode>
+      </offer>
+      <offer available="true" id="11204">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-банан-ч/смородина-черника (пауч), 6 мес., 120/6</name>
+        <oldprice>0</oldprice>
+        <price>2402.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>963</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001093</barcode>
+      </offer>
+      <offer available="true" id="11213">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко (пауч), 4 мес., 90/6</name>
+        <oldprice>0</oldprice>
+        <price>2135.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001017</barcode>
+      </offer>
+      <offer available="false" id="12987">
+        <url/>
+        <name>Флёр Альпин - НАБОР пюре Органик яблоко-банан-йогурт (пауч), 6 мес., 120/6 + подарок (салфетки)</name>
+        <oldprice>0</oldprice>
+        <price>71.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001154</barcode>
+      </offer>
+      <offer available="true" id="12988">
+        <url/>
+        <name>Флёр Альпин - НАБОР пюре Органик манго-персик-яблоко-йогурт (пауч), 6 мес., 120/6 + подарок (салфетки)</name>
+        <oldprice>0</oldprice>
+        <price>71.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001147</barcode>
+      </offer>
+      <offer available="true" id="12989">
+        <url/>
+        <name>Флёр Альпин - НАБОР пюре Органик яблоко-банан-черника-йогурт (пауч), 6 мес., 120/6 + подарок (салфетки)</name>
+        <oldprice>0</oldprice>
+        <price>71.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001161</barcode>
+      </offer>
+      <offer available="false" id="13120">
+        <url/>
+        <name>Флёр Альпин - НАБОР пюре Органик яблоко-банан-йогурт (пауч) + пюре Органик яблоко-банан-йогурт (пауч), 6 мес., 120/3</name>
+        <oldprice>0</oldprice>
+        <price>142.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688201080</barcode>
+      </offer>
+      <offer available="false" id="13121">
+        <url/>
+        <name>Флёр Альпин - НАБОР пюре Органик манго-персик-яблоко-йогурт (пауч) + пюре Органик манго-персик-яблоко-йогурт (пауч), 6 мес., 120/3</name>
+        <oldprice>0</oldprice>
+        <price>142.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688201073</barcode>
+      </offer>
+      <offer available="false" id="13122">
+        <url/>
+        <name>Флёр Альпин - НАБОР пюре Органик яблоко-банан-черника-йогурт (пауч) + пюре Органик яблоко-банан-черника-йогурт (пауч), 6 мес., 120/3</name>
+        <oldprice>0</oldprice>
+        <price>142.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688201134</barcode>
+      </offer>
+      <offer available="false" id="13123">
+        <url/>
+        <name>Флёр Альпин - НАБОР пюре Органик яблоко (пауч) + пюре Органик яблоко (пауч), 4 мес., 90/3</name>
+        <oldprice>0</oldprice>
+        <price>133.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688201011</barcode>
+      </offer>
+      <offer available="false" id="13124">
+        <url/>
+        <name>Флёр Альпин - НАБОР пюре Органик груша (пауч) + пюре Органик груша (пауч), 4 мес., 90/3</name>
+        <oldprice>0</oldprice>
+        <price>0.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688201028</barcode>
+      </offer>
+      <offer available="true" id="13125">
+        <url/>
+        <name>Флёр Альпин - НАБОР пюре Органик тыква (пауч), 5 мес., 90/6 + подарок (сашет масла)</name>
+        <oldprice>0</oldprice>
+        <price>78.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001109</barcode>
+      </offer>
+      <offer available="true" id="13128">
+        <url/>
+        <name>Флёр Альпин - АКЦИЯ пюре Органик яблоко-банан-йогурт (пауч), 6 мес., 120/6</name>
+        <oldprice>0</oldprice>
+        <price>1175.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1096</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001154</barcode>
+      </offer>
+      <offer available="true" id="13129">
+        <url/>
+        <name>Флёр Альпин - АКЦИЯ пюре Органик манго-персик-яблоко-йогурт (пауч), 6 мес., 120/6</name>
+        <oldprice>0</oldprice>
+        <price>1175.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1096</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001147</barcode>
+      </offer>
+      <offer available="true" id="13130">
+        <url/>
+        <name>Флёр Альпин - АКЦИЯ пюре Органик яблоко-банан-черника-йогурт (пауч), 6 мес., 120/6</name>
+        <oldprice>0</oldprice>
+        <price>1175.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1096</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001161</barcode>
+      </offer>
+      <offer available="true" id="13135">
+        <url/>
+        <name>Флёр Альпин - АКЦИЯ пюре Органик яблоко-черника (пауч), 5 мес., 90/6</name>
+        <oldprice>0</oldprice>
+        <price>1181.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001130</barcode>
+      </offer>
+      <offer available="true" id="12928">
+        <url/>
+        <name>Флёр Альпин - АКЦИЯ пюре Органик яблоко (пауч), 4 мес., 90/48</name>
+        <oldprice>0</oldprice>
+        <price>1068.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001017</barcode>
+      </offer>
+      <offer available="true" id="12929">
+        <url/>
+        <name>Флёр Альпин - АКЦИЯ пюре Органик яблоко (пауч), 4 мес., 90/6</name>
+        <oldprice>0</oldprice>
+        <price>1068.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001017</barcode>
+      </offer>
+      <offer available="false" id="12930">
+        <url/>
+        <name>Флёр Альпин - АКЦИЯ пюре Органик груша (пауч), 4 мес., 90/48</name>
+        <oldprice>0</oldprice>
+        <price>971.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001024</barcode>
+      </offer>
+      <offer available="false" id="12931">
+        <url/>
+        <name>Флёр Альпин - АКЦИЯ пюре Органик груша (пауч), 4 мес., 90/6</name>
+        <oldprice>0</oldprice>
+        <price>1068.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001024</barcode>
+      </offer>
+      <offer available="true" id="12678">
+        <url/>
+        <name>Флёр Альпин - НАБОР пюре Органик морковь (пауч), 4 мес., 90/6 + подарок (сашет масла)</name>
+        <oldprice>0</oldprice>
+        <price>66.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001116</barcode>
+      </offer>
+      <offer available="false" id="12844">
+        <url/>
+        <name>Флёр Альпин - НАБОР пюре Органик яблоко-черника (пауч), 5 мес., 90/6 + подарок (2 сашета чая и мини-листовка)</name>
+        <oldprice>0</oldprice>
+        <price>73.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001130</barcode>
+      </offer>
+      <offer available="false" id="12845">
+        <url/>
+        <name>Флёр Альпин - НАБОР пюре Органик яблоко-шиповник (пауч), 5 мес., 90/6 + подарок (2 сашета чая и мини-листовка)</name>
+        <oldprice>0</oldprice>
+        <price>66.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001055</barcode>
+      </offer>
+      <offer available="false" id="12472">
+        <url/>
+        <name>Флёр Альпин - НАБОР пюре Органик яблоко-пастернак  (пауч) + пюре Органик яблоко-пастернак (пауч), 6 мес., 120/3 + подарок (ложка)</name>
+        <oldprice>0</oldprice>
+        <price>121.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005145</barcode>
+      </offer>
+      <offer available="false" id="12473">
+        <url/>
+        <name>Флёр Альпин - НАБОР пюре Органик яблоко-морковь-пастернак (пауч) + пюре Органик яблоко-морковь-пастернак (пауч), 6 мес., 120/3 + подарок (ложка)</name>
+        <oldprice>0</oldprice>
+        <price>121.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005152</barcode>
+      </offer>
+      <offer available="false" id="13157">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-черника (пауч) + яблоко-черника (пауч) , 5 мес., 90/3</name>
+        <oldprice>0</oldprice>
+        <price>0.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>932</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688201134</barcode>
+      </offer>
+      <offer available="true" id="13613">
+        <url/>
+        <name>Флёр Альпин - АКЦИЯ пюре Органик морковь (пауч), 4 мес., 90/6</name>
+        <oldprice>0</oldprice>
+        <price>0.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>921</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688001116</barcode>
+      </offer>
+      <offer available="true" id="10320">
+        <url/>
+        <name>Флёр Альпин - сок Органик яблоко освет., 4 мес., 200/8</name>
+        <oldprice>0</oldprice>
+        <price>2514.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>792</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8717903002582</barcode>
+      </offer>
+      <offer available="true" id="10324">
+        <url/>
+        <name>Флёр Альпин - сок Органик груша освет., 4 мес., 200/8</name>
+        <oldprice>0</oldprice>
+        <price>2514.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>792</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8717903002667</barcode>
+      </offer>
+      <offer available="true" id="10270">
+        <url/>
+        <name>Флёр Альпин - сок Органик яблоко-шиповник, 5 мес., 200/8</name>
+        <oldprice>0</oldprice>
+        <price>2710.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>792</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8717903004067</barcode>
+      </offer>
+      <offer available="true" id="10272">
+        <url/>
+        <name>Флёр Альпин - сок Органик яблоко-гранат, 8 мес., 200/8</name>
+        <oldprice>0</oldprice>
+        <price>2710.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>792</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8717903004104</barcode>
+      </offer>
+      <offer available="true" id="10273">
+        <url/>
+        <name>Флёр Альпин - сок Органик гранат, с 3-х лет, 200/8</name>
+        <oldprice>0</oldprice>
+        <price>3062.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>792</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8717903004128</barcode>
+      </offer>
+      <offer available="false" id="9497">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Черника и шиповник&quot;, 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>5837.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158003592</barcode>
+      </offer>
+      <offer available="false" id="5712">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Ромашка&quot;, 1 мес., 20/8</name>
+        <oldprice>0</oldprice>
+        <price>6013.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158001468</barcode>
+      </offer>
+      <offer available="false" id="10412">
+        <url/>
+        <name>Флёр Альпин - НАБОР чай травяной Органик &quot;Фенхель&quot; +  подарок (книжка-сэмпл), 1 мес., 30/6</name>
+        <oldprice>0</oldprice>
+        <price>171.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>934</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325007</barcode>
+      </offer>
+      <offer available="false" id="10437">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Шиповник и чёрная смородина&quot;, 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>7422.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325014</barcode>
+      </offer>
+      <offer available="true" id="10438">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Ромашка&quot;, 1 мес., 20/8</name>
+        <oldprice>0</oldprice>
+        <price>7645.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325038</barcode>
+      </offer>
+      <offer available="true" id="10439">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Альпийский вечер&quot;, 4 мес., 20/8</name>
+        <oldprice>0</oldprice>
+        <price>7645.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325045</barcode>
+      </offer>
+      <offer available="true" id="10440">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Лесной сбор с пребиотиками&quot;, 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>7422.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325052</barcode>
+      </offer>
+      <offer available="true" id="10698">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Черника и шиповник&quot;, 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>7835.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325076</barcode>
+      </offer>
+      <offer available="true" id="11629">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Для кормящих матерей&quot;, 30/8</name>
+        <oldprice>0</oldprice>
+        <price>7631.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325021</barcode>
+      </offer>
+      <offer available="false" id="11630">
+        <url/>
+        <name>Флёр Альпин - НАБОР чай травяной Органик &quot;Для кормящих матерей&quot; + подарок (вкладыши для груди Pigeon), 30/6</name>
+        <oldprice>0</oldprice>
+        <price>212.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>934</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325021</barcode>
+      </offer>
+      <offer available="true" id="11605">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Ягодно-фруктовый с липовым цветом&quot;, 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>7422.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325304</barcode>
+      </offer>
+      <offer available="false" id="12460">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Черника и шиповник&quot; юбилейный, 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>7847.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325397</barcode>
+      </offer>
+      <offer available="true" id="12461">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Шиповник и чёрная смородина&quot; юбилейный, 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>7422.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325342</barcode>
+      </offer>
+      <offer available="true" id="12462">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Фенхель&quot; юбилейный, 1 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>7117.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325335</barcode>
+      </offer>
+      <offer available="false" id="12463">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Ромашка&quot; юбилейный, 1 мес., 20/8</name>
+        <oldprice>0</oldprice>
+        <price>7645.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325366</barcode>
+      </offer>
+      <offer available="true" id="12464">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Альпийский вечер&quot; юбилейный, 4 мес., 20/8</name>
+        <oldprice>0</oldprice>
+        <price>7645.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325373</barcode>
+      </offer>
+      <offer available="true" id="12465">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Ягодно-фруктовый с липовым цветом&quot; юбилейный, 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>7422.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325403</barcode>
+      </offer>
+      <offer available="false" id="12466">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Лесной сбор с пребиотиками&quot; юбилейный, 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>7422.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325380</barcode>
+      </offer>
+      <offer available="false" id="12467">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Для кормящих матерей&quot; юбилейный, 30/8 </name>
+        <oldprice>0</oldprice>
+        <price>7617.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325359</barcode>
+      </offer>
+      <offer available="true" id="10640">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Фенхель&quot;, 1 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>7145.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>591</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325007</barcode>
+      </offer>
+      <offer available="false" id="11638">
+        <url/>
+        <name>Флёр Альпин - НАБОР чай травяной Органик &quot;Ромашка&quot;+  подарок (ложка), 1 мес., 20/6</name>
+        <oldprice>0</oldprice>
+        <price>234.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>934</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325038</barcode>
+      </offer>
+      <offer available="true" id="12557">
+        <url/>
+        <name>Флёр Альпин - чай травяной Органик &quot;Фенхель&quot; + подарок (3 сашета чая для мам + мини листовка), 1 мес.30/8</name>
+        <oldprice>0</oldprice>
+        <price>218.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>934</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325007</barcode>
+      </offer>
+      <offer available="false" id="12893">
+        <url/>
+        <name>Флёр Альпин - НАБОР чай травяной Органик &quot;Ромашка&quot;+  подарок (сашет каша Рисовая), 1 мес., 20/8</name>
+        <oldprice>0</oldprice>
+        <price>234.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>934</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325038</barcode>
+      </offer>
+      <offer available="false" id="12894">
+        <url/>
+        <name>Флёр Альпин - НАБОР чай травяной Органик &quot;Альпийский вечер&quot; юбилейный + подарок (сашет каша Альпийский вечер), 4 мес., 20/8</name>
+        <oldprice>0</oldprice>
+        <price>234.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>934</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325373</barcode>
+      </offer>
+      <offer available="true" id="12771">
+        <url/>
+        <name>Флёр Альпин - НАБОР чай травяной Органик &quot;Для кормящих матерей&quot; юбилейный + подарок (вкладыши для груди Pigeon), 30/8</name>
+        <oldprice>0</oldprice>
+        <price>233.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>934</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325359</barcode>
+      </offer>
+      <offer available="false" id="12320">
+        <url/>
+        <name>Флёр Альпин - НАБОР чай травяной Органик &quot;Лесной сбор с пребиот.&quot;+ подарок (книжка раскраска Овощи), 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>227.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>934</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325052</barcode>
+      </offer>
+      <offer available="false" id="12322">
+        <url/>
+        <name>Флёр Альпин - НАБОР чай травяной Органик &quot;Ягодно-фруктовый с липовым цветом&quot; + подарок (книжка раскраска Ягоды), 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>227.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>934</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325304</barcode>
+      </offer>
+      <offer available="true" id="12328">
+        <url/>
+        <name>Флёр Альпин - НАБОР чай травяной Органик &quot;Для кормящих матерей&quot; + подарок (вкладыши для груди Pigeon), 30/8</name>
+        <oldprice>0</oldprice>
+        <price>233.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>934</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325021</barcode>
+      </offer>
+      <offer available="true" id="13142">
+        <url/>
+        <name>Флёр Альпин - НАБОР чай травяной Органик &quot;Шиповник и чёрная смородина&quot; юбилейный + подарок (4 сашета чая), 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>227.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>934</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325342</barcode>
+      </offer>
+      <offer available="true" id="13143">
+        <url/>
+        <name>Флёр Альпин - НАБОР чай травяной Органик &quot;Черника и шиповник&quot; + подарок (4 сашета чая), 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>240.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>934</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325076</barcode>
+      </offer>
+      <offer available="true" id="13144">
+        <url/>
+        <name>Флёр Альпин - НАБОР чай травяной Органик &quot;Ягодно-фруктовый с липовым цветом&quot; юбилейный + подарок (4 сашета чая), 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>227.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>934</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325403</barcode>
+      </offer>
+      <offer available="true" id="13145">
+        <url/>
+        <name>Флёр Альпин - НАБОР чай травяной Органик &quot;Лесной сбор с пребиотиками&quot; + подарок (4 сашета чая), 5 мес., 30/8</name>
+        <oldprice>0</oldprice>
+        <price>227.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>934</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8594003325052</barcode>
+      </offer>
+      <offer available="true" id="11631">
+        <url/>
+        <name>Флёр Альпин - вода детская питьевая с рождения 0,5л/12</name>
+        <oldprice>0</oldprice>
+        <price>2190.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>898</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>9120008380827</barcode>
+      </offer>
+      <offer available="true" id="11632">
+        <url/>
+        <name>Флёр Альпин - вода детская питьевая с рождения 1л/6</name>
+        <oldprice>0</oldprice>
+        <price>5305.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>898</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>9120008380810</barcode>
+      </offer>
+      <offer available="true" id="11633">
+        <url/>
+        <name>Флёр Альпин - вода детская питьевая с рождения 0,25л/12</name>
+        <oldprice>0</oldprice>
+        <price>1939.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>898</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>9120008380858</barcode>
+      </offer>
+      <offer available="true" id="11735">
+        <url/>
+        <name>Флёр Альпин - сушки итальянские Органик &quot;Таралли&quot;, 125/20</name>
+        <oldprice>0</oldprice>
+        <price>4518.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>768</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8000832705038</barcode>
+      </offer>
+      <offer available="true" id="12895">
+        <url/>
+        <name>Флёр Альпин - сушки итальянские Органик &quot;Таралли с фенхелем&quot;, 125/20</name>
+        <oldprice>0</oldprice>
+        <price>4518.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>768</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8000832705045</barcode>
+      </offer>
+      <offer available="false" id="12559">
+        <url/>
+        <name>Флёр Альпин - НАБОР паста Органик &quot;Звездочки&quot; (Стеллини) + подарок (ложка) 250/24</name>
+        <oldprice>0</oldprice>
+        <price>54.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1081</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8007290000064</barcode>
+      </offer>
+      <offer available="false" id="12560">
+        <url/>
+        <name>Флёр Альпин - НАБОР паста Органик &quot;Мини Трубочки&quot; (Диталини Ригати) + подарок (вилка) 500/20</name>
+        <oldprice>0</oldprice>
+        <price>98.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1081</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8007290000057</barcode>
+      </offer>
+      <offer available="true" id="12561">
+        <url/>
+        <name>Флёр Альпин - НАБОР паста Органик &quot;Спагетти&quot; + подарок (вилка) 500/20</name>
+        <oldprice>0</oldprice>
+        <price>98.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1081</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8007290000040</barcode>
+      </offer>
+      <offer available="true" id="11925">
+        <url/>
+        <name>Флёр Альпин - паста Органик &quot;Звездочки&quot; (Стеллини), 250/24</name>
+        <oldprice>0</oldprice>
+        <price>2646.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1037</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8007290000064</barcode>
+      </offer>
+      <offer available="true" id="11926">
+        <url/>
+        <name>Флёр Альпин - паста Органик &quot;Мини Трубочки&quot; (Диталини Ригати), 500/20</name>
+        <oldprice>0</oldprice>
+        <price>4865.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1037</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8007290000057</barcode>
+      </offer>
+      <offer available="true" id="11927">
+        <url/>
+        <name>Флёр Альпин - паста Органик &quot;Спагетти&quot;, 500/20</name>
+        <oldprice>0</oldprice>
+        <price>4865.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1037</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>8007290000040</barcode>
+      </offer>
+      <offer available="true" id="12680">
+        <url/>
+        <name>Флёр Альпин - батончик детский Органик Овсяный с яблоком и абрикосом, с 3-х лет, 23 гр., 16*10/160</name>
+        <oldprice>0</oldprice>
+        <price>1633.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1087</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7610121611158</barcode>
+      </offer>
+      <offer available="true" id="12681">
+        <url/>
+        <name>Флёр Альпин - батончик детский Органик Овсяный с яблоком, черникой и бананом, с 3-х лет, 23 гр., 16*10/160</name>
+        <oldprice>0</oldprice>
+        <price>1633.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1087</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>7610121611165</barcode>
+      </offer>
+      <offer available="false" id="12528">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-банан-йогурт (пауч), 6 мес., 120/6</name>
+        <oldprice>0</oldprice>
+        <price>427.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101151</barcode>
+      </offer>
+      <offer available="false" id="12529">
+        <url/>
+        <name>Флёр Альпин - пюре Органик манго-персик-яблоко-йогурт (пауч), 6 мес., 120/6</name>
+        <oldprice>0</oldprice>
+        <price>427.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101144</barcode>
+      </offer>
+      <offer available="false" id="12530">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-банан-черника-йогурт (пауч), 6 мес., 120/6</name>
+        <oldprice>0</oldprice>
+        <price>427.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101168</barcode>
+      </offer>
+      <offer available="false" id="12924">
+        <url/>
+        <name>Флёр Альпин - каша Органик пшеничная (спельтовая), 5 мес., 175*2</name>
+        <oldprice>0</oldprice>
+        <price>0.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode/>
+      </offer>
+      <offer available="false" id="12925">
+        <url/>
+        <name>Флёр Альпин - каша Органик три злака, 6 мес., 175*2</name>
+        <oldprice>0</oldprice>
+        <price>0.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode/>
+      </offer>
+      <offer available="false" id="12926">
+        <url/>
+        <name>Флёр Альпин - каша Органик пшенично-овсяная с кусочками банана и яблока, 10 мес, 175*2</name>
+        <oldprice>0</oldprice>
+        <price>0.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode/>
+      </offer>
+      <offer available="false" id="12927">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик пшеничная (спельтовая), 5 мес., 200*2</name>
+        <oldprice>0</oldprice>
+        <price>0.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode/>
+      </offer>
+      <offer available="false" id="12949">
+        <url/>
+        <name>Флёр Альпин - паста Органик &quot;Мини Трубочки&quot; (Диталини Ригати), 500*3</name>
+        <oldprice>0</oldprice>
+        <price>295.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1100</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>18007290002058</barcode>
+      </offer>
+      <offer available="false" id="12950">
+        <url/>
+        <name>Флёр Альпин - паста Органик &quot;Спагетти&quot;, 500*3</name>
+        <oldprice>0</oldprice>
+        <price>295.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1100</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>18007290002041</barcode>
+      </offer>
+      <offer available="false" id="12596">
+        <url/>
+        <name>Флёр Альпин - каша Органик пшённая и смесь злаков, 6 мес., 175*2</name>
+        <oldprice>0</oldprice>
+        <price>369.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005183</barcode>
+      </offer>
+      <offer available="false" id="12599">
+        <url/>
+        <name>Флёр Альпин - каша молочная Органик рисовая, 4 мес., 200*2</name>
+        <oldprice>0</oldprice>
+        <price>457.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005176</barcode>
+      </offer>
+      <offer available="false" id="12602">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик кукурузная с пребиотиками, 5 мес, 200*2</name>
+        <oldprice>0</oldprice>
+        <price>698.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005190</barcode>
+      </offer>
+      <offer available="false" id="12604">
+        <url/>
+        <name>Беби Ситтер - кашка - кисель кукурузная, 5 мес., 200/2</name>
+        <oldprice>0</oldprice>
+        <price>398.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1084</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>17290000021055</barcode>
+      </offer>
+      <offer available="false" id="12610">
+        <url/>
+        <name>Беби Ситтер - каша гречневая, 4 мес., 200/2</name>
+        <oldprice>0</oldprice>
+        <price>475.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1084</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>17290000021109</barcode>
+      </offer>
+      <offer available="false" id="12612">
+        <url/>
+        <name>Беби Ситтер - каша злаковая, 6 мес., 200/2</name>
+        <oldprice>0</oldprice>
+        <price>398.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1084</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>17290000021093</barcode>
+      </offer>
+      <offer available="false" id="12615">
+        <url/>
+        <name>Беби Ситтер - каша рисовая, 4 мес., 200/2</name>
+        <oldprice>0</oldprice>
+        <price>398.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1084</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>17290000021062</barcode>
+      </offer>
+      <offer available="false" id="12617">
+        <url/>
+        <name>Беби Ситтер - каша овсяная, 5 мес., 200/2</name>
+        <oldprice>0</oldprice>
+        <price>398.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1084</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>17290000021086</barcode>
+      </offer>
+      <offer available="false" id="12619">
+        <url/>
+        <name>Беби Ситтер - каша ячменная, 4 мес., 200/2</name>
+        <oldprice>0</oldprice>
+        <price>398.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1084</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>17290008289341</barcode>
+      </offer>
+      <offer available="false" id="12621">
+        <url/>
+        <name>Беби Ситтер - каша пшённая со злаками, 6 мес., 200/2</name>
+        <oldprice>0</oldprice>
+        <price>398.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1084</categoryId>
+        <picture/>
+        <vendor>&quot;Бэби Ситтер&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>17290008289594</barcode>
+      </offer>
+      <offer available="false" id="12643">
+        <url/>
+        <name>Флёр Альпин - каша Органик гречневая гипоаллергенная, 4 мес., 175*2</name>
+        <oldprice>0</oldprice>
+        <price>494.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005183</barcode>
+      </offer>
+      <offer available="false" id="12644">
+        <url/>
+        <name>Флёр Альпин - каша Органик рисовая гипоаллергенная, 4 мес., 175*2</name>
+        <oldprice>0</oldprice>
+        <price>369.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005237</barcode>
+      </offer>
+      <offer available="false" id="12645">
+        <url/>
+        <name>Флёр Альпин - каша Органик овсяная, 5 мес., 175*2</name>
+        <oldprice>0</oldprice>
+        <price>335.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005213</barcode>
+      </offer>
+      <offer available="false" id="12646">
+        <url/>
+        <name>Флёр Альпин - каша Органик кукурузная с пребиотиками гипоаллергенная, 5 мес., 175*2</name>
+        <oldprice>0</oldprice>
+        <price>369.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005220</barcode>
+      </offer>
+      <offer available="false" id="12647">
+        <url/>
+        <name>Флёр Альпин - каша молочная Органик гречневая с яблоком, 4 мес., 200*2</name>
+        <oldprice>0</oldprice>
+        <price>563.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005244</barcode>
+      </offer>
+      <offer available="false" id="12648">
+        <url/>
+        <name>Флёр Альпин - каша молочная Органик &quot;Альпийский вечер&quot;, 6 мес., 200*2</name>
+        <oldprice>0</oldprice>
+        <price>457.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005206</barcode>
+      </offer>
+      <offer available="false" id="12649">
+        <url/>
+        <name>Флёр Альпин - каша молочная Органик овсяная с грушей, 5 мес., 200*2</name>
+        <oldprice>0</oldprice>
+        <price>482.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005251</barcode>
+      </offer>
+      <offer available="false" id="12650">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик рисовая, 4 мес., 200*2</name>
+        <oldprice>0</oldprice>
+        <price>698.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005268</barcode>
+      </offer>
+      <offer available="false" id="12651">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик гречневая, 4 мес., 200*2</name>
+        <oldprice>0</oldprice>
+        <price>811.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005275</barcode>
+      </offer>
+      <offer available="false" id="12652">
+        <url/>
+        <name>Флёр Альпин - каша на козьем молоке Органик овсяная, 5 мес., 200*2</name>
+        <oldprice>0</oldprice>
+        <price>686.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1066</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005282</barcode>
+      </offer>
+      <offer available="false" id="12762">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;Натуральное&quot;, 6 мес., 150*2</name>
+        <oldprice>0</oldprice>
+        <price>360.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1092</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005329</barcode>
+      </offer>
+      <offer available="false" id="12763">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;С виноградным соком&quot;, 6 мес., 150*2</name>
+        <oldprice>0</oldprice>
+        <price>360.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1092</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005336</barcode>
+      </offer>
+      <offer available="false" id="12764">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;С яблочным соком&quot;, 6 мес., 150*2</name>
+        <oldprice>0</oldprice>
+        <price>360.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1092</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005343</barcode>
+      </offer>
+      <offer available="false" id="12765">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;Овсяное&quot;, 6 мес., 150*2</name>
+        <oldprice>0</oldprice>
+        <price>360.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1092</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005350</barcode>
+      </offer>
+      <offer available="false" id="12766">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;Альпийское с пребиотиками&quot;, 6 мес., 150*2</name>
+        <oldprice>0</oldprice>
+        <price>360.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1092</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005367</barcode>
+      </offer>
+      <offer available="false" id="12767">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;Французское&quot;, 8 мес., 150*2</name>
+        <oldprice>0</oldprice>
+        <price>382.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1092</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005374</barcode>
+      </offer>
+      <offer available="false" id="12768">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;Бельгийское с кусочками шоколада&quot;, с 3-х лет, 150*2</name>
+        <oldprice>0</oldprice>
+        <price>382.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1092</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005305</barcode>
+      </offer>
+      <offer available="false" id="12769">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;Какао&quot;, 9 мес., 150*2</name>
+        <oldprice>0</oldprice>
+        <price>382.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1092</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005312</barcode>
+      </offer>
+      <offer available="false" id="12770">
+        <url/>
+        <name>Флёр Альпин - печенье детское Органик &quot;Яблочный мармелад&quot;, 18 мес., 150*2</name>
+        <oldprice>0</oldprice>
+        <price>413.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1092</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>4607158005299</barcode>
+      </offer>
+      <offer available="false" id="12104">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко (пауч), 4 мес., 90*6</name>
+        <oldprice>0</oldprice>
+        <price>398.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101014</barcode>
+      </offer>
+      <offer available="false" id="12105">
+        <url/>
+        <name>Флёр Альпин - пюре Органик груша (пауч), 4 мес., 90*6</name>
+        <oldprice>0</oldprice>
+        <price>398.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101021</barcode>
+      </offer>
+      <offer available="false" id="12106">
+        <url/>
+        <name>Флёр Альпин - пюре Органик чернослив (пауч), 4 мес., 90*6</name>
+        <oldprice>0</oldprice>
+        <price>434.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101038</barcode>
+      </offer>
+      <offer available="false" id="12107">
+        <url/>
+        <name>Флёр Альпин - пюре Органик манго (пауч), 6 мес., 90*6</name>
+        <oldprice>0</oldprice>
+        <price>398.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101120</barcode>
+      </offer>
+      <offer available="false" id="12108">
+        <url/>
+        <name>Флёр Альпин - пюре Органик морковь (пауч), 4 мес., 90*6</name>
+        <oldprice>0</oldprice>
+        <price>398.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101113</barcode>
+      </offer>
+      <offer available="false" id="12109">
+        <url/>
+        <name>Флёр Альпин - пюре Органик тыква (пауч), 5 мес., 90*6</name>
+        <oldprice>0</oldprice>
+        <price>466.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101106</barcode>
+      </offer>
+      <offer available="false" id="12110">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-черника (пауч), 5 мес., 90*6</name>
+        <oldprice>0</oldprice>
+        <price>440.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101137</barcode>
+      </offer>
+      <offer available="false" id="12111">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-чернослив (пауч), 5 мес., 90*6</name>
+        <oldprice>0</oldprice>
+        <price>398.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101045 </barcode>
+      </offer>
+      <offer available="false" id="12112">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-шиповник (пауч), 5 мес., 90*6</name>
+        <oldprice>0</oldprice>
+        <price>398.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101052 </barcode>
+      </offer>
+      <offer available="false" id="12113">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-пастернак (пауч), 6 мес., 120*6</name>
+        <oldprice>0</oldprice>
+        <price>427.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101069 </barcode>
+      </offer>
+      <offer available="false" id="12114">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-морковь-пастернак (пауч), 6 мес., 120*6</name>
+        <oldprice>0</oldprice>
+        <price>427.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101076</barcode>
+      </offer>
+      <offer available="false" id="12115">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-груша-банан (пауч), 6 мес., 120*6</name>
+        <oldprice>0</oldprice>
+        <price>427.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101083</barcode>
+      </offer>
+      <offer available="false" id="12116">
+        <url/>
+        <name>Флёр Альпин - пюре Органик яблоко-банан-ч/смородина-черника (пауч), 6 мес., 120*6</name>
+        <oldprice>0</oldprice>
+        <price>442.0000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1049</categoryId>
+        <picture/>
+        <vendor>&quot;Флёр Альпин&quot;</vendor>
+        <vendorcode/>
+        <model/>
+        <description>.</description>
+        <barcode>5024688101090</barcode>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

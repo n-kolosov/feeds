@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2019-04-22 13:00">
+<shop>
+<name>sewclub</name>
+<company>ИП Комраков</company>
+<url>https://sewclub.ru</url>
+<platform>1C-Bitrix</platform>
+<currencies>
+	<currency id="RUB" rate="1" plus=""></currency>
+</currencies>
+<categories>
+	<category id="16">Швейные машины</category>
+	<category id="17">Вышивальные машины</category>
+	<category id="18">Машины для стежки</category>
+	<category id="20">Оверлоки</category>
+	<category id="21">Вязальные машины</category>
+</categories>
+<delivery-options>
+	<option cost="0" days="2" order-before="17"/>
+</delivery-options>
+<offers>
+	<offer id="39663" type="vendor.model" available="true">
+    <url>https://sewclub.ru/catalog/shveynye_mashiny/shveynaya-mashina-aurora-7010/</url>
+    <price>8990</price>
+    <categoryId>16</categoryId>
+    <picture>https://sewclub.ru/upload/iblock/516/shveynaya_mashina_aurora_7010.jpg</picture>
+    <outlets><outlet id="1" instock="108"/></outlets>
+    <vendor>Aurora</vendor>
+    <vendorCode>47957</vendorCode>
+    <model>7010</model>
+    <description>Электромеханическая швейная машина Aurora 7010 предназначена для ремонта одежды, хорошо справляется со средними и плотными тканями. Среди отличительных&amp;nbsp;характеристик: вертикальный качающийся челнок,&amp;nbsp;автоматическое отключение механизма намотки шпульки. Свободный рукав,&amp;nbsp;реверс, шитье двойной иглой и быстрая смена лапки&amp;nbsp;обеспечивают удобство эксплуатации.</description>
+    <barcode>2180008479577</barcode>
+    <param name="Тип челнока">вертикальный качающийся</param>
+		<param name="Тип петли">полуавтомат</param>
+		<param name="Длина стежка">до 4 мм</param>
+		<param name="Ширина стежка">до 5 мм</param>
+		<param name="Оверлочные строчки">да</param>
+		<param name="Декоративные строчки">да</param>
+		<param name="Регулировка давления лапки">да</param>
+		<param name="Рукавная панель">да</param>
+		<param name="Тип управления">электромеханическое</param>
+		<param name="Начинающим">да</param>
+		<param name="Потребляемая мощность (Вт)">70</param>
+		<param name="Количество операций">12</param>
+		<param name="Трикотажные строчки">да</param>
+		<param name="Чехол в комплекте">мягкий</param>
+		<param name="Размер рабочей области">150 мм</param>
+		<param name="Количество швейных функций">12</param>
+		<param name="Количество петель">1</param>
+		<param name="Ширина упаковки (см)">43</param>
+		<param name="Высота упаковки (см)">36</param>
+		<param name="Глубина упаковки (см)">22</param>
+		<param name="Вес в упаковке (кг)">7.5</param>
+	</offer>
+	<offer id="39809" type="vendor.model" available="true">
+    <url>https://sewclub.ru/catalog/overloki/overlok-aurora-700d/</url>
+    <price>19900</price>
+    <categoryId>20</categoryId>
+    <picture>https://sewclub.ru/upload/iblock/04f/overlok_aurora_700_d.jpg</picture>
+    <outlets><outlet id="1" instock="202"/></outlets>
+    <vendor>Aurora</vendor>
+    <vendorCode>75235</vendorCode>
+    <model>700D</model>
+    <description>С помощью 2-3-4х ниточного оверлока&amp;nbsp;Aurora 700D&amp;nbsp;вы сможете профессионально обработать любое изделие. Модель легко справляется, как с тонким шифоном, так и со сложными многослойными джинсовыми композициями. Дифференциальный транспортер может использоваться для создания интересных специальных эффектов.</description>
+    <barcode>2180008752359</barcode>
+    <param name="Регулировка давления лапки">да</param>
+		<param name="Регулировка длины стежка">да</param>
+		<param name="Рукавная панель">да</param>
+		<param name="Тип">оверлок</param>
+		<param name="Количество нитей">2/3/4</param>
+		<param name="Ролевой шов">да</param>
+		<param name="Регулировка ширины обрезки края">да</param>
+		<param name="Потребляемая мощность (Вт)">135</param>
+		<param name="Управление">электромеханическое</param>
+		<param name="Регулировка дифференциальной подачи ткани">да</param>
+		<param name="Количество операций">15</param>
+		<param name="Максимальная скорость шитья">1200</param>
+		<param name="Чехол в комплекте">да</param>
+		<param name="Ширина упаковки (см)">39</param>
+		<param name="Высота упаковки (см)">35</param>
+		<param name="Глубина упаковки (см)">33</param>
+		<param name="Вес в упаковке (кг)">8.5</param>
+	</offer>
+	<offer id="39859" type="vendor.model" available="true">
+    <url>https://sewclub.ru/catalog/shveynye_mashiny/shveynaya-mashina-aurora-7050/</url>
+    <price>9550</price>
+    <categoryId>16</categoryId>
+    <picture>https://sewclub.ru/upload/iblock/78b/shveynaya_mashina_aurora_7050.jpg</picture>
+    <outlets><outlet id="1" instock="7"/></outlets>
+    <vendor>Aurora</vendor>
+    <vendorCode>89658</vendorCode>
+    <model>7050</model>
+    <description>Швейная машина Aurora 7050 обладает необходимым набором швейных операций. Возможность механической регулировки давления лапки позволит вам настраивать машину для шитья тканей различной плотности.</description>
+    <barcode>2180000896587</barcode>
+    <param name="Тип челнока">вертикальный качающийся</param>
+		<param name="Тип петли">полуавтомат</param>
+		<param name="Длина стежка">до 4 мм</param>
+		<param name="Ширина стежка">до 5 мм</param>
+		<param name="Оверлочные строчки">да</param>
+		<param name="Декоративные строчки">да</param>
+		<param name="Регулировка давления лапки">да</param>
+		<param name="Рукавная панель">да</param>
+		<param name="Тип управления">электромеханическое</param>
+		<param name="Начинающим">да</param>
+		<param name="Потребляемая мощность (Вт)">70</param>
+		<param name="Количество операций">21</param>
+		<param name="Трикотажные строчки">да</param>
+		<param name="Чехол в комплекте">мягкий</param>
+		<param name="Размер рабочей области">150 мм</param>
+		<param name="Количество швейных функций">21</param>
+		<param name="Количество петель">1</param>
+		<param name="Ширина упаковки (см)">43</param>
+		<param name="Высота упаковки (см)">35</param>
+		<param name="Глубина упаковки (см)">22</param>
+		<param name="Вес в упаковке (кг)">7.5</param>
+	</offer>
+	<offer id="40380" type="vendor.model" available="true">
+    <url>https://sewclub.ru/catalog/overloki/overlok-aurora-5000-d/</url>
+    <price>31490</price>
+    <categoryId>20</categoryId>
+    <picture>https://sewclub.ru/upload/iblock/f5c/overlok_aurora_5000_d.jpg</picture>
+    <outlets><outlet id="1" instock="94"/></outlets>
+    <vendor>Aurora</vendor>
+    <vendorCode>76283</vendorCode>
+    <model>5000D</model>
+    <description>Aurora 5000D - надежный и очень удобный в работе коверлок, выполняющий множество различных оверлочных строчек, а также три распошивальных шва разной ширины. Вы будете приятно удивлены простотой работой, благодаря легкому переходу с оверлочных строчек на плоские, автоматическому заправщику обоих петлителей и встроенному узкому ролевому шву. Помимо распошивальных строчек доступна также цепная, тем самым предоставляя Вам широчайшие возможности шитья!</description>
+    <barcode>2180000762837</barcode>
+    <param name="Регулировка давления лапки">да</param>
+		<param name="Регулировка длины стежка">да</param>
+		<param name="Рукавная панель">да</param>
+		<param name="Тип">коверлок</param>
+		<param name="Количество нитей">2/3/4/5</param>
+		<param name="Распошивальный (плоский) шов">да</param>
+		<param name="Ролевой шов">да</param>
+		<param name="Мусоросборник">да</param>
+		<param name="Регулировка ширины обрезки края">да</param>
+		<param name="Потребляемая мощность (Вт)">120</param>
+		<param name="Управление">электромеханическое</param>
+		<param name="Регулировка дифференциальной подачи ткани">да</param>
+		<param name="Количество операций">20</param>
+		<param name="Цепной стежок">да</param>
+		<param name="Максимальная скорость шитья">1200</param>
+		<param name="Чехол в комплекте">да</param>
+		<param name="Ширина упаковки (см)">45</param>
+		<param name="Высота упаковки (см)">40</param>
+		<param name="Глубина упаковки (см)">43</param>
+		<param name="Вес в упаковке (кг)">10.6</param>
+	</offer>
+	<offer id="40552" type="vendor.model" available="true">
+    <url>https://sewclub.ru/catalog/shveynye_mashiny/shveynaya-mashina-aurora-style-7/</url>
+    <price>9500</price>
+    <categoryId>16</categoryId>
+    <picture>https://sewclub.ru/upload/iblock/de6/shveynaya_mashina_aurora_style_7.jpg</picture>
+    <outlets><outlet id="1" instock="201"/></outlets>
+    <vendor>Aurora</vendor>
+    <vendorCode>217047</vendorCode>
+    <model>STYLE 7</model>
+    <description>Швейная машина Aurora STYLE 7 - электромеханическая модель, обладающая набором из 31-ой швейной операции. Среди технических характеристик можно отметить вертикальный классический челнок, возможность выметывать петлю в полуавтоматическом режиме, экономичную светодиодную подсветку. Рабочие, оверлочные, трикотажные и декоративные строчки помогут шить и декорировать ваши изделия.
+Также, не лишним будет отметить современный приятный дизайн модели. Цветные панели корпуса и нитенаправителя сделаны в одной цветовой гамме с регуляторами и принтом. С помощью электронной педали возможно наиболее эффективно использовать мощность мотора, что позволит справляться с тяжелыми тканями на низких скоростях. Швейная машина Aurora STYLE 7 - проста, эффективна, надежна, что в сочетании с современным дизайном делает данную модель отличным выбором как для новичков шитья так и для специалистов.</description>
+    <barcode>2200002170475</barcode>
+    <param name="Тип челнока">вертикальный качающийся</param>
+		<param name="Тип петли">полуавтомат</param>
+		<param name="Длина стежка">до 4 мм</param>
+		<param name="Ширина стежка">до 5 мм</param>
+		<param name="Оверлочные строчки">да</param>
+		<param name="Декоративные строчки">да</param>
+		<param name="Регулировка длины стежка">да</param>
+		<param name="Рукавная панель">да</param>
+		<param name="Тип управления">электромеханическое</param>
+		<param name="Начинающим">да</param>
+		<param name="Потребляемая мощность (Вт)">70</param>
+		<param name="Количество операций">31</param>
+		<param name="Трикотажные строчки">да</param>
+		<param name="Чехол в комплекте">мягкий</param>
+		<param name="Размер рабочей области">150 мм</param>
+		<param name="Количество швейных функций">31</param>
+		<param name="Ширина упаковки (см)">45</param>
+		<param name="Высота упаковки (см)">36</param>
+		<param name="Глубина упаковки (см)">24</param>
+		<param name="Вес в упаковке (кг)">8</param>
+	</offer>
+	<offer id="40553" type="vendor.model" available="true">
+    <url>https://sewclub.ru/catalog/shveynye_mashiny/shveynaya-mashina-aurora-style-90/</url>
+    <price>11500</price>
+    <categoryId>16</categoryId>
+    <picture>https://sewclub.ru/upload/iblock/885/shveynaya_mashina_aurora_style_90.jpg</picture>
+    <outlets><outlet id="1" instock="157"/></outlets>
+    <vendor>Aurora</vendor>
+    <vendorCode>217051</vendorCode>
+    <model>STYLE 90</model>
+    <description>Швейная машина Aurora STYLE 90 - электромеханическая модель, обладающая набором из 32-x швейных операций. Вертикальный классический челнок, автоматическая петля, экономичная светодиодная подсветка рабочей области - добавят удобство в работе с данной моделью. Рабочие, оверлочные, трикотажные и декоративные строчки помогут шить и декорировать ваши изделия.
+Хочется также отметить современный, дизайн модели. Цветные части корпуса и нитенаправителя сделаны в одной цветовой гамме с регуляторами и принтом на передней панели швейной машины Aurora STYLE 90. С помощью электронной педали возможно наиболее эффективно использовать мощность мотора, что позволит справляться с тяжелыми тканями на низких скоростях. Швейная машина Aurora STYLE 90 - проста, эффективна, надежна, что в сочетании с современным дизайном делает данную модель отличным выбором как для новичков шитья так и для специалистов.</description>
+    <barcode>2200002170512</barcode>
+    <param name="Тип челнока">вертикальный качающийся</param>
+		<param name="Тип петли">автомат</param>
+		<param name="Длина стежка">до 4 мм</param>
+		<param name="Ширина стежка">до 5 мм</param>
+		<param name="Оверлочные строчки">да</param>
+		<param name="Декоративные строчки">да</param>
+		<param name="Регулировка длины стежка">да</param>
+		<param name="Рукавная панель">да</param>
+		<param name="Потребляемая мощность (Вт)">70</param>
+		<param name="Количество операций">34</param>
+		<param name="Трикотажные строчки">да</param>
+		<param name="Чехол в комплекте">мягкий</param>
+		<param name="Размер рабочей области">150 мм</param>
+		<param name="Количество швейных функций">32</param>
+		<param name="Ширина упаковки (см)">45</param>
+		<param name="Высота упаковки (см)">36</param>
+		<param name="Глубина упаковки (см)">24</param>
+		<param name="Вес в упаковке (кг)">8</param>
+	</offer>
+	<offer id="40558" type="vendor.model" available="true">
+    <url>https://sewclub.ru/catalog/shveynye_mashiny/shveynaya-mashina-aurora-style-50/</url>
+    <price>8990</price>
+    <categoryId>16</categoryId>
+    <picture>https://sewclub.ru/upload/iblock/c76/shveynaya_mashina_aurora_style_50.jpg</picture>
+    <outlets><outlet id="1" instock="13"/></outlets>
+    <vendor>Aurora</vendor>
+    <vendorCode>217049</vendorCode>
+    <model>STYLE 50</model>
+    <description>Швейная машина Aurora STYLE 50 - обладает набором из 12-и швейных операций. Вертикальный классический челнок, автоматическая петля, экономичная светодиодная подсветка рабочей области - добавят удобство в работе с данной моделью. Рабочие, оверлочные, трикотажные и декоративные строчки помогут шить и декорировать ваши изделия. Цветные части корпуса и нитенаправителя сделаны в одной цветовой гамме с регуляторами и принтом на передней панели швейной машины Aurora STYLE 50. С помощью электронной педали возможно наиболее эффективно использовать мощность мотора, что позволит справляться с тяжелыми тканями на низких скоростях. Швейная машина Aurora STYLE 50 - проста, эффективна, надежна, что в сочетании с современным дизайном делает данную модель отличным выбором как для новичков шитья так и для специалистов.</description>
+    <barcode>2200002170499</barcode>
+    <param name="Тип челнока">вертикальный качающийся</param>
+		<param name="Тип петли">автомат</param>
+		<param name="Длина стежка">до 4 мм</param>
+		<param name="Ширина стежка">до 5 мм</param>
+		<param name="Оверлочные строчки">да</param>
+		<param name="Декоративные строчки">да</param>
+		<param name="Регулировка длины стежка">да</param>
+		<param name="Рукавная панель">да</param>
+		<param name="Тип управления">электромеханическое</param>
+		<param name="Начинающим">да</param>
+		<param name="Потребляемая мощность (Вт)">70</param>
+		<param name="Количество операций">12</param>
+		<param name="Трикотажные строчки">да</param>
+		<param name="Чехол в комплекте">мягкий</param>
+		<param name="Размер рабочей области">150 мм</param>
+		<param name="Количество швейных функций">12</param>
+		<param name="Ширина упаковки (см)">45</param>
+		<param name="Высота упаковки (см)">36</param>
+		<param name="Глубина упаковки (см)">24</param>
+	</offer>
+	<offer id="42021" type="vendor.model" available="true">
+    <url>https://sewclub.ru/catalog/shveynye_mashiny/shveynaya-mashina-aurora-style-70/</url>
+    <price>10500</price>
+    <categoryId>16</categoryId>
+    <picture>https://sewclub.ru/upload/iblock/9e4/shveynaya_mashina_aurora_style_70.jpg</picture>
+    <outlets><outlet id="1" instock="374"/></outlets>
+    <vendor>Aurora</vendor>
+    <vendorCode>217050</vendorCode>
+    <model>STYLE 70</model>
+    <description>Aurora Style 70 – швейная машина электромеханического типа с оптимальным количеством рабочих строчек, оснащенная вертикальным качающимся челноком.
+Основным достоинством машины является возможность уверенно работать с тканями различной плотности. В основном это достигается за счет электронной педали, которая позволяет наиболее эффективно использовать мощность привода и 6-сегментной рейке транспортера, который обеспечивает отличное продвижение материала под прижимной лапкой.
+Среди 23 операций Aurora Style 70 есть как стандартные строчки, например прямая и зигзаг, так и специализированные швы, такие как потайной шов, оверлочный шов, эластичные швы для шитья трикотажа и несколько декоративных швов. Машина также способна выполнить бельевую петлю в автоматическом режиме. Длина стежка свободно меняется в пределах 4,5 мм.
+За освещение рабочей зоны отвечает светодиодная лампочка. Регуляторы и маховое колесо выполнены с использованием покрытия «Soft Touch», более долговечным и приятным на ощупь по сравнению с обычным пластиком.</description>
+    <barcode>2200002170505</barcode>
+    <param name="Тип челнока">вертикальный качающийся</param>
+		<param name="Тип петли">автомат</param>
+		<param name="Длина стежка">до 4 мм</param>
+		<param name="Ширина стежка">до 5 мм</param>
+		<param name="Оверлочные строчки">да</param>
+		<param name="Декоративные строчки">да</param>
+		<param name="Регулировка длины стежка">да</param>
+		<param name="Рукавная панель">да</param>
+		<param name="Тип управления">электромеханическое</param>
+		<param name="Начинающим">да</param>
+		<param name="Потребляемая мощность (Вт)">70</param>
+		<param name="Количество операций">31</param>
+		<param name="Трикотажные строчки">да</param>
+		<param name="Чехол в комплекте">мягкий</param>
+		<param name="Размер рабочей области">150 мм</param>
+		<param name="Количество швейных функций">23</param>
+		<param name="Ширина упаковки (см)">45</param>
+		<param name="Высота упаковки (см)">36</param>
+		<param name="Глубина упаковки (см)">24</param>
+		<param name="Вес в упаковке (кг)">8</param>
+	</offer>
+	<offer id="42263" type="vendor.model" available="true">
+    <url>https://sewclub.ru/catalog/shveynye_mashiny/shveynaya-mashina-aurora-525/</url>
+    <price>6990</price>
+    <categoryId>16</categoryId>
+    <picture>https://sewclub.ru/upload/iblock/b66/shveynaya_mashina_aurora_525.jpg</picture>
+    <outlets><outlet id="1" instock="0"/></outlets>
+    <vendor>Aurora</vendor>
+    <vendorCode>250100</vendorCode>
+    <model>525</model>
+    <description>Компактная швейная машина. 13 швейных операций, петля полуавтомат, вертикальный качающийся челнок. Данная модель прекрасно справится со средними по плотностью тканями и подойдет начинающим любителям шитья.
+Швейная машина Aurora 525 - компактная швейная машина.
+Ее габаритные размеры: (Ш) 36.5 х (В) 29 х (Г) 18 см. Размер рабочей области 14.5 см.
+Максимальная высота подьема лапки: 10 мм. 13 швейных операций среди которых полуавтоматическая петля, прямые сточки, строчки зиг-заг, оверлочные и эластичные строчки. Данная модель обладает ярким современным дизайном и вполне подойдет начинающим любителям осваивать искусство шитья.</description>
+    <barcode>2200002501002</barcode>
+    <param name="Тип челнока">вертикальный качающийся</param>
+		<param name="Тип петли">полуавтомат</param>
+		<param name="Длина стежка">до 4 мм</param>
+		<param name="Ширина стежка">до 5 мм</param>
+		<param name="Тип управления">электромеханическое</param>
+		<param name="Начинающим">да</param>
+		<param name="Потребляемая мощность (Вт)">70</param>
+		<param name="Размер рабочей области">150 мм</param>
+		<param name="Количество петель">1</param>
+		<param name="Ширина упаковки (см)">36</param>
+		<param name="Высота упаковки (см)">29</param>
+		<param name="Глубина упаковки (см)">18</param>
+		<param name="Вес в упаковке (кг)">5</param>
+	</offer>
+	<offer id="42270" type="vendor.model" available="true">
+    <url>https://sewclub.ru/catalog/shveynye_mashiny/shveynaya-mashina-aurora-615/</url>
+    <price>7990</price>
+    <categoryId>16</categoryId>
+    <picture>https://sewclub.ru/upload/iblock/e6a/shveynaya_mashina_aurora_615.jpg</picture>
+    <outlets><outlet id="1" instock="0"/></outlets>
+    <vendor>Aurora</vendor>
+    <vendorCode>250101</vendorCode>
+    <model>615</model>
+    <description>Швейная машина Aurora 615 - компактная модель которая подойдет для начинающих любителей шитья. Ее габаритные размеры (Ш) 34 х (В) 29 х (Г) 17 см. Размер рабочей области 14.5 см.
+Небольшой набор швейных операций (13) включает в себя необходимые рабочие строчки и возможность выметывать петлю в три приема. Вертикальный качающийся челнок гарантирует надежность и дает возможность регулировки нижней нити.
+Двухэтапный подъем лапки (6-10 мм) позволит работать с объемными и многослойными изделиями. Современный дизайн и качественная сборка станут дополнительным плюсом для выбора данной модели.
+В комплекте со швейной машиной Aurora 615 идут:
+- универсальная лапка (установлена)
+- лапка для вшивания молнии
+- пластина для штопки
+- L-образная отвертка
+- кисточка-вспарыватель
+- фетровые амортизаторы для катушек
+- упаковка игл
+- шпульки (3 шт.) Производство: Тайвань</description>
+    <barcode>2200002501019</barcode>
+    <param name="Тип челнока">вертикальный качающийся</param>
+		<param name="Тип петли">полуавтомат</param>
+		<param name="Длина стежка">до 4 мм</param>
+		<param name="Ширина стежка">до 5 мм</param>
+		<param name="Декоративные строчки">да</param>
+		<param name="Тип управления">электромеханическое</param>
+		<param name="Начинающим">да</param>
+		<param name="Потребляемая мощность (Вт)">70</param>
+		<param name="Размер рабочей области">150 мм</param>
+		<param name="Количество швейных функций">13</param>
+		<param name="Количество петель">1</param>
+		<param name="Ширина упаковки (см)">36</param>
+		<param name="Высота упаковки (см)">19</param>
+		<param name="Глубина упаковки (см)">30</param>
+		<param name="Вес в упаковке (кг)">5</param>
+	</offer>
+</offers>
+</shop>
+</yml_catalog>

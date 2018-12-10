@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-01-25 09:40">
+	<shop>
+		<categories>
+			<category id="1">Арахисовая паста</category>
+			<category id="4">Полезный перекус</category>
+			<category id="5">Суперфуды</category>
+			<category id="3">Натуральные масла</category>
+			<category id="2">Какао порошок</category>
+		</categories>
+		<offers>
+			<offer id="AP011" available="true">
+				<name>Арахисовая паста "Классическая", 340 гр, без масла</name>
+				<price>173,8</price>
+				<categoryid>1</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО Гардарика"</vendor>
+				<description>Состав: арахис, соль. ¶Пищевая ценность 100 г: жиры, г. 49,6, углеводы, г.13,2,белки, г.24,4.¶Энергетичнская ценность:2495Кдж/596,4Ккал¶ТУ 10.39.22-001-0178845035-2016¶Масса нетто: 340 г.¶Срок годности: 1 год. ¶Температура хранения от 2 до 22 С</description>
+				<barcode>4607125987610</barcode>
+				<param name="Цвет">зеленый</param>
+				<param name="Вкус">мало - соленый</param>
+			</offer>
+			<offer id="AP019" available="true">
+				<name>Арахисовая паста "Классическая с добавлением мака", 340 гр, без масла</name>
+				<price>187</price>
+				<categoryid>1</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: арахис, семена мака, соль.¶Пищевая ценность 100 г: жиры, г50,8, углеводы, г13,4,белки, г25,4.¶Энергетичнская ценность:2562Кдж/612,4Ккал¶ТУ 10.39.22-001-0178845035-2016¶Масса нетто: 340 г.¶Срок годности: 1 год.¶Температура хранения от 2 до 22 С</description>
+				<barcode>4607125987702</barcode>
+				<param name="цвет">зеленый</param>
+				<param name="добавка">семена мака</param>
+				<param name="вкус">мало соленый</param>
+			</offer>
+			<offer id="AP020" available="true">
+				<name>Арахисовая паста "Классическая с добавлением чиа", 340 гр, без масла</name>
+				<price>210</price>
+				<categoryid>1</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: арахис, семена чиа, соль.¶Пищевая ценность 100г: жиры, г 50,2, углеводы, г 12,7, белки, г 22,2. ¶Энергетичнская ценность: 2474 Кдж/591,4 Ккал¶ТУ 10.39.22-001-0178845035-2016¶Масса нетто: 340 г.¶Срок годности: 1 год.¶Температура хранения от 2 до 22 С</description>
+				<barcode>4607125987719</barcode>
+				<param name="цвет">зеленый</param>
+				<param name="вкус">мало соленый</param>
+				<param name="добавка">семена чиа</param>
+			</offer>
+			<offer id="AP012" available="true">
+				<name>Арахисовая паста "Кранчи", 340 гр. без масла</name>
+				<price>173,8</price>
+				<categoryid>1</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: арахис, сахар, соль. ¶Пищевая ценность 100 г: жиры, г 44,6, углеводы, г 16,4, белки, г 23,4. ¶Энергетичнская ценность: 2344 Кдж/560,6 Ккал¶ТУ 10.39.22-001-0178845035-2016¶Масса нетто: 340 г. ¶Срок годности: 1 год. ¶Температура хранения от 2 до 22 С</description>
+				<barcode>4607125987627</barcode>
+				<param name="цвет">красный</param>
+				<param name="вкус">сладкий</param>
+			</offer>
+			<offer id="AP018" available="true">
+				<name>Арахисовая паста "С какао с добавлением  кокоса", 340 гр, без масла</name>
+				<price>187,3</price>
+				<categoryid>1</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: арахис, сахар, какао, кокосовая стружка, соль.¶Пищевая ценность 100 г: жиры, г51,8, углеводы, г12,2,белки, г26,4.¶Энергетичнская ценность:2595Кдж/620,6Ккал¶ТУ 10.39.22-001-0178845035-2016¶Масса нетто: 340 г.¶Срок годности: 1 год.¶Температура хранения от 2 до 22 С</description>
+				<barcode>4607125987696</barcode>
+				<param name="цвет">коричневый</param>
+				<param name="вкус">сладкий</param>
+				<param name="добавка">кокосовая стружка</param>
+			</offer>
+			<offer id="AP017" available="true">
+				<name>Арахисовая паста "С какао с добавлением кунжута", 340 гр, без масла</name>
+				<price>179,3</price>
+				<categoryid>1</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: арахис, сахар, какао, семена кунжута, соль.¶Пищевая ценность 100 г: жиры, г49,9, углеводы, г13,3,белки, г 26,4.¶Энергетичнская ценность:2541Кдж/607,9Ккал¶ТУ 10.39.22-001-0178845035-2016¶Масса нетто: 340 г.¶Срок годности: 1 год.¶Температура хранения от 2 до 22 С</description>
+				<barcode>4607125987689</barcode>
+				<param name="цвет">коричневый</param>
+				<param name="вкус">сладкий</param>
+				<param name="добавка">семена кунжута</param>
+			</offer>
+			<offer id="AP016" available="true">
+				<name>Арахисовая паста "С какао", 340 гр. без масла</name>
+				<price>173,8</price>
+				<categoryid>1</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: арахис, сахар, какао, соль. ¶Пищевая ценность 100 г: жиры, г 44,9, углеводы, г 18,5, белки, г 25,6. ¶Энергетичнская ценность: 2428 Кдж/580,5 Ккал¶ТУ 10.39.22-001-0178845035-2016¶Масса нетто: 340 г. ¶Срок годности: 1 год. ¶Температура хранения от 2 до 22 С</description>
+				<barcode>4607125987665</barcode>
+				<param name="цвет">коричневый</param>
+				<param name="вкус">сладкий</param>
+			</offer>
+			<offer id="AP013" available="true">
+				<name>Арахисовая паста "С мёдом", 340 гр. без масла</name>
+				<price>173,8</price>
+				<categoryid>1</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: арахис,  мёд, соль. ¶Пищевая ценность 100 г: жиры, г 45,9, углеводы, г 16,5, белки, г 24,6. ¶Энергетичнская ценность: 2415 Кдж/577,5 Ккал¶ТУ 10.39.22-001-0178845035-2016¶Масса нетто: 340 г. ¶Срок годности: 1 год. ¶Температура хранения от 2 до 22 С</description>
+				<barcode>4607125987634</barcode>
+				<param name="цвет">желтый</param>
+				<param name="вкус">сладкий</param>
+				<param name="добавка">мед</param>
+			</offer>
+			<offer id="AP015" available="true">
+				<name>Арахисовая паста "С фисташками", 340 гр. без масла</name>
+				<price>192,5</price>
+				<categoryid>1</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: арахис, сахар, фисташки, соль. ¶Пищевая ценность 100 г: жиры, г 49, углеводы, г 12,3, белки, г 22,5. ¶Энергетичнская ценность: 2428 Кдж/580,2 Ккал¶ТУ 10.39.22-001-0178845035-2016¶Масса нетто: 340 г. ¶Срок годности: 1 год. ¶Температура хранения от 2 до 22 С</description>
+				<barcode>4607125987658</barcode>
+				<param name="цвет">голубой</param>
+				<param name="вкус">сладкий</param>
+			</offer>
+			<offer id="AP014" available="true">
+				<name>Арахисовая паста "С фундуком", 340 гр. без масла</name>
+				<price>173,8</price>
+				<categoryid>1</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: арахис, сахар, фундук, соль. ¶Пищевая ценность 100 г: жиры, г 49,1, углеводы, г 13,7, белки, г 22,4. ¶Энергетичнская ценность: 2453 Кдж/586,3 Ккал¶ТУ 10.39.22-001-0178845035-2016¶Масса нетто: 340 г. ¶Срок годности: 1 год. ¶Температура хранения от 2 до 22 С</description>
+				<barcode>4607125987641</barcode>
+				<param name="цвет">фиолетовый</param>
+				<param name="вкус">сладкий</param>
+			</offer>
+			<offer id="AP3" available="true">
+				<name>Паста кешью с пшеничными палочками в блистере</name>
+				<price>103</price>
+				<categoryid>4</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: кешью и пшеничные палочки (мука пшеничная хлебопекарная высшего сорта, вода, дрожжи, сахар, соль, солод).</description>
+				<barcode>4607125985173</barcode>
+				<param name="вкус">слегка соленый</param>
+			</offer>
+			<offer id="AP4" available="true">
+				<name>Паста миндаль с пшеничными палочками в блистере</name>
+				<price>103</price>
+				<categoryid>4</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: паста ( миндаль, сахар, соль)   и пшеничные палочки (мука пшеничная хлебопекарная высшего сорта, вода, дрожжи, сахар, соль, солод).</description>
+				<barcode>4607125985180</barcode>
+				<param name="вкус">сладкий</param>
+			</offer>
+			<offer id="CK01" available="true">
+				<name>Какао порошок, 100гр.</name>
+				<price>187</price>
+				<categoryid>2</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Какао порошок является отличным антидепрессантом. Активирует работы мозга, восстанавливает физические и умственные силы, повышает работоспособность, нормализует давление. Состав богат железом и цинком. Укрепляет кости, повышает рост волос, понижает давление.</description>
+				<barcode>4008633478254</barcode>
+				<param name="цвет">темно коричневый</param>
+				<param name="страна производитель">Германия</param>
+			</offer>
+			<offer id="CL01" available="true">
+				<name>Лемонграсс,  100гр.</name>
+				<price>163</price>
+				<categoryid>5</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="14"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Лемонграсс соломка.  Используется при лечении простуды, обладает потогонным  свойством. Облегчает симптомы насморка, головные  боли. Лемонграсс является прекрасссным антисептиком, который обладает противомикробными свойствами.</description>
+				<barcode>8904127763256</barcode>
+				<param name="страна произрастания">Китай</param>
+				<param name="фракция">соломка</param>
+			</offer>
+			<offer id="M02" available="true">
+				<name>Масло какао, нерафинированное, 150гр.</name>
+				<price>416</price>
+				<categoryid>3</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: масло какао. В качестве ухода за телом: уменьшает морщины, устраняет зуд, экзему, растяжки, заживляет трещины, раны, ожоги, следы от лазерных процедур и тд. В чистом виде перед применением нужно растопить в небольшом количестве теплой воды, либо просто в руке. Хорошо добавить в ванну, либо после душа нанести на влажную кожу. Внутрь: смягчает больное горло (небольшое количество добавить в горячее молоко, какао). При употреблении в пищу улучшает эластичность сосудов, повышает иммунитет.</description>
+				<barcode>7705375197234</barcode>
+				<param name="Способ обработки и производства">рафинированное</param>
+			</offer>
+			<offer id="M03" available="true">
+				<name>Масло кокосовое, рафинированное,180гр.</name>
+				<price>205</price>
+				<categoryid>3</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: кокосовое масло. В качестве ухода за телом: отлично увлажняет и питает кожу. Использовать в чистом виде, слегка разогрев в руке. Прекрасно как средство против сухих секущихся волос (небольшое количество растопить и нанести на волосы, легко смывается не оставляя ощущения тяжести и жирности).                                              В кулинарии: идеально для жарки, тушения и выпечки любых блюд, т.к. не пригорает и не содержит холестерина, отлично добавлять в кашу и другие блюда вместо сливочного масла.</description>
+				<barcode>6550713185517</barcode>
+				<param name="Способ обработки и производства">рафинированное</param>
+			</offer>
+			<offer id="M01" available="true">
+				<name>Масло Ши нерафинированное,180гр.</name>
+				<price>434,5</price>
+				<categoryid>3</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: масло Ши.  Снабжает кожу необходимыми витаминами (D,A,E), придает ей упругость и здоровое состояние, препятствует возрастным изменениям. Карите укрепляет ногтевые пластины и волосы. Оказывает противовоспалительное действие.</description>
+				<barcode>6015367264594</barcode>
+				<param name="Способ обработки и производства">нерафинированное</param>
+				<param name="Приминение">косметическое</param>
+			</offer>
+			<offer id="CXCM02" available="true">
+				<name>Микс хлорелла и спирулина молотая, 100гр.</name>
+				<price>575</price>
+				<categoryid>5</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: хлорелла и спирулина молотые. Имунный мегамикс. Двойная поддержка иммунитета</description>
+				<barcode>6975707645035</barcode>
+				<param name="Фракция">порошок</param>
+			</offer>
+			<offer id="CXCP02" available="true">
+				<name>Микс хлорелла и спирулина прессованная, 100гр.</name>
+				<price>578</price>
+				<categoryid>5</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Состав: хлорелла и спирулина в таблетках. Имунный мегамикс. Двойная поддержка иммунитета</description>
+				<barcode>6975707645011</barcode>
+				<param name="Фракция">таблетки</param>
+			</offer>
+			<offer id="CCM02" available="true">
+				<name>Спирулина молотая,100гр.</name>
+				<price>398</price>
+				<categoryid>5</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Водоросль- спирулина молотая</description>
+				<barcode>6900569105410</barcode>
+				<param name="Фракция">порошок</param>
+				<param name="Страна произрастания">Китай</param>
+			</offer>
+			<offer id="CCP02" available="true">
+				<name>Спирулина прессованная, 100гр.</name>
+				<price>447</price>
+				<categoryid>5</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Водоросль-спирулина, в таблетках</description>
+				<barcode>4607125983988</barcode>
+				<param name="Фракция">таблетки</param>
+				<param name="Страна произрастания">Китай</param>
+			</offer>
+			<offer id="CCP01" available="true">
+				<name>Спирулина прессованная, 50гр.</name>
+				<price>244</price>
+				<categoryid>5</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Водоросль-спирулина, в таблетках</description>
+				<barcode>6975707645028</barcode>
+				<param name="Фракция">таблетки</param>
+				<param name="Страна произрастания">Китай</param>
+			</offer>
+			<offer id="CXM02" available="true">
+				<name>Хлорелла молотая, 100гр.</name>
+				<price>495</price>
+				<categoryid>5</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Водоросль-хлорелла, молотая.</description>
+				<barcode>6908925560156</barcode>
+				<param name="Фракция">порошок</param>
+				<param name="Страна произрастания">Китай</param>
+			</offer>
+			<offer id="CXP02" available="true">
+				<name>Хлорелла прессованная 100 гр.</name>
+				<price>693</price>
+				<categoryid>5</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Водоросль-хлорелла, в таблетках.</description>
+				<barcode>6901183412625</barcode>
+				<param name="Фракция">таблетки</param>
+				<param name="Страна произрастания">Китай</param>
+			</offer>
+			<offer id="CXP01" available="true">
+				<name>Хлорелла прессованная, 50гр.</name>
+				<price>367</price>
+				<categoryid>5</categoryid>
+				<vat>VAT_18</vat>
+				<shipment-options>
+					<option order-before="0" days="8"/>
+				</shipment-options>
+				<vendor>ООО "Гардарика"</vendor>
+				<description>Водоросль-хлорелла, в таблетках.</description>
+				<barcode>6975707645042</barcode>
+				<param name="Фракция">таблетки</param>
+				<param name="Страна произрастания">Китай</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

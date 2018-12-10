@@ -1,0 +1,2651 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-11-03 10:32">
+<shop>
+<name>Престиж МСК</name>
+<company>Престиж МСК</company>
+<url></url>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="1224" parentId="16571">Parkprofi Видеорегистраторы</category>
+<category id="1228" parentId="16521">Parkprofi   Комбо Радар+Регистратор</category>
+<category id="16478" parentId="1">ЭЛЕКТРОНИКА</category>
+<category id="16521" parentId="16478">Радар-детекторы</category>
+<category id="16571" parentId="16478">Видеорегистраторы</category>
+<category id="16572" parentId="16571">Видеорегистраторы Разные</category>
+<category id="16577" parentId="16571">Prestige Видеорегистраторы</category>
+<category id="16612" parentId="16478">Карты памяти</category>
+<category id="16626" parentId="16478">Навигаторы</category>
+<category id="16693" parentId="16478">Парктроники Parkprofi</category>
+<category id="16717" parentId="16478">Системы безопастности</category>
+<category id="16792" parentId="16717">Запчасти</category>
+<category id="2178" parentId="16478">Зеркала Artway</category>
+<category id="2180" parentId="16478">Зеркала Artway Combo</category>
+<category id="2203" parentId="1224">Комплект</category>
+<category id="23024" parentId="16626">Навигаторы Prestige</category>
+<category id="222833" parentId="16521">Радар-детекторы ОСТАТКИ</category>
+<category id="222895" parentId="16521">Prestige   Радар-детекторы</category>
+<category id="223181" parentId="16571">Комплекты</category>
+<category id="227" parentId="223181">АКЦИЯ</category>
+<category id="3123" parentId="222895">Комплекты</category>
+<category id="3921" parentId="16571">Artway Видеорегистраторы</category>
+<category id="3922" parentId="16521">Artway   Радар-детекторы</category>
+<category id="3923" parentId="16626">Навигаторы Artway</category>
+<category id="4689" parentId="16478">PowerBank    Artway Prestige</category>
+<category id="5130" parentId="16521">Artway   Комбо Радар+Регистратор</category>
+<category id="5131" parentId="16521">Prestige   Комбо Радар+Регистратор</category>
+
+</categories>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<offers>
+
+<offer id="388" available="true">
+<url></url>
+<name>COMBO-ЗЕРКАЛО Artway MD-170   11 в 1  Android автопланшет</name>
+<price>11550</price>
+<categoryId>2180</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="127"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-170</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042830940</barcode>
+</offer>
+
+<offer id="388" available="true">
+<url></url>
+<name>COMBO-ЗЕРКАЛО Artway MD-170   11 в 1  Android автопланшет</name>
+<price>11550</price>
+<categoryId>2180</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="127"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-170</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042830940</barcode>
+</offer>
+
+<offer id="539" available="true">
+<url></url>
+<name>COMBO Artway MD-104 3 в 1 Super Fast</name>
+<price>9440</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="178"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-104</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042830957</barcode>
+</offer>
+
+<offer id="539" available="true">
+<url></url>
+<name>COMBO Artway MD-104 3 в 1 Super Fast</name>
+<price>9440</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="178"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-104</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042830957</barcode>
+</offer>
+
+<offer id="582" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-530 ( 2 камеры)</name>
+<price>3360</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="51"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-530</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042830964</barcode>
+</offer>
+
+<offer id="582" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-530 ( 2 камеры)</name>
+<price>3360</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="51"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-530</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042830964</barcode>
+</offer>
+
+<offer id="583" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-394</name>
+<price>3960</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="1"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-394</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode> 4660042830971</barcode>
+</offer>
+
+<offer id="583" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-394</name>
+<price>3960</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="1"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-394</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode> 4660042830971</barcode>
+</offer>
+
+<offer id="1143" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-115</name>
+<price>1200</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="1292"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-115</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042831282</barcode>
+</offer>
+
+<offer id="1143" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-115</name>
+<price>1200</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="1292"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-115</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042831282</barcode>
+</offer>
+
+<offer id="1342" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-392 Super Fast</name>
+<price>4500</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="2083"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-392</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042831503</barcode>
+</offer>
+
+<offer id="1342" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-392 Super Fast</name>
+<price>4500</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="2083"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-392</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042831503</barcode>
+</offer>
+
+<offer id="1802" available="true">
+<url></url>
+<name>Видеорегистратор зеркало Artway AV-604   3в1 Super HD (2 камеры, ParkAssist)</name>
+<price>5600</price>
+<categoryId>2178</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="415"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-604</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042831558</barcode>
+</offer>
+
+<offer id="1802" available="true">
+<url></url>
+<name>Видеорегистратор зеркало Artway AV-604   3в1 Super HD (2 камеры, ParkAssist)</name>
+<price>5600</price>
+<categoryId>2178</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="415"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-604</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042831558</barcode>
+</offer>
+
+<offer id="1991" available="true">
+<url></url>
+<name>COMBO Artway MD-911   11 в 1  Android складной автопланшет</name>
+<price>12990</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="200"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-911</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042831664</barcode>
+</offer>
+
+<offer id="1991" available="true">
+<url></url>
+<name>COMBO Artway MD-911   11 в 1  Android складной автопланшет</name>
+<price>12990</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="200"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-911</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042831664</barcode>
+</offer>
+
+<offer id="2013" available="true">
+<url></url>
+<name>COMBO Artway MD-105 3 в 1</name>
+<price>8990</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="401"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-105</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042832678</barcode>
+</offer>
+
+<offer id="2013" available="true">
+<url></url>
+<name>COMBO Artway MD-105 3 в 1</name>
+<price>8990</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="401"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-105</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042832678</barcode>
+</offer>
+
+<offer id="2445" available="true">
+<url></url>
+<name>COMBO Artway MD-106 3 в 1 Super Fast</name>
+<price>9900</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="252"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-106</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042832685</barcode>
+</offer>
+
+<offer id="2445" available="true">
+<url></url>
+<name>COMBO Artway MD-106 3 в 1 Super Fast</name>
+<price>9990</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="252"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-106</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042832685</barcode>
+</offer>
+
+<offer id="2445" available="true">
+<url></url>
+<name>COMBO Artway MD-106 3 в 1 Super Fast</name>
+<price>9990</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="252"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-106</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042832685</barcode>
+</offer>
+
+<offer id="2445" available="true">
+<url></url>
+<name>COMBO Artway MD-106 3 в 1 Super Fast</name>
+<price>9990</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="252"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-106</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042832685</barcode>
+</offer>
+
+<offer id="2445" available="true">
+<url></url>
+<name>COMBO Artway MD-106 3 в 1 Super Fast</name>
+<price>9990</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="252"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-106</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042832685</barcode>
+</offer>
+
+<offer id="2445" available="true">
+<url></url>
+<name>COMBO Artway MD-106 3 в 1 Super Fast</name>
+<price>9900</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="252"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-106</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042832685</barcode>
+</offer>
+
+<offer id="2445" available="true">
+<url></url>
+<name>COMBO Artway MD-106 3 в 1 Super Fast</name>
+<price>9990</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="252"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-106</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4660042832685</barcode>
+</offer>
+
+<offer id="224176" available="true">
+<url></url>
+<name>Радар-детектор Prestige 562 GPS</name>
+<price>3700</price>
+<categoryId>222895</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="7"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Prestige 562</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620013461443</barcode>
+</offer>
+
+<offer id="224176" available="true">
+<url></url>
+<name>Радар-детектор Prestige 562 GPS</name>
+<price>3700</price>
+<categoryId>222895</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="7"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Prestige 562</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620013461443</barcode>
+</offer>
+
+<offer id="1753" available="true">
+<url></url>
+<name>Радар-детектор Prestige RD-301 GPS</name>
+<price>3400</price>
+<categoryId>222895</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="23"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Prestige RD-301</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620013463706</barcode>
+</offer>
+
+<offer id="1753" available="true">
+<url></url>
+<name>Радар-детектор Prestige RD-301 GPS</name>
+<price>3400</price>
+<categoryId>222895</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="23"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Prestige RD-301</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620013463706</barcode>
+</offer>
+
+<offer id="2286" available="true">
+<url></url>
+<name>Радар-детектор Prestige RD-101</name>
+<price>1140</price>
+<categoryId>222895</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="94"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Prestige RD-101</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620013464154</barcode>
+</offer>
+
+<offer id="2286" available="true">
+<url></url>
+<name>Радар-детектор Prestige RD-101</name>
+<price>1140</price>
+<categoryId>222895</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="94"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Prestige RD-101</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620013464154</barcode>
+</offer>
+
+<offer id="3307" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-513</name>
+<price>3390</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="167"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-513</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620013465151</barcode>
+</offer>
+
+<offer id="3307" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-513</name>
+<price>3390</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="167"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-513</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620013465151</barcode>
+</offer>
+
+<offer id="3787" available="true">
+<url></url>
+<name>Радар-детектор Prestige RD-202 GPS</name>
+<price>2490</price>
+<categoryId>222895</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="491"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Prestige RD-202</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620013464161</barcode>
+</offer>
+
+<offer id="3787" available="true">
+<url></url>
+<name>Радар-детектор Prestige RD-202 GPS</name>
+<price>2490</price>
+<categoryId>222895</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="491"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Prestige RD-202</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620013464161</barcode>
+</offer>
+
+<offer id="3924" available="true">
+<url></url>
+<name>COMBO Artway MD-100   2 в 1</name>
+<price>5270</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="860"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-100</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033279</barcode>
+</offer>
+
+<offer id="3924" available="true">
+<url></url>
+<name>COMBO Artway MD-100   2 в 1</name>
+<price>5270</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="860"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-100</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033279</barcode>
+</offer>
+
+<offer id="3925" available="true">
+<url></url>
+<name>Видеорегистратор Artway 700</name>
+<price>4830</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="3"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway 700</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033330</barcode>
+</offer>
+
+<offer id="3925" available="true">
+<url></url>
+<name>Видеорегистратор Artway 700</name>
+<price>4830</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="3"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway 700</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033330</barcode>
+</offer>
+
+<offer id="3926" available="true">
+<url></url>
+<name>Видеорегистратор зеркало Artway AV-600   3в1 (2камеры, передняя FullHD, ParkAssist)</name>
+<price>3320</price>
+<categoryId>2178</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="220"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-600</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033323</barcode>
+</offer>
+
+<offer id="3926" available="true">
+<url></url>
+<name>Видеорегистратор зеркало Artway AV-600   3в1 (2камеры, передняя FullHD, ParkAssist)</name>
+<price>3320</price>
+<categoryId>2178</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="220"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-600</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033323</barcode>
+</offer>
+
+<offer id="3927" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-110</name>
+<price>1050</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="328"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-110</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033316</barcode>
+</offer>
+
+<offer id="3927" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-110</name>
+<price>1050</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="328"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-110</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033316</barcode>
+</offer>
+
+<offer id="3928" available="true">
+<url></url>
+<name>Видеорегистратор Artway 022</name>
+<price>950</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="28"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway 022</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033309</barcode>
+</offer>
+
+<offer id="3928" available="true">
+<url></url>
+<name>Видеорегистратор Artway 022</name>
+<price>950</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="28"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway 022</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033309</barcode>
+</offer>
+
+<offer id="3929" available="true">
+<url></url>
+<name>Видеорегистратор Artway 390</name>
+<price>3850</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="1045"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway 390</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033293</barcode>
+</offer>
+
+<offer id="3929" available="true">
+<url></url>
+<name>Видеорегистратор Artway 390</name>
+<price>3850</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="1045"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway 390</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033293</barcode>
+</offer>
+
+<offer id="3977" available="true">
+<url></url>
+<name>COMBO Artway MD-101   3 в 1</name>
+<price>7150</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="94"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-101</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033262</barcode>
+</offer>
+
+<offer id="3977" available="true">
+<url></url>
+<name>COMBO Artway MD-101   3 в 1</name>
+<price>7150</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="94"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-101</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033262</barcode>
+</offer>
+
+<offer id="4202" available="true">
+<url></url>
+<name>Видеорегистратор зеркало Artway AV-601   3в1 (2камеры, передняя FullHD, ParkAssist)</name>
+<price>2860</price>
+<categoryId>2178</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="811"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-601</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033491</barcode>
+</offer>
+
+<offer id="4202" available="true">
+<url></url>
+<name>Видеорегистратор зеркало Artway AV-601   3в1 (2камеры, передняя FullHD, ParkAssist)</name>
+<price>2860</price>
+<categoryId>2178</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="811"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-601</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033491</barcode>
+</offer>
+
+<offer id="4214" available="true">
+<url></url>
+<name>Радар-детектор Artway RD-200 GPS Alligator</name>
+<price>3890</price>
+<categoryId>3922</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="1599"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway RD-200</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019035525</barcode>
+</offer>
+
+<offer id="4214" available="true">
+<url></url>
+<name>Радар-детектор Artway RD-200 GPS Alligator</name>
+<price>3890</price>
+<categoryId>3922</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="1599"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway RD-200</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019035525</barcode>
+</offer>
+
+<offer id="4215" available="true">
+<url></url>
+<name>Радар-детектор Artway RD-516</name>
+<price>2310</price>
+<categoryId>3922</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="122"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway RD-516</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019035518</barcode>
+</offer>
+
+<offer id="4215" available="true">
+<url></url>
+<name>Радар-детектор Artway RD-516</name>
+<price>2310</price>
+<categoryId>3922</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="122"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway RD-516</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019035518</barcode>
+</offer>
+
+<offer id="4273" available="true">
+<url></url>
+<name>COMBO-ЗЕРКАЛО Artway MD-160   5 в 1</name>
+<price>8580</price>
+<categoryId>2180</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="217"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-160</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019034566</barcode>
+</offer>
+
+<offer id="4273" available="true">
+<url></url>
+<name>COMBO-ЗЕРКАЛО Artway MD-160   5 в 1</name>
+<price>8580</price>
+<categoryId>2180</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="217"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-160</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019034566</barcode>
+</offer>
+
+<offer id="4274" available="true">
+<url></url>
+<name>COMBO-ЗЕРКАЛО Artway MD-165   5 в 1</name>
+<price>11390</price>
+<categoryId>2180</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="239"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-165</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019034573</barcode>
+</offer>
+
+<offer id="4274" available="true">
+<url></url>
+<name>COMBO-ЗЕРКАЛО Artway MD-165   5 в 1</name>
+<price>11390</price>
+<categoryId>2180</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="239"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-165</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019034573</barcode>
+</offer>
+
+<offer id="4283" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-338</name>
+<price>1580</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="62"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-338</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033538</barcode>
+</offer>
+
+<offer id="4283" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-338</name>
+<price>1580</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="62"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-338</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033538</barcode>
+</offer>
+
+<offer id="4284" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-321</name>
+<price>2630</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="176"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-321</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033521</barcode>
+</offer>
+
+<offer id="4284" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-321</name>
+<price>2630</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="176"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-321</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033521</barcode>
+</offer>
+
+<offer id="4292" available="true">
+<url></url>
+<name>COMBO Artway MD-102   3 в 1</name>
+<price>8250</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="205"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-102</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033682</barcode>
+</offer>
+
+<offer id="4292" available="true">
+<url></url>
+<name>COMBO Artway MD-102   3 в 1</name>
+<price>8250</price>
+<categoryId>5130</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="205"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-102</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033682</barcode>
+</offer>
+
+<offer id="4365" available="true">
+<url></url>
+<name>Видеорегистратор зеркало Artway AV-610   1 камера</name>
+<price>1640</price>
+<categoryId>2178</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="923"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-610</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019034597</barcode>
+</offer>
+
+<offer id="4365" available="true">
+<url></url>
+<name>Видеорегистратор зеркало Artway AV-610   1 камера</name>
+<price>1640</price>
+<categoryId>2178</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="923"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-610</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019034597</barcode>
+</offer>
+
+<offer id="4379" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-520</name>
+<price>2200</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="1292"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-520</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033507</barcode>
+</offer>
+
+<offer id="4379" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-520</name>
+<price>2200</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="1292"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-520</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019033507</barcode>
+</offer>
+
+<offer id="4380" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-480</name>
+<price>3680</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="227"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-480</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019034603</barcode>
+</offer>
+
+<offer id="4380" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-480</name>
+<price>3680</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="227"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-480</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019034603</barcode>
+</offer>
+
+<offer id="4472" available="true">
+<url></url>
+<name>COMBO-ЗЕРКАЛО Artway MD-161   3 в 1</name>
+<price>7690</price>
+<categoryId>2180</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="255"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-161</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019035679</barcode>
+</offer>
+
+<offer id="4472" available="true">
+<url></url>
+<name>COMBO-ЗЕРКАЛО Artway MD-161   3 в 1</name>
+<price>7690</price>
+<categoryId>2180</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="255"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-161</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019035679</barcode>
+</offer>
+
+<offer id="4567" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-510</name>
+<price>1550</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="187"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-510</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019035754</barcode>
+</offer>
+
+<offer id="4567" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-510</name>
+<price>1550</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="187"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-510</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019035754</barcode>
+</offer>
+
+<offer id="4606" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-391</name>
+<price>3290</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="505"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-391</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019036058</barcode>
+</offer>
+
+<offer id="4606" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-391</name>
+<price>3290</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="505"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-391</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019036058</barcode>
+</offer>
+
+<offer id="4677" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-711</name>
+<price>4500</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="207"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-711</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019036041</barcode>
+</offer>
+
+<offer id="4677" available="true">
+<url></url>
+<name>Видеорегистратор Artway AV-711</name>
+<price>4500</price>
+<categoryId>3921</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="207"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway AV-711</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019036041</barcode>
+</offer>
+
+<offer id="4738" available="true">
+<url></url>
+<name>Радар-детектор Artway RD-202 GPS</name>
+<price>3780</price>
+<categoryId>3922</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="231"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway RD-202</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019036430</barcode>
+</offer>
+
+<offer id="4738" available="true">
+<url></url>
+<name>Радар-детектор Artway RD-202 GPS</name>
+<price>3780</price>
+<categoryId>3922</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="231"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway RD-202</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019036430</barcode>
+</offer>
+
+<offer id="5309" available="true">
+<url></url>
+<name>Портативное зарядное устройство Artway – Power Bank 5200 mAh</name>
+<price>800</price>
+<categoryId>4689</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="5596"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway PB-5200</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019037147</barcode>
+</offer>
+
+<offer id="5309" available="true">
+<url></url>
+<name>Портативное зарядное устройство Artway – Power Bank 5200 mAh</name>
+<price>800</price>
+<categoryId>4689</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="5596"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway PB-5200</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019037147</barcode>
+</offer>
+
+<offer id="5310" available="true">
+<url></url>
+<name>Портативное зарядное устройство ARTWAY PowerBank 12000 mAh</name>
+<price>1490</price>
+<categoryId>4689</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="3881"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway PB-12000</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019037130</barcode>
+</offer>
+
+<offer id="5310" available="true">
+<url></url>
+<name>Портативное зарядное устройство ARTWAY PowerBank 12000 mAh</name>
+<price>1490</price>
+<categoryId>4689</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="3881"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway PB-12000</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019037130</barcode>
+</offer>
+
+<offer id="5686" available="true">
+<url></url>
+<name>Портативное зарядное устройство Artway PB-2600 blue</name>
+<price>320</price>
+<categoryId>4689</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="5"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway PB-2600 blue</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019037864</barcode>
+</offer>
+
+<offer id="5686" available="true">
+<url></url>
+<name>Портативное зарядное устройство Artway PB-2600 blue</name>
+<price>320</price>
+<categoryId>4689</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="5"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway PB-2600 blue</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019037864</barcode>
+</offer>
+
+<offer id="5687" available="true">
+<url></url>
+<name>Портативное зарядное устройство Artway PB-2600 green</name>
+<price>320</price>
+<categoryId>4689</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="3"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway PB-2600 green</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019037871</barcode>
+</offer>
+
+<offer id="5687" available="true">
+<url></url>
+<name>Портативное зарядное устройство Artway PB-2600 green</name>
+<price>320</price>
+<categoryId>4689</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="3"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway PB-2600 green</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019037871</barcode>
+</offer>
+
+<offer id="5688" available="true">
+<url></url>
+<name>Портативное зарядное устройство Artway PB-2600 white</name>
+<price>320</price>
+<categoryId>4689</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="2"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway PB-2600 white</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019037888</barcode>
+</offer>
+
+<offer id="5688" available="true">
+<url></url>
+<name>Портативное зарядное устройство Artway PB-2600 white</name>
+<price>320</price>
+<categoryId>4689</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="2"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway PB-2600 white</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019037888</barcode>
+</offer>
+
+<offer id="5818" available="true">
+<url></url>
+<name>COMBO-ЗЕРКАЛО Artway MD-163   3 в 1</name>
+<price>8600</price>
+<categoryId>2180</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="184"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-163</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019039448</barcode>
+</offer>
+
+<offer id="5818" available="true">
+<url></url>
+<name>COMBO-ЗЕРКАЛО Artway MD-163   3 в 1</name>
+<price>8600</price>
+<categoryId>2180</categoryId>
+<picture></picture>
+<vat>NO_VAT</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="184"/>
+</outlets>
+<vendor></vendor>
+<vendorCode></vendorCode>
+<model>Artway MD-163</model>
+<description></description>
+<param name="Weight"></param>
+<param name="Width"></param>
+<param name="Length"></param>
+<param name="Height"></param>
+<param name="Габариты"></param>
+<param name="Бренд"></param>
+<param name="Материал"></param>
+<param name="Странаизготовитель"></param>
+<barcode>4620019039448</barcode>
+</offer>
+
+</offers>
+</shop>
+</yml_catalog>

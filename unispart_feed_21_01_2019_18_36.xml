@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+  <yml_catalog date="2019-01-21 18:13">
+      <shop>
+          <name>unispart.ru</name>
+          <company>unispart.ru</company>
+          <url>https://unispart.ru</url>
+          <currencies>
+              <currency id="RUB" rate="1"></currency>
+          </currencies>
+          <categories>
+              <category id="1">Все товары</category>
+              <category id="2" parentId="1">Авто</category>
+              <category id="3" parentId="2">Запчасти</category>
+              <category id="4" parentId="2">Шины и диски</category>
+              <category id="5" parentId="4">Шины</category>
+              <category id="6" parentId="4">Колесные диски</category>
+              <category id="7" parentId="2">Автохимия и автокосметика</category>
+          </categories>
+          <offers>
+              <offer id="00c00588d8c45435c783" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011001&amp;d=11118236</url>
+                  <price>463</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/06cbb2feb87a03c656055b2b72638f53e2e7cc0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer top 5w40, 1 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011001</vendorCode>
+                  <description>Hyundai  xteer top 5w40, 1 л, моторное масло синтетическое</description>
+                  <barcode>8809451096004</barcode>
+                  <param name="Вязкость">5W-40</param>
+                  <param name="Допуски производителей">MB 229.31/MB 229.51/BMW Longlife-04/VW 502 00/VW 505 00/VW 505 01/Renault RN 0700/Renault RN 0710/GM Dexos 2/Ford WSS-M2C 917-A/PORSCHE A40</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Объём">1</param>
+              </offer>
+              <offer id="cb8ee5ea51fc91b5db89" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011002&amp;d=11118236</url>
+                  <price>289</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0582eb2f0c722f2b949e6a7cc649b428d642820005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline ultra protection 5w30,  1 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011002</vendorCode>
+                  <description>Hyundai  xteer gasoline ultra protection 5w30,  1 л, моторное масло синтетическое</description>
+                  <barcode>8809451096011</barcode>
+                  <param name="Классификация API">SN</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Вязкость">5W-30</param>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Объём">1</param>
+              </offer>
+              <offer id="3e8fffc2f443ac164d3e" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011003&amp;d=11118236</url>
+                  <price>366</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/053f1b564e3a039e08edddf5ea40e2a25f4fc00005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer diesel ultra 5w30,  1 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011003</vendorCode>
+                  <description>Hyundai  xteer diesel ultra 5w30,  1 л, моторное масло синтетическое</description>
+                  <barcode>8809451096011</barcode>
+                  <param name="Объём">1</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Вязкость">5W-30</param>
+                  <param name="Допуски производителей">MB 229.31/MB 229.51/Renault RN 0700/Renault RN 0710/BMW Longlife-04/GM Dexos 2</param>
+              </offer>
+              <offer id="e8509ee4d4915099edbc" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011004&amp;d=11118236</url>
+                  <price>454</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05684aeea758105d01a65704db4c7bb34ae59a0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer top 5w30, 1л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011004</vendorCode>
+                  <description>Hyundai  xteer top 5w30, 1л, моторное масло синтетическое</description>
+                  <param name="Вязкость">5W-30</param>
+                  <param name="Объём">1</param>
+                  <param name="Допуски производителей">MB 229.31/MB 229.51/BMW Longlife-04/Renault RN 0700/Renault RN 0710/GM Dexos 2</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="2c5ea557d0b729756898" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011006&amp;d=11118236</url>
+                  <price>375</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/058c020aaa868b80b9f21300468f922b6262420005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer atf sp4,  1 л, трансмиссионное масло для акпп синтетическое HYUNDAI XTeer арт. 1011006</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011006</vendorCode>
+                  <description>Hyundai  xteer atf sp4,  1 л, трансмиссионное масло для акпп синтетическое</description>
+                  <barcode>8809451096059</barcode>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Допуски производителей">Hyundai SP-IV/KIA SP IV/Mitsubishi SP-IV/Toyota WS/Honda: DW-1</param>
+              </offer>
+              <offer id="3233c89d381160c98054" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011007&amp;d=11118236</url>
+                  <price>272</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05bbe8e4a7bee4346502b55a1a0a778a6dbad80005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline g700 20w50 sn, 1 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011007</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 20w50 sn, 1 л, моторное масло синтетическое</description>
+                  <barcode>8809451096066</barcode>
+                  <param name="Классификация API">SN</param>
+                  <param name="Вязкость">20W-50</param>
+                  <param name="Объём">1</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="c52f92d5c96d0c90e870" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011008&amp;d=11118236</url>
+                  <price>209</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05a3ee183e2aafbe8a60f87f1fe2aded74d98a0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline 10w30, 1 л моторное масло</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011008</vendorCode>
+                  <description>Hyundai  xteer gasoline 10w30, 1 л моторное масло</description>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Вязкость">10W-30</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Объём">1</param>
+              </offer>
+              <offer id="64fa9d2bd78c63521daf" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011009&amp;d=11118236</url>
+                  <price>256</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/06d0af3266359bc7530f90f409d3cee394424c0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline g700 10w40 sn,  1 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011009</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 10w40 sn,  1 л, моторное масло синтетическое</description>
+                  <param name="Вязкость">10W-40</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Объём">1</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="b0bff842d9513b5325c7" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011011&amp;d=11118236</url>
+                  <price>281</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/06f5661d78ce50dd6f794267ea84adee985c970005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer atf 3,  1л, трансмиссионное масло для акпп синтетическое HYUNDAI XTeer арт. 1011011</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011011</vendorCode>
+                  <description>Hyundai  xteer atf 3,  1л, трансмиссионное масло для акпп синтетическое</description>
+                  <barcode>8809451096103</barcode>
+                  <param name="Допуски производителей">Allison C4</param>
+                  <param name="Объём">1</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="2ecaf394cc5b1f8cf713" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011012&amp;d=11118236</url>
+                  <price>220</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/053df8c9d2285d06fd7a0bfec5975baaa4cb630005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer heavy duty  15w40, 1 л моторное масло</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011012</vendorCode>
+                  <description>Hyundai  xteer heavy duty  15w40, 1 л моторное масло</description>
+                  <barcode>8809451096110</barcode>
+                  <param name="Допуски производителей">MB 228.1/MB 229.1/Volvo VDS-2/MAN 271/MTU Type 1/Mack EO-M Plus/Cummins CES 20076/ZF TE-ML 04C</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Вязкость">15W-40</param>
+                  <param name="Объём">1</param>
+              </offer>
+              <offer id="f014ba35229a3e01a027" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011013&amp;d=11118236</url>
+                  <price>271</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0574fd47de4937a6dc95ee361701db6a8c09020005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline ultra efficiency 5w20,  1 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011013</vendorCode>
+                  <description>Hyundai  xteer gasoline ultra efficiency 5w20,  1 л, моторное масло синтетическое</description>
+                  <barcode>8809451096127</barcode>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Вязкость">5W-20</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Объём">1</param>
+                  <param name="Спецификация ILSAC">GF-5</param>
+              </offer>
+              <offer id="da4e7c23a3e580d2279f" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011017&amp;d=11118236</url>
+                  <price>330</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0567590848dfe076cf58f03056ce96d50f7c9a0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer gear oil-5 80w90,  1 л трансмиссионное масло HYUNDAI XTeer арт. 1011017</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011017</vendorCode>
+                  <description>Hyundai  xteer gear oil-5 80w90,  1 л трансмиссионное масло</description>
+                  <barcode>8809451096158</barcode>
+                  <param name="Вязкость">80W-90</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Объём">1</param>
+                  <param name="Классификация API">GL-5</param>
+              </offer>
+              <offer id="73944ff6b075ec847a95" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011018&amp;d=11118236</url>
+                  <price>312</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05eab08d2955804f762a473163bb194ea8b1920005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer gear oil-4 80w90,  1 л, трансмиссионное масло универсальное HYUNDAI XTeer арт. 1011018</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011018</vendorCode>
+                  <description>Hyundai  xteer gear oil-4 80w90,  1 л, трансмиссионное масло универсальное</description>
+                  <param name="Объём">1</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Вязкость">80W-90</param>
+                  <param name="Классификация API">GL-4</param>
+              </offer>
+              <offer id="eb289b2f7def5fb4defd" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011019&amp;d=11118236</url>
+                  <price>290</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0699bce5d6ac5b90e786c3e1afd075dd1211410005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline ultra protection 10w40, 1 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011019</vendorCode>
+                  <description>Hyundai  xteer gasoline ultra protection 10w40, 1 л, моторное масло синтетическое</description>
+                  <param name="Вязкость">10W-40</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Объём">1</param>
+                  <param name="Классификация API">SN</param>
+              </offer>
+              <offer id="e05d527f9a2c8bc5573f" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011034&amp;d=11118236</url>
+                  <price>342</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/067d2eb7d363bd39f602e15b5cda4b9e5a99690005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer gear oil-5 lsd 80w90,  1 л, трансмиссионное масло универсальное HYUNDAI XTeer арт. 1011034</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011034</vendorCode>
+                  <description>Hyundai  xteer gear oil-5 lsd 80w90,  1 л, трансмиссионное масло универсальное</description>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Классификация API">GL-5</param>
+                  <param name="Объём">1</param>
+                  <param name="Вязкость">80W-90</param>
+              </offer>
+              <offer id="1ff3f9e02c70e1d4425f" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011115&amp;d=11118236</url>
+                  <price>466</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05dbff8a53c0bd6f945516db02ad108d1595660005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer top prime 5w30, 1 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011115</vendorCode>
+                  <description>Hyundai  xteer top prime 5w30, 1 л, моторное масло синтетическое</description>
+                  <param name="Допуски производителей">MB 229.31/MB 229.51/BMW Longlife-04/VW 502 00/VW 505 00/VW 505 01/Renault RN 0700/Renault RN 0710/GM Dexos 2/Ford WSS-M2C 917-A</param>
+                  <param name="Объём">1</param>
+                  <param name="Вязкость">5W-30</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="ae95b68d91d48233557c" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011116&amp;d=11118236</url>
+                  <price>270</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05b7e46351b0e6259114a76ddbc9f6767f5df70005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer top prime 5w40, 1 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011116</vendorCode>
+                  <description>Hyundai  xteer top prime 5w40, 1 л, моторное масло синтетическое</description>
+                  <param name="Вязкость">5W-40</param>
+                  <param name="Допуски производителей">MB 229.31/MB 229.51/BMW Longlife-04/VW 502 00/VW 505 00/VW 505 01/Renault RN 0700/Renault RN 0710/GM Dexos 2/Ford WSS-M2C 917-A</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Объём">1</param>
+              </offer>
+              <offer id="ab60c1aff5bc349fc4da" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011126&amp;d=11118236</url>
+                  <price>306</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0624eae1fa3f3d4f8f8e88a4abdb7b283b49640005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline ultra protection 5w40_sn,  1 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011126</vendorCode>
+                  <description>Hyundai  xteer gasoline ultra protection 5w40_sn,  1 л, моторное масло синтетическое</description>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Вязкость">5W-40</param>
+                  <param name="Объём">1</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="e6363dff2bfc62d9ae66" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011135&amp;d=11118236</url>
+                  <price>257</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0575012bd5eebdcdab86281a21a3b04d9787660005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline g700 5w30 sn, 1 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011135</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 5w30 sn, 1 л, моторное масло синтетическое</description>
+                  <param name="Объём">1</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Вязкость">5W-30</param>
+                  <param name="Классификация API">SN</param>
+              </offer>
+              <offer id="4cc4290bad3df408ce00" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011223&amp;d=11118236</url>
+                  <price>373</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/055a0f4560559a27fc23cac05039d92cd2e63c0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer diesel ultra 5w40,  1 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011223</vendorCode>
+                  <description>Hyundai  xteer diesel ultra 5w40,  1 л, моторное масло синтетическое</description>
+                  <param name="Допуски производителей">MB 229.31/MB 229.51/VW 502 00/VW 505 01/BMW Longlife-04/GM Dexos 2</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Спецификация ACEA">C3</param>
+                  <param name="Объём">1</param>
+                  <param name="Вязкость">5W-40</param>
+              </offer>
+              <offer id="ead9904ef57964e84f61" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1011224&amp;d=11118236</url>
+                  <price>299</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/06715191a438977adce08c599a6e2a7049c4000005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer diesel ultra c3 5w30,  1 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1011224</vendorCode>
+                  <description>Hyundai  xteer diesel ultra c3 5w30,  1 л, моторное масло синтетическое</description>
+                  <param name="Вязкость">5W-30</param>
+                  <param name="Объём">1</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Спецификация ACEA">C3</param>
+              </offer>
+              <offer id="e66b861e22fa551bb427" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041001&amp;d=11118236</url>
+                  <price>938</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/065ebd7d455ab450d1a64a8977cc0fe51f56d40005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline ultra efficiency 5w20,  4 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041001</vendorCode>
+                  <description>Hyundai  xteer gasoline ultra efficiency 5w20,  4 л, моторное масло синтетическое</description>
+                  <barcode>8809451096219</barcode>
+                  <param name="Объём">4</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Вязкость">5W-20</param>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="44dfbe5450905c350087" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041002&amp;d=11118236</url>
+                  <price>992</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/06b30d65d24bf0b4988cc41f72d2fa436d83970005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline ultra protection 5w30, 4 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041002</vendorCode>
+                  <description>Hyundai  xteer gasoline ultra protection 5w30, 4 л, моторное масло синтетическое</description>
+                  <barcode>8809451096226</barcode>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Объём">4</param>
+                  <param name="Вязкость">5W-30</param>
+              </offer>
+              <offer id="fa6f3e74cf89784c9075" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041003&amp;d=11118236</url>
+                  <price>885</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05fe5a8aca199786393d14a9100f12d3eb790c0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline g700 10w30 sn,  4 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041003</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 10w30 sn,  4 л, моторное масло синтетическое</description>
+                  <barcode>8809451096233</barcode>
+                  <param name="Вязкость">10W-30</param>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Объём">4</param>
+                  <param name="Классификация API">SN</param>
+              </offer>
+              <offer id="71ddd0236e18fe56ab1a" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041007&amp;d=11118236</url>
+                  <price>958</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/06f5ee0de2a6bc80ce474868c39f901018d85f0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer hd 7000 15w40  ci-4,  4 л, моторное масло минеральное</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041007</vendorCode>
+                  <description>Hyundai  xteer hd 7000 15w40  ci-4,  4 л, моторное масло минеральное</description>
+                  <barcode>8809451096264</barcode>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Объём">4</param>
+                  <param name="Вязкость">15W-40</param>
+                  <param name="Допуски производителей">MB 228.1/MB 229.1/Volvo VDS-2/MAN 271/MTU Type 1/Mack EO-M Plus/Cummins CES 20076/ZF TE-ML 04C</param>
+              </offer>
+              <offer id="0e45c318846b21f96cef" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041009&amp;d=11118236</url>
+                  <price>1005</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/064176712f83cc4a6bbf85452e2b067cfae8520005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer atf 3,  4 л, трансмиссионное масло для акпп синтетическое HYUNDAI XTeer арт. 1041009</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041009</vendorCode>
+                  <description>Hyundai  xteer atf 3,  4 л, трансмиссионное масло для акпп синтетическое</description>
+                  <param name="Объём">4</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Допуски производителей">Allison C4</param>
+              </offer>
+              <offer id="60f0dc4e8e972ac57623" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041011&amp;d=11118236</url>
+                  <price>980</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0582c8281ee5987d5568fcc5b37eb283aaed190005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline g700 20w50 sn, 4 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041011</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 20w50 sn, 4 л, моторное масло синтетическое</description>
+                  <barcode>8809451096295</barcode>
+                  <param name="Вязкость">20W-50</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Объём">4</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="6823a1b9ba2a98f50520" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041014&amp;d=11118236</url>
+                  <price>912</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05ef8e0696864f0bc9a4d741c73795b94d12820005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline g700 10w40 sn,  4 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041014</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 10w40 sn,  4 л, моторное масло синтетическое</description>
+                  <barcode>8809451096325</barcode>
+                  <param name="Вязкость">10W-40</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Объём">4</param>
+              </offer>
+              <offer id="40565ec26e6dc4417ae5" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041017&amp;d=11118236</url>
+                  <price>1378</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/06516f4ed2430ecdae09579aa573d3f0e7b57c0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer atf sp4,  4л, трансмиссионное масло для акпп синтетическое HYUNDAI XTeer арт. 1041017</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041017</vendorCode>
+                  <description>Hyundai  xteer atf sp4,  4л, трансмиссионное масло для акпп синтетическое</description>
+                  <param name="Допуски производителей">Hyundai SP-IV/KIA SP IV/Mitsubishi SP-IV/Toyota WS/Honda: DW-1</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="6cea8e755af6a9e3410d" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041019&amp;d=11118236</url>
+                  <price>1000</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05584991de2361bfb571887c5d4227322cd9a50005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline ultra protection 10w40, 4 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041019</vendorCode>
+                  <description>Hyundai  xteer gasoline ultra protection 10w40, 4 л, моторное масло синтетическое</description>
+                  <param name="Классификация API">SN</param>
+                  <param name="Объём">4</param>
+                  <param name="Вязкость">10W-40</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="d4d0c4402d9c53ef987d" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041044&amp;d=11118236</url>
+                  <price>780</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05e7139860ce6cbf4a66f25f0c322be68dd25e0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline g500 10w40 sl, 4 л моторное масло</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041044</vendorCode>
+                  <description>Hyundai  xteer gasoline g500 10w40 sl, 4 л моторное масло</description>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Объём">4</param>
+                  <param name="Классификация API">SL</param>
+                  <param name="Вязкость">10W-40</param>
+              </offer>
+              <offer id="c06af4ebff474d16df85" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041126&amp;d=11118236</url>
+                  <price>1022</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/06c61b66cdca927de1add9b2e0fef36a7531bd0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline ultra protection 5w40_sn,  4 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041126</vendorCode>
+                  <description>Hyundai  xteer gasoline ultra protection 5w40_sn,  4 л, моторное масло синтетическое</description>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Объём">4</param>
+                  <param name="Вязкость">5W-40</param>
+              </offer>
+              <offer id="1c8f4c083b6fcd9f817f" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041135&amp;d=11118236</url>
+                  <price>894</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05060c0e1d8600758f805394d9ee92e9c2e19c0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline g700 5w30 sn, 4 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041135</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 5w30 sn, 4 л, моторное масло синтетическое</description>
+                  <param name="Классификация API">SN</param>
+                  <param name="Вязкость">5W-30</param>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Объём">4</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="12aa5875903499e29bc4" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041136&amp;d=11118236</url>
+                  <price>924</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0604eddd0b90aaab81be4fadc3316b7502c1370005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline g700 5w40 sn, 4 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041136</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 5w40 sn, 4 л, моторное масло синтетическое</description>
+                  <param name="Объём">4</param>
+                  <param name="Вязкость">5W-40</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="037e4bee8284e7986d9c" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041222&amp;d=11118236</url>
+                  <price>1412</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05aaa2d31b59eb30ff05aa02987a66409f71430005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer diesel ultra 5w30,  4 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041222</vendorCode>
+                  <description>Hyundai  xteer diesel ultra 5w30,  4 л, моторное масло синтетическое</description>
+                  <param name="Вязкость">5W-30</param>
+                  <param name="Объём">4</param>
+                  <param name="Допуски производителей">MB 229.31/MB 229.51/Renault RN 0700/Renault RN 0710/BMW Longlife-04/GM Dexos 2</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="91b3f0fc69f9859bafaf" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041421&amp;d=11118236</url>
+                  <price>1130</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05eb0f844c8ad72a5b3cbe401a091cc0e271010005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer gear oil-4 80w90,  4 л, трансмиссионное масло универсальное HYUNDAI XTeer арт. 1041421</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041421</vendorCode>
+                  <description>Hyundai  xteer gear oil-4 80w90,  4 л, трансмиссионное масло универсальное</description>
+                  <param name="Классификация API">GL-4</param>
+                  <param name="Объём">4</param>
+                  <param name="Вязкость">80W-90</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="3bc6bcfd55731d419a7d" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041422&amp;d=11118236</url>
+                  <price>1202</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/051626c986fe5a1e884a0811842852f03eda3b0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer gear oil-5 80w90,  4 л трансмиссионное масло HYUNDAI XTeer арт. 1041422</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041422</vendorCode>
+                  <description>Hyundai  xteer gear oil-5 80w90,  4 л трансмиссионное масло</description>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Вязкость">80W-90</param>
+                  <param name="Классификация API">GL-5</param>
+                  <param name="Объём">4</param>
+              </offer>
+              <offer id="e6b50b859d145a4823d1" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1041423&amp;d=11118236</url>
+                  <price>1255</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0642c9919ea550f2e4ee8af06fe624583b8f950005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer gear oil-5 lsd 80w90,  4 л, трансмиссионное масло универсальное HYUNDAI XTeer арт. 1041423</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1041423</vendorCode>
+                  <description>Hyundai  xteer gear oil-5 lsd 80w90,  4 л, трансмиссионное масло универсальное</description>
+                  <param name="Вязкость">80W-90</param>
+                  <param name="Классификация API">GL-5</param>
+                  <param name="Объём">4</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="cb584ccfc6af2ff0cd12" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1061001&amp;d=11118236</url>
+                  <price>1963</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/069f82482ee0b93e5f51f95b2daad6e80283210005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer diesel ultra 5w30,  6 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1061001</vendorCode>
+                  <description>Hyundai  xteer diesel ultra 5w30,  6 л, моторное масло синтетическое</description>
+                  <barcode>8809451096417</barcode>
+                  <param name="Допуски производителей">MB 229.31/MB 229.51/Renault RN 0700/Renault RN 0710/BMW Longlife-04/GM Dexos 2</param>
+                  <param name="Вязкость">5W-30</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Объём">6</param>
+              </offer>
+              <offer id="4e7213a7c25e80f09c5c" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1061005&amp;d=11118236</url>
+                  <price>1366</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/054c7180885fee45a37c7bea49ab1dab800d740005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer hd 7000 ci-4 15w40, 6 л моторное масло</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1061005</vendorCode>
+                  <description>Hyundai  xteer hd 7000 ci-4 15w40, 6 л моторное масло</description>
+                  <barcode>8809451096455</barcode>
+                  <param name="Допуски производителей">MB 228.1/MB 229.1/Volvo VDS-2/MAN 271/MTU Type 1/Mack EO-M Plus/Cummins CES 20076/ZF TE-ML 04C</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Вязкость">15W-40</param>
+                  <param name="Объём">6</param>
+              </offer>
+              <offer id="8e67be0229a6c0a66da4" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1061011&amp;d=11118236</url>
+                  <price>1457</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/051c522b25ffdccc3f6f2ce86cb3bf87a0385f0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline ultra protection 5w30,  6 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1061011</vendorCode>
+                  <description>Hyundai  xteer gasoline ultra protection 5w30,  6 л, моторное масло синтетическое</description>
+                  <param name="Объём">6</param>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Вязкость">5W-30</param>
+              </offer>
+              <offer id="0c4b32807a73a6d0bd84" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1061012&amp;d=11118236</url>
+                  <price>1299</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/050ceff7b64cc3f0623eee921ae684e7e0a4cb0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline g700 10w30 sn, 6 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1061012</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 10w30 sn, 6 л, моторное масло синтетическое</description>
+                  <param name="Вязкость">10W-30</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Объём">6</param>
+              </offer>
+              <offer id="258632facb80f4ba1755" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1061126&amp;d=11118236</url>
+                  <price>1496</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05da6267841ed74dda86ec9d876bf2b56ff9040005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline ultra protection 5w40_sn,  6 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1061126</vendorCode>
+                  <description>Hyundai  xteer gasoline ultra protection 5w40_sn,  6 л, моторное масло синтетическое</description>
+                  <param name="Вязкость">5W-40</param>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Объём">6</param>
+              </offer>
+              <offer id="796ef936032afb9db4fa" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1061135&amp;d=11118236</url>
+                  <price>1307</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0557c268e528349725d8f133cbc0fc426898da0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline g700 5w30 sn, 6 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1061135</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 5w30 sn, 6 л, моторное масло синтетическое</description>
+                  <param name="Вязкость">5W-30</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Объём">6</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="65d4b850ad899c27e51b" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1061136&amp;d=11118236</url>
+                  <price>1352</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0625fe085b3102b43947f3a6f9629b14fd03ba0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline g700 5w40 sn, 6 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1061136</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 5w40 sn, 6 л, моторное масло синтетическое</description>
+                  <param name="Классификация API">SN</param>
+                  <param name="Объём">6</param>
+                  <param name="Вязкость">5W-40</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="4bd1cbfa008d7aa6c14e" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1061223&amp;d=11118236</url>
+                  <price>2000</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/066da4ded077c3def58c576fd02463febc4bc50005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer diesel ultra 5w40,  6 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1061223</vendorCode>
+                  <description>Hyundai  xteer diesel ultra 5w40,  6 л, моторное масло синтетическое</description>
+                  <param name="Объём">6</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Спецификация ACEA">C3</param>
+                  <param name="Вязкость">5W-40</param>
+                  <param name="Допуски производителей">MB 229.31/MB 229.51/VW 502 00/VW 505 01/BMW Longlife-04/GM Dexos 2</param>
+              </offer>
+              <offer id="cf3f19222288bb95a49d" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1061224&amp;d=11118236</url>
+                  <price>1590</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/056331da6c277804f9241e81052764447a8b180005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer diesel ultra c3 5w30,  6 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1061224</vendorCode>
+                  <description>Hyundai  xteer diesel ultra c3 5w30,  6 л, моторное масло синтетическое</description>
+                  <param name="Объём">6</param>
+                  <param name="Вязкость">5W-30</param>
+                  <param name="Спецификация ACEA">C3</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="0927ef33026421d6ebdf" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1120002&amp;d=11118236</url>
+                  <price>5189</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/054a8090c98b7f7944077b852e5e27002b96860005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer hd ultra 10w40,  20 л моторное масло</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1120002</vendorCode>
+                  <description>Hyundai  xteer hd ultra 10w40,  20 л моторное масло</description>
+                  <barcode>8809852999089</barcode>
+                  <param name="Классификация API">CJ-4</param>
+                  <param name="Допуски производителей">MB 228.31/MAN M3575</param>
+                  <param name="Спецификация ACEA">E9</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Вязкость">10W-40</param>
+                  <param name="Объём">20</param>
+              </offer>
+              <offer id="91d7575e06841d137106" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1120006&amp;d=11118236</url>
+                  <price>4820</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05b2016bf09752cd0e082766f223fb7ff7aab40005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer atf 3,  20 л, трансмиссионное масло для акпп HYUNDAI XTeer арт. 1120006</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1120006</vendorCode>
+                  <description>Hyundai  xteer atf 3,  20 л, трансмиссионное масло для акпп</description>
+                  <param name="Допуски производителей">Allison C4</param>
+                  <param name="Объём">20</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="61f77448f3d41b0b8ac8" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1120007&amp;d=11118236</url>
+                  <price>5461</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/06710feff62371d231f26f3e887477cb13ffaa0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer gear oil-4 80w90,  20 л, трансмиссионное масло универсальное HYUNDAI XTeer арт. 1120007</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1120007</vendorCode>
+                  <description>Hyundai  xteer gear oil-4 80w90,  20 л, трансмиссионное масло универсальное</description>
+              </offer>
+              <offer id="ee4659ca8d889be5f758" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1120008&amp;d=11118236</url>
+                  <price>5814</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/055836b690d85f866868dca9c77f417264748c0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer gear oil-5 80w90,  20 л трансмиссионное масло HYUNDAI XTeer арт. 1120008</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1120008</vendorCode>
+                  <description>Hyundai  xteer gear oil-5 80w90,  20 л трансмиссионное масло</description>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Классификация API">GL-5</param>
+                  <param name="Вязкость">80W-90</param>
+                  <param name="Объём">20</param>
+              </offer>
+              <offer id="e7d6ecd49468479623f6" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1121003&amp;d=11118236</url>
+                  <price>4483</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/069673a0d3d0bc11b6d1771e87b83b9eebfa5d0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer hd 7000 ci-4 15w40, 20 л моторное масло</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1121003</vendorCode>
+                  <description>Hyundai  xteer hd 7000 ci-4 15w40, 20 л моторное масло</description>
+                  <param name="Вязкость">15W-40</param>
+                  <param name="Допуски производителей">MB 228.1/MB 229.1/Volvo VDS-2/MAN 271/MTU Type 1/Mack EO-M Plus/Cummins CES 20076/ZF TE-ML 04C</param>
+                  <param name="Объём">20</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="67d31473278255be413a" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1121014&amp;d=11118236</url>
+                  <price>6713</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/051de75cea08b8d671f53893eec4e04abe7f1f0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer atf sp4,  20 л, трансмиссионное масло для акпп синтетическое HYUNDAI XTeer арт. 1121014</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1121014</vendorCode>
+                  <description>Hyundai  xteer atf sp4,  20 л, трансмиссионное масло для акпп синтетическое</description>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Объём">20</param>
+                  <param name="Допуски производителей">Hyundai SP-IV/KIA SP IV/Mitsubishi SP-IV/Toyota WS/Honda: DW-1</param>
+              </offer>
+              <offer id="bb9cd5b809c576b200bc" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1200003&amp;d=11118236</url>
+                  <price>40890</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/050cc67f5cd8e8f883f76625d6a605f72f62120005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer hd 7000 ci-4 15w40, 200 л моторное масло HYUNDAI XTeer арт. 1200003</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1200003</vendorCode>
+                  <description>Hyundai  xteer hd 7000 ci-4 15w40, 200 л моторное масло</description>
+              </offer>
+              <offer id="861c01a2398741572053" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1200006&amp;d=11118236</url>
+                  <price>43939</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/06b50c33d45c7cb7488fabfcf9c2c42b0d6d5b0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer atf 3,  200 л, трансмиссионное масло для акпп синтетическое HYUNDAI XTeer арт. 1200006</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1200006</vendorCode>
+                  <description>Hyundai  xteer atf 3,  200 л, трансмиссионное масло для акпп синтетическое</description>
+                  <param name="Объём">200</param>
+                  <param name="Допуски производителей">Allison C4</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="f2dc727df7b5e17718bb" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1200007&amp;d=11118236</url>
+                  <price>50459</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0606ba14534f16a27b5cb121e891a41b7a3afb0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer gear oil-4 80w90,  200 л, трансмиссионное масло универсальное HYUNDAI XTeer арт. 1200007</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1200007</vendorCode>
+                  <description>Hyundai  xteer gear oil-4 80w90,  200 л, трансмиссионное масло универсальное</description>
+              </offer>
+              <offer id="20aea97c528fa1ca4ade" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1200010&amp;d=11118236</url>
+                  <price>37714</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/062ab5f17ebe689b04678ba6d9a08267f9db1b0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer gasoline g700 10w30 sn, 200 л, моторное масло синтетическое HYUNDAI XTeer арт. 1200010</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1200010</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 10w30 sn, 200 л, моторное масло синтетическое</description>
+              </offer>
+              <offer id="1777b9a0f1d291ce88a1" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1200011&amp;d=11118236</url>
+                  <price>33964</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05896bd29213580eb55699529d87634e0a8910005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer diesel 10w30, 200 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1200011</vendorCode>
+                  <description>Hyundai  xteer diesel 10w30, 200 л, моторное масло синтетическое</description>
+                  <param name="Вязкость">10W-30</param>
+                  <param name="Объём">200</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="842a489d9805a61e144f" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1200014&amp;d=11118236</url>
+                  <price>40386</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/05999c9a6c184258cb151b348f6c24711991b0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline ultra efficiency 5w20, 200 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1200014</vendorCode>
+                  <description>Hyundai  xteer gasoline ultra efficiency 5w20, 200 л, моторное масло синтетическое</description>
+                  <param name="Вязкость">5W-20</param>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Объём">200</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="f17bc183656459e72b6e" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1200015&amp;d=11118236</url>
+                  <price>58864</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/053b4389c06bde4b4f32053f39fb165328eb70005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer diesel ultra 5w30,  200 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1200015</vendorCode>
+                  <description>Hyundai  xteer diesel ultra 5w30,  200 л, моторное масло синтетическое</description>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Объём">200</param>
+                  <param name="Вязкость">5W-30</param>
+                  <param name="Допуски производителей">MB 229.31/MB 229.51/Renault RN 0700/Renault RN 0710/BMW Longlife-04/GM Dexos 2</param>
+              </offer>
+              <offer id="6f4a2917ace20d527435" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1200016&amp;d=11118236</url>
+                  <price>43058</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/066245b6fb16b17a6cacd5068f2e43be1df1a10005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline ultra protection 5w30,  200 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1200016</vendorCode>
+                  <description>Hyundai  xteer gasoline ultra protection 5w30,  200 л, моторное масло синтетическое</description>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Объём">200</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Вязкость">5W-30</param>
+              </offer>
+              <offer id="918befa1b340e1cc3efe" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1200017&amp;d=11118236</url>
+                  <price>62593</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0536ac96e6fbb1f4f212d579ba76298078a4a00005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer atf sp4,  200 л, трансмиссионное масло для акпп синтетическое HYUNDAI XTeer арт. 1200017</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1200017</vendorCode>
+                  <description>Hyundai  xteer atf sp4,  200 л, трансмиссионное масло для акпп синтетическое</description>
+                  <param name="Объём">200</param>
+                  <param name="Допуски производителей">Mitsubishi SP-IV/Toyota WS/Honda: DW-1/Hyundai SP-IV/KIA SP IV</param>
+                  <param name="Состав масла">синтетика</param>
+              </offer>
+              <offer id="a54f2fc5aba851682828" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1200025&amp;d=11118236</url>
+                  <price>44555</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/063bc8168817d7177673d0d28678ae5bdbc6050005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline ultra protection 5w40_sn,  200 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1200025</vendorCode>
+                  <description>Hyundai  xteer gasoline ultra protection 5w40_sn,  200 л, моторное масло синтетическое</description>
+                  <param name="Классификация API">SN</param>
+                  <param name="Спецификация ILSAC">GF-5</param>
+                  <param name="Объём">200</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Вязкость">5W-40</param>
+              </offer>
+              <offer id="fe9a1a7e4c29116e5a68" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1200027&amp;d=11118236</url>
+                  <price>39609</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>7</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0511d770e1f950bb92f0763688120dc50e5b90005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>HYUNDAI XTeer Hyundai  xteer gasoline g700 10w40 sn,  200 л, моторное масло синтетическое</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1200027</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 10w40 sn,  200 л, моторное масло синтетическое</description>
+                  <param name="Объём">200</param>
+                  <param name="Состав масла">синтетика</param>
+                  <param name="Классификация API">SN</param>
+                  <param name="Вязкость">10W-40</param>
+              </offer>
+              <offer id="5700695b2b4110ef142d" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1200044&amp;d=11118236</url>
+                  <price>33633</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/0616d408fa97a91a8e76fb62a1e89528fe942d0005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer gasoline g500 10w40 sl, 200 л моторное масло HYUNDAI XTeer арт. 1200044</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1200044</vendorCode>
+                  <description>Hyundai  xteer gasoline g500 10w40 sl, 200 л моторное масло</description>
+              </offer>
+              <offer id="663b866135d497cc8523" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1200135&amp;d=11118236</url>
+                  <price>38087</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/06e2cf6029eeefb8a2d773f42662fc0c51be840005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer gasoline g700 5w30 sn, 200 л, моторное масло синтетическое HYUNDAI XTeer арт. 1200135</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1200135</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 5w30 sn, 200 л, моторное масло синтетическое</description>
+              </offer>
+              <offer id="6474bd88dfd928d8a958" available="true">
+                  <url>https://unispart.ru/?page=goods_info&amp;brand=HYUNDAI+XTeer&amp;number=1200136&amp;d=11118236</url>
+                  <price>38897</price>
+                  <currencyId>RUB</currencyId>
+                  <categoryId>3</categoryId>
+                  <picture>https://pubimg.4mycar.ru/images/06840f8f1ef54beea12c6f53ef251391b2bd460005.jpeg</picture>
+                  <pickup>true</pickup>
+                  <delivery>false</delivery>
+                  <name>Hyundai  xteer gasoline g700 5w40 sn, 200 л, моторное масло синтетическое HYUNDAI XTeer арт. 1200136</name>
+                  <vendor>HYUNDAI XTeer</vendor>
+                  <vendorCode>1200136</vendorCode>
+                  <description>Hyundai  xteer gasoline g700 5w40 sn, 200 л, моторное масло синтетическое</description>
+              </offer>
+          </offers>
+      </shop>
+  </yml_catalog>

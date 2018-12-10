@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog
+  SYSTEM 'shops.dtd'>
+<yml_catalog date="2019-01-10 13:37">
+  <shop>
+    <name>МиниМи - свежая еда для ваших питомцев</name>
+    <company>МиниМи - свежая еда для ваших питомцев</company>
+    <url>http://minimepets.ru</url>
+    <date>2019-01-10 13:37</date>
+    <platform>1C-Bitrix</platform>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+      <currency id="USD" rate="32.3"/>
+      <currency id="EUR" rate="43.8"/>
+      <currency id="UAH" rate="3.941"/>
+      <currency id="BYR" rate="0.003672"/>
+    </currencies>
+    <categories>
+      <category id="67">товары для goods.ru</category>
+    </categories>
+    <offers>
+      <offer available="true" id="1738">
+        <url>http://minimepets.ru/catalog/lakomstva/dogits_lakomstvo_funktsionalnoe_dlya_pishchevareniya_dlya_sobak_60g/?r1=yandext&amp;r2=</url>
+        <price>110</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/3e8/IMG_6539.jpg</picture>
+        <name>Миними</name>
+        <model>ДОГИТС Лакомство функциональное &quot;Для пищеварения&quot; для собак, 60г</model>
+        <description>Догитс – это полезные лакомства для собак, которые можно смело давать питомцу, не опасаясь нарушить привычную диету. Вкусные сердечки могут служить удобным поощрением во время дрессировки или обычной прогулки.
+ Наши лакомства приготовлены из натуральных ингредиентов Human Grade (т.е. их можем есть мы с вами) и выпечены при температуре 90С, что позволяет сохранить все полезные свойства, а также натуральный мясной вкус.
+Догитс для пищеварения 60г: мясо индейки-53%, рисовые хлопья-44%, свекольная клетчатка, минералы и витамины, цикорий. 
+Цикорий-источник пребиотиков, которые попадая в организм, становятся пищей для полезных бактерий, что стимулирует пищеварение и иммунитет.</description>
+        <manufacturer_warranty>Доггитс</manufacturer_warranty>
+        <vendorCode>7762</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1742">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_koshki_ombre_cherno_belyy/?r1=yandext&amp;r2=</url>
+        <price>3400</price>
+        <oldprice>5100</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/8c9/ombre_BW1-_1_.jpg</picture>
+        <name>Домик для кошки &quot;Омбре&quot; (черно-белый)</name>
+        <model>Домик для кошки &quot;Омбре&quot; (черно-белый)</model>
+        <description>Домик бренда &quot;quot;Dharma Dog Karm&quot; Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукц&quot;и бренда &quot;Dharm&quot; Dog Karma C&quot;t&quot; назыв&quot;ется «Мокрый войлок» - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>910001</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1744">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_koshki_ombre_prirodnyy/?r1=yandext&amp;r2=</url>
+        <price>3400</price>
+        <oldprice>5100</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/363/Ombre_Natural_preview-_1_.jpeg</picture>
+        <name>Домик для кошки &quot;Омбре&quot; (серо-белый)</name>
+        <model>Домик для кошки &quot;Омбре&quot; (серо-белый)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>910005</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1745">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_koshki_ombre_purpurnyy/?r1=yandext&amp;r2=</url>
+        <price>3400</price>
+        <oldprice>5100</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/714/DDKC_Ombre_Magenta-_1_.jpg</picture>
+        <name>Домик для кошки &quot;Омбре&quot; (пурпурный)</name>
+        <model>Домик для кошки &quot;Омбре&quot; (пурпурный)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>910101</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1746">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_koshki_ombre_sine_zelenyy/?r1=yandext&amp;r2=</url>
+        <price>3400</price>
+        <oldprice>5100</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/3d8/DDKC_Ombre_BlueGreen.jpg</picture>
+        <name>Домик для кошки &quot;Омбре&quot; (сине-зеленый)</name>
+        <model>Домик для кошки &quot;Омбре&quot; (сине-зеленый)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>910102</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1747">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_koshki_mysh_seryy/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/0f9/1367_shop1_550352.jpg</picture>
+        <name>Домик для кошки &quot;Мышка&quot; (серый)</name>
+        <model>Домик для кошки &quot;Мышка&quot; (серый)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>910401</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1748">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_koshki_mysh_goluboy/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/275/Mouse_Blue-_1_.jpg</picture>
+        <name>Домик для кошки &quot;Мышка&quot; (голубой)</name>
+        <model>Домик для кошки &quot;Мышка&quot; (голубой)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>910402</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1749">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_koshki_mysh_rozovyy/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/a36/Mouse_Pink_preview.jpeg</picture>
+        <name>Домик для кошки &quot;Мышка&quot; (розовый)</name>
+        <model>Домик для кошки &quot;Мышка&quot; (розовый)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>910403</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1751">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_koshki_ryba_biryuzovyy/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/bf7/Fish_Turquoise-_1_.jpg</picture>
+        <name>Домик для кошки &quot;Рыба&quot; (бирюзовый)</name>
+        <model>Домик для кошки &quot;Рыба&quot; (бирюзовый)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>910505</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1752">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_koshki_ryba_oranzhevyy/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/ba0/Cave_Fish_Orange_e1496232072991-_1_.jpg</picture>
+        <name>Домик для кошки &quot;Рыба&quot; (оранжевый)</name>
+        <model>Домик для кошки &quot;Рыба&quot; (оранжевый)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>910506</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1753">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_koshki_ryba_siniy/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/52b/Fish_Blue.jpg</picture>
+        <name>Домик для кошки &quot;Рыба&quot; (синий)</name>
+        <model>Домик для кошки &quot;Рыба&quot; (синий)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>910507</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1754">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_koshki_elka/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/db5/XmasTree_preview.jpeg</picture>
+        <name>Домик для кошки &quot;Рождественская ёлка&quot;</name>
+        <model>Домик для кошки &quot;Рождественская ёлка&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>910701</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1756">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_d_zhivotnykh_kot_chernyy/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/d6f/Cat_Black-_1_.jpg</picture>
+        <name>Домик для животных &quot;Кот&quot; (черный)</name>
+        <model>Домик для животных &quot;Кот&quot; (черный)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>910902</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1757">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_d_zhivotnykh_kot_biryuzovyy/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/284/Cat_Turquoise_1.jpg</picture>
+        <name>Домик для животных &quot;Кот&quot; (бирюзовый)</name>
+        <model>Домик для животных &quot;Кот&quot; (бирюзовый)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>910904</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1758">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_d_zhivotnykh_kot_prirodnyy/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/0bd/Cat_Natural-_1_.jpg</picture>
+        <name>Домик для животных &quot;Кот&quot; (серый)</name>
+        <model>Домик для животных &quot;Кот&quot; (серый)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>910905</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1759">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_d_zhivotnykh_monstr_zelenyy/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/466/Monster_Green_1.jpg</picture>
+        <name>Домик для животных &quot;Монстр&quot; (зеленый)</name>
+        <model>Домик для животных &quot;Монстр&quot; (зеленый)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>911001</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1760">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_d_zhivotnykh_monstr_biryuzovyy/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/248/Monster_Turq-_1_.jpg</picture>
+        <name>Домик для животных &quot;Монстр&quot; (бирюзовый)</name>
+        <model>Домик для животных &quot;Монстр&quot; (бирюзовый)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>911002</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1762">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_d_zhivotnykh_kolpak_santy/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/0d6/DDKC_SantaHat_Cave-_1_.jpg</picture>
+        <name>Домик для животных &quot;Колпак Санты&quot;</name>
+        <model>Домик для животных &quot;Колпак Санты&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>911100</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1764">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_d_zhivotnykh_buket_sero_siniy/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/3d4/Bouquet_GreyBlue_1-_1_.jpg</picture>
+        <name>Домик для животных &quot;Букет&quot; (серо-синий)</name>
+        <model>Домик для животных &quot;Букет&quot; (серо-синий)</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>912002</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1766">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_d_zhivotnykh_domik_fei/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/a74/FairyHouse1.jpg</picture>
+        <name>Домик для животных &quot;Домик феи&quot;</name>
+        <model>Домик для животных &quot;Домик феи&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>912100</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1767">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_d_zhivotnykh_kit/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/858/DSC_3662_copy-_1_.jpg</picture>
+        <name>Домик для животных &quot;Кит&quot;</name>
+        <model>Домик для животных &quot;Кит&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>912200</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1768">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_dom_dlya_d_zhivotnykh_kosatka/?r1=yandext&amp;r2=</url>
+        <price>3900</price>
+        <oldprice>5800</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/6bd/DSC_3652_copy.jpg</picture>
+        <name>Домик для животных &quot;Косатка&quot;</name>
+        <model>Домик для животных &quot;Косатка&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>912300</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2242">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_korzina_dlya_d_zhivotnykh_lepestki_zelenyy/?r1=yandext&amp;r2=</url>
+        <price>2700</price>
+        <vat>0</vat>
+        <oldprice>3900</oldprice>
+        <currencyId>RUB</currencyId>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/48d/PetalBasket_Aqua.jpg</picture>
+        <name>DDKC Корзина для д/животных Лепестки зеленый 14&quot;</name>
+        <model>DDKC Корзина для д/животных Лепестки зеленый 14&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>9203011</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2243">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_korzina_dlya_d_zhivotnykh_lepestki_zelenyy/?r1=yandext&amp;r2=</url>
+        <price>3200</price>
+        <vat>0</vat>
+        <oldprice>4800</oldprice>
+        <currencyId>RUB</currencyId>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/48d/PetalBasket_Aqua.jpg</picture>
+        <name>DDKC Корзина для д/животных Лепестки зеленый 20&quot;</name>
+        <model>DDKC Корзина для д/животных Лепестки зеленый 20&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>920301</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2240">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_korzina_dlya_d_zhivotnykh_lepestki_rozovo_oranzhenyy/?r1=yandext&amp;r2=</url>
+        <price>2700</price>
+        <vat>0</vat>
+        <oldprice>3900</oldprice>
+        <currencyId>RUB</currencyId>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/776/image006.png</picture>
+        <name>DDKC Корзина для д/животных Лепестки розово-оранженый 14&quot;</name>
+        <model>DDKC Корзина для д/животных Лепестки розово-оранженый 14&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>9203021</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2241">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_korzina_dlya_d_zhivotnykh_lepestki_rozovo_oranzhenyy/?r1=yandext&amp;r2=</url>
+        <price>3200</price>
+        <vat>0</vat>
+        <oldprice>4800</oldprice>
+        <currencyId>RUB</currencyId>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/776/image006.png</picture>
+        <name>DDKC Корзина для д/животных Лепестки розово-оранженый 20&quot;</name>
+        <model>DDKC Корзина для д/животных Лепестки розово-оранженый 20&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>920302</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1776">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_korzina_dlya_d_zhivotnykh_lepestki_prirodnyy_14/?r1=yandext&amp;r2=</url>
+        <price>2700</price>
+        <oldprice>3900</oldprice>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/7e2/1021948724.jpg</picture>
+        <name>DDKC Корзина для д/животных Лепестки природный 14&quot;</name>
+        <model>DDKC Корзина для д/животных Лепестки природный 14&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>9203031</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2238">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_korzina_dlya_d_zhivotnykh_korichnevyy/?r1=yandext&amp;r2=</url>
+        <price>2700</price>
+        <vat>0</vat>
+        <oldprice>3900</oldprice>
+        <currencyId>RUB</currencyId>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/d33/20504-205041.jpg</picture>
+        <name>DDKC Корзина для д/животных коричневый 14&quot;</name>
+        <model>DDKC Корзина для д/животных коричневый 14&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>9205041</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2239">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_korzina_dlya_d_zhivotnykh_korichnevyy/?r1=yandext&amp;r2=</url>
+        <price>3200</price>
+        <vat>0</vat>
+        <oldprice>4800</oldprice>
+        <currencyId>RUB</currencyId>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/d33/20504-205041.jpg</picture>
+        <name>DDKC Корзина для д/животных коричневый 20&quot;</name>
+        <model>DDKC Корзина для д/животных коричневый 20&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>920504</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2234">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_korzina_dlya_d_zhivotnykh_morskoy/?r1=yandext&amp;r2=</url>
+        <price>2700</price>
+        <vat>0</vat>
+        <oldprice>3900</oldprice>
+        <currencyId>RUB</currencyId>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/d29/image021.png</picture>
+        <name>DDKC Корзина для д/животных морской 14&quot;</name>
+        <model>DDKC Корзина для д/животных морской 14&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>9205051</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2235">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_korzina_dlya_d_zhivotnykh_morskoy/?r1=yandext&amp;r2=</url>
+        <price>3200</price>
+        <vat>0</vat>
+        <oldprice>4800</oldprice>
+        <currencyId>RUB</currencyId>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/d29/image021.png</picture>
+        <name>DDKC Корзина для д/животных морской 20&quot;</name>
+        <model>DDKC Корзина для д/животных морской 20&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>920505</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2236">
+        <url>http://minimepets.ru/catalog/domiki_dharma_dog_karma_cat/ddkc_korzina_dlya_d_zhivotnykh_zelenyy/?r1=yandext&amp;r2=</url>
+        <price>2700</price>
+        <vat>0</vat>
+        <oldprice>3900</oldprice>
+        <currencyId>RUB</currencyId>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/27d/1021948730.jpg</picture>
+        <name>DDKC Корзина для д/животных зеленый 14&quot;</name>
+        <model>DDKC Корзина для д/животных зеленый 14&quot;</model>
+        <description>Домик бренда &quot;Dharma Dog Karma Cat&quot; идеально подойдет к любому интерьеру! Благодаря своей форме, они обеспечивают безопасное и теплое убежище, и помогают питомцу чувствовать себя в безопасности. Гималайская шерсть, используемая при изготовлении домиков, не очищается химически, поэтому в ней содержится много ланолина.  Ланолин - это натуральное масло, уникальное для шерсти овец, ведь его запах напоминает кошкам запах их матери.  Масло ланолина полезно для подушечек лап и помогает сохранить шерсть здоровой и блестящей! Техника изготовления продукции бренда &quot;Dharma Dog Karma Cat&quot; называется &quot;Мокрый войлок&quot; - она включает в себя натуральное мыло, воду, шерсть и только натуральные нетоксичные красители. Все изделия изготавливаются вручную в Непале. Каждая покупка поддерживает труд ремесленников и их семьи, помогая сохранить традиции древнего ремесла. Уход: ланолин, входящий в состав шерсти овец меринос, является антимикробным и устойчивым к запаху, что позволяет естественным и бережным образом очищать шерстяные домики и игрушки. Также, можно очищать пылесосом или губкой.</description>
+        <manufacturer_warranty>Dharma Dog Karma Cat</manufacturer_warranty>
+        <vendorCode>9205061</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2170">
+        <url>http://minimepets.ru/catalog/dlya_krupnykh_sobak/freshpet_profbalans_myasnoy_roll_s_govyadinoy_serdtsem_i_grechkoy_dlya_sobak/?r1=yandext&amp;r2=</url>
+        <price>93</price>
+        <vat>0</vat>
+        <currencyId>RUB</currencyId>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/584/PB-800-govyad.JPG</picture>
+        <name>ФРЕШПЕТ ПРОФБАЛАНС Мясной ролл с говядиной, сердцем и гречкой для собак, 400г</name>
+        <model>ФРЕШПЕТ ПРОФБАЛАНС Мясной ролл с говядиной, сердцем и гречкой для собак, 400г</model>
+        <description>ФРЕШПЕТ ПрофБаланс с говядиной, гречкой, таурином, калием, хондропротекторами для здоровых мышщ, суставов и сердца. Крупные собаки часто имеют проблемы со здоровьем суставов. Наш продукт поможет не только сформировать здоровые кости и суставы, но и обеспечить отличный мышечный каркас, что позволит собаке выглядеть и чувствовать себя на все 100%. Таурин и калий помогут сердцу крупной собаки эффективно справляться со своей работой, что продлит жизнь вашему питомцу. Состав: мясо и субпродукты – 35% (говядина, сердце, курица эмульсия хрящей (источник глюкозамина), субпродукты, печень), мясной бульон - 34%, гречка- 20% морковь – 6%, гороховый белок, свекольная клетчатка, витамины (в том числе соль с калием и магнием), минералы, таурин.</description>
+        <manufacturer_warranty>Фрешпет</manufacturer_warranty>
+        <vendorCode>4021</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2171">
+        <url>http://minimepets.ru/catalog/dlya_krupnykh_sobak/freshpet_profbalans_myasnoy_roll_s_govyadinoy_serdtsem_i_grechkoy_dlya_sobak/?r1=yandext&amp;r2=</url>
+        <price>169</price>
+        <vat>0</vat>
+        <currencyId>RUB</currencyId>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/584/PB-800-govyad.JPG</picture>
+        <name>ФРЕШПЕТ ПРОФБАЛАНС Мясной ролл с говядиной, сердцем и гречкой для собак, 800г </name>
+        <model>ФРЕШПЕТ ПРОФБАЛАНС Мясной ролл с говядиной, сердцем и гречкой для собак, 800г </model>
+        <description>ФРЕШПЕТ ПрофБаланс с говядиной, гречкой, таурином, калием, хондропротекторами для здоровых мышц, суставов и сердца. Крупные собаки часто имеют проблемы со здоровьем суставов. Наш продукт поможет не только сформировать здоровые кости и суставы, но и обеспечить отличный мышечный каркас, что позволит собаке выглядеть и чувствовать себя на все 100%. Таурин и калий помогут сердцу крупной собаки эффективно справляться со своей работой, что продлит жизнь вашему питомцу. Состав: мясо и субпродукты – 35% (говядина, сердце, курица эмульсия хрящей (источник глюкозамина), субпродукты, печень), мясной бульон - 34%, гречка- 20% морковь – 6%, гороховый белок, свекольная клетчатка, витамины (в том числе соль с калием и магнием), минералы, таурин.</description>
+        <manufacturer_warranty>Фрешпет</manufacturer_warranty>
+        <vendorCode>77801</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1964">
+        <url>http://minimepets.ru/catalog/toppingi/koshachya_myata/?r1=yandext&amp;r2=</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/69d/BuyzNrqsspY.jpg</picture>
+        <name>Good Cat Спрей  для кошек ЭКСТРАКТ КОШАЧЬЕЙ МЯТЫ,60 мл.</name>
+        <model>Good Cat Спрей  для кошек ЭКСТРАКТ КОШАЧЬЕЙ МЯТЫ,60 мл.</model>
+        <description>
+          <![CDATA[
+Способ применения: распылить  с расстояния 25-30 см на игрушку кошки. Не наносить на людей и животных. Хранить при температуре от +2 до +25 оС</br>Состав: Вода, ПЭГ- 40, эфирное масло «кошачья мята», парфюмерная композиция, бензоат натрия.</br>Срок годности: 36 месяцев.</br>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>FG 03203</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1968">
+        <url>http://minimepets.ru/catalog/ukhod/shampun_dlya_koshek_gipoallergennyy_dlya_chuvstvitelnoy_kozhi/?r1=yandext&amp;r2=</url>
+        <price>190</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/487/BuyzNrqsspY.jpg</picture>
+        <name>Good Cat шампунь для КОШЕК ГИПОАЛЛЕРГЕННЫЙ (для чувствительной кожи), 250 мл. 1/15</name>
+        <model>Good Cat шампунь для КОШЕК ГИПОАЛЛЕРГЕННЫЙ (для чувствительной кожи), 250 мл. 1/15</model>
+        <description>
+          <![CDATA[
+<p>СПОСОБ ПРИМЕНЕНИЯ:
+Нанести шампунь на обильно смоченную водой шерсть. Равномерно распределить по всему телу, слегка втирая до образования пены, избегая попадания в глаза. Тщательно смыть водой.</p><p>СОСТАВ: диэтаноламин, сульфоэтоксилат натрия, кокаамидопропилбетаин, динатрий сульфосукцинат, поликватерниум-7, перламутровый концентрат, гидролизат керотина, витамин В5, ПЭГ-40, отдушка-водная свежесть, лимонная кислота, консервант, хлористый натрий, вода.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>FG02202</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1973">
+        <url>http://minimepets.ru/catalog/ukhod/shampun_dlya_sobak_gipoallergennyy_dlya_chuvstvitelnoy_kozhi/?r1=yandext&amp;r2=</url>
+        <price>190</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/fd2/BuyzNrqsspY.jpg</picture>
+        <name>Good Dog шампунь для СОБАК ГИПОАЛЛЕРГЕННЫЙ (для чувствительной кожи), 250 мл. 1/15</name>
+        <model>Good Dog шампунь для СОБАК ГИПОАЛЛЕРГЕННЫЙ (для чувствительной кожи), 250 мл. 1/15</model>
+        <description>
+          <![CDATA[
+<p>СПОСОБ ПРИМЕНЕНИЯ: Нанести шампунь на обильно смоченную водой шерсть. Равномерно распределить по всему телу, слегка втирая до образования пены, избегая попадания в глаза. Тщательно смыть водой.</p><p>СОСТАВ: диэтаноламин, сульфоэтоксилат натрия, кокаамидопропилбетаин, динатрий сульфосукцинат, поликватерниум-7, перламутровый концентрат, гидролизат керотина, витамин В5, ПЭГ-40, отдушка-водная свежесть, лимонная кислота, консервант, хлористый натрий, вода.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>FG02102</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="1992">
+        <url>http://minimepets.ru/catalog/ukhod/antiparazitarnyy_shampun_dlya_koshek_i_sobak_ot_blokh_i_kleshchey_/?r1=yandext&amp;r2=</url>
+        <price>83</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/97d/0icVghOoaE.jpg</picture>
+        <name>Good Dog&amp;Cat Антипаразитарный шампунь УНИВЕРСАЛЬНЫЙ для КОШЕК И СОБАК, 250 мл. </name>
+        <model>Good Dog&amp;Cat Антипаразитарный шампунь УНИВЕРСАЛЬНЫЙ для КОШЕК И СОБАК, 250 мл. </model>
+        <description>
+          <![CDATA[
+<p>ШАМПУНЬ ДЛЯ СОБАК GOOD DOG & CAT с натуральным маслом герани и ромашки, эффективно борется с блохами и клещами, обладает репеллентным эффектом. Масло герани не только уничтожает эктопаразитов, но и разглаживает волос, придает блеск.</br>Шампунь не раздражает слизистую оболочку глаз, не содержит красителей.</p><p>СПОСОБ ПРИМЕНЕНИЯ: Нанести шампунь на обильно смоченную водой шерсть. Равномерно распределить по всему телу, слегка втирая до образования пены, избегая попадания в глаза. Тщательно смыть водой.</p><p>СОСТАВ: сульфоэтоксилат натрия, диэтаноламид, кокаамидопропилбетаин, динатрий сульфосукцинат, поликватерниум-7, перламутровый концентрат, гидролизат керотина, витамин В5, ПЭГ-40, отдушка-водная свежесть, лимонная кислота, консервант, хлористый натрий, вода.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>FG02901</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2002">
+        <url>http://minimepets.ru/catalog/antiparazit_favorit/antiparazitarnyy_bioosheynik_dlya_koshek_bioosheynik_good_neem_zelenyy/?r1=yandext&amp;r2=</url>
+        <price>260</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/bc7/1.jpg</picture>
+        <name>GOOD NEEM Антипаразитарный БИОошейник для Кошек с маслом Дерева Ним, зеленый 35см</name>
+        <model>GOOD NEEM Антипаразитарный БИОошейник для Кошек с маслом Дерева Ним, зеленый 35см</model>
+        <description>
+          <![CDATA[
+<p>Уникальность двухслойного БИОошейника &quot;GOOD NEEM Plus&quot; в том, что репеллент и инсектицид введены в разные слои ошейника, что позволяет эффективно защитить животное от всех видов кровососущих насекомых и паразитов. Ошейник состоит из двух слоев – верхний слой пропитан композицией из природных репеллентов, нижний слой пропитан композицией из природных инсектицидов, что гарантирует для животного двойную безопасность и надежность его действия.</p><p>ВЕРХНИЙ СЛОЙ ОШЕЙНИКА: Композиция из природных репеллентов (эфирные масла цитронеллы, лаванды, чайного дерева, гвоздики, розмарина, эвкалипта), которая в своем сочетании отпугивает кровососущих насекомых и паразитов, оказывает успокаивающее действие на раздражение или зуд кожи кошки.</p><p>НИЖНИЙ СЛОЙ ОШЕЙНИКА: Композиция из натурального инсектицида (масло индийского дерева ним, называемого также «волшебным деревом» или «деревенской аптекой», помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах) и экстракта алое вера, которое оказывает на кожу животного успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на иммунную систему.</p><p>БИОошейник &quot;GOOD NEEM Plus&quot; безопасен для котят с двухмесячного возраста, беременных и кормящих кошек. А так же подходит чувствительным, пожилым, ослабленным и выздоравливающим кошкам. Безопасен для животных и детей.</p><p>СПОСОБ ПРИМЕНЕНИЯ:
+Распаковывать упаковку с БИОошейником &quot;GOOD NEEM Plus&quot; необходимо непосредственно перед его использованием. После вскрытия упаковки необходимо надеть ошейник на шею кошки, подогнав его по размеру так, чтобы между шеей животного и ошейником оставался промежуток в 1-2 см, затем необходимо закрепить фиксаторы в отверстиях и отрезать излишек ленты с учетом возможного роста кошки. Рекомендуется надевать ошейник заблаговременно. Продукт достигает своего пика эффективности через 5-7 дней после начала его использования. Ошейник водостойкий. Кошку можно мыть, не снимая ошейник.</p><p>Постоянное ношение БИОошейника &quot;GOOD NEEM Plus&quot; обеспечивает для Вашей собаки защиту от блох, клещей, комаров и других кровососущих насекомых в течение 90 дней.</p><p>СРОК ГОДНОСТИ: 2 года с даты изготовления.
+Дата изготовления указана на упаковке.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить при комнатной температуре, в сухом, недоступном для детей месте, отдельно от пищевых продуктов.</p><p>Уникальность двухслойного БИОошейника &quot;GOOD NEEM Plus&quot; в том, что репеллент и инсектицид введены в разные слои ошейника, что позволяет эффективно защитить животное от всех видов кровососущих насекомых и паразитов. Ошейник состоит из двух слоев – верхний слой пропитан композицией из природных репеллентов, нижний слой пропитан композицией из природных инсектицидов, что гарантирует для животного двойную безопасность и надежность его действия.</p><p>ВЕРХНИЙ СЛОЙ ОШЕЙНИКА: Композиция из природных репеллентов (эфирные масла цитронеллы, лаванды, чайного дерева, гвоздики, розмарина, эвкалипта), которая в своем сочетании отпугивает кровососущих насекомых и паразитов, оказывает успокаивающее действие на раздражение или зуд кожи кошки.</p><p>НИЖНИЙ СЛОЙ ОШЕЙНИКА: Композиция из натурального инсектицида (масло индийского дерева ним, называемого также &quot;волшебным деревом&quot; или &quot;деревенской аптекой&quot;, помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах) и экстракта алое вера, которое оказывает на кожу животного успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на иммунную систему.</p><p>БИОошейник &quot;GOOD NEEM Plus&quot; безопасен для котят с двухмесячного возраста, беременных и кормящих кошек. А так же подходит чувствительным, пожилым, ослабленным и выздоравливающим кошкам. Безопасен для животных и детей.</p><p>СПОСОБ ПРИМЕНЕНИЯ:
+Распаковывать упаковку с БИОошейником &quot;GOOD NEEM Plus&quot; необходимо непосредственно перед его использованием. После вскрытия упаковки необходимо надеть ошейник на шею кошки, подогнав его по размеру так, чтобы между шеей животного и ошейником оставался промежуток в 1-2 см, затем необходимо закрепить фиксаторы в отверстиях и отрезать излишек ленты с учетом возможного роста кошки. Рекомендуется надевать ошейник заблаговременно. Продукт достигает своего пика эффективности через 5-7 дней после начала его использования. Ошейник водостойкий. Кошку можно мыть, не снимая ошейник.</p><p>Постоянное ношение БИОошейника &quot;GOOD NEEM Plus&quot; обеспечивает для Вашей собаки защиту от блох, клещей, комаров и других кровососущих насекомых в течение 90 дней.</p><p>СРОК ГОДНОСТИ: 2 года с даты изготовления.
+Дата изготовления указана на упаковке.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить при комнатной температуре, в сухом, недоступном для детей месте, отдельно от пищевых продуктов.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>F4204</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2003">
+        <url>http://minimepets.ru/catalog/antiparazit_favorit/antiparazitarnyy_bioosheynik_dlya_sobak_bioosheynik_good_neem_zelenyy/?r1=yandext&amp;r2=</url>
+        <price>135</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/fe9/1.jpg</picture>
+        <name>GOOD NEEM Антипаразитарный БИОошейник для Собак с маслом Дерева Ним, зеленый 65см</name>
+        <model>GOOD NEEM Антипаразитарный БИОошейник для Собак с маслом Дерева Ним, зеленый 65см</model>
+        <description>
+          <![CDATA[
+<p>Уникальность двухслойного БИОошейника &quot;GOOD NEEM Plus&quot; в том, что репеллент и инсектицид введены в разные слои ошейника, что позволяет эффективно защитить животное от всех видов кровососущих насекомых и паразитов. Ошейник состоит из двух слоев – верхний слой пропитан композицией из природных репеллентов, нижний слой пропитан композицией из природных инсектицидов, что гарантирует для животного двойную безопасность и надежность его действия.</p><p>ВЕРХНИЙ СЛОЙ ОШЕЙНИКА: Композиция из природных репеллентов (эфирные масла цитронеллы, лаванды, чайного дерева, гвоздики, розмарина, эвкалипта), которая в своем сочетании отпугивает кровососущих насекомых и паразитов, оказывает успокаивающее действие на раздражение или зуд кожи кошки.</p><p>НИЖНИЙ СЛОЙ ОШЕЙНИКА: Композиция из натурального инсектицида (масло индийского дерева ним, называемого также «волшебным деревом» или «деревенской аптекой», помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах) и экстракта алое вера, которое оказывает на кожу животного успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на иммунную систему.</p><p>БИОошейник &quot;GOOD NEEM Plus&quot; безопасен для котят с двухмесячного возраста, беременных и кормящих кошек. А так же подходит чувствительным, пожилым, ослабленным и выздоравливающим кошкам. Безопасен для животных и детей.</p><p>СПОСОБ ПРИМЕНЕНИЯ:
+Распаковывать упаковку с БИОошейником &quot;GOOD NEEM Plus&quot; необходимо непосредственно перед его использованием. После вскрытия упаковки необходимо надеть ошейник на шею кошки, подогнав его по размеру так, чтобы между шеей животного и ошейником оставался промежуток в 1-2 см, затем необходимо закрепить фиксаторы в отверстиях и отрезать излишек ленты с учетом возможного роста кошки. Рекомендуется надевать ошейник заблаговременно. Продукт достигает своего пика эффективности через 5-7 дней после начала его использования. Ошейник водостойкий. Кошку можно мыть, не снимая ошейник.</p><p>Постоянное ношение БИОошейника &quot;GOOD NEEM Plus&quot; обеспечивает для Вашей собаки защиту от блох, клещей, комаров и других кровососущих насекомых в течение 90 дней.</p><p>СРОК ГОДНОСТИ: 2 года с даты изготовления.
+Дата изготовления указана на упаковке.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить при комнатной температуре, в сухом, недоступном для детей месте, отдельно от пищевых продуктов.</p><p>Уникальность двухслойного БИОошейника &quot;GOOD NEEM Plus&quot; в том, что репеллент и инсектицид введены в разные слои ошейника, что позволяет эффективно защитить животное от всех видов кровососущих насекомых и паразитов. Ошейник состоит из двух слоев – верхний слой пропитан композицией из природных репеллентов, нижний слой пропитан композицией из природных инсектицидов, что гарантирует для животного двойную безопасность и надежность его действия.</p><p>ВЕРХНИЙ СЛОЙ ОШЕЙНИКА: Композиция из природных репеллентов (эфирные масла цитронеллы, лаванды, чайного дерева, гвоздики, розмарина, эвкалипта), которая в своем сочетании отпугивает кровососущих насекомых и паразитов, оказывает успокаивающее действие на раздражение или зуд кожи кошки.</p><p>НИЖНИЙ СЛОЙ ОШЕЙНИКА: Композиция из натурального инсектицида (масло индийского дерева ним, называемого также &quot;волшебным деревом&quot; или &quot;деревенской аптекой&quot;, помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах) и экстракта алое вера, которое оказывает на кожу животного успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на иммунную систему.</p><p>БИОошейник &quot;GOOD NEEM Plus&quot; безопасен для котят с двухмесячного возраста, беременных и кормящих кошек. А так же подходит чувствительным, пожилым, ослабленным и выздоравливающим кошкам. Безопасен для животных и детей.</p><p>СПОСОБ ПРИМЕНЕНИЯ:
+Распаковывать упаковку с БИОошейником &quot;GOOD NEEM Plus&quot; необходимо непосредственно перед его использованием. После вскрытия упаковки необходимо надеть ошейник на шею кошки, подогнав его по размеру так, чтобы между шеей животного и ошейником оставался промежуток в 1-2 см, затем необходимо закрепить фиксаторы в отверстиях и отрезать излишек ленты с учетом возможного роста кошки. Рекомендуется надевать ошейник заблаговременно. Продукт достигает своего пика эффективности через 5-7 дней после начала его использования. Ошейник водостойкий. Кошку можно мыть, не снимая ошейник.</p><p>Постоянное ношение БИОошейника &quot;GOOD NEEM Plus&quot; обеспечивает для Вашей собаки защиту от блох, клещей, комаров и других кровососущих насекомых в течение 90 дней.</p><p>СРОК ГОДНОСТИ: 2 года с даты изготовления.
+Дата изготовления указана на упаковке.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить при комнатной температуре, в сухом, недоступном для детей месте, отдельно от пищевых продуктов.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>F4104</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2004">
+        <url>http://minimepets.ru/catalog/antiparazit_favorit/bioosheynik_good_neem_plus_cat_zelenyy_fioletovyy/?r1=yandext&amp;r2=</url>
+        <price>450</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/89a/1.jpg</picture>
+        <name>GOOD NEEM PLUS Двухслойный БИОошейник для Кошек и Котят с маслом Дерева Ним, фиолетовый+зеленый 35см</name>
+        <model>GOOD NEEM PLUS Двухслойный БИОошейник для Кошек и Котят с маслом Дерева Ним, фиолетовый+зеленый 35см</model>
+        <description>
+          <![CDATA[
+<p>Уникальность двухслойного БИОошейника &quot;GOOD NEEM Plus&quot; в том, что репеллент и инсектицид введены в разные слои ошейника, что позволяет эффективно защитить животное от всех видов кровососущих насекомых и паразитов. Ошейник состоит из двух слоев – верхний слой пропитан композицией из природных репеллентов, нижний слой пропитан композицией из природных инсектицидов, что гарантирует для животного двойную безопасность и надежность его действия.</p><p>ВЕРХНИЙ СЛОЙ ОШЕЙНИКА: Композиция из природных репеллентов (эфирные масла цитронеллы, лаванды, чайного дерева, гвоздики, розмарина, эвкалипта), которая в своем сочетании отпугивает кровососущих насекомых и паразитов, оказывает успокаивающее действие на раздражение или зуд кожи кошки.</p><p>НИЖНИЙ СЛОЙ ОШЕЙНИКА: Композиция из натурального инсектицида (масло индийского дерева ним, называемого также «волшебным деревом» или «деревенской аптекой», помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах) и экстракта алое вера, которое оказывает на кожу животного успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на иммунную систему.</p><p>БИОошейник &quot;GOOD NEEM Plus&quot; безопасен для котят с двухмесячного возраста, беременных и кормящих кошек. А так же подходит чувствительным, пожилым, ослабленным и выздоравливающим кошкам. Безопасен для животных и детей.</p><p>СПОСОБ ПРИМЕНЕНИЯ:
+Распаковывать упаковку с БИОошейником &quot;GOOD NEEM Plus&quot; необходимо непосредственно перед его использованием. После вскрытия упаковки необходимо надеть ошейник на шею кошки, подогнав его по размеру так, чтобы между шеей животного и ошейником оставался промежуток в 1-2 см, затем необходимо закрепить фиксаторы в отверстиях и отрезать излишек ленты с учетом возможного роста кошки. Рекомендуется надевать ошейник заблаговременно. Продукт достигает своего пика эффективности через 5-7 дней после начала его использования. Ошейник водостойкий. Кошку можно мыть, не снимая ошейник.</p><p>Постоянное ношение БИОошейника &quot;GOOD NEEM Plus&quot; обеспечивает для Вашей собаки защиту от блох, клещей, комаров и других кровососущих насекомых в течение 90 дней.</p><p>СРОК ГОДНОСТИ: 2 года с даты изготовления.
+Дата изготовления указана на упаковке.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить при комнатной температуре, в сухом, недоступном для детей месте, отдельно от пищевых продуктов.</p><p>Уникальность двухслойного БИОошейника &quot;GOOD NEEM Plus&quot; в том, что репеллент и инсектицид введены в разные слои ошейника, что позволяет эффективно защитить животное от всех видов кровососущих насекомых и паразитов. Ошейник состоит из двух слоев – верхний слой пропитан композицией из природных репеллентов, нижний слой пропитан композицией из природных инсектицидов, что гарантирует для животного двойную безопасность и надежность его действия.</p><p>ВЕРХНИЙ СЛОЙ ОШЕЙНИКА: Композиция из природных репеллентов (эфирные масла цитронеллы, лаванды, чайного дерева, гвоздики, розмарина, эвкалипта), которая в своем сочетании отпугивает кровососущих насекомых и паразитов, оказывает успокаивающее действие на раздражение или зуд кожи кошки.</p><p>НИЖНИЙ СЛОЙ ОШЕЙНИКА: Композиция из натурального инсектицида (масло индийского дерева ним, называемого также &quot;волшебным деревом&quot; или &quot;деревенской аптекой&quot;, помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах) и экстракта алое вера, которое оказывает на кожу животного успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на иммунную систему.</p><p>БИОошейник &quot;GOOD NEEM Plus&quot; безопасен для котят с двухмесячного возраста, беременных и кормящих кошек. А так же подходит чувствительным, пожилым, ослабленным и выздоравливающим кошкам. Безопасен для животных и детей.</p><p>СПОСОБ ПРИМЕНЕНИЯ:
+Распаковывать упаковку с БИОошейником &quot;GOOD NEEM Plus&quot; необходимо непосредственно перед его использованием. После вскрытия упаковки необходимо надеть ошейник на шею кошки, подогнав его по размеру так, чтобы между шеей животного и ошейником оставался промежуток в 1-2 см, затем необходимо закрепить фиксаторы в отверстиях и отрезать излишек ленты с учетом возможного роста кошки. Рекомендуется надевать ошейник заблаговременно. Продукт достигает своего пика эффективности через 5-7 дней после начала его использования. Ошейник водостойкий. Кошку можно мыть, не снимая ошейник.</p><p>Постоянное ношение БИОошейника &quot;GOOD NEEM Plus&quot; обеспечивает для Вашей собаки защиту от блох, клещей, комаров и других кровососущих насекомых в течение 90 дней.</p><p>СРОК ГОДНОСТИ: 2 года с даты изготовления.
+Дата изготовления указана на упаковке.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить при комнатной температуре, в сухом, недоступном для детей месте, отдельно от пищевых продуктов.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>F4206</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2006">
+        <url>http://minimepets.ru/catalog/antiparazit_favorit/bioosheynik_good_neem_plus_cat_rozovyy_seryy/?r1=yandext&amp;r2=</url>
+        <price>450</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/651/1.jpg</picture>
+        <name>GOOD NEEM PLUS Двухслойный БИОошейник для Кошек и Котят с маслом Дерева Ним, розовый+серый 35см</name>
+        <model>GOOD NEEM PLUS Двухслойный БИОошейник для Кошек и Котят с маслом Дерева Ним, розовый+серый 35см</model>
+        <description>
+          <![CDATA[
+<p>Уникальность двухслойного БИОошейника &quot;GOOD NEEM Plus&quot; в том, что репеллент и инсектицид введены в разные слои ошейника, что позволяет эффективно защитить животное от всех видов кровососущих насекомых и паразитов. Ошейник состоит из двух слоев – верхний слой пропитан композицией из природных репеллентов, нижний слой пропитан композицией из природных инсектицидов, что гарантирует для животного двойную безопасность и надежность его действия.</p><p>ВЕРХНИЙ СЛОЙ ОШЕЙНИКА: Композиция из природных репеллентов (эфирные масла цитронеллы, лаванды, чайного дерева, гвоздики, розмарина, эвкалипта), которая в своем сочетании отпугивает кровососущих насекомых и паразитов, оказывает успокаивающее действие на раздражение или зуд кожи кошки.</p><p>НИЖНИЙ СЛОЙ ОШЕЙНИКА: Композиция из натурального инсектицида (масло индийского дерева ним, называемого также «волшебным деревом» или «деревенской аптекой», помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах) и экстракта алое вера, которое оказывает на кожу животного успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на иммунную систему.</p><p>БИОошейник &quot;GOOD NEEM Plus&quot; безопасен для котят с двухмесячного возраста, беременных и кормящих кошек. А так же подходит чувствительным, пожилым, ослабленным и выздоравливающим кошкам. Безопасен для животных и детей.</p><p>СПОСОБ ПРИМЕНЕНИЯ:
+Распаковывать упаковку с БИОошейником &quot;GOOD NEEM Plus&quot; необходимо непосредственно перед его использованием. После вскрытия упаковки необходимо надеть ошейник на шею кошки, подогнав его по размеру так, чтобы между шеей животного и ошейником оставался промежуток в 1-2 см, затем необходимо закрепить фиксаторы в отверстиях и отрезать излишек ленты с учетом возможного роста кошки. Рекомендуется надевать ошейник заблаговременно. Продукт достигает своего пика эффективности через 5-7 дней после начала его использования. Ошейник водостойкий. Кошку можно мыть, не снимая ошейник.</p><p>Постоянное ношение БИОошейника &quot;GOOD NEEM Plus&quot; обеспечивает для Вашей собаки защиту от блох, клещей, комаров и других кровососущих насекомых в течение 90 дней.</p><p>СРОК ГОДНОСТИ: 2 года с даты изготовления.
+Дата изготовления указана на упаковке.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить при комнатной температуре, в сухом, недоступном для детей месте, отдельно от пищевых продуктов.</p><p>Уникальность двухслойного БИОошейника &quot;GOOD NEEM Plus&quot; в том, что репеллент и инсектицид введены в разные слои ошейника, что позволяет эффективно защитить животное от всех видов кровососущих насекомых и паразитов. Ошейник состоит из двух слоев – верхний слой пропитан композицией из природных репеллентов, нижний слой пропитан композицией из природных инсектицидов, что гарантирует для животного двойную безопасность и надежность его действия.</p><p>ВЕРХНИЙ СЛОЙ ОШЕЙНИКА: Композиция из природных репеллентов (эфирные масла цитронеллы, лаванды, чайного дерева, гвоздики, розмарина, эвкалипта), которая в своем сочетании отпугивает кровососущих насекомых и паразитов, оказывает успокаивающее действие на раздражение или зуд кожи кошки.</p><p>НИЖНИЙ СЛОЙ ОШЕЙНИКА: Композиция из натурального инсектицида (масло индийского дерева ним, называемого также &quot;волшебным деревом&quot; или &quot;деревенской аптекой&quot;, помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах) и экстракта алое вера, которое оказывает на кожу животного успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на иммунную систему.</p><p>БИОошейник &quot;GOOD NEEM Plus&quot; безопасен для котят с двухмесячного возраста, беременных и кормящих кошек. А так же подходит чувствительным, пожилым, ослабленным и выздоравливающим кошкам. Безопасен для животных и детей.</p><p>СПОСОБ ПРИМЕНЕНИЯ:
+Распаковывать упаковку с БИОошейником &quot;GOOD NEEM Plus&quot; необходимо непосредственно перед его использованием. После вскрытия упаковки необходимо надеть ошейник на шею кошки, подогнав его по размеру так, чтобы между шеей животного и ошейником оставался промежуток в 1-2 см, затем необходимо закрепить фиксаторы в отверстиях и отрезать излишек ленты с учетом возможного роста кошки. Рекомендуется надевать ошейник заблаговременно. Продукт достигает своего пика эффективности через 5-7 дней после начала его использования. Ошейник водостойкий. Кошку можно мыть, не снимая ошейник.</p><p>Постоянное ношение БИОошейника &quot;GOOD NEEM Plus&quot; обеспечивает для Вашей собаки защиту от блох, клещей, комаров и других кровососущих насекомых в течение 90 дней.</p><p>СРОК ГОДНОСТИ: 2 года с даты изготовления.
+Дата изготовления указана на упаковке.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить при комнатной температуре, в сухом, недоступном для детей месте, отдельно от пищевых продуктов.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>F4208</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2007">
+        <url>http://minimepets.ru/catalog/antiparazit_favorit/bioosheynik_good_neem_plus_dog_zelenyy_fioletovyy/?r1=yandext&amp;r2=</url>
+        <price>450</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/59b/1.jpg</picture>
+        <name>GOOD NEEM PLUS Двухслойный БИОошейник для Собак и Щенков с маслом Дерева Ним, зеленый+фиолетовый 65см</name>
+        <model>GOOD NEEM PLUS Двухслойный БИОошейник для Собак и Щенков с маслом Дерева Ним, зеленый+фиолетовый 65см</model>
+        <description>
+          <![CDATA[
+<p>Уникальность двухслойного БИОошейника &quot;GOOD NEEM Plus&quot; в том, что репеллент и инсектицид введены в разные слои ошейника, что позволяет эффективно защитить животное от всех видов кровососущих насекомых и паразитов. Ошейник состоит из двух слоев – верхний слой пропитан композицией из природных репеллентов, нижний слой пропитан композицией из природных инсектицидов, что гарантирует для животного двойную безопасность и надежность его действия.</p><p>ВЕРХНИЙ СЛОЙ ОШЕЙНИКА: Композиция из природных репеллентов (эфирные масла цитронеллы, лаванды, чайного дерева, гвоздики, розмарина, эвкалипта), которая в своем сочетании отпугивает кровососущих насекомых и паразитов, оказывает успокаивающее действие на раздражение или зуд кожи кошки.</p><p>НИЖНИЙ СЛОЙ ОШЕЙНИКА: Композиция из натурального инсектицида (масло индийского дерева ним, называемого также «волшебным деревом» или «деревенской аптекой», помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах) и экстракта алое вера, которое оказывает на кожу животного успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на иммунную систему.</p><p>БИОошейник &quot;GOOD NEEM Plus&quot; безопасен для котят с двухмесячного возраста, беременных и кормящих кошек. А так же подходит чувствительным, пожилым, ослабленным и выздоравливающим кошкам. Безопасен для животных и детей.</p><p>СПОСОБ ПРИМЕНЕНИЯ:
+Распаковывать упаковку с БИОошейником &quot;GOOD NEEM Plus&quot; необходимо непосредственно перед его использованием. После вскрытия упаковки необходимо надеть ошейник на шею кошки, подогнав его по размеру так, чтобы между шеей животного и ошейником оставался промежуток в 1-2 см, затем необходимо закрепить фиксаторы в отверстиях и отрезать излишек ленты с учетом возможного роста кошки. Рекомендуется надевать ошейник заблаговременно. Продукт достигает своего пика эффективности через 5-7 дней после начала его использования. Ошейник водостойкий. Кошку можно мыть, не снимая ошейник.</p><p>Постоянное ношение БИОошейника &quot;GOOD NEEM Plus&quot; обеспечивает для Вашей собаки защиту от блох, клещей, комаров и других кровососущих насекомых в течение 90 дней.</p><p>СРОК ГОДНОСТИ: 2 года с даты изготовления.
+Дата изготовления указана на упаковке.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить при комнатной температуре, в сухом, недоступном для детей месте, отдельно от пищевых продуктов.</p><p>Уникальность двухслойного БИОошейника &quot;GOOD NEEM Plus&quot; в том, что репеллент и инсектицид введены в разные слои ошейника, что позволяет эффективно защитить животное от всех видов кровососущих насекомых и паразитов. Ошейник состоит из двух слоев – верхний слой пропитан композицией из природных репеллентов, нижний слой пропитан композицией из природных инсектицидов, что гарантирует для животного двойную безопасность и надежность его действия.</p><p>ВЕРХНИЙ СЛОЙ ОШЕЙНИКА: Композиция из природных репеллентов (эфирные масла цитронеллы, лаванды, чайного дерева, гвоздики, розмарина, эвкалипта), которая в своем сочетании отпугивает кровососущих насекомых и паразитов, оказывает успокаивающее действие на раздражение или зуд кожи кошки.</p><p>НИЖНИЙ СЛОЙ ОШЕЙНИКА: Композиция из натурального инсектицида (масло индийского дерева ним, называемого также &quot;волшебным деревом&quot; или &quot;деревенской аптекой&quot;, помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах) и экстракта алое вера, которое оказывает на кожу животного успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на иммунную систему.</p><p>БИОошейник &quot;GOOD NEEM Plus&quot; безопасен для котят с двухмесячного возраста, беременных и кормящих кошек. А так же подходит чувствительным, пожилым, ослабленным и выздоравливающим кошкам. Безопасен для животных и детей.</p><p>СПОСОБ ПРИМЕНЕНИЯ:
+Распаковывать упаковку с БИОошейником &quot;GOOD NEEM Plus&quot; необходимо непосредственно перед его использованием. После вскрытия упаковки необходимо надеть ошейник на шею кошки, подогнав его по размеру так, чтобы между шеей животного и ошейником оставался промежуток в 1-2 см, затем необходимо закрепить фиксаторы в отверстиях и отрезать излишек ленты с учетом возможного роста кошки. Рекомендуется надевать ошейник заблаговременно. Продукт достигает своего пика эффективности через 5-7 дней после начала его использования. Ошейник водостойкий. Кошку можно мыть, не снимая ошейник.</p><p>Постоянное ношение БИОошейника &quot;GOOD NEEM Plus&quot; обеспечивает для Вашей собаки защиту от блох, клещей, комаров и других кровососущих насекомых в течение 90 дней.</p><p>СРОК ГОДНОСТИ: 2 года с даты изготовления.
+Дата изготовления указана на упаковке.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить при комнатной температуре, в сухом, недоступном для детей месте, отдельно от пищевых продуктов.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>F4106</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2008">
+        <url>http://minimepets.ru/catalog/antiparazit_favorit/bioosheynik_good_neem_plus_dog_goluboy_belyy_65_sm/?r1=yandext&amp;r2=</url>
+        <price>450</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/0eb/1.jpg</picture>
+        <name>GOOD NEEM PLUS Двухслойный БИОошейник для Собак и Щенков с маслом Дерева Ним, голубой+белый 65см</name>
+        <model>GOOD NEEM PLUS Двухслойный БИОошейник для Собак и Щенков с маслом Дерева Ним, голубой+белый 65см</model>
+        <description>
+          <![CDATA[
+<p>Уникальность двухслойного БИОошейника &quot;GOOD NEEM Plus&quot; в том, что репеллент и инсектицид введены в разные слои ошейника, что позволяет эффективно защитить животное от всех видов кровососущих насекомых и паразитов. Ошейник состоит из двух слоев – верхний слой пропитан композицией из природных репеллентов, нижний слой пропитан композицией из природных инсектицидов, что гарантирует для животного двойную безопасность и надежность его действия.</p><p>ВЕРХНИЙ СЛОЙ ОШЕЙНИКА: Композиция из природных репеллентов (эфирные масла цитронеллы, лаванды, чайного дерева, гвоздики, розмарина, эвкалипта), которая в своем сочетании отпугивает кровососущих насекомых и паразитов, оказывает успокаивающее действие на раздражение или зуд кожи кошки.</p><p>НИЖНИЙ СЛОЙ ОШЕЙНИКА: Композиция из натурального инсектицида (масло индийского дерева ним, называемого также «волшебным деревом» или «деревенской аптекой», помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах) и экстракта алое вера, которое оказывает на кожу животного успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на иммунную систему.</p><p>БИОошейник &quot;GOOD NEEM Plus&quot; безопасен для котят с двухмесячного возраста, беременных и кормящих кошек. А так же подходит чувствительным, пожилым, ослабленным и выздоравливающим кошкам. Безопасен для животных и детей.</p><p>СПОСОБ ПРИМЕНЕНИЯ:
+Распаковывать упаковку с БИОошейником &quot;GOOD NEEM Plus&quot; необходимо непосредственно перед его использованием. После вскрытия упаковки необходимо надеть ошейник на шею кошки, подогнав его по размеру так, чтобы между шеей животного и ошейником оставался промежуток в 1-2 см, затем необходимо закрепить фиксаторы в отверстиях и отрезать излишек ленты с учетом возможного роста кошки. Рекомендуется надевать ошейник заблаговременно. Продукт достигает своего пика эффективности через 5-7 дней после начала его использования. Ошейник водостойкий. Кошку можно мыть, не снимая ошейник.</p><p>Постоянное ношение БИОошейника &quot;GOOD NEEM Plus&quot; обеспечивает для Вашей собаки защиту от блох, клещей, комаров и других кровососущих насекомых в течение 90 дней.</p><p>СРОК ГОДНОСТИ: 2 года с даты изготовления.
+Дата изготовления указана на упаковке.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить при комнатной температуре, в сухом, недоступном для детей месте, отдельно от пищевых продуктов.</p><p>Уникальность двухслойного БИОошейника &quot;GOOD NEEM Plus&quot; в том, что репеллент и инсектицид введены в разные слои ошейника, что позволяет эффективно защитить животное от всех видов кровососущих насекомых и паразитов. Ошейник состоит из двух слоев – верхний слой пропитан композицией из природных репеллентов, нижний слой пропитан композицией из природных инсектицидов, что гарантирует для животного двойную безопасность и надежность его действия.</p><p>ВЕРХНИЙ СЛОЙ ОШЕЙНИКА: Композиция из природных репеллентов (эфирные масла цитронеллы, лаванды, чайного дерева, гвоздики, розмарина, эвкалипта), которая в своем сочетании отпугивает кровососущих насекомых и паразитов, оказывает успокаивающее действие на раздражение или зуд кожи кошки.</p><p>НИЖНИЙ СЛОЙ ОШЕЙНИКА: Композиция из натурального инсектицида (масло индийского дерева ним, называемого также &quot;волшебным деревом&quot; или &quot;деревенской аптекой&quot;, помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах) и экстракта алое вера, которое оказывает на кожу животного успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на иммунную систему.</p><p>БИОошейник &quot;GOOD NEEM Plus&quot; безопасен для котят с двухмесячного возраста, беременных и кормящих кошек. А так же подходит чувствительным, пожилым, ослабленным и выздоравливающим кошкам. Безопасен для животных и детей.</p><p>СПОСОБ ПРИМЕНЕНИЯ:
+Распаковывать упаковку с БИОошейником &quot;GOOD NEEM Plus&quot; необходимо непосредственно перед его использованием. После вскрытия упаковки необходимо надеть ошейник на шею кошки, подогнав его по размеру так, чтобы между шеей животного и ошейником оставался промежуток в 1-2 см, затем необходимо закрепить фиксаторы в отверстиях и отрезать излишек ленты с учетом возможного роста кошки. Рекомендуется надевать ошейник заблаговременно. Продукт достигает своего пика эффективности через 5-7 дней после начала его использования. Ошейник водостойкий. Кошку можно мыть, не снимая ошейник.</p><p>Постоянное ношение БИОошейника &quot;GOOD NEEM Plus&quot; обеспечивает для Вашей собаки защиту от блох, клещей, комаров и других кровососущих насекомых в течение 90 дней.</p><p>СРОК ГОДНОСТИ: 2 года с даты изготовления.
+Дата изготовления указана на упаковке.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить при комнатной температуре, в сухом, недоступном для детей месте, отдельно от пищевых продуктов.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>F4207</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2009">
+        <url>http://minimepets.ru/catalog/antiparazit_favorit/bioosheynik_good_neem_plus_dog_rozovyy_seryy_65_sm/?r1=yandext&amp;r2=</url>
+        <price>450</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/dd1/1.jpg</picture>
+        <name>GOOD NEEM PLUS Двухслойный БИОошейник для Собак и Щенков с маслом Дерева Ним, розовый+серый 65см</name>
+        <model>GOOD NEEM PLUS Двухслойный БИОошейник для Собак и Щенков с маслом Дерева Ним, розовый+серый 65см</model>
+        <description>
+          <![CDATA[
+<p>Уникальность двухслойного БИОошейника &quot;GOOD NEEM Plus&quot; в том, что репеллент и инсектицид введены в разные слои ошейника, что позволяет эффективно защитить животное от всех видов кровососущих насекомых и паразитов. Ошейник состоит из двух слоев – верхний слой пропитан композицией из природных репеллентов, нижний слой пропитан композицией из природных инсектицидов, что гарантирует для животного двойную безопасность и надежность его действия.</p><p>ВЕРХНИЙ СЛОЙ ОШЕЙНИКА: Композиция из природных репеллентов (эфирные масла цитронеллы, лаванды, чайного дерева, гвоздики, розмарина, эвкалипта), которая в своем сочетании отпугивает кровососущих насекомых и паразитов, оказывает успокаивающее действие на раздражение или зуд кожи кошки.</p><p>НИЖНИЙ СЛОЙ ОШЕЙНИКА: Композиция из натурального инсектицида (масло индийского дерева ним, называемого также «волшебным деревом» или «деревенской аптекой», помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах) и экстракта алое вера, которое оказывает на кожу животного успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на иммунную систему.</p><p>БИОошейник &quot;GOOD NEEM Plus&quot; безопасен для котят с двухмесячного возраста, беременных и кормящих кошек. А так же подходит чувствительным, пожилым, ослабленным и выздоравливающим кошкам. Безопасен для животных и детей.</p><p>СПОСОБ ПРИМЕНЕНИЯ:
+Распаковывать упаковку с БИОошейником &quot;GOOD NEEM Plus&quot; необходимо непосредственно перед его использованием. После вскрытия упаковки необходимо надеть ошейник на шею кошки, подогнав его по размеру так, чтобы между шеей животного и ошейником оставался промежуток в 1-2 см, затем необходимо закрепить фиксаторы в отверстиях и отрезать излишек ленты с учетом возможного роста кошки. Рекомендуется надевать ошейник заблаговременно. Продукт достигает своего пика эффективности через 5-7 дней после начала его использования. Ошейник водостойкий. Кошку можно мыть, не снимая ошейник.</p><p>Постоянное ношение БИОошейника &quot;GOOD NEEM Plus&quot; обеспечивает для Вашей собаки защиту от блох, клещей, комаров и других кровососущих насекомых в течение 90 дней.</p><p>СРОК ГОДНОСТИ: 2 года с даты изготовления.
+Дата изготовления указана на упаковке.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить при комнатной температуре, в сухом, недоступном для детей месте, отдельно от пищевых продуктов.</p><p>Уникальность двухслойного БИОошейника &quot;GOOD NEEM Plus&quot; в том, что репеллент и инсектицид введены в разные слои ошейника, что позволяет эффективно защитить животное от всех видов кровососущих насекомых и паразитов. Ошейник состоит из двух слоев – верхний слой пропитан композицией из природных репеллентов, нижний слой пропитан композицией из природных инсектицидов, что гарантирует для животного двойную безопасность и надежность его действия.</p><p>ВЕРХНИЙ СЛОЙ ОШЕЙНИКА: Композиция из природных репеллентов (эфирные масла цитронеллы, лаванды, чайного дерева, гвоздики, розмарина, эвкалипта), которая в своем сочетании отпугивает кровососущих насекомых и паразитов, оказывает успокаивающее действие на раздражение или зуд кожи кошки.</p><p>НИЖНИЙ СЛОЙ ОШЕЙНИКА: Композиция из натурального инсектицида (масло индийского дерева ним, называемого также &quot;волшебным деревом&quot; или &quot;деревенской аптекой&quot;, помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах) и экстракта алое вера, которое оказывает на кожу животного успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на иммунную систему.</p><p>БИОошейник &quot;GOOD NEEM Plus&quot; безопасен для котят с двухмесячного возраста, беременных и кормящих кошек. А так же подходит чувствительным, пожилым, ослабленным и выздоравливающим кошкам. Безопасен для животных и детей.</p><p>СПОСОБ ПРИМЕНЕНИЯ:
+Распаковывать упаковку с БИОошейником &quot;GOOD NEEM Plus&quot; необходимо непосредственно перед его использованием. После вскрытия упаковки необходимо надеть ошейник на шею кошки, подогнав его по размеру так, чтобы между шеей животного и ошейником оставался промежуток в 1-2 см, затем необходимо закрепить фиксаторы в отверстиях и отрезать излишек ленты с учетом возможного роста кошки. Рекомендуется надевать ошейник заблаговременно. Продукт достигает своего пика эффективности через 5-7 дней после начала его использования. Ошейник водостойкий. Кошку можно мыть, не снимая ошейник.</p><p>Постоянное ношение БИОошейника &quot;GOOD NEEM Plus&quot; обеспечивает для Вашей собаки защиту от блох, клещей, комаров и других кровососущих насекомых в течение 90 дней.</p><p>СРОК ГОДНОСТИ: 2 года с даты изготовления.
+Дата изготовления указана на упаковке.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить при комнатной температуре, в сухом, недоступном для детей месте, отдельно от пищевых продуктов.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>F4108</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2010">
+        <url>http://minimepets.ru/catalog/antiparazit_favorit/antiparazitarnyy_bioshampun_dlya_koshek_i_kotyat_good_neem_plus/?r1=yandext&amp;r2=</url>
+        <price>480</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/ae6/gudnimplyusket.jpg</picture>
+        <name>GOOD NEEM PLUS Антипаразитарный БИОшампунь-кондиционер для Кошек и Котят с маслом Дерева Ним,250 мл.</name>
+        <model>GOOD NEEM PLUS Антипаразитарный БИОшампунь-кондиционер для Кошек и Котят с маслом Дерева Ним,250 мл.</model>
+        <description>
+          <![CDATA[
+<p>Активные вещества:</p><p>Масло индийского &quot;Дерева Ним&quot;, называемого также &quot;волшебным деревом&quot; или &quot;деревенской аптекой&quot;, помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах. Масло Лаванды оказывает на кожу кошки успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на его иммунную систему.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>F2218</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2013">
+        <url>http://minimepets.ru/catalog/antiparazit_favorit/antiparazitarnyy_bioshampun_dlya_sobak_i_shchenkov_good_neem_plus/?r1=yandext&amp;r2=</url>
+        <price>480</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/27b/gudnimplyusdog.jpg</picture>
+        <name>GOOD NEEM PLUS Антипаразитарный БИОшампунь-кондиционер для Собак и Щенков с маслом Дерева Ним,250 мл</name>
+        <model>GOOD NEEM PLUS Антипаразитарный БИОшампунь-кондиционер для Собак и Щенков с маслом Дерева Ним,250 мл</model>
+        <description>
+          <![CDATA[
+<p>Активные вещества:</p><p>Масло индийского &quot;Дерева Ним&quot;, называемого также &quot;волшебным деревом&quot; или &quot;деревенской аптекой&quot;, помимо его защитных свойств от эктопаразитов, обладает антибиотическим, антигрибковым и антивирусным эффектом, улучшает вид шерсти, снижает зуд от укусов насекомых, ликвидирует неприятный запах. Масло Лаванды оказывает на кожу кошки успокаивающее, дезинфицирующее и регенерирующее действие. Благотворно воздействует на его иммунную систему.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>F2118</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2020">
+        <url>http://minimepets.ru/catalog/vitaminy_favorit/multivitaminnoe_lakomstvo_dlya_koshek_krepkiy_immunitet_s_laminariey_/?r1=yandext&amp;r2=</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/dfc/vitamini_lakomstvo_dlya_koshek_s_laminariei.jpg</picture>
+        <name>GOOD CAT Мультивитаминное лакомcтво для Кошек &quot;КРЕПКИЙ ИММУНИТЕТ&quot; с ламинарией 90 таб. </name>
+        <model>GOOD CAT Мультивитаминное лакомcтво для Кошек &quot;КРЕПКИЙ ИММУНИТЕТ&quot; с ламинарией 90 таб. </model>
+        <description>
+          <![CDATA[
+<p>МУЛЬТИВИТАМИННЫЕ ЛАКОМСТВА GOOD CAT — это вкусное и полезное лакомство, которое дополнит ежедневный рацион вашего питомца. С помощью лакомства вы можете не только баловать питомца, но и заботиться о его здоровье, ведь в состав лакомства входят питательные и полезные вещества, стимулирующие работу всех систем организма.</p><p>Морские водоросли или ламинария – это продукт, сочетающий в себе большое количество полезных микро- и макроэлементов, которые оказывают на Вашего питомца целебное действие и обладают следующими уникальными свойствами:</p><ul><li>• повышает иммунитет</li><li>• снижает риск возникновения аллергических реакций</li><li>• обеспечивает организм животного витаминами, аминокислотами, полиненасыщенными жирными кислотами</li><li>• улучшает состояние шерстного покрова, не вызывая изменение окраса</li><li>• благоприятно воздействует на центральную нервную систему питомца и способствует оптимизации работы сердечной мышцы</li><li>• восстанавливают аппетит, при его потере</li><li>• повышает усвояемость кормов</li></ul><p>РЕКОМЕНДАЦИИ ПО КОРМЛЕНИЮ: Можно использовать при любом способе питания (натуральная пища, сухие корма и др</p><p>СПОСОБ ПРИМЕНЕНИЯ: 5-6 таблеток в день. При физических нагрузках и стрессах, в период реабилитации, беременным и кормящим животным норму можно увеличить в 1,5-2 раза.</p><p>ИНГРЕДИЕНТЫ: пекарские дрожжи, костная мука,
+сухое молоко, витамины, аминокислоты
+и минеральные вещества.</p><p>СРОК ХРАНЕНИЯ: 24 месяца с даты изготовления.
+Хранить при температуре от -10⁰С до +25⁰С
+и относительной влажности не более 80%.</p><p>МАССА: нетто 45 г</br>ТАБЛЕТОК В УПАКОВКЕ: 90 штук</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>FC02</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2021">
+        <url>http://minimepets.ru/catalog/vitaminy_favorit/multivitaminnoe_lakomctvo_dlya_koshek_zdorove_i_energiya/?r1=yandext&amp;r2=</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/c7e/vitamini_lakomstvo_dlya_koshek_s_taurinom.jpg</picture>
+        <name>GOOD CAT Мультивитаминное лакомcтво для Кошек &quot;ЗДОРОВЬЕ И ЭНЕРГИЯ&quot; 90 таб. </name>
+        <model>GOOD CAT Мультивитаминное лакомcтво для Кошек &quot;ЗДОРОВЬЕ И ЭНЕРГИЯ&quot; 90 таб. </model>
+        <description>
+          <![CDATA[
+<p>МУЛЬТИВИТАМИННЫЕ ЛАКОМСТВА GOOD CAT — это вкусное и полезное лакомство, которое дополнит ежедневный рацион вашего питомца. С помощью лакомства вы можете не только баловать питомца, но и заботиться о его здоровье, ведь в состав лакомства входят питательные и полезные вещества, стимулирующие работу всех систем организма.</p><p>СРОК ХРАНЕНИЯ: 24 месяца с даты изготовления.</p><p>Хранить при температуре от -10⁰С до +25⁰С и относительной влажности не более 80%.</p><p>МАССА: нетто 30 г.</p><p>ТАБЛЕТОК В УПАКОВКЕ: 90 штук</p><p>Таурин необходим для поддержания нормальной работы сердца, укрепляет иммунитет, нормализует работу печени и почек, улучшает работу ЖКТ. У кошек таурин не синтезируется в организме, поэтому должен поступать с пищей. Дефицит таурина приводит к подавлению репродуктивной функции, ослаблению зрения, выпадению шерсти и кариозному разрушению зубов. Также при недостатке таурина наблюдается отставание в росте у котят и молодых животных.</p><p>L-карнитин улучшает обменные и энергетические процессы в мышцах. Способствует утилизации подкожного жира, снижению уровня холестерина, предупреждает ожирение, увеличивает активность витаминов-антиоксидантов Е и С.</p><p>Рекомендации по кормлению: Можно использовать при любом способе питания (натуральная пища, сухие корма и др.)</p><p>Способ применения: 5-6 таблеток в день. При физических нагрузках и стрессах, в период реабилитации, беременным и кормящим животным норму можно увеличить в 1,5-2 раза.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>FC03</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2022">
+        <url>http://minimepets.ru/catalog/vitaminy_favorit/multivitaminnoe_lakomctvo_dlya_koshek_zdorove_shersti_i_kozhi/?r1=yandext&amp;r2=</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/0d8/vitamini_lakomstvo_dlya_koshek_zdorovie_sherst.jpg</picture>
+        <name>GOOD CAT Мультивитаминное лакомcтво для Кошек &quot;ЗДОРОВЬЕ КОЖИ И ШЕРСТИ&quot; 90 таб. </name>
+        <model>GOOD CAT Мультивитаминное лакомcтво для Кошек &quot;ЗДОРОВЬЕ КОЖИ И ШЕРСТИ&quot; 90 таб. </model>
+        <description>
+          <![CDATA[
+<p>МУЛЬТИВИТАМИННЫЕ ЛАКОМСТВА GOOD CAT — это вкусное и полезное лакомство, которое дополнит ежедневный рацион вашего питомца. С помощью лакомства вы можете не только баловать питомца, но и заботиться о его здоровье, ведь в состав лакомства входят питательные и полезные вещества, стимулирующие работу всех систем организма.</p><p>Биотин (витамин Н) имеет огромное значение для питания кожи и шерсти. Он способствует росту, пышности, шелковистости и яркому цвету шерсти животных, предотвращает воспаление кожи, делает ее устойчивой к микроповреждениям. При недостатке биотина может возникать выпадение шерсти, зуд, ломкость шерсти и когтей.</p><p>Таурин необходим для поддержания нормальной работы сердца, укрепляет иммунитет, нормализует работу печени и почек, улучшает работу ЖКТ. У кошек таурин не синтезируется в организме, поэтому должен поступать с пищей! Дефицит таурина приводит к подавлению репродуктивной функции, ослаблению зрения, выпадению шерсти и кариозному разрушению зубов. Также при недостатке таурина наблюдается отставание в росте у котят и молодых животных.</p><p>РЕКОМЕНДАЦИИ ПО КОРМЛЕНИЮ: Можно использовать при любом способе питания (натуральная пища, сухие корма и др.)</p><p>СПОСОБ ПРИМЕНЕНИЯ: 5-6 таблеток в день. При физических нагрузках и стрессах, в период реабилитации, беременным и кормящим животным норму можно увеличить в 1,5-2 раза.</p><p>ИНГРЕДИЕНТЫ: пекарские дрожжи, костная мука,
+сухое молоко, витамины, аминокислоты
+и минеральные вещества.</p><p>СРОК ХРАНЕНИЯ: 24 месяца с даты изготовления.
+Хранить при температуре от -10⁰С до +25⁰С
+и относительной влажности не более 80%.</p><p>МАССА: нетто 45 г</p><p>ТАБЛЕТОК В УПАКОВКЕ: 90 штук</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>F5203</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2028">
+        <url>http://minimepets.ru/catalog/vitaminy_favorit/multivitaminnoe_lakomctvo_dlya_sobak_zdorove_i_energiya/?r1=yandext&amp;r2=</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/3a6/vitamini_lakomstvo_dlya_sobak_s_proteinom.jpg</picture>
+        <name>GOOD DOG Мультивитаминное лакомcтво для Собак &quot;ЗДОРОВЬЕ  И ЭНЕРГИЯ&quot; 90 таб. </name>
+        <model>GOOD DOG Мультивитаминное лакомcтво для Собак &quot;ЗДОРОВЬЕ  И ЭНЕРГИЯ&quot; 90 таб. </model>
+        <description>
+          <![CDATA[
+<p>МУЛЬТИВИТАМИННЫЕ ЛАКОМСТВА GOOD DOG — это вкусное и полезное лакомство, которое дополнит ежедневный рацион вашего питомца. С помощью лакомства вы можете не только баловать питомца, но и заботиться о его здоровье, ведь в состав лакомства входят питательные и полезные вещества, стимулирующие работу всех систем организма.</p><p>Протеины (белки) – жизненно-важные питательные вещества, необходимые для роста и нормальной жизнедеятельности организма, способствующие усвоению других питательных веществ. Животные не способны сами синтезировать белки. Они должны поступать с пищей. Дефицит протеина: проявляется в ослаблении иммунной системы, заболевании кожи и шерсти (сухость, ломкость, тусклость или выпадение) и заболевании сердца. Мультивитамины &quot;здоровье и энергия&quot; рекомендуются при подверженности различным и заболеваниям и инфекциям, при слабой мышечной массе и плохом аппетите.</p><p>L-карнитин улучшает обменные и энергетические процессы в мышцах. Способствует утилизации подкожного жира, снижению уровня холестерина, предупреждает ожирение, увеличивает активность витаминов-антиоксидантов Е и С и улучшает аппетит.</p><p>РЕКОМЕНДАЦИИ ПО КОРМЛЕНИЮ: Можно использовать при любом способе питания (натуральная пища, сухие корма и др.)</p><p>СПОСОБ ПРИМЕНЕНИЯ: 5-6 таблеток в день. При физических нагрузках и стрессах, в период реабилитации, беременным и кормящим животным норму можно увеличить в 1,5-2 раза.</p><p>ИНГРЕДИЕНТЫ: пекарские дрожжи, костная мука, сухое молоко, витамины, аминокислоты и минеральные вещества.</p><p>СРОК ХРАНЕНИЯ: 24 месяца с даты изготовления. Хранить при температуре от -10⁰С до +25⁰С  и относительной влажности не более 80%.</p><p>МАССА: нетто 45 г</p><p>ТАБЛЕТОК В УПАКОВКЕ: 90 штук</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>FD01</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2029">
+        <url>http://minimepets.ru/catalog/vitaminy_favorit/multivitaminnoe_lakomctvo_dlya_sobak_krepkiy_immunitet_s_laminariey/?r1=yandext&amp;r2=</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/b7e/vitamini_lakomstvo_dlya_sobak_s_laminariei.jpg</picture>
+        <name>GOOD DOG Мультивитаминное лакомcтво для Собак &quot;КРЕПКИЙ ИММУНИТЕТ&quot; (с ламинарией) 90 таб. </name>
+        <model>GOOD DOG Мультивитаминное лакомcтво для Собак &quot;КРЕПКИЙ ИММУНИТЕТ&quot; (с ламинарией) 90 таб. </model>
+        <description>
+          <![CDATA[
+<p>МУЛЬТИВИТАМИННЫЕ ЛАКОМСТВА GOOD DOG — это вкусное и полезное лакомство, которое дополнит ежедневный рацион вашего питомца. С помощью лакомства вы можете не только баловать питомца, но и заботиться о его здоровье, ведь в состав лакомства входят питательные и полезные вещества, стимулирующие работу всех систем организма.</p><p>Морские водоросли или ламинария – это продукт, сочетающий в себе большое количество полезных микро- и макроэлементов, которые оказывают на Вашего питомца целебное действие и обладают следующими уникальными свойствами:</p><ul><li>• повышает иммунитет</li><li>• снижает риск возникновения аллергических реакций</li><li>• обеспечивает организм животного витаминами, аминокислотами, полиненасыщенными жирными кислотами</li><li>• улучшает состояние шерстного покрова, не вызывая изменение окраса</li><li>• благоприятно воздействует на центральную нервную систему питомца и способствует оптимизации работы сердечной мышцы</li><li>• восстанавливают аппетит, при его потере</li><li>• повышает усвояемость кормов</li></ul><p>РЕКОМЕНДАЦИИ ПО КОРМЛЕНИЮ: Можно использовать при любом способе питания (натуральная пища, сухие корма и др)</p><p>СПОСОБ ПРИМЕНЕНИЯ: 5-6 таблеток в день. При физических нагрузках и стрессах, в период реабилитации, беременным и кормящим животным норму можно увеличить в 1,5-2 раза.</p><p>ИНГРЕДИЕНТЫ: пекарские дрожжи, костная мука,
+сухое молоко, витамины, аминокислоты
+и минеральные вещества.</p><p>СРОК ХРАНЕНИЯ: 24 месяца с даты изготовления.
+Хранить при температуре от -10⁰С до +25⁰С
+и относительной влажности не более 80%.</p><p>МАССА: нетто 45 г</p><p>ТАБЛЕТОК В УПАКОВКЕ: 90 штук</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>FD02</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2030">
+        <url>http://minimepets.ru/catalog/vitaminy_favorit/multivitaminnoe_lakomctvo_dlya_sobak_zdorove_kozhi_i_shersti/?r1=yandext&amp;r2=</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/ef7/vitamini_lakomstvo_dlya_sobak_s_biotinom.jpg</picture>
+        <name>GOOD DOG Мультивитаминное лакомcтво для Собак &quot;ЗДОРОВЬЕ КОЖИ И ШЕРСТИ&quot; 90 таб. </name>
+        <model>GOOD DOG Мультивитаминное лакомcтво для Собак &quot;ЗДОРОВЬЕ КОЖИ И ШЕРСТИ&quot; 90 таб. </model>
+        <description>
+          <![CDATA[
+<p>МУЛЬТИВИТАМИННЫЕ ЛАКОМСТВА GOOD DOG — это вкусное и полезное лакомство, которое дополнит ежедневный рацион вашего питомца. С помощью лакомства вы можете не только баловать питомца, но и заботиться о его здоровье, ведь в состав лакомства входят питательные и полезные вещества, стимулирующие работу всех систем организма</p><p>Протеины (белки) – жизненно-важные питательные вещества, необходимые для роста и нормальной жизнедеятельности организма, способствующие усвоению других питательных веществ. Животные не способны сами синтезировать белки. Они должны поступать с пищей.</p><p>Биотин (витамин Н) имеет огромное значение для питания кожи и шерсти. Он способствует росту, пышности, шелковистости и яркому цвету шерсти животных, предотвращает воспаление кожи, делает ее устойчивой к микроповреждениям. При недостатке биотина может возникать выпадение шерсти, зуд, ломкость шерсти и когтей.</p><p>РЕКОМЕНДАЦИИ ПО КОРМЛЕНИЮ: Можно использовать при любом способе питания (натуральная пища, сухие корма и др.)</p><p>СПОСОБ ПРИМЕНЕНИЯ: 5-6 таблеток в день. При физических нагрузках и стрессах, в период реабилитации, беременным и кормящим животным норму можно увеличить в 1,5-2 раза.</p><p>ИНГРЕДИЕНТЫ: пекарские дрожжи, костная мука, сухое молоко, вкусовые добавки, витамины, аминокислоты
+и минеральные вещества.</p><p>СРОК ХРАНЕНИЯ: 24 месяца с даты изготовления. Хранить при температуре от -10⁰С до +25⁰С и относительной влажности не более 80%.</p><p>МАССА: нетто 45 г</p><p>ТАБЛЕТОК В УПАКОВКЕ: 90 штук</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>FD03</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2045">
+        <url>http://minimepets.ru/catalog/zernosmesi_i_muka_favorit/good_corn_ovoshchnoy_multivitaminnyy_kompleks_dlya_gryzunov_ovoshchnaya_tarelka/?r1=yandext&amp;r2=</url>
+        <price>115</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/245/1_6.jpg</picture>
+        <name>GOOD CORN Овощной Мультивитаминный комплекс для Грызунов &quot;ОВОЩНАЯ ТАРЕЛКА&quot; 15 таб.</name>
+        <model>GOOD CORN Овощной Мультивитаминный комплекс для Грызунов &quot;ОВОЩНАЯ ТАРЕЛКА&quot; 15 таб.</model>
+        <description>
+          <![CDATA[
+<h3>ОВОЩНОЙ МУЛЬТИВИТАМИННЫЙ КОМПЛЕКС ДЛЯ ГРЫЗУНОВ &quot;ОВОЩНАЯ ТАРЕЛКА&quot;
+C ВИТАМИНАМИ, ЗЛАКАМИ И МИКРОЭЛЕМЕНТАМИ</h3><p>РЕКОМЕНДАЦИИ ПО КОРМЛЕНИЮ: можно использовать при любом способе питания. 1-2 таблетки в день.
+При стрессах, в период реабилитации, беременным и кормящим норму можно увеличить в 1,5 – 2 раза.</p><p>ПОЛЕЗНЫЕ СВОЙСТВА ОВОЩЕЙ: Овощи имеют важное значение в питании Вашего питомца. Сочетание различных овощей в рационе питания благотворно воздействует на организм, повышает процент усвоения каждого витамина в отдельности. Немаловажная роль в организации рационального питания Вашего питомца отводится овощам — обязательной и существенной части ежедневного рациона, кладовой витаминов, других органических и минеральных веществ. Основная ценность овощей в том, что они содержат биологически активные вещества: витамины (витамин C, каротин, фолиевая кислота), минеральные вещества, органические кислоты, клетчатку и пектиновые вещества. Запах и вкус овощей стимулируют секреторную функцию желудка и поджелудочной железы, а органические кислоты &quot;ощелачивают&quot; организм. Пектиновые вещества связывают соли тяжелых металлов и другие токсины. Употребление овощей укрепляет иммунитет и позволяет противостоять болезням. В отличии от синтетических препаратов, натуральные ингредиенты нашего комплекса, не наносят вреда здоровью, оказывая благотворное воздействие на организм Вашего питомца.</p><p>СРОК ХРАНЕНИЯ: 24 месяца.
+Не является лекарственным средством.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>F5302</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2046">
+        <url>http://minimepets.ru/catalog/zernosmesi_i_muka_favorit/good_cornfruktovyy_multivitaminnyy_kompleks_dlya_gryzunov_fruktovaya_korzina/?r1=yandext&amp;r2=</url>
+        <price>115</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/bf2/fructovaya_korzina_dlya_grizunov.jpg</picture>
+        <name>GOOD CORN Фруктовый Мультивитаминный комплекс для Грызунов &quot;ФРУКТОВАЯ КОРЗИНА&quot; 15 таб.</name>
+        <model>GOOD CORN Фруктовый Мультивитаминный комплекс для Грызунов &quot;ФРУКТОВАЯ КОРЗИНА&quot; 15 таб.</model>
+        <description>
+          <![CDATA[
+<h3>ФРУКТОВЫЙ МУЛЬТИВИТАМИННЫЙ КОМПЛЕКС ДЛЯ ГРЫЗУНОВ &quot;ФРУКТОВАЯ КОРЗИНА&quot; C  ВИТАМИНАМИ, ЗЛАКАМИ И МИКРОЭЛЕМЕНТАМИ</h3><p>РЕКОМЕНДАЦИИ ПО КОРМЛЕНИЮ: можно использовать при любом способе питания. 1-2 таблетки в день. При стрессах, в период реабилитации, беременным и кормящим норму можно увеличить в 1,5 – 2 раза.</p><p>ПОЛЕЗНЫЕ СВОЙСТВА ФРУКТОВ: Фрукты и ягоды имеют важное значение в питании Вашего питомца. Это чемпионы по содержанию витаминов, клетчатки, пектинов, органических кислот, микро- и макроэлементов, а также антиоксидантов. Особую ценность представляют ягоды и фрукты как источник витаминов, которые играют большую роль в жизнедеятельности животного, повышая жизненный тонус организма и сопротивляемость к различным болезням. Фрукты и ягоды богаты солями железа, фосфора, кальция, калия, а также микроэлементами, которые входят в состав органических соединений и легко усваиваются организмом животного. Соли кальция участвуют в построении костной системы, а соли фосфора — нервных тканей. Железо входит в состав гемоглобина крови. Кроме того, они ценны не только как продукт питания, но и способствуют усвояемости других питательных веществ, в частности белков и минеральных солей.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить плотно закрытым, в сухом хорошо вентилируемом помещении, недоступном для детей и животных. Относительная влажность не более 75%. Температура хранения не выше +30˚С.</p><p>СРОК ХРАНЕНИЯ: 24 месяца. Не является лекарственным средством.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>F5301</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2047">
+        <url>http://minimepets.ru/catalog/zernosmesi_i_muka_favorit/good_corn_fruktovyy_multivitaminnyy_kompleks_dlya_ptits_fruktovaya_korzina_c_vitaminami_zlakami_i_mi/?r1=yandext&amp;r2=</url>
+        <price>115</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/e33/fruktovaya_korzina_dlya_ptic.jpg</picture>
+        <name>GOOD CORN Фруктовый Мультивитаминный комплекс для Птиц &quot;ФРУКТОВАЯ КОРЗИНА&quot; 15 таб.</name>
+        <model>GOOD CORN Фруктовый Мультивитаминный комплекс для Птиц &quot;ФРУКТОВАЯ КОРЗИНА&quot; 15 таб.</model>
+        <description>
+          <![CDATA[
+<h3>ФРУКТОВЫЙ МУЛЬТИВИТАМИННЫЙ КОМПЛЕКС ДЛЯ ПТИЦ &quot;ФРУКТОВАЯ КОРЗИНА&quot; C  ВИТАМИНАМИ, ЗЛАКАМИ И МИКРОЭЛЕМЕНТАМИ</h3><p>РЕКОМЕНДАЦИИ ПО КОРМЛЕНИЮ: можно использовать при любом способе питания. 1-2 таблетки в день. При стрессах, в период реабилитации, беременным и кормящим норму можно увеличить в 1,5 – 2 раза.</p><p>ПОЛЕЗНЫЕ СВОЙСТВА ФРУКТОВ: Фрукты и ягоды имеют важное значение в питании Вашего питомца. Это чемпионы по содержанию витаминов, клетчатки, пектинов, органических кислот, микро- и макроэлементов, а также антиоксидантов. Особую ценность представляют ягоды и фрукты как источник витаминов, которые играют большую роль в жизнедеятельности животного, повышая жизненный тонус организма и сопротивляемость к различным болезням. Фрукты и ягоды богаты солями железа, фосфора, кальция, калия, а также микроэлементами, которые входят в состав органических соединений и легко усваиваются организмом животного. Соли кальция участвуют в построении костной системы, а соли фосфора — нервных тканей. Железо входит в состав гемоглобина крови. Кроме того, они ценны не только как продукт питания, но и способствуют усвояемости других питательных веществ, в частности белков и минеральных солей.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить плотно закрытым, в сухом хорошо вентилируемом помещении, недоступном для детей и животных. Относительная влажность не более 75%. Температура хранения не выше +30˚С.</p><p>СРОК ХРАНЕНИЯ: 24 месяца. Не является лекарственным средством.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>F5401</vendorCode>
+        <available>TRUE</available>
+      </offer>
+      <offer available="true" id="2048">
+        <url>http://minimepets.ru/catalog/zernosmesi_i_muka_favorit/good_corn_fruktovyy_multivitaminnyy_kompleks_dlya_morskikh_svinok_askorbinka_c_vitaminom_s_zlakami_i/?r1=yandext&amp;r2=</url>
+        <price>115</price>
+        <currencyId>RUB</currencyId>
+        <vat>0</vat>
+        <category>товары для goods.ru</category>
+        <categoryId>67</categoryId>
+        <vendor>ООО &quot;МИНИМИ ПЕТС&quot;</vendor>
+        <picture>http://minimepets.ru/upload/iblock/606/vitamini_dlya_svinok.jpg</picture>
+        <name>GOOD CORN Фруктовый Мультивитаминный комплекс для Морских свинок &quot;АСКОРБИНКА&quot; 15 таб.</name>
+        <model>GOOD CORN Фруктовый Мультивитаминный комплекс для Морских свинок &quot;АСКОРБИНКА&quot; 15 таб.</model>
+        <description>
+          <![CDATA[
+<h3>ФРУКТОВЫЙ МУЛЬТИВИТАМИННЫЙ КОМПЛЕКС ДЛЯ МОРСКИХ СВИНОК</h3><p>&quot;АСКОРБИНКА&quot; C  ВИТАМИНОМ С, ЗЛАКАМИ И МИКРОЭЛЕМЕНТАМИ</p><p>РЕКОМЕНДАЦИИ ПО КОРМЛЕНИЮ: можно использовать при любом способе питания. 1-2 таблетки в день. При стрессах, в период реабилитации, беременным и кормящим норму можно увеличить в 1,5 – 2 раза.</p><p>ПОЛЕЗНЫЕ СВОЙСТВА ВИТАМИНА C (АСКОРБИНОВАЯ КИСЛОТА): витамин С имеет первостепенное значение в здоровой жизни морских свинок, так как их организм его не вырабатывает. Нехватка витамина С в их рационе питания может стать причиной ряда заболеваний. Морские свинки ежедневно нуждаются в 10-30 мг витамина С в сутки. Беременным , кормящим, молодым и больным морским свинкам требуется большее количество витамина С. Восполнить нехватку витамина С поможет повседневный мультивитаминный комплекс GOOD CORN &quot;АСКОРБИНКА&quot;, специально разработанный для морских свинок.</p><p>ПОЛЕЗНЫЕ СВОЙСТВА ФРУКТОВ: Фрукты и ягоды имеют важное значение в питании Вашего питомца. Это чемпионы по содержанию витаминов, клетчатки, пектинов, органических кислот,  микро- и макроэлементов, а также антиоксидантов. Особую ценность представляют ягоды и фрукты как источник витаминов, которые играют большую роль в жизнедеятельности животного, повышая жизненный тонус организма и сопротивляемость к различным болезням. Фрукты и ягоды богаты солями железа, фосфора, кальция, калия, а также микроэлементами, которые входят в состав органических соединений и легко усваиваются организмом животного. Соли кальция участвуют в построении костной системы, а соли фосфора — нервных тканей. Железо входит в состав гемоглобина крови. Кроме того, они ценны не только как продукт питания, но и способствуют усвояемости других питательных веществ, в частности белков и минеральных солей.</p><p>УСЛОВИЯ ХРАНЕНИЯ: хранить плотно закрытым, в сухом хорошо вентилируемом помещении, недоступном для детей и животных. Относительная влажность не более 75%.  Температура хранения не выше +30˚С.</p><p>СРОК ХРАНЕНИЯ: 24 месяца. Не является лекарственным средством.</p>]]>
+        </description>
+        <manufacturer_warranty>ООО ТД &quot;Фаворит&quot;</manufacturer_warranty>
+        <vendorCode>F5303</vendorCode>
+        <available>TRUE</available>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

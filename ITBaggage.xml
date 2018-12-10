@@ -1,0 +1,2987 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yml_catalog date="2019-01-09 11:21">
+	<shop>
+		<name>IT Baggage</name>
+		<company>Критинин Д.С., ИП</company>
+		<url>http://itbaggage.ru</url>
+		<currencies>
+			<currency id="RUR" rate="1" plus="0"/>
+		</currencies>
+		<categories>
+			<category id="1">Чехлы для планшетов</category>
+		</categories>
+		<offers>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363356</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ACER Iconia Tab A1-810/811 8", черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITACA8102-1</vendorCode>
+				<model>ACER Iconia Tab A1-810/811 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364445</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ACER Iconia Tab A1-830/831 8", черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITAC8302-1</vendorCode>
+				<model>ACER Iconia Tab A1-830/831 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361567</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ACER Iconia Tab A510/А701 10,1"  черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITACA5105-1</vendorCode>
+				<model>ACER Iconia Tab A510/А701 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361574</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ACER Iconia Tab A510/А701 10,1"  черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITACA5102-1</vendorCode>
+				<model>ACER Iconia Tab A510/А701 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361581</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ACER Iconia Tab A510/А701 10,1"  черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITACA5103-1</vendorCode>
+				<model>ACER Iconia Tab A510/А701 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361628</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ACER Iconia Tab A510/А701 10,1"  черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITACA5101-1</vendorCode>
+				<model>ACER Iconia Tab A510/А701 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode/>
+				<name>Чехол IT BAGGAGE  для планшета ACER Iconia Tab A510/А701 10,1", коричневый</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITACA5101-2</vendorCode>
+				<model>ACER Iconia Tab A510/А701 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode/>
+				<name>Чехол IT BAGGAGE  для планшета ACER Iconia Tab A510/А701 10,1", красный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITACA5102-3</vendorCode>
+				<model>ACER Iconia Tab A510/А701 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770360379</barcode>
+				<name>Чехол IT BAGGAGE  для планшетаACER Iconia Tab W500/W501 10,1", черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITACW5001-1</vendorCode>
+				<model>ACER Iconia Tab W500/W501 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode/>
+				<name>Чехол IT BAGGAGE  для планшетаACER Iconia Tab W500/W501 10,1", черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITACW502-1</vendorCode>
+				<model>ACER Iconia Tab W500/W501 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362694</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ACER Iconia Tab W700/W701 11,6", белый</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITACW702-0</vendorCode>
+				<model>ACER Iconia Tab W700/W701 11,6"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode/>
+				<name>Чехол IT BAGGAGE  для планшета ACER Iconia Tab W700/W701 11,6"  черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITACW702-1</vendorCode>
+				<model>ACER Iconia Tab W700/W701 11,6"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode/>
+				<name>Чехол IT BAGGAGE  для планшета ACER Iconia Tab W700/W701 11,6"  черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITACW701-1</vendorCode>
+				<model>ACER Iconia Tab W700/W701 11,6"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770340630</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ACER Iconia Tab B1-710/711 7", черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITACB102-1</vendorCode>
+				<model>ACER Iconia Tab B1-710/711 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364094</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ACER Iconia Tab B1-720/721 7", черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITACB721-1</vendorCode>
+				<model>ACER Iconia Tab B1-720/721 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364810</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS Fonepad FE170CG/ME170С 7" , красный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASFE1702-3</vendorCode>
+				<model>ASUS Fonepad  FE170CG/ME170С 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364803</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS Fonepad FE170CG/ME170С 7", синий</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASFE1702-4</vendorCode>
+				<model>ASUS Fonepad FE170CG/ME170С 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640077</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS Fonepad FE171CG 7", черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASFE1715-1</vendorCode>
+				<model>ASUS Fonepad FE171CG 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770342238</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS Fonepad ME175CG/ME172V 7", серый</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME1752-9</vendorCode>
+				<model>ASUS Fonepad ME175CG/ME172V 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640244</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS Fonepad ME70С 7", черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME70C2-1</vendorCode>
+				<model>ASUS Fonepad ME70С 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770365046</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS Fonepad FE380 8", черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASFP802-1</vendorCode>
+				<model>ASUS Fonepad  FE380 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363431</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS MeMO Pad ME102A 10", черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME102-1</vendorCode>
+				<model>ASUS MeMO Pad ME102A 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363448</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS MeMO Pad ME102A 10", красный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME102-3</vendorCode>
+				<model>ASUS MeMO Pad ME102A 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640114</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS MeMO Pad ME103A 10", красный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME103K-3</vendorCode>
+				<model>ASUS MeMO Pad ME103A 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363349</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS MeMO Pad ME173Х 7", черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME1732-1</vendorCode>
+				<model>ASUS MeMO Pad ME173Х 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364643</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS MeMO Pad ME176 7", белый</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME1762-0</vendorCode>
+				<model>ASUS MeMO Pad ME176 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364674</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS MeMO Pad ME176 7", красный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME1762-3</vendorCode>
+				<model>ASUS MeMO Pad ME176 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364896</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS MeMO Pad ME572C/CE 7", черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME572-1</vendorCode>
+				<model>ASUS MeMO Pad ME572C/CE 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364902</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS MeMO Pad ME572C/CE 7", красный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME572-3</vendorCode>
+				<model>ASUS MeMO Pad ME572C/CE 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640015</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS MeMO Pad ME581 8", черный</name>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME581-1</vendorCode>
+				<model>ASUS MeMO Pad ME581 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361895</barcode>
+				<name>Чехол IT BAGGAGE  для планшетаASUS Transformer Pad TF300 10", синий</name>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASTF308-4</vendorCode>
+				<model>ASUS Transformer Pad TF300 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361543</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS Transformer Pad TF300 10", черный</name>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASTF305-1</vendorCode>
+				<model>ASUS Transformer Pad TF300 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770360980</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS Transformer Pad TF201 10", коричневый</name>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASTF201-2</vendorCode>
+				<model>ASUS Transformer Pad TF201 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362663</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS VivoTab TF600  10,1" , черный</name>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASTF601-1</vendorCode>
+				<model>ASUS VivoTab TF600  10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362519</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS VivoTab TF600  10,1" , черный</name>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASTF602-1</vendorCode>
+				<model>ASUS VivoTab TF600  10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361802</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS Transformer Pad TF701/TF700 10,1", черный</name>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASTF705-1</vendorCode>
+				<model>ASUS Transformer Pad TF701/TF700 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361888</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS Transformer Pad TF701/TF700 10,1", синий</name>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASTF708-4</vendorCode>
+				<model>ASUS Transformer Pad TF701/TF700 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361970</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS Transformer Pad TF701/TF700 10,1", коричневый</name>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASTF702-2</vendorCode>
+				<model>ASUS Transformer Pad TF701/TF700 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361819</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS Transformer Pad TF701/TF700 10,1", коричневый</name>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASTF701-2</vendorCode>
+				<model>ASUS Transformer Pad TF701/TF700 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362960</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS VivoTab TF810C 11,6", черный</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME802-1</vendorCode>
+				<model>ASUS VivoTab TF810C 11,6"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362977</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS VivoTab TF810C 11,6", черный</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME804-1</vendorCode>
+				<model>ASUS VivoTab TF810C 11,6"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361659</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS Transformer Pad TF701/TF700 10,1", черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASTF303-1</vendorCode>
+				<model>ASUS Transformer Pad TF701/TF700 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361802</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS Transformer Pad TF701/TF700 10,1", черный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASTF705-1</vendorCode>
+				<model>ASUS Transformer Pad TF701/TF700 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362830</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS MeMO Pad ME302KL/302C/ME301/TF300 10" , белый</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME302-0</vendorCode>
+				<model>ASUS MeMO Pad ME302KL/302C/ME301/TF300  10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363011</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS MeMO Pad ME302KL/302C/ME301/TF300 10" , красный</name>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASME302-3</vendorCode>
+				<model>ASUS MeMO Pad ME302KL/302C/ME301/TF300  10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642743</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS ZenPad Z300 10,1", черный</name>
+				<price>940</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASZP300-1</vendorCode>
+				<model>ASUS ZenPad  Z300 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642453</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS ZenPad Z301ML 10,1", черный</name>
+				<price>940</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASZP301-1</vendorCode>
+				<model>ASUS ZenPad Z301ML 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104641487</barcode>
+				<name>Чехол IT BAGGAGE  для планшета ASUS ZenPad  Z380 8", белый</name>
+				<price>860</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITASZP3802-0</vendorCode>
+				<model>ASUS ZenPad  Z380 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364544</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad M1 8", черный</name>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHM182-1</vendorCode>
+				<model>Huawei Media Pad M1 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104641258</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad M2 10" , черный</name>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWM2105-1</vendorCode>
+				<model>Huawei Media Pad M2 10" </model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640763</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad M2 8", черный</name>
+				<price>799</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWM285-1</vendorCode>
+				<model>Huawei Media Pad M2 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104641821</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad M3 8.4", черный</name>
+				<price>940</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWM384-1</vendorCode>
+				<model>Huawei Media Pad M3 8.4"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642392</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad M3 lite  10", черный</name>
+				<price>950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWM315-1</vendorCode>
+				<model>Huawei Media Pad M3 lite  10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642828</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad M3 lite  10", красный</name>
+				<price>950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWM315-3</vendorCode>
+				<model>Huawei Media Pad M3 lite  10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642798</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad M3 lite  10", черный</name>
+				<price>950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWM311-1</vendorCode>
+				<model>Huawei Media Pad M3 lite  10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642804</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad M3 lite  10", черный</name>
+				<price>950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWM310-1</vendorCode>
+				<model>Huawei Media Pad M3 lite  10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642989</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad M5 10.8" , черный</name>
+				<price>1040</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWM510-1</vendorCode>
+				<model>Huawei Media Pad M5 10.8" </model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642996</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad M5 8.4, черный</name>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWM584-1</vendorCode>
+				<model>Huawei Media Pad M5 8.4</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104643184</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad M5 Lite 10", черный</name>
+				<price>1010</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWM510L- 1</vendorCode>
+				<model>Huawei Media Pad M5 Lite 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104643009</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad M5 Pro 10.8" , черный</name>
+				<price>1040</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWM515-1</vendorCode>
+				<model>Huawei Media Pad M5 Pro 10.8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640305</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad T1 7", черный</name>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWT1705-1</vendorCode>
+				<model>Huawei Media Pad T1 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642736</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad T2 7", черный</name>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWT1725-1</vendorCode>
+				<model>Huawei Media Pad T2 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104641401</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad T2 Pro 10" , черный</name>
+				<price>760</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWT215-1</vendorCode>
+				<model>Huawei Media Pad T2 Pro 10" </model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104641418</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad T2 Pro 7", черный</name>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWT275-1</vendorCode>
+				<model>Huawei Media Pad T2 Pro 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642637</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad T3  7", черный</name>
+				<price>840</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWT375-1</vendorCode>
+				<model>Huawei Media Pad T3  7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642620</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad T3 10", золотой</name>
+				<price>1060</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWT3105-9</vendorCode>
+				<model>Huawei Media Pad T3 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642385</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad T3 10", черный</name>
+				<price>1060</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWT3105-1</vendorCode>
+				<model>Huawei Media Pad T3 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642378</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad T3 8", черный</name>
+				<price>1020</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWT3805-1</vendorCode>
+				<model>Huawei Media Pad T3 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642682</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad T3 8", золотой</name>
+				<price>1020</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWT3805-9</vendorCode>
+				<model>Huawei Media Pad T3 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642439</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad T3 8", черный</name>
+				<price>920</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWT387-1</vendorCode>
+				<model>Huawei Media Pad T3 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode/>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad T3 8", белый</name>
+				<price>920</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWT387-0</vendorCode>
+				<model>Huawei Media Pad T3 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642316</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad T3 8", черный</name>
+				<price>920</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWT387-1</vendorCode>
+				<model>Huawei Media Pad T3 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104643177</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad T5 10" , черный</name>
+				<price>1040</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWT5102-1</vendorCode>
+				<model>Huawei Media Pad T5 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364414</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad X1 7", черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWX1-1</vendorCode>
+				<model>Huawei Media Pad X1 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364605</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad X1 7", черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHX1702-1</vendorCode>
+				<model>Huawei Media Pad X1 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640084</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei Media Pad X2 7", черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHWX202-1</vendorCode>
+				<model>Huawei Media Pad X2 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363653</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Huawei MediaPad Link 10" , черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITHW102-1</vendorCode>
+				<model>Huawei MediaPad Link 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104643023</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Apple iPad 2018 9.7", черный</name>
+				<price>1020</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITIP20182-1</vendorCode>
+				<model>Apple iPad 2018 9.7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104643061</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Apple iPad 2018 9.7", красный</name>
+				<price>1020</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITIP20182-3</vendorCode>
+				<model>Apple iPad 2018 9.7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104643054</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Apple iPad 2018 9.7", бирюза</name>
+				<price>1020</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITIP20182-6</vendorCode>
+				<model>Apple iPad 2018 9.7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642279</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Apple iPad 2017 9.7", черный</name>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITIP20172-1</vendorCode>
+				<model>Apple iPad 2017 9.7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104643047</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Apple iPad 2017 9.7", бирюза</name>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITIP20172-6</vendorCode>
+				<model>Apple iPad 2017 9.7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104643030</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Apple iPad 2017 9.7", красный</name>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITIP20172-6</vendorCode>
+				<model>Apple iPad 2017 9.7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642095</barcode>
+				<name>Чехол IT BAGGAGE  для планшета iPad Air 2 9.7 , черный</name>
+				<price>930</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITIPA205-1</vendorCode>
+				<model>iPad Air 2 9.7 </model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode/>
+				<name>Чехол IT BAGGAGE  для планшета iPad MINI4 7.9, черный</name>
+				<price>760</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITIPMINI4-1</vendorCode>
+				<model>iPad MINI4 7.9</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362373</barcode>
+				<name>Чехол IT BAGGAGE  для планшета iPad MINI 7.9, черный</name>
+				<price>730</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITIPMINI02-1 </vendorCode>
+				<model>iPad MINI 7.9</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362489</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Ideapad S2109A 9,7", черный</name>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLN2109-1</vendorCode>
+				<model>LENOVO Ideapad S2109A 9,7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364667</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO IdeaTab 7" A7-30 (A3300), черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNA3302-1</vendorCode>
+				<model>LENOVO IdeaTab 7" A7-30 (A3300)</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364926</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO IdeaTab 7" A7-30 (A3300), синий</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNA3302-4</vendorCode>
+				<model>LENOVO IdeaTab 7" A7-30 (A3300)</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364575</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO IdeaTab 7" A7-50 (A3500 ) , белый</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNA3502-0</vendorCode>
+				<model>LENOVO IdeaTab 7" A7-50 (A3500 )</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364667</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO IdeaTab 7" A7-50 (A3500 ) , черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNA3502-1</vendorCode>
+				<model>LENOVO IdeaTab 7" A7-50 (A3500 )</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364858</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO IdeaTab 7" A7-50 (A3500 ) , красный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNA3502-3</vendorCode>
+				<model>LENOVO IdeaTab 7" A7-50 (A3500 )</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364728</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO IdeaTab 7" A7-50 (A3500 ) , синий</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNA3502-4</vendorCode>
+				<model>LENOVO IdeaTab 7" A7-50 (A3500 )</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364711</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO IdeaTab 8" A8-50 (A5500), белый</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNA5502-0</vendorCode>
+				<model>LENOVO IdeaTab 8" A8-50 (A5500)</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364865</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO IdeaTab 8" A8-50 (A5500), красный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNA5502-3</vendorCode>
+				<model>LENOVO IdeaTab 8" A8-50 (A5500)</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364353</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO IdeaTab 8" A8-50 (A5500), черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNA5502-1</vendorCode>
+				<model>LENOVO IdeaTab 8" A8-50 (A5500)</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362984</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO IdeaTab S2107A  7", черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLN2107-1</vendorCode>
+				<model>LENOVO IdeaTab S2107A 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640978</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Phab PB1-750 6.8", черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNPH02-1</vendorCode>
+				<model>LENOVO Phab PB1-750 6.8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364360</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab A10-70 A7600 10", синий</name>
+				<price>720</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNA7602-4</vendorCode>
+				<model>LENOVO Tab A10-70 A7600 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642613</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab TB-X103F 10", черный</name>
+				<price>860</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNT4130-1</vendorCode>
+				<model>LENOVO Tab TB-X103F 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640404</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab 2 A7-30 7", синий</name>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNA7302-4</vendorCode>
+				<model>LENOVO Tab 2 A7-30 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640121</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab 2 A7-30 7", черный</name>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNA7302-1</vendorCode>
+				<model>LENOVO Tab 2 A7-30 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104641708</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab 3 TB3-730X 7", черный</name>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLN3A705-1</vendorCode>
+				<model>LENOVO Tab 3 TB3-730X 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104641951</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab 3 Plus 8703X 8", черный</name>
+				<price>910</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLN3A8703-1</vendorCode>
+				<model>LENOVO Tab 3 Plus 8703X 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104641746</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab 3 TB3-850M 8", черный</name>
+				<price>900</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLN3A802-1</vendorCode>
+				<model>LENOVO Tab 3 TB3-850M 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642255</barcode>
+				<name>Чехол IT BAGGAGE  для планшета Lenovo Tab 3 Plus TB-7703X 7", черный</name>
+				<price>810</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLN3A770-1</vendorCode>
+				<model>Lenovo Tab 3 Plus TB-7703X 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642521</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab 4 TB-X304L  10" , черный</name>
+				<price>1030</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNT410-1</vendorCode>
+				<model>LENOVO Tab 4 TB-X304L  10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642538</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab 4 TB-X304L  10" , синий</name>
+				<price>1030</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNT410-4</vendorCode>
+				<model>LENOVO Tab 4 TB-X304L  10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642552</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab 4 TB-8504X /TB-8504F  8", синий</name>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNT48-4</vendorCode>
+				<model>LENOVO Tab 4 TB-8504X /TB-8504F  8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642545</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab 4 TB-8504X /TB-8504F  8", черный</name>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNT48-1</vendorCode>
+				<model>LENOVO Tab 4 TB-8504X /TB-8504F  8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642590</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab 7" Essential TB-7304, черный</name>
+				<price>890</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLN4E73-1
+</vendorCode>
+				<model>LENOVO Tab Essential TB-7304 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642873</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab TB-7504X  7" , черный</name>
+				<price>890</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLN7504-1</vendorCode>
+				<model>LENOVO Tab TB-7504X  7" </model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode/>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab_E8 8" TB-8304 , черный</name>
+				<price>1020</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNT8304-1</vendorCode>
+				<model>LENOVO Tab_E8 8" TB-8304 </model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642897</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab 4 TB-X704L Plus 10", синий</name>
+				<price>1030</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNT4107-4</vendorCode>
+				<model>LENOVO Tab 4 TB-X704L Plus 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642675</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab 4 Plus TB-8704X 8", синий</name>
+				<price>1020</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNT487-4</vendorCode>
+				<model>LENOVO Tab 4 Plus TB-8704X 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642880</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Tab 4 TB-X704L Plus 10", черный</name>
+				<price>1030</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNT4107-1</vendorCode>
+				<model>LENOVO Tab 4 TB-X704L Plus 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642293</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Yoga Tablet 3 8" , черный</name>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNYT38-1 </vendorCode>
+				<model>LENOVO Yoga Tablet 3 8" </model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642835</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO TB3 Essential 710i/710F 7", белый</name>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLN710-0</vendorCode>
+				<model>LENOVO TB3 Essential 710i/710F 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642859</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO TB3 Essential 710i/710F 7", красный</name>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLN710-3</vendorCode>
+				<model>LENOVO TB3 Essential 710i/710F 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642842</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO TB3 Essential 710i/710F 7", черный</name>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLN710-1</vendorCode>
+				<model>LENOVO TB3 Essential 710i/710F 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642866</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO TB3 Essential 710i/710F 7", синий</name>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLN710-4</vendorCode>
+				<model>LENOVO TB3 Essential 710i/710F 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364773</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Yoga Tablet B8000/B8080 10", синий</name>
+				<price>620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNY102-4</vendorCode>
+				<model>LENOVO Yoga Tablet B8000/B8080 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363578</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Yoga Tablet B8000/B8080 10", черный</name>
+				<price>620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNY102-1</vendorCode>
+				<model>LENOVO Yoga Tablet B8000/B8080 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364964</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Yoga Tablet 2 10", красный</name>
+				<price>960</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNY210-3</vendorCode>
+				<model>LENOVO Yoga Tablet 2 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770365053</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Yoga Tablet 2 10", синий</name>
+				<price>960</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNY210-4</vendorCode>
+				<model>LENOVO Yoga Tablet 2 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364940</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Yoga Tablet 2 8", красный</name>
+				<price>920</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNY282-3</vendorCode>
+				<model>LENOVO Yoga Tablet 2 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642293</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Yoga Tablet 3 X50 10", черный</name>
+				<price>960</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNYT310-1</vendorCode>
+				<model>LENOVO Yoga Tablet 3 X50 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642903</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Yoga Tablet 3 YT-X703L 10", черный</name>
+				<price>960</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNYT703-1</vendorCode>
+				<model>LENOVO Yoga Tablet 3 YT-X703L 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640732</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Yoga Tablet 3 8", красный</name>
+				<price>860</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNY283-3</vendorCode>
+				<model>LENOVO Yoga Tablet 3 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363561</barcode>
+				<name>Чехол IT BAGGAGE  для планшета LENOVO Yoga Tablet B6000  8", черный</name>
+				<price>860</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITLNY802-1</vendorCode>
+				<model>LENOVO Yoga Tablet B6000  8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362748</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG ATIV Smart PC Pro XE500T1C 11,6", черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSXE5002-1</vendorCode>
+				<model>SAMSUNG ATIV Smart PC Pro XE500T1C 11,6"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362731</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG ATIV Smart PC Pro XE700T1C 11,6" , черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSXE7002-1</vendorCode>
+				<model>SAMSUNG ATIV Smart PC Pro XE700T1C  11,6"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363028</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG ATIV Smart PC Pro XE700T1C/500T1C 11,6", черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSXE5004-1</vendorCode>
+				<model>SAMSUNG ATIV Smart PC Pro XE700T1C/500T1C 11,6"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363394</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Note 10.1 2014 Edition SM-P601 10.1", черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGN2102-1</vendorCode>
+				<model>SAMSUNG Galaxy Note 2014 Edition SM-P601 10.1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363387</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Note 10.1 2014 Edition SM-P601 10.1", черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGN2101-1</vendorCode>
+				<model>SAMSUNG Galaxy Note 2014 Edition SM-P601 10.1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>2967834185717</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Note N8000 10.1", коричневый</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGN102-2</vendorCode>
+				<model>SAMSUNG Galaxy Note N8000 10.1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362601</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Note N8000 10.1", коричневый</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGN101-2</vendorCode>
+				<model>SAMSUNG Galaxy Note N8000 10.1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362069</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Note N8000 10.1", черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGN101-1</vendorCode>
+				<model>SAMSUNG Galaxy Note N8000 10.1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362076</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Note N8000 10.1", красный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGN108-3</vendorCode>
+				<model>SAMSUNG Galaxy Note N8000 10.1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364117</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Note Pro  12.2"  P900/P901/P9050, черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGN12P02-1</vendorCode>
+				<model>SAMSUNG Galaxy Note Pro 12,5"  P900/P901/P9050</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642699</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab A  8" SM-T385, черный</name>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGTA385-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab A  8" SM-T385</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104641470</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab A 10.1" SM-T580/T585, черный</name>
+				<price>1020</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGTA105-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab A 10.1" SM-T580/T585</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104643153</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab A 10.5" SM-T590/T595, черный</name>
+				<price>1020</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGTA1052-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab A 10.5" SM-T590/T595</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104641296</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab A 7" SM-T285/SM-T280, черный</name>
+				<price>920</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGTA7005-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab A 7" SM-T285/SM-T280</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640411</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab E 9.6" SM-T560\T561, черный</name>
+				<price>970</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGTE905-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab E 9.6" SM-T560/T561</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104643146</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab S2 8" SM-T719, черный</name>
+				<price>970</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGTS287-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab S2 8" SM-T719</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642248</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab3 Lite 7" SM-T116 , черный</name>
+				<price>890</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSST4L5-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab3 Lite 7" SM-T116 </model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364025</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab Pro 10.1 SM-T520/T525, черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT10P02-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab Pro 10.1 SM-T520/T525</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode/>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab Pro 10.1 SM-T520/T525, черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT10P05-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab Pro 10.1 SM-T520/T525</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364001</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab Pro 8.4  SM-T320, черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT8P05-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab Pro 8.4  SM-T320</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363998</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab Pro 8.4  SM-T320, черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT8P02-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab Pro 8.4  SM-T320</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642750</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab S2/S3 9,7"  SM-T825/T820/T815/T810, черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGTS232-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab S2/S3 9,7"  SM-T825/T820/T815/T810</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361758</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab2 P5100/P5110 10.1" , коричневый</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT1026-2</vendorCode>
+				<model>SAMSUNG Galaxy Tab2 P5100/P5110 10.1 </model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362120</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab2 P5100/P5110 10.1" , черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT1027-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab2 P5100/P5110 10.2</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361604</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab2 P5100/P5110 10.1", красный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT1022-3</vendorCode>
+				<model>SAMSUNG Galaxy Tab2 P5100/P5110 10.3</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642286</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab2 P5100/P5110 10.1" , синий</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT1028-4</vendorCode>
+				<model>SAMSUNG Galaxy Tab2 P5100/P5110 10.4</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361826</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab2 P5100/P5110 10.1" , белый</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT1022-0</vendorCode>
+				<model>SAMSUNG Galaxy Tab2 P5100/P5110 10.5</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361918</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab2 P3100/P3110 7", синий</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT7208-4</vendorCode>
+				<model>SAMSUNG Galaxy Tab2 P3100/P3110 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361789</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab2 7 P3100/P3110 7", белый</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT7202-0</vendorCode>
+				<model>SAMSUNG Galaxy Tab2 P3100/P3110 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361727</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab2 P3100/P3110 7", красный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT7202-3</vendorCode>
+				<model>SAMSUNG Galaxy Tab2 P3100/P3110 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361598</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab2 P3100/P3110 7", черный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT7202-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab2 P3100/P3110 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363110</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab3 P5200/P5210 10,1", белый</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT1032-0</vendorCode>
+				<model>SAMSUNG Galaxy Tab3 P5200/P5210 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363134</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab3 P5200/P5210 10,1", красный</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT1032-3</vendorCode>
+				<model>SAMSUNG Galaxy Tab3 P5200/P5210 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363141</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab3 P5200/P5210 10,1", фиолетовый</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT1032-4</vendorCode>
+				<model>SAMSUNG Galaxy Tab3 P5200/P5210 10,1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363226</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab3 SM-T311 8", белый</name>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT8302-0</vendorCode>
+				<model>SAMSUNG Galaxy Tab3 SM-T311 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640138</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab4 SM-T531 10.1", красный</name>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT1042-3</vendorCode>
+				<model>SAMSUNG Galaxy Tab4 SM-T531 10.1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364315</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab4 SM-T531 10.1",  бирюза</name>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT4101-6</vendorCode>
+				<model>SAMSUNG Galaxy Tab4 SM-T531 10.1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364322</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab4 SM-T531 10.1", лайм</name>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT4101-5</vendorCode>
+				<model>SAMSUNG Galaxy Tab4 SM-T531 10.1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364339</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab4 SM-T531 10.1", черный</name>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT4101-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab4 SM-T531 10.1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364292</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab4 SM-T365/SM-T331  8",  бирюза</name>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT4801-6</vendorCode>
+				<model>SAMSUNG Galaxy Tab4 SM-T365/SM-T331  8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364285</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab4 SM-T365/SM-T331  8", красный</name>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT4801-3</vendorCode>
+				<model>SAMSUNG Galaxy Tab4 SM-T365/SM-T331  8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364469</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab4 SM-T365/SM-T331  8", черный</name>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT4801-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab4 SM-T365/SM-T331  8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770363271</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab4/Tab3  SM-T531/P5210/P5220 10.1", черный</name>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT1035-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab4/Tab3  SM-T531/P5210/P5220 10.1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364605</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy Tab4/Tab3  SM-T531/P5210/P5220 10.1", черный</name>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGT1032-1</vendorCode>
+				<model>SAMSUNG Galaxy Tab4/Tab3  SM-T531/P5210/P5220 10.1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364827</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy TabS SM-T700/T705 8.4", синий</name>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGTS841-4</vendorCode>
+				<model>SAMSUNG Galaxy TabS SM-T700/T705 8.4"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364681</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy TabS SM-T700/T705 8.4", красный</name>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGTS841-3</vendorCode>
+				<model>SAMSUNG Galaxy TabS SM-T700/T705 8.4"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364582</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SAMSUNG Galaxy TabS SM-T700/T705 8.4", черный</name>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSSGTS841-1</vendorCode>
+				<model>SAMSUNG Galaxy TabS SM-T700/T705 8.4"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364087</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SONY Xperia TM Tablet Z2 10.1", черный</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSYXZ201-1</vendorCode>
+				<model>SONY Xperia TM Tablet Z2 10.1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770365008</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SONY Xperia TM Tablet Z2 10.1", красный</name>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSYZ301-3</vendorCode>
+				<model>SONY Xperia TM Tablet Z2 10.1"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640022</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SONY Xperia TM Tablet Z4  10", черный</name>
+				<price>790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSYZ4-1</vendorCode>
+				<model>SONY Xperia TM Tablet Z4  10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640046</barcode>
+				<name>Чехол IT BAGGAGE  для планшета SONY Xperia TM Tablet Z4  10", красный</name>
+				<price>790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITSYZ4-3</vendorCode>
+				<model>SONY Xperia TM Tablet Z4  10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770361062</barcode>
+				<name>Чехол IT BAGGAGE универсальный для планшета 10" , черный</name>
+				<price>640</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITUNI10-1</vendorCode>
+				<model>универсальный для планшета 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362304</barcode>
+				<name>Чехол IT BAGGAGE универсальный для планшета 10" , черный</name>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITUNI102-1</vendorCode>
+				<model>универсальный для планшета 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642972</barcode>
+				<name>Чехол IT BAGGAGE универсальный для планшета 10" , черный</name>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITUNI109-1</vendorCode>
+				<model>универсальный для планшета 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104643115</barcode>
+				<name>Чехол IT BAGGAGE универсальный для планшета 10" , синий</name>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITUNI109-4</vendorCode>
+				<model>универсальный для планшета 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362526</barcode>
+				<name>Чехол IT BAGGAGE универсальный для планшета 10" , черный</name>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITKT01-2</vendorCode>
+				<model>универсальный для планшета 10"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642941</barcode>
+				<name>Чехол IT BAGGAGE универсальный для планшета 7" , красный</name>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITUNI79-3</vendorCode>
+				<model>универсальный для планшета 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642958</barcode>
+				<name>Чехол IT BAGGAGE универсальный для планшета 7" , синий</name>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITUNI79-1</vendorCode>
+				<model>универсальный для планшета 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104642934</barcode>
+				<name>Чехол IT BAGGAGE универсальный для планшета 7" , черный</name>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITUNI79-1</vendorCode>
+				<model>универсальный для планшета 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4627104640060</barcode>
+				<name>Чехол IT BAGGAGE универсальный для планшета 7" , черный</name>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITUNI73-1</vendorCode>
+				<model>универсальный для планшета 7"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362946</barcode>
+				<name>Чехол IT BAGGAGE универсальный для планшета 8" , коричневый</name>
+				<price>670</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITUNI802-2</vendorCode>
+				<model>универсальный для планшета 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362915</barcode>
+				<name>Чехол IT BAGGAGE универсальный для планшета 8" , белый</name>
+				<price>670</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITUNI97-0</vendorCode>
+				<model>универсальный для планшета 8"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362298</barcode>
+				<name>Чехол IT BAGGAGE универсальный для планшета 9" , коричневый</name>
+				<price>670</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITUNI97-2</vendorCode>
+				<model>универсальный для планшета 9"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770362922</barcode>
+				<name>Чехол IT BAGGAGE универсальный для планшета 9" , красный</name>
+				<price>670</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITUNI97-3</vendorCode>
+				<model>универсальный для планшета 9"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Чехол для планшета" bid="1" cbid="1" available="true">
+				<barcode>4620770364476</barcode>
+				<name>Чехол IT BAGGAGE универсальный для планшета 9" , черный</name>
+				<price>670</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Чехол для планшета</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITUNI97-1</vendorCode>
+				<model>универсальный для планшета 9"</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Кошелек  с RFID защитой" bid="1" cbid="1" available="true">
+				<barcode>4627104642460</barcode>
+				<name>Кошелек IT BAGGAGE  с RFID защитой натуральная кожа ITCD919-1</name>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Кошелек  с RFID защитой</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITCD919-1</vendorCode>
+				<model>Кошелек  с RFID защитой</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Кошелек  с RFID защитой" bid="1" cbid="1" available="true">
+				<barcode>4627104642477</barcode>
+				<name>Кошелек IT BAGGAGE  с RFID защитой натуральная кожа ITCD92-1 черный                              </name>
+				<price>950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Кошелек  с RFID защитой</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode>ITCD92-1</vendorCode>
+				<model>Кошелек  с RFID защитой</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+			<offer type="Кошелек  с RFID защитой" bid="1" cbid="1" available="true">
+				<barcode>4627104642484</barcode>
+				<name>Кошелек IT BAGGAGE  с RFID защитой натуральная кожа ITMW92-1 черный                              </name>
+				<price>1350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId/>
+				<typePrefix>Кошелек  с RFID защитой</typePrefix>
+				<vendor>IT BAGGAGE</vendor>
+				<vendorCode> ITMW92-1</vendorCode>
+				<model>Кошелек  с RFID защитой</model>
+				<description/>
+				<manufacturer_warranty/>
+				<country_of_origin/>
+				<vat/>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

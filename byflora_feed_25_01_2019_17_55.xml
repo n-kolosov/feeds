@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yml_catalog date="2019-01-25 17:50">
+	<shop>
+		<name>ByFlora</name>
+		<company>Шпилевич Анна Дмитриевна, ИП</company>
+		<url>http://byflora.ru</url>
+		<currencies>
+			<currency id="RUR" rate="1" plus="0"/>
+		</currencies>
+		<categories>
+			<category id="1">Красота и уход</category>
+		</categories>
+		<offers>
+			<offer id="1" available="true">
+				<barcode>3423473020608</barcode>
+				<name><![CDATA[Туалетная вода Dolce&Gabbana 3 L'imperatrice 50 ml]]></name>
+				<price>3390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix><![CDATA[Туалетная вода Dolce&Gabbana 3 L'imperatrice 50 ml]]></typePrefix>
+				<vendor><![CDATA[DOLCE&GABBANA]]></vendor>
+				<vendorCode></vendorCode>
+				<model>3 L'imperatrice</model>
+				<description>Пол: Женский</description>
+				<vat/>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
